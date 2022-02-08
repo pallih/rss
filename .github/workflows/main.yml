@@ -35,7 +35,7 @@ jobs:
         git add .
         git config --global user.email "rssbot@example.com"
         git config --global user.name "RSS þjarkur"
-        git commit --allow-empty -a 'uppfærsla'
+        git commit --allow-empty -m 'uppfærsla'
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
