@@ -29,7 +29,7 @@ jobs:
     - run: pip install -r requirements.txt
       if: steps.cache-virtualenv.outputs.cache-hit != 'true'
     - name: Create reglugerdir.rss file
-      run: python reglugerdir.py
+      run: python src/reglugerdir.py
     - name: Commit changes
       run: |
         git add .
