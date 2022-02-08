@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: '*/60 * * * *'
 jobs:
-  deploy:
+  reglugerdir.rss:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
