@@ -6,9 +6,9 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/60 8-17 * * *'
 jobs:
-  reglugerdir.rss:
+  reglugerdir_rss:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
