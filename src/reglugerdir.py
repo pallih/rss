@@ -36,8 +36,7 @@ def make_feed(items):
         fe.title(" - ".join((item["title"], item["issuer"])))
         fe.link(href=item["url"])
         fe.description(item["description"])
-    fg.rss_str(pretty=True)
-    fg.rss_file("rss/reglugerdir.rss")
+    fg.rss_file("rss/reglugerdir.rss", pretty=True)
 
 
 if __name__ == "__main__":
