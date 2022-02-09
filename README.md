@@ -15,6 +15,12 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 
   [reglugerdir.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/reglugerdir.rss)
 
+* ## Nýlega skráðar skjalaskrár á skjalasafn.is 
+
+  Uppfært á klukkustundar fresti milli 8-17.
+
+  [skjalaskrar.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/skjalaskrar.rss)
+
 
 
 pallih@gogn.in
