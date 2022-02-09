@@ -27,7 +27,7 @@ def make_feed(items):
         matches = re.findall(regex, item["heiti"])
         fe.id(url)
         fe.title = matches[0]
-        print(item["tímabil"])
+        fe.link(href=url)
         fe.description(" - ".join((matches[0], item["tímabil"])))
     fg.rss_file("rss/skjalaskrar.rss", pretty=True)
 
