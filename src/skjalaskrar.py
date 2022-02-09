@@ -25,14 +25,10 @@ def make_feed(items):
         fe = fg.add_entry()
         url = base_url.format(item["auðkenni"])
         matches = re.findall(regex, item["heiti"])
-        print(matches)
-        print(item)
         fe.id(url)
         fe.title = matches[0]
-        fe.link(href=url)
         print(item["tímabil"])
         fe.description(" - ".join((matches[0], item["tímabil"])))
-        print(fe)
     fg.rss_file("rss/skjalaskrar.rss", pretty=True)
 
 
