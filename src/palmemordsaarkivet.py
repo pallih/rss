@@ -21,14 +21,13 @@ def make_feed(url):
     next(lines)
     reader = csv.DictReader(lines, delimiter=",")
     rows = list(reader)
-    for count, row in enumerate(reversed(rows)):
-        if count < 51:
-            fe = fg.add_entry()
-            url = row["Länk till kopia"]
-            fe.id(url)
-            fe.title = row["Titel"]
-            fe.link(href=url)
-            fe.description(row["Titel"])
+    for row in rows[-50:]:
+        fe = fg.add_entry()
+        url = row["Länk till kopia"]
+        fe.id(url)
+        fe.title = row["Titel"]
+        fe.link(href=url)
+        fe.description(row["Titel"])
     fg.rss_file("rss/palmemordsarkivet.rss", pretty=True)
 
 
