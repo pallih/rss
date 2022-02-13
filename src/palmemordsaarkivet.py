@@ -28,8 +28,6 @@ def make_feed(url):
             fe.title = row["Titel"]
             fe.link(href=url)
             fe.description(row["Titel"])
-        else:
-            break
     fg.rss_file("rss/palmemordsarkivet.rss", pretty=True)
 
 
