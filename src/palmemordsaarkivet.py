@@ -20,8 +20,9 @@ def make_feed(url):
     lines = codecs.iterdecode(r.iter_lines(), "utf-8")
     next(lines)
     reader = csv.DictReader(lines, delimiter=",")
-    for row in reader:
-        if reader.line_num < 51:
+    rows = list(reader)
+    for count, row in enumerate(reversed(rows)):
+        if count < 51:
             fe = fg.add_entry()
             url = row["Länk till kopia"]
             fe.id(url)
