@@ -21,6 +21,12 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 
   [skjalaskrar.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/skjalaskrar.rss)
 
+* ## Nýlega birt skjöl úr morðrannsókninni á Olof Palme 
+
+  Uppfært á klukkustundar fresti milli 8-17.
+
+  [palmemordsarkivet.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/palmemordsarkivet.rss)
+
 
 
 pallih@gogn.in
