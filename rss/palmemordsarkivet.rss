@@ -7,7 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 14 Feb 2022 12:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Feb 2022 13:08:07 +0000</lastBuildDate>
+    <item>
+      <link>https://drive.google.com/file/d/1dPXn3iRQ2zQHZ_18IqBT-_KrwVQXF5ld/view?usp=sharing</link>
+      <description>Grandvittnet Mikael Åström</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1dPXn3iRQ2zQHZ_18IqBT-_KrwVQXF5ld/view?usp=sharing</guid>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1yC3ECekaPPbkGQbB-NzrgJfVSsLwP6Nc/view?usp=sharing</link>
       <description>Thori Liljesson pekar ut en man som GM</description>
@@ -252,11 +257,6 @@
       <link>https://drive.google.com/file/d/1ehvV5VnFe68z6bB1hiHfETmSrXoN282_/view?usp=sharing</link>
       <description>Kvinna lämnar info om Anders Larssons brev med anledning av SvD artikel 25 maj 1987</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1ehvV5VnFe68z6bB1hiHfETmSrXoN282_/view?usp=sharing</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1cYLEwc7uLfgY4xx4norTB6bMVxLotO8w/view?usp=sharing</link>
-      <description>Förhör med okänd man</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1cYLEwc7uLfgY4xx4norTB6bMVxLotO8w/view?usp=sharing</guid>
     </item>
   </channel>
 </rss>
