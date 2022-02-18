@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 18 Feb 2022 13:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 14:00:26 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2582-2022-006</link>
       <description>Sigurður Eggerz (1875-1945) alþingismaður og sýslumaður 2022-006 - </description>
@@ -62,6 +62,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1815-2022-019</link>
       <description>St. Jósefsspítali Landakoti 2022-019 - 1989-2021</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1815-2022-019</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2175-2021-035</link>
+      <description>Grund, dvalar- og hjúkrunarheimili 2021-035 - 1922-1995</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2175-2021-035</guid>
     </item>
   </channel>
 </rss>
