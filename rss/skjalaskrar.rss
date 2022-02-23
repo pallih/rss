@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 23 Feb 2022 11:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 12:00:22 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2149-2018-062</link>
       <description>Sölumiðstöð hraðfrystihúsanna 2018-062 - 1939-2015</description>
@@ -72,6 +72,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2498-2021-034</link>
       <description>Embætti lögreglustjórans á Húsavík 2021-034 - 1937-2014</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2498-2021-034</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2596-1995-063</link>
+      <description>Bókasafn Flateyjar 1995-063 - 1951-1973</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2596-1995-063</guid>
     </item>
   </channel>
 </rss>
