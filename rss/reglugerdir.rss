@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 02 Mar 2022 15:00:33 +0000</lastBuildDate>
-    <item>
-      <title>1738/2021 - Mennta- og barnamálaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/1738-2021</link>
-      <description>Reglugerð um breytingu á reglugerð nr. 260/2017 um starfstíma framhaldsskóla.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/1738-2021</guid>
-    </item>
-    <item>
-      <title>14/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0014-2022</link>
-      <description>Reglugerð um breytingu á reglugerð nr. 1212/2015 um bókhald, fjárhagsáætlanir og ársreikninga sveitarfélaga.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0014-2022</guid>
-    </item>
+    <lastBuildDate>Wed, 02 Mar 2022 16:00:31 +0000</lastBuildDate>
     <item>
       <title>16/2022 - Heilbrigðisráðuneyti</title>
       <link>https://island.is/reglugerdir/nr/0016-2022</link>
@@ -187,6 +175,18 @@
       <link>https://island.is/reglugerdir/nr/0123-2022</link>
       <description>Reglugerð um (1.) breytingu á reglugerð um takmörkun á skólastarfi vegna farsóttar, nr. 91/2022.</description>
       <guid isPermaLink="false">https://island.is/reglugerdir/nr/0123-2022</guid>
+    </item>
+    <item>
+      <title>139/2022 - Utanríkisráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0139-2022</link>
+      <description>Reglugerð um breyting á reglugerð um þvingunaraðgerðir varðandi Líbyu, nr. 887/2015, ásamt síðari breytingum.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0139-2022</guid>
+    </item>
+    <item>
+      <title>144/2022 - Atvinnuvega- og nýsköpunarráðuneyti (fyrrum ráðun.)</title>
+      <link>https://island.is/reglugerdir/nr/0144-2022</link>
+      <description>Reglugerð um stuðning við sauðfjárrækt.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0144-2022</guid>
     </item>
   </channel>
 </rss>
