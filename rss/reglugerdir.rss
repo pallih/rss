@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Mar 2022 14:00:25 +0000</lastBuildDate>
-    <item>
-      <title>141/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0141-2022</link>
-      <description>Reglugerð um (1.) breytingu á reglugerð um takmörkun á samkomum vegna farsóttar, nr. 90/2022.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0141-2022</guid>
-    </item>
-    <item>
-      <title>144/2022 - Matvælaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0144-2022</link>
-      <description>Reglugerð um stuðning við sauðfjárrækt.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0144-2022</guid>
-    </item>
-    <item>
-      <title>148/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0148-2022</link>
-      <description>Reglugerð um (9.) breytingu á reglugerð nr. 678/2009 um raforkuvirki.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0148-2022</guid>
-    </item>
-    <item>
-      <title>154/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0154-2022</link>
-      <description>Reglugerð um (3.) breytingu á reglugerð um sóttkví og einangrun og sóttvarnaráðstafanir á landamærum Íslands vegna COVID-19, nr. 38/2022.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0154-2022</guid>
-    </item>
-    <item>
-      <title>168/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0168-2022</link>
-      <description>Reglugerð um breytingu á reglugerð nr. 830/2011 um ökuskírteini.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0168-2022</guid>
-    </item>
+    <lastBuildDate>Wed, 09 Mar 2022 15:00:34 +0000</lastBuildDate>
     <item>
       <title>169/2022 - Matvælaráðuneyti</title>
       <link>https://island.is/reglugerdir/nr/0169-2022</link>
@@ -187,6 +157,36 @@
       <link>https://island.is/reglugerdir/nr/0258-2022</link>
       <description>Reglugerð um (5.) breytingu á reglugerð nr. 1163/2021 um loðnuveiðar grænlenskra skipa í fiskveiðilandhelgi Íslands fiskveiðiárið 2021/2022.</description>
       <guid isPermaLink="false">https://island.is/reglugerdir/nr/0258-2022</guid>
+    </item>
+    <item>
+      <title>267/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0267-2022</link>
+      <description>Reglugerð um hrognkelsaveiðar árið 2022.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0267-2022</guid>
+    </item>
+    <item>
+      <title>269/2022 - Dómsmálaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0269-2022</link>
+      <description>Reglugerð um breytingu á reglugerð um vegabréfsáritanir nr. 1160/2010.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0269-2022</guid>
+    </item>
+    <item>
+      <title>271/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0271-2022</link>
+      <description>Reglugerð um (5.) breytingu á reglugerð nr. 1161/2021 um loðnuveiðar íslenskra skipa á vetrarvertíð 2021/2022.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0271-2022</guid>
+    </item>
+    <item>
+      <title>277/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0277-2022</link>
+      <description>Reglugerð um (2.) breytingu á reglugerð nr. 188/2020, um veiðar á humri.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0277-2022</guid>
+    </item>
+    <item>
+      <title>278/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0278-2022</link>
+      <description>Reglugerð um (2.) breytingu á reglugerð nr. 186/2020, um tímabundið bann við veiðum með fiskibotnvörpu á veiðisvæðum humars.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0278-2022</guid>
     </item>
   </channel>
 </rss>
