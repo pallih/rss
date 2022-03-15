@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 15 Mar 2022 15:00:29 +0000</lastBuildDate>
-    <item>
-      <title>169/2022 - Matvælaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0169-2022</link>
-      <description>Reglugerð um (27.) breytingu á reglugerð nr. 978/2011, um gildistöku reglugerðar Evrópuþingsins og ráðsins (EB) nr. 1333/2008 um aukefni í matvælum.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0169-2022</guid>
-    </item>
-    <item>
-      <title>176/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0176-2022</link>
-      <description>Reglugerð um einangrun og sóttvarnaráðstafanir á landamærum Íslands vegna COVID-19.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0176-2022</guid>
-    </item>
-    <item>
-      <title>177/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0177-2022</link>
-      <description>Reglugerð um takmörkun á samkomum vegna farsóttar.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0177-2022</guid>
-    </item>
-    <item>
-      <title>182/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0182-2022</link>
-      <description>Reglugerð um breytingu á reglugerð um stofnframlög ríkis og sveitarfélaga, húsnæðissjálfseignarstofnanir og almennar íbúðir, nr. 183/2020, með síðari breytingum.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0182-2022</guid>
-    </item>
-    <item>
-      <title>183/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0183-2022</link>
-      <description>Reglugerð um breytingu á reglugerð nr. 1084/2020, um hlutdeildarlán, með síðari breytingum.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0183-2022</guid>
-    </item>
-    <item>
-      <title>184/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0184-2022</link>
-      <description>Reglugerð um (1.) breytingu á reglugerð um einangrun og sóttvarnaráðstafanir á landamærum Íslands vegna COVID-19, nr. 176/2022.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0184-2022</guid>
-    </item>
-    <item>
-      <title>187/2022 - Menningar- og viðskiptaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0187-2022</link>
-      <description>Reglugerð um breytingu á reglugerð um veitingastaði, gististaði og skemmtanahald, nr. 1277/2016.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0187-2022</guid>
-    </item>
-    <item>
-      <title>188/2022 - Menningar- og viðskiptaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0188-2022</link>
-      <description>Reglugerð um breytingu á reglugerð um leigu skráningarskyldra ökutækja, nr. 840/2015.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0188-2022</guid>
-    </item>
-    <item>
-      <title>190/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0190-2022</link>
-      <description>Reglugerð um kostnaðarvigtir og einingarverð í tengslum við samninga um þjónustutengda fjármögnun í heilbrigðisþjónustu.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0190-2022</guid>
-    </item>
-    <item>
-      <title>196/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0196-2022</link>
-      <description>Reglugerð um (1.) breytingu á reglugerð nr. 330/2020 um gerð strandsvæðisskipulags.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0196-2022</guid>
-    </item>
-    <item>
-      <title>209/2022 - Innviðaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0209-2022</link>
-      <description>Reglugerð um breytingu á hafnarreglugerð nr. 1040/2018 fyrir hafnir Hafnarsjóðs Skagafjarðar.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0209-2022</guid>
-    </item>
+    <lastBuildDate>Tue, 15 Mar 2022 16:00:23 +0000</lastBuildDate>
     <item>
       <title>210/2022 - Heilbrigðisráðuneyti</title>
       <link>https://island.is/reglugerdir/nr/0210-2022</link>
@@ -187,6 +121,72 @@
       <link>https://island.is/reglugerdir/nr/0278-2022</link>
       <description>Reglugerð um (2.) breytingu á reglugerð nr. 186/2020, um tímabundið bann við veiðum með fiskibotnvörpu á veiðisvæðum humars.</description>
       <guid isPermaLink="false">https://island.is/reglugerdir/nr/0278-2022</guid>
+    </item>
+    <item>
+      <title>290/2022 - Dómsmálaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0290-2022</link>
+      <description>Reglugerð um breytingu á reglugerð fyrir talnagetraunir Íslenskrar getspár nr. 1170/2012 með síðari breytingum.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0290-2022</guid>
+    </item>
+    <item>
+      <title>294/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0294-2022</link>
+      <description>Reglugerð um (2.) breytingu á reglugerð nr. 960/2019 um takmarkanir við veiðum með fiskibotnvörpu.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0294-2022</guid>
+    </item>
+    <item>
+      <title>299/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0299-2022</link>
+      <description>Reglugerð um (1.) breytingu á reglugerð nr. 1661/2021 um togveiðar á kolmunna árið 2022.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0299-2022</guid>
+    </item>
+    <item>
+      <title>300/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0300-2022</link>
+      <description>Reglugerð um stjórn veiða íslenskra skipa úr norsk-íslenska síldarstofninum árið 2022.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0300-2022</guid>
+    </item>
+    <item>
+      <title>301/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0301-2022</link>
+      <description>Reglugerð um úthlutun á tollkvótum vegna innflutnings á landbúnaðarvörum frá ríkjum Evrópusambandsins.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0301-2022</guid>
+    </item>
+    <item>
+      <title>302/2022 - Umhverfis-, orku- og loftslagsráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0302-2022</link>
+      <description>Reglugerð um breytingu á reglugerð nr. 1040/2005 um framkvæmd raforkulaga.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0302-2022</guid>
+    </item>
+    <item>
+      <title>304/2022 - Menningar- og viðskiptaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0304-2022</link>
+      <description>Reglugerð um að fella á brott reglugerð nr. 242/2000 um breytingar á grunnfjárhæðum í lögum nr. 144/1994, um ársreikninga, með síðari breytingum.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0304-2022</guid>
+    </item>
+    <item>
+      <title>305/2022 - Menningar- og viðskiptaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0305-2022</link>
+      <description>Reglugerð um að fella á brott reglugerð nr. 355/2003 um undanþágu frá skilyrðum um rétt til að öðlast löggildingu sem endurskoðandi.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0305-2022</guid>
+    </item>
+    <item>
+      <title>306/2022 - Utanríkisráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0306-2022</link>
+      <description>Reglugerð um breytingu á reglugerð um þvingunaraðgerðir varðandi Úkraínu, nr. 281/2014, ásamt síðari breytingum.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0306-2022</guid>
+    </item>
+    <item>
+      <title>309/2022 - Heilbrigðisráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0309-2022</link>
+      <description>Reglugerð um (2.) breytingu á reglugerð 140/2019 um öryggisþætti á umbúðum mannalyfja.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0309-2022</guid>
+    </item>
+    <item>
+      <title>310/2022 - Heilbrigðisráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0310-2022</link>
+      <description>Reglugerð um (14.) breytingu á reglugerð nr. 233/2001, um ávana- og fíkniefni og önnur eftirlitsskyld efni.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0310-2022</guid>
     </item>
   </channel>
 </rss>
