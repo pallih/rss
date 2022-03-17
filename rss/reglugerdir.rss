@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 17 Mar 2022 10:00:29 +0000</lastBuildDate>
-    <item>
-      <title>210/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0210-2022</link>
-      <description>Reglugerð um að fella úr gildi reglugerð um greiðslu kostnaðar vegna áfengis- og vímuefnameðferðar hjá sjálfstætt starfandi þjónustuveitendum sem starfa án samnings við Sjúkratryggingar Íslands.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0210-2022</guid>
-    </item>
+    <lastBuildDate>Thu, 17 Mar 2022 11:00:25 +0000</lastBuildDate>
     <item>
       <title>212/2022 - Dómsmálaráðuneyti</title>
       <link>https://island.is/reglugerdir/nr/0212-2022</link>
@@ -187,6 +181,12 @@
       <link>https://island.is/reglugerdir/nr/0310-2022</link>
       <description>Reglugerð um (14.) breytingu á reglugerð nr. 233/2001, um ávana- og fíkniefni og önnur eftirlitsskyld efni.</description>
       <guid isPermaLink="false">https://island.is/reglugerdir/nr/0310-2022</guid>
+    </item>
+    <item>
+      <title>312/2022 - Mennta- og barnamálaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0312-2022</link>
+      <description>Reglugerð um breytingu á reglugerð um fyrirkomulag og framkvæmd samræmdra könnunarprófa í grunnskóla, nr. 173/2017, ásamt síðari breytingum.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0312-2022</guid>
     </item>
   </channel>
 </rss>
