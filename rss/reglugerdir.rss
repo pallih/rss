@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 21 Mar 2022 10:00:19 +0000</lastBuildDate>
-    <item>
-      <title>212/2022 - Dómsmálaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0212-2022</link>
-      <description>Reglugerð um breytingu á reglugerð fyrir Íslenskar getraunir nr. 166/2016 með síðari breytingum.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0212-2022</guid>
-    </item>
-    <item>
-      <title>215/2022 - Fjármála- og efnahagsráðuneyti (fyrrum ráðun.)</title>
-      <link>https://island.is/reglugerdir/nr/0215-2022</link>
-      <description>Reglugerð um frádrátt einstaklinga frá tekjum utan atvinnurekstrar vegna gjafa og framlaga til lögaðila sem starfa til almannaheilla.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0215-2022</guid>
-    </item>
-    <item>
-      <title>219/2022 - Heilbrigðisráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0219-2022</link>
-      <description>Reglugerð um brottfall reglugerðar nr. 176/2022, um einangrun og sóttvarnaráðstafanir á landamærum Íslands vegna COVID-19, og um brottfall reglugerðar nr. 177/2022, um takmörkun á samkomum vegna farsóttar.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0219-2022</guid>
-    </item>
-    <item>
-      <title>223/2022 - Menningar- og viðskiptaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0223-2022</link>
-      <description>Reglugerð um breytingu á reglugerð nr. 162/2006 um gjaldtöku fyrirtækjaskrár, hlutafélagaskrár og samvinnufélagaskrár, með síðari breytingum.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0223-2022</guid>
-    </item>
-    <item>
-      <title>224/2022 - Háskóla-, iðnaðar- og nýsköpunarráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0224-2022</link>
-      <description>Reglugerð um breytingu á reglugerð um einkaleyfi, nr. 477/2012, með síðari breytingum.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0224-2022</guid>
-    </item>
-    <item>
-      <title>226/2022 - Dómsmálaráðuneyti</title>
-      <link>https://island.is/reglugerdir/nr/0226-2022</link>
-      <description>Reglugerð um breytingu á reglugerð um för yfir landamæri, nr. 866/2017.</description>
-      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0226-2022</guid>
-    </item>
+    <lastBuildDate>Mon, 21 Mar 2022 11:00:40 +0000</lastBuildDate>
     <item>
       <title>228/2022 - Matvælaráðuneyti</title>
       <link>https://island.is/reglugerdir/nr/0228-2022</link>
@@ -187,6 +151,42 @@
       <link>https://island.is/reglugerdir/nr/0312-2022</link>
       <description>Reglugerð um breytingu á reglugerð um fyrirkomulag og framkvæmd samræmdra könnunarprófa í grunnskóla, nr. 173/2017, ásamt síðari breytingum.</description>
       <guid isPermaLink="false">https://island.is/reglugerdir/nr/0312-2022</guid>
+    </item>
+    <item>
+      <title>314/2022 - Heilbrigðisráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0314-2022</link>
+      <description>Reglugerð um (2.) breytingu á reglugerð nr. 1143/2019, um greiðsluþátttöku sjúkratrygginga í lyfjakostnaði.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0314-2022</guid>
+    </item>
+    <item>
+      <title>318/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0318-2022</link>
+      <description>Reglugerð um (1.) breytingu á reglugerð nr. 345/2014 um starfsemi veiðifélaga.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0318-2022</guid>
+    </item>
+    <item>
+      <title>319/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0319-2022</link>
+      <description>Reglugerð um (1.) breytingu á reglugerð nr. 430/2021 um almennan stuðning við landbúnað.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0319-2022</guid>
+    </item>
+    <item>
+      <title>323/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0323-2022</link>
+      <description>Reglugerð um heimild færeyskra skipa til síldveiða við Ísland á árinu 2022.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0323-2022</guid>
+    </item>
+    <item>
+      <title>324/2022 - Matvælaráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0324-2022</link>
+      <description>Reglugerð um heimild færeyskra skipa til veiða á kolmunna við Ísland á árinu 2022.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0324-2022</guid>
+    </item>
+    <item>
+      <title>328/2022 - Utanríkisráðuneyti</title>
+      <link>https://island.is/reglugerdir/nr/0328-2022</link>
+      <description>Reglugerð um breytingu á reglugerð um þvingunaraðgerðir varðandi Belarús, nr. 97/2012, ásamt síðari breytingum.</description>
+      <guid isPermaLink="false">https://island.is/reglugerdir/nr/0328-2022</guid>
     </item>
   </channel>
 </rss>
