@@ -22,6 +22,8 @@ def make_feed(url):
     reader = csv.DictReader(lines, delimiter=",")
     rows = list(reader)
     for row in rows[-50:]:
+        if not row["Titel"]:
+            continue
         fe = fg.add_entry()
         url = row["Länk till kopia"]
         fe.id(url)
