@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 13 Apr 2022 15:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Apr 2022 16:00:31 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2616-2021-147</link>
       <description>Skátafélagið Hraunbúar Hafnarfirði 2021-147 - 1885-2021</description>
@@ -22,6 +22,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0356-2022-036</link>
       <description>Rannsóknarnefnd sjóslysa 2022-036 - 1999-2012</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0356-2022-036</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2615-2022-028</link>
+      <description>Rannsóknastofnun landbúnaðarins 2022-028 - 1919-2006</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2615-2022-028</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2628-2012-059</link>
+      <description>Blindrabókasafn Íslands 2012-059 - 1972-2010</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2628-2012-059</guid>
     </item>
   </channel>
 </rss>
