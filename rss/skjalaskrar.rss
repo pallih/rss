@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 25 Apr 2022 14:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 15:00:23 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0356-2022-036</link>
       <description>Rannsóknarnefnd sjóslysa 2022-036 - 1999-2012</description>
@@ -37,6 +37,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2609-1995-063</link>
       <description>Kaupfélag Flateyjar 1995-063 - 1921-1955</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2609-1995-063</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0139-2002-070</link>
+      <description>Umferðarráð 2002-070 - 1927-2012</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0139-2002-070</guid>
     </item>
   </channel>
 </rss>
