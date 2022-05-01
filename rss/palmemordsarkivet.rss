@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 01 May 2022 10:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 11:00:26 +0000</lastBuildDate>
     <item>
       <link>https://drive.google.com/file/d/1-zgz2akjFYSr-a6htAm-KTmWqQAS51aE/view?usp=sharing</link>
       <description>Besökte 19-föreställningen på Grand</description>
@@ -112,6 +112,11 @@
       <link>https://drive.google.com/file/d/16E9S3bBof80lYB7KvpypGUPIb49bqCgs/view?usp=sharing</link>
       <description>Frågeformulär Robert Gustafsson</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/16E9S3bBof80lYB7KvpypGUPIb49bqCgs/view?usp=sharing</guid>
+    </item>
+    <item>
+      <link>https://drive.google.com/file/d/1phEGx6duOqYT1Aa9nTkQL-T1WU2AD-1v/view?usp=sharing</link>
+      <description>Förhör med Magnuminnehavare</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1phEGx6duOqYT1Aa9nTkQL-T1WU2AD-1v/view?usp=sharing</guid>
     </item>
     <item>
       <link>https://drive.google.com/file/d/1FcYYBEF39VfCe3CANPWf1qfjC86NKihC/view?usp=sharing</link>
@@ -252,11 +257,6 @@
       <link>https://drive.google.com/file/d/16glUgN_jmwa_08nUIY8T-bY4bU_cvsTZ/view?usp=sharing</link>
       <description>Såg en grön Passat och en vit bil på Sveavägen innan mordet</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/16glUgN_jmwa_08nUIY8T-bY4bU_cvsTZ/view?usp=sharing</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/17-mQQ6Lip1SDqfxAlTDws5PbpQ5qZYxf/view?usp=sharing</link>
-      <description>Ser grön Passat stanna vid Hard Rock Café minuter efter mordet</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/17-mQQ6Lip1SDqfxAlTDws5PbpQ5qZYxf/view?usp=sharing</guid>
     </item>
   </channel>
 </rss>
