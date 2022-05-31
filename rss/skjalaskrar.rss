@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 31 May 2022 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 12:00:33 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2633-2004-070</link>
       <description>Arnar J. Magnússon (1947-2001) tæknifræðingur 2004-070 - 1990-2001</description>
@@ -112,6 +112,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0196-1968-004</link>
       <description>Utanríkisráðuneytið 1968-004 - 1943-1971</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0196-1968-004</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2660-2002-092</link>
+      <description>Snæbjörn Jónsson (1887-1978) bóksali 2002-092 - 1933-1980</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2660-2002-092</guid>
     </item>
   </channel>
 </rss>
