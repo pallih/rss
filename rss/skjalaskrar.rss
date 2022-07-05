@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 05 Jul 2022 11:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 12:00:27 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2171-0022-002</link>
       <description>Heilbrigðiseftirlit ríkisins 22-002 - 1950-1989</description>
@@ -49,6 +49,11 @@
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0097-1987-031</guid>
     </item>
     <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0203-0022-011</link>
+      <description>Iðnskólinn í Reykjavík 22-011 - 1945-1999</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0203-0022-011</guid>
+    </item>
+    <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2669-2008-017</link>
       <description>Axel Thorsteinson (1895-1984) blaðamaður  2008-017 - 1815-1984</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2669-2008-017</guid>
@@ -77,6 +82,21 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2673-0022-005</link>
       <description>Útlendingaeftirlitið / Lögreglan í Reykjavík 22-005 - 1950-1992</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2673-0022-005</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2568-2005-007</link>
+      <description>Seðlabanki Íslands 2005-007 - 1948-1997</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2568-2005-007</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2636-1994-063</link>
+      <description>Yfirdýralæknir 1994-063 - </description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2636-1994-063</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0425-1992-056</link>
+      <description>Verslunarráð Íslands 1992-056 - 1927-1955</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0425-1992-056</guid>
     </item>
   </channel>
 </rss>
