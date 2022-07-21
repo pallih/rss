@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 21 Jul 2022 09:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 10:00:41 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0203-0022-011</link>
       <description>Iðnskólinn í Reykjavík 22-011 - 1945-1999</description>
@@ -102,6 +102,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2683-0022-015</link>
       <description>Thor Jensen (1863-1947) kaupmaður 22-015 - 1885-1925</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2683-0022-015</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2684-2021-092</link>
+      <description>Guðmunda Elíasdóttir (1920-2015) óperusöngkona 2021-092 - 1979-2009</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2684-2021-092</guid>
     </item>
   </channel>
 </rss>
