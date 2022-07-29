@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 29 Jul 2022 09:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jul 2022 10:00:23 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2673-0022-005</link>
       <description>Útlendingaeftirlitið / Lögreglan í Reykjavík 22-005 - 1950-1992</description>
@@ -112,6 +112,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0356-2002-030</link>
       <description>Rannsóknarnefnd sjóslysa 2002-030 - 1985-1998</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0356-2002-030</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2686-2009-067</link>
+      <description>Gunnar G. Schram (1931-2004) alþingsmaður og prófessor 2009-067 - 1960-2002</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2686-2009-067</guid>
     </item>
   </channel>
 </rss>
