@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Aug 2022 11:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 12:00:44 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0717-2000-020</link>
       <description>Kaupfélag Króksfjarðar 2000-020 - 1911-1973</description>
@@ -92,6 +92,21 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2700-1999-005</link>
       <description>Þorvaldur Þórarinsson (1909-1975) hæstaréttarlögmaður og Fríða Knudsen (1910-1994) húsfreyja 1999-005 - 1909-1993</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2700-1999-005</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2703-1992-014</link>
+      <description>Efnahagsstofnun 1992-014 - 1941-1980</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2703-1992-014</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2704-2011-075</link>
+      <description>Pönnu Pizzur ehf. - skjöl afhent af skiptastjóra 2011-075 - 1997-2009</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2704-2011-075</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0257-2003-066</link>
+      <description>Ríkislögregustjórinn 2003-066 - 1975-2002</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0257-2003-066</guid>
     </item>
   </channel>
 </rss>
