@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Aug 2022 09:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 10:00:31 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0717-2000-020</link>
       <description>Kaupfélag Króksfjarðar 2000-020 - 1911-1973</description>
@@ -72,6 +72,26 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2698-1999-021</link>
       <description>Spaugstofan 1999-021 - 1997-1999</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2698-1999-021</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2638-2021-122</link>
+      <description>Prestafélag Íslands 2021-122 - 1925-1977</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2638-2021-122</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2699-1998-044</link>
+      <description>Kristján Lýðsson (1912-1998) 1998-044 - 1903-1979</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2699-1998-044</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2701-1991-074</link>
+      <description>Áki Jakobsson (1911-1975) ráðherra og þingmaður og Jón Ármann Jakobsson (1866-1939) kaupmaður og fjölskylda 1991-074 - 1884-1975</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2701-1991-074</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2700-1999-005</link>
+      <description>Þorvaldur Þórarinsson (1909-1975) hæstaréttarlögmaður og Fríða Knudsen (1910-1994) húsfreyja 1999-005 - 1909-1993</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2700-1999-005</guid>
     </item>
   </channel>
 </rss>
