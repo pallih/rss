@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 22 Sep 2022 14:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 15:00:23 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2620-2022-013</link>
       <description>Iðnaðarráðuneyti 2022-013 - 1974-2013</description>
@@ -97,6 +97,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0309-1995-053</link>
       <description>Skattstjórinn á Austurlandi 1995-053 - 1961-1977</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0309-1995-053</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2708-1996-020</link>
+      <description>Eiríka Anna Friðriksdóttir (1911-1995) hagfræðingur og kennari 1996-020 - 1926-1994</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2708-1996-020</guid>
     </item>
   </channel>
 </rss>
