@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 Sep 2022 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 12:00:25 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2695-2012-017</link>
       <description>Albert Þorvaldsson (1854-1927) sjómaður 2012-017 - 1916-1917</description>
@@ -97,6 +97,36 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2708-1996-020</link>
       <description>Eiríka Anna Friðriksdóttir (1911-1995) hagfræðingur og kennari 1996-020 - 1926-1994</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2708-1996-020</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0120-1992-058</link>
+      <description>Skattstjóri Vesturlandsumdæmis 1992-058 - 1960-1978</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0120-1992-058</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1987-021</link>
+      <description>Skattstjóri Norðurlandsumdæmis eystra 1987-021 - 1964-1972</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1987-021</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1990-035</link>
+      <description>Skattstjóri Norðurlandsumdæmis eystra 1990-035 - 1965-1979</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1990-035</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1993-006</link>
+      <description>Skattstjóri Norðurlandsumdæmis eystra 1993-006 - 1940-1970</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1993-006</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1996-026</link>
+      <description>Skattstjóri Norðurlandsumdæmis eystra 1996-026 - 1970-1983</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-1996-026</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-2011-091</link>
+      <description>Skattstjóri Norðurlandsumdæmis eystra 2011-091 - 1984-2000</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-2011-091</guid>
     </item>
   </channel>
 </rss>
