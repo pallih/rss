@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 27 Sep 2022 09:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Sep 2022 10:02:00 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0196-0022-021</link>
       <description>Utanríkisráðuneytið 22-021 - 1952-1970</description>
@@ -112,6 +112,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-2011-091</link>
       <description>Skattstjóri Norðurlandsumdæmis eystra 2011-091 - 1984-2000</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2706-2011-091</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0548-2022-118</link>
+      <description>Ögurþing / Súðavík 2022-118 - 1820-1948</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0548-2022-118</guid>
     </item>
   </channel>
 </rss>
