@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 30 Sep 2022 09:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Sep 2022 10:01:29 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0309-1995-053</link>
       <description>Skattstjórinn á Austurlandi 1995-053 - 1961-1977</description>
@@ -62,6 +62,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2709-0000-267</link>
       <description>biskupskjalatest 0000-267 - 1350-1644</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2709-0000-267</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0127-2022-087</link>
+      <description>Starfsmannafélag ríkisstofnana 2022-087 - 1914-2021</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0127-2022-087</guid>
     </item>
   </channel>
 </rss>
