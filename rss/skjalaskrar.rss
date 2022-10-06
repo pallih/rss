@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 06 Oct 2022 13:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2022 14:13:55 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0309-1995-053</link>
       <description>Skattstjórinn á Austurlandi 1995-053 - 1961-1977</description>
@@ -67,6 +67,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0127-2022-087</link>
       <description>Starfsmannafélag ríkisstofnana 2022-087 - 1914-2021</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0127-2022-087</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1748-2009-069</link>
+      <description>Sauðlauksdalsprestakall 2009-069 - 1860-1920</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1748-2009-069</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2711-0000-267</link>
+      <description>Hólabiskupsdæmi 0-267 - 1318-1806</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2711-0000-267</guid>
     </item>
   </channel>
 </rss>
