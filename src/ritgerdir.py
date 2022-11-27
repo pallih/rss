@@ -13,7 +13,6 @@ def scrape_site(url):
     items = []
     for tr in trs:
         item = {}
-        print(tr.text_content())
         item["url"] = base_url + tr.xpath("td/a")[0].attrib["href"]
         item["title"] = tr.xpath("td/a")[0].text_content()
         item["description"] = tr.xpath("td[@headers='t3']")[0].text_content()
