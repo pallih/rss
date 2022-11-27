@@ -27,6 +27,12 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 
   [palmemordsarkivet.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/palmemordsarkivet.rss)
 
+* ## Nýjar ritgerðir birtar á skemman.is
+
+  Uppfært á klukkustundar fresti milli 8-17.
+
+  [ritgerdir.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/ritgerdir.rss)
+
 
 
 pallih@gogn.in

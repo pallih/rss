@@ -34,6 +34,8 @@ jobs:
       run: python src/skjalaskrar.py
     - name: Create palmemordsarkivet.rss file
       run: python src/palmemordsaarkivet.py
+    - name: Create ritgerdir.rss file
+      run: python src/ritgerdir.py
     - name: Commit changes
       run: |
         git add .
