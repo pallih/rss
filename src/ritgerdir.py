@@ -27,10 +27,10 @@ def make_feed(items):
     fg.link(href="http://skemman.is", rel="alternate")
     fg.subtitle("Ritgerðir birtar á skemman.is")
     fg.language("is")
-    for item in items:
+    for item in reversed(items):
         fe = fg.add_entry()
         fe.id(item["url"])
-        fe.title(item["title"])
+        fe.title = item["title"]
         fe.link(href=item["url"])
         fe.description(item["description"])
     fg.rss_file("rss/ritgerdir.rss", pretty=True)
