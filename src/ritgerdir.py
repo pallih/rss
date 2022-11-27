@@ -32,7 +32,7 @@ def make_feed(items):
         fe.id(item["url"])
         fe.title(item["title"])
         fe.link(href=item["url"])
-        fe.description(item["description"])
+        fe.description(" - ".join((item["title"], item["description"])))
     fg.rss_file("rss/ritgerdir.rss", pretty=True)
 
 
