@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 28 Nov 2022 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 10:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar</title>
+      <link>https://skemman.is/handle/1946/43021</link>
+      <description>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar - Árni Helgason 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43021</guid>
+    </item>
     <item>
       <title>„Ég veit hvað ég vil“: Stuðningur talsmanna innan barnaverndar</title>
       <link>https://skemman.is/handle/1946/43015</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/42999</link>
       <description>Reynsla kvenna með fíknivanda af námskeiðinu Núvitund sem bakslagsvörn - Helena Bragadóttir 1966-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/42999</guid>
-    </item>
-    <item>
-      <title>Infidelity in relationships : a quantitative study on the role of infidelity and gender on HEXACO-60 personality dimensions</title>
-      <link>https://skemman.is/handle/1946/43005</link>
-      <description>Infidelity in relationships : a quantitative study on the role of infidelity and gender on HEXACO-60 personality dimensions - Thelma Rán Óttarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43005</guid>
     </item>
   </channel>
 </rss>
