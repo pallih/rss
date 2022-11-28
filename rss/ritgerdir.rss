@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 28 Nov 2022 12:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 13:06:43 +0000</lastBuildDate>
     <item>
       <title>Feðraveldishugmyndir: Umfang og birtingarmyndir feðraveldishugmynda hér á landi meðal ungmenna og ofbeldi í nánum samböndum</title>
       <link>https://skemman.is/handle/1946/43022</link>
@@ -37,12 +37,6 @@
       <link>https://skemman.is/handle/1946/43024</link>
       <description>Einmanaleiki eldri borgara: Flóknari en virðist í fyrstu. Yfirlitssamantekt - Berta Maria Hreinsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43024</guid>
-    </item>
-    <item>
-      <title>„Ég þurfti bara tækifæri til að komast inn“ Upplifun einstaklinga af þjónustu Atvinnu- og virknimiðlunar og vinnumarkaðsaðgerðum Reykjavíkurborgar</title>
-      <link>https://skemman.is/handle/1946/43031</link>
-      <description>„Ég þurfti bara tækifæri til að komast inn“ Upplifun einstaklinga af þjónustu Atvinnu- og virknimiðlunar og vinnumarkaðsaðgerðum Reykjavíkurborgar - Edda Laufey Bjarnadóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43031</guid>
     </item>
     <item>
       <title>Hvað einkennir félagslega stöðu fjölskyldu barna sem voru í Heilsuskólanum frá árunum 2019-2022?</title>
@@ -99,6 +93,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43035</guid>
     </item>
     <item>
+      <title>„Ég þurfti bara tækifæri til að komast inn“ Upplifun einstaklinga af þjónustu Atvinnu- og virknimiðlunar og vinnumarkaðsaðgerðum Reykjavíkurborgar</title>
+      <link>https://skemman.is/handle/1946/43031</link>
+      <description>„Ég þurfti bara tækifæri til að komast inn“ Upplifun einstaklinga af þjónustu Atvinnu- og virknimiðlunar og vinnumarkaðsaðgerðum Reykjavíkurborgar - Edda Laufey Bjarnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43031</guid>
+    </item>
+    <item>
+      <title>„Við vitum að þörfin er til staðar“: Þarfagreining á kvennaathvarfi fyrir konur með fjölþættan vanda</title>
+      <link>https://skemman.is/handle/1946/43036</link>
+      <description>„Við vitum að þörfin er til staðar“: Þarfagreining á kvennaathvarfi fyrir konur með fjölþættan vanda - Sigfríður Ólafsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43036</guid>
+    </item>
+    <item>
       <title>„Ég veit hvað ég vil“: Stuðningur talsmanna innan barnaverndar</title>
       <link>https://skemman.is/handle/1946/43015</link>
       <description>„Ég veit hvað ég vil“: Stuðningur talsmanna innan barnaverndar - Bertha María Jónsdóttir 1993-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43012</link>
       <description>„Þessi börn sem mæta aldrei í skólann þau týnast“: Áhrif skólaforðunar á farsæld barna til framtíðar - Sara Lind Traustadóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43012</guid>
-    </item>
-    <item>
-      <title>Environmental Changes in Eastern Lapland during the last 50 years</title>
-      <link>https://skemman.is/handle/1946/43011</link>
-      <description>Environmental Changes in Eastern Lapland during the last 50 years - Magdalena Folestad 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43011</guid>
     </item>
   </channel>
 </rss>
