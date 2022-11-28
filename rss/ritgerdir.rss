@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 28 Nov 2022 16:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 17:00:30 +0000</lastBuildDate>
     <item>
       <title>Feðraveldishugmyndir: Umfang og birtingarmyndir feðraveldishugmynda hér á landi meðal ungmenna og ofbeldi í nánum samböndum</title>
       <link>https://skemman.is/handle/1946/43022</link>
@@ -111,6 +111,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43037</guid>
     </item>
     <item>
+      <title>„Farsældarlögin eiga að tryggja réttindi barna samkvæmt Barnasáttmálanum“: „Nú ætlum við að innleiða nýja hugsun um farsæld barna“</title>
+      <link>https://skemman.is/handle/1946/43038</link>
+      <description>„Farsældarlögin eiga að tryggja réttindi barna samkvæmt Barnasáttmálanum“: „Nú ætlum við að innleiða nýja hugsun um farsæld barna“ - Karítas Ósk Bjarkadóttir Laxdal 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43038</guid>
+    </item>
+    <item>
       <title>„Ég veit hvað ég vil“: Stuðningur talsmanna innan barnaverndar</title>
       <link>https://skemman.is/handle/1946/43015</link>
       <description>„Ég veit hvað ég vil“: Stuðningur talsmanna innan barnaverndar - Bertha María Jónsdóttir 1993-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43020</link>
       <description>„Fyrst og fremst þá er þetta fólk foreldrar! Þau eru ekki fyrst og fremst fólk sem er að glíma við geðrænan vanda“: Upplifun og reynsla foreldra með geðrænan vanda og aðstandendur þeirra á stöðu sinni og fjölskyldusmiðjum Okkar heims - Kristrún Sigríður Bóasdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43020</guid>
-    </item>
-    <item>
-      <title>„Ég var svolítið hissa af því ég hélt fyrst að ég væri eina sem átti pabba sem var með svona dótarí“: Upplifun og reynsla barna foreldra með geðrænan vanda af þátttöku í fjölskyldusmiðjum Okkar heims</title>
-      <link>https://skemman.is/handle/1946/43019</link>
-      <description>„Ég var svolítið hissa af því ég hélt fyrst að ég væri eina sem átti pabba sem var með svona dótarí“: Upplifun og reynsla barna foreldra með geðrænan vanda af þátttöku í fjölskyldusmiðjum Okkar heims - Elín Ragnarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43019</guid>
     </item>
   </channel>
 </rss>
