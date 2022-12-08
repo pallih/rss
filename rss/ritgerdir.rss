@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Dec 2022 09:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2022 10:00:55 +0000</lastBuildDate>
     <item>
       <title>Uppsögn húsaleigusamnings</title>
       <link>https://skemman.is/handle/1946/43057</link>
@@ -123,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43053</guid>
     </item>
     <item>
-      <title>Feðraveldishugmyndir: Umfang og birtingarmyndir feðraveldishugmynda hér á landi meðal ungmenna og ofbeldi í nánum samböndum</title>
-      <link>https://skemman.is/handle/1946/43022</link>
-      <description>Feðraveldishugmyndir: Umfang og birtingarmyndir feðraveldishugmynda hér á landi meðal ungmenna og ofbeldi í nánum samböndum - Þórhildur Gyða Arnarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43022</guid>
-    </item>
-    <item>
       <title>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar</title>
       <link>https://skemman.is/handle/1946/43021</link>
       <description>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar - Árni Helgason 1994-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/43026</link>
       <description>Hvað einkennir félagslega stöðu fjölskyldu barna sem voru í Heilsuskólanum frá árunum 2019-2022? - Sunneva Einarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43026</guid>
+    </item>
+    <item>
+      <title>„Þetta er groundhog day sko“: Upplifun ungra einstaklinga af þjónustu, úrræðum og félagslegum stuðningi í fangelsi</title>
+      <link>https://skemman.is/handle/1946/43034</link>
+      <description>„Þetta er groundhog day sko“: Upplifun ungra einstaklinga af þjónustu, úrræðum og félagslegum stuðningi í fangelsi - Brynja Kristinsdóttir Wiium 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43034</guid>
     </item>
   </channel>
 </rss>
