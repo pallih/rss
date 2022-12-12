@@ -7,7 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 11 Dec 2022 17:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2022 08:00:31 +0000</lastBuildDate>
+    <item>
+      <link>https://drive.google.com/file/d/1y6bwsVKe9R9HeTUTTVqhkqKeJGfIXZPu/view?usp=share_link</link>
+      <description>Mordplatsvittne som parkerade Sveavägen Kungsgatan</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1y6bwsVKe9R9HeTUTTVqhkqKeJGfIXZPu/view?usp=share_link</guid>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1ahhVyg_U0ev_gehhoF9GYHfkkPvqZZ82/view?usp=share_link</link>
       <description>Ser volvo på Sveavägen vid Kungsgatan</description>
@@ -252,11 +257,6 @@
       <link>https://drive.google.com/file/d/1MYHBt81nxq9qGDUdORjCSLvGJN1YhdMX/view?usp=share_link</link>
       <description>Åkte taxi från Tegnérgatan Sveavägen förbi mordplatsen, såg ambulanser och hysterisk Lisbeth</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1MYHBt81nxq9qGDUdORjCSLvGJN1YhdMX/view?usp=share_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1RSoN7AKR8ggM7B-auy7Kuzp8uqzrDwWf/view?usp=share_link</link>
-      <description>Förhör om iakttagelse av man i blå täckjacka som gick igenom restaurang på Kungsgatan</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1RSoN7AKR8ggM7B-auy7Kuzp8uqzrDwWf/view?usp=share_link</guid>
     </item>
   </channel>
 </rss>
