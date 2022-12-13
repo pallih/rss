@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 13 Dec 2022 08:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 09:00:38 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2718-2022-134</link>
       <description>Kristján Axel Jón Helgason (1896-1971) og Jóhanna Helga Lárusdóttir (1908-1980) 2022-134 - 1930-1930</description>
@@ -17,6 +17,21 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2719-2022-135</link>
       <description>Vaka, félag lýðræðissinnaðra stúdenta 2022-135 - 1984-1993</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2719-2022-135</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0863-2022-140</link>
+      <description>Verðlagsstofnun 2022-140 - 1981-1992</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0863-2022-140</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0877-2022-139</link>
+      <description>Samkeppnisstofnun 2022-139 - 1990-2005</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0877-2022-139</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2720-2022-137</link>
+      <description>Kærunefnd lausafjár- og þjónustukaupa 2022-137 - 2001-2019</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2720-2022-137</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0336-0000-263</link>
@@ -37,6 +52,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2714-2022-062</link>
       <description>Eggert Thorberg Kjartansson (1931-2022) múrari, Hólmfríður Gísladóttir (1931-) formaður Ættfræðingafélagsins 2022-062 - 1821-2020</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2714-2022-062</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2731-2022-154</link>
+      <description>Heilsugæslustöðin Þorlákshöfn 2022-154 - 1983-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2731-2022-154</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2732-2022-155</link>
+      <description>Heilsugæslustöðin Vík 2022-155 - 1932-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2732-2022-155</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2734-2020-031</link>
@@ -64,9 +89,39 @@
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2535-2020-035</guid>
     </item>
     <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2729-2022-152</link>
+      <description>Heilsugæslustöðin Laugarási 2022-152 - 1931-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2729-2022-152</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2728-2022-151</link>
+      <description>Heilsugæslustöðin Kirkjubæjarklaustri 2022-151 - 1904-2005</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2728-2022-151</guid>
+    </item>
+    <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2741-0022-023</link>
       <description>Skattumdæmi Norðurlands eystra 22-023 - 1931-1941</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2741-0022-023</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2727-2022-150</link>
+      <description>Heilsugæslustöðin Hveragerði 2022-150 - 1989-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2727-2022-150</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2730-2022-153</link>
+      <description>Heilsugæslustöðin Rangárþingi 2022-153 - 1980-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2730-2022-153</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2725-2022-148</link>
+      <description>Heilbrigðisstofnunin Selfossi 2022-148 - 1952-2007</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2725-2022-148</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2726-2022-149</link>
+      <description>Heilbrigðisstofnunin Vestmannaeyjum 2022-149 - 1974-2016</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2726-2022-149</guid>
     </item>
   </channel>
 </rss>
