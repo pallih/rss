@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Dec 2022 16:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2022 17:00:30 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2718-2022-134</link>
       <description>Kristján Axel Jón Helgason (1896-1971) og Jóhanna Helga Lárusdóttir (1908-1980) 2022-134 - 1930-1930</description>
@@ -127,6 +127,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2726-2022-149</link>
       <description>Heilbrigðisstofnunin Vestmannaeyjum 2022-149 - 1974-2016</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2726-2022-149</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2536-2020-037</link>
+      <description>Leikfélagið Úlfur skjálgi 2020-037 - 1951-1955</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2536-2020-037</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2499-2020-036</link>
+      <description>Sæmundur Björnsson (1912-2006) bóksali og verslunarmaður 2020-036 - 1958-1958</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2499-2020-036</guid>
     </item>
   </channel>
 </rss>
