@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Dec 2022 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2022 10:00:28 +0000</lastBuildDate>
     <item>
       <title>Aðildarreglur faðernismála í ljósi hagsmuna barnsins</title>
       <link>https://skemman.is/handle/1946/43063</link>
@@ -87,12 +87,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43050</guid>
     </item>
     <item>
-      <title>„Gleði, þú veist bara mjög mikla gleði" : Matsrannsókn á úrræðinu Vopnabúrið</title>
-      <link>https://skemman.is/handle/1946/43047</link>
-      <description>„Gleði, þú veist bara mjög mikla gleði" : Matsrannsókn á úrræðinu Vopnabúrið - Ólöf Pétursdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43047</guid>
-    </item>
-    <item>
       <title>"Þú lifir ekki á lækum": Upplifun og reynsla unglinga á samfélagsmiðlum</title>
       <link>https://skemman.is/handle/1946/43045</link>
       <description>"Þú lifir ekki á lækum": Upplifun og reynsla unglinga á samfélagsmiðlum - Hákon Konráðsson 1990-</description>
@@ -139,6 +133,12 @@
       <link>https://skemman.is/handle/1946/43053</link>
       <description>Félagslegur stuðningur við einstaklinga með heilabilun. Þróunarverkefnið Sigurvin - Ragnheiður Eva Guðmundsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43053</guid>
+    </item>
+    <item>
+      <title>„Gleði, þú veist bara mjög mikla gleði" : Matsrannsókn á úrræðinu Vopnabúrið</title>
+      <link>https://skemman.is/handle/1946/43047</link>
+      <description>„Gleði, þú veist bara mjög mikla gleði" : Matsrannsókn á úrræðinu Vopnabúrið - Ólöf Pétursdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43047</guid>
     </item>
     <item>
       <title>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar</title>
