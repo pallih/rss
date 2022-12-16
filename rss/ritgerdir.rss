@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Dec 2022 15:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2022 16:00:44 +0000</lastBuildDate>
     <item>
       <title>Aðildarreglur faðernismála í ljósi hagsmuna barnsins</title>
       <link>https://skemman.is/handle/1946/43063</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43064</link>
       <description>Gildi 33. gr. laga nr. 7/1936 eftir tilkomu 36. gr. sömu laga - Sverrir Páll Einarsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43064</guid>
+    </item>
+    <item>
+      <title>Vanhæfi sveitarstjórnarfulltrúa í stjórnsýslumálum: Tengsl hæfisreglna sveitarstjórnarlaga nr. 138/2011 við hæfisreglur stjórnsýslulaga nr. 37/1993</title>
+      <link>https://skemman.is/handle/1946/43065</link>
+      <description>Vanhæfi sveitarstjórnarfulltrúa í stjórnsýslumálum: Tengsl hæfisreglna sveitarstjórnarlaga nr. 138/2011 við hæfisreglur stjórnsýslulaga nr. 37/1993 - Gaukur Steinn Guðmundsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43065</guid>
     </item>
     <item>
       <title>Sjálfsvígshegðun karla: Hugsanleg tengsl við áföll og upplifun á stuðningi. "Ég vildi aldrei vera berskjaldaður eða sýna veikleika"</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43021</link>
       <description>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar - Árni Helgason 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43021</guid>
-    </item>
-    <item>
-      <title>"Okkar vakt lýkur aldrei" Upplifun og reynsla foreldra fatlaðra/langveikra barna sem sinna umönnunarhlutverki  og hafa upplifað kulnun í foreldrahlutverki</title>
-      <link>https://skemman.is/handle/1946/43025</link>
-      <description>"Okkar vakt lýkur aldrei" Upplifun og reynsla foreldra fatlaðra/langveikra barna sem sinna umönnunarhlutverki  og hafa upplifað kulnun í foreldrahlutverki - Ingibjörg Björnsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43025</guid>
     </item>
   </channel>
 </rss>
