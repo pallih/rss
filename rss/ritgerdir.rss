@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Dec 2022 09:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 10:00:30 +0000</lastBuildDate>
+    <item>
+      <title>Hrörnunarmálstol í íslensku samhengi og þýðing á PASS-kvarðanum</title>
+      <link>https://skemman.is/handle/1946/43066</link>
+      <description>Hrörnunarmálstol í íslensku samhengi og þýðing á PASS-kvarðanum - Ingibjörg Rúnarsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43066</guid>
+    </item>
     <item>
       <title>Aðildarreglur faðernismála í ljósi hagsmuna barnsins</title>
       <link>https://skemman.is/handle/1946/43063</link>
@@ -135,12 +141,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43048</guid>
     </item>
     <item>
-      <title>Börn sem stunda áhættuhegðun. Tengsl þeirra við foreldra.</title>
-      <link>https://skemman.is/handle/1946/43054</link>
-      <description>Börn sem stunda áhættuhegðun. Tengsl þeirra við foreldra. - Jónheiður Gunnarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43054</guid>
-    </item>
-    <item>
       <title>Félagslegur stuðningur við einstaklinga með heilabilun. Þróunarverkefnið Sigurvin</title>
       <link>https://skemman.is/handle/1946/43053</link>
       <description>Félagslegur stuðningur við einstaklinga með heilabilun. Þróunarverkefnið Sigurvin - Ragnheiður Eva Guðmundsdóttir 1996-</description>
@@ -153,10 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43047</guid>
     </item>
     <item>
-      <title>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar</title>
-      <link>https://skemman.is/handle/1946/43021</link>
-      <description>Aldraðir með vímuefnaröskun. Umfang vandans innan velferðarsviðs Reykjavíkurborgar - Árni Helgason 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43021</guid>
+      <title>Börn sem stunda áhættuhegðun. Tengsl þeirra við foreldra.</title>
+      <link>https://skemman.is/handle/1946/43054</link>
+      <description>Börn sem stunda áhættuhegðun. Tengsl þeirra við foreldra. - Jónheiður Gunnarsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43054</guid>
     </item>
   </channel>
 </rss>
