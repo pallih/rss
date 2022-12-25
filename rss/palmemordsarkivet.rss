@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 25 Dec 2022 16:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Dec 2022 17:00:36 +0000</lastBuildDate>
     <item>
       <link>https://drive.google.com/file/d/1Tcr4hr6HG476ayPTbY_YlM8H-PdSgztB/view?usp=share_link</link>
       <description>Om att en man fotograferade Jutas Backe den 25 februari</description>
@@ -47,6 +47,11 @@
       <link>https://drive.google.com/file/d/1nO-dspa_XrNtyY7pdx_hUhKJ2AAJYtAs/view?usp=share_link</link>
       <description>Man stoppar par</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1nO-dspa_XrNtyY7pdx_hUhKJ2AAJYtAs/view?usp=share_link</guid>
+    </item>
+    <item>
+      <link>https://drive.google.com/file/d/1AZbYHlANVyY19vINlge_bZaUdShv9ypq/view?usp=sharing</link>
+      <description>Mindre maskad version av EAC-252-00, samt även EAC-252-A, B, E, D, EAC-252-3, 4, 5, 6</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1AZbYHlANVyY19vINlge_bZaUdShv9ypq/view?usp=sharing</guid>
     </item>
     <item>
       <link>https://drive.google.com/file/d/1OGemlhSqIXbObpSQ6QU4xdAopgeGoEd8/view?usp=share_link</link>
@@ -252,11 +257,6 @@
       <link>https://drive.google.com/file/d/1HvgtAL5WbXE9QZUlwKjEbV_TDwVuXIG1/view?usp=share_link</link>
       <description>Förhör med man som fått parkeringsböter på Brunnsgatan</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1HvgtAL5WbXE9QZUlwKjEbV_TDwVuXIG1/view?usp=share_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1L62H2k-CF-AZJi0Rd7jY-QebE37FJeVL/view?usp=share_link</link>
-      <description>Besökte Rigoletto under morddagen och såg man som senare igenkändes som CP</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1L62H2k-CF-AZJi0Rd7jY-QebE37FJeVL/view?usp=share_link</guid>
     </item>
   </channel>
 </rss>
