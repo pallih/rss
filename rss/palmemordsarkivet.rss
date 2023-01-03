@@ -7,7 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 03 Jan 2023 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 15:00:32 +0000</lastBuildDate>
+    <item>
+      <link>https://drive.google.com/file/d/1O6ZM1h62GJgVEEboRTQqVdINC3SAUpx1/view?usp=sharing</link>
+      <description>Man med oklar koppling till Iran-Irak samt GF/TT (andra med samma nummer är maskat)</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1O6ZM1h62GJgVEEboRTQqVdINC3SAUpx1/view?usp=sharing</guid>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1Tcr4hr6HG476ayPTbY_YlM8H-PdSgztB/view?usp=share_link</link>
       <description>Om att en man fotograferade Jutas Backe den 25 februari</description>
@@ -252,11 +257,6 @@
       <link>https://drive.google.com/file/d/1HvgtAL5WbXE9QZUlwKjEbV_TDwVuXIG1/view?usp=share_link</link>
       <description>Förhör med man som fått parkeringsböter på Brunnsgatan</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1HvgtAL5WbXE9QZUlwKjEbV_TDwVuXIG1/view?usp=share_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1L62H2k-CF-AZJi0Rd7jY-QebE37FJeVL/view?usp=share_link</link>
-      <description>Besökte Rigoletto under morddagen och såg man som senare igenkändes som CP</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1L62H2k-CF-AZJi0Rd7jY-QebE37FJeVL/view?usp=share_link</guid>
     </item>
   </channel>
 </rss>
