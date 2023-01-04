@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 04 Jan 2023 12:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2023 13:04:43 +0000</lastBuildDate>
     <item>
       <title>Assessing the validity of FOCUS-ÍS: A parent report questionnaire of functional communication development of 4-year-old children</title>
       <link>https://skemman.is/handle/1946/43079</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/43080</link>
       <description>L’insegnamento dell’italiano come lingua straniera: Approcci didattici utilizzati nei corsi di Uso della lingua I, II e III all’Università d’Islanda - Helga Jónsdóttir 1967-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43080</guid>
+    </item>
+    <item>
+      <title>The effectiveness of International and European Law in combating environmental crimes using the example of shipment of waste</title>
+      <link>https://skemman.is/handle/1946/43081</link>
+      <description>The effectiveness of International and European Law in combating environmental crimes using the example of shipment of waste - Alexandra Trondl 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43081</guid>
+    </item>
+    <item>
+      <title>„…hvernig tollgæsla viljum við vera?“ Áskoranir tollgæslu við eftirlit með ólöglegum innflutningi hættulegs varnings</title>
+      <link>https://skemman.is/handle/1946/43082</link>
+      <description>„…hvernig tollgæsla viljum við vera?“ Áskoranir tollgæslu við eftirlit með ólöglegum innflutningi hættulegs varnings - Birna Friðfinnsdóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43082</guid>
     </item>
     <item>
       <title>Valkvæði kolefnismarkaðurinn og staða hans á Íslandi. M.a. í ljósi reglna um markaðstengdar aðgerðir Parísarsamningsins</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43058</link>
       <description>Streymisstríðið mikla: Er hin drjúga samkeppni streymisveitna að ýta undir tískubólu? - Bjarni Geir H. Halldórsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43058</guid>
-    </item>
-    <item>
-      <title>Uppsögn húsaleigusamnings</title>
-      <link>https://skemman.is/handle/1946/43057</link>
-      <description>Uppsögn húsaleigusamnings - Indriði Áki Þorláksson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43057</guid>
-    </item>
-    <item>
-      <title>The rights of children and future generations of the European Arctic to a healthy  environment</title>
-      <link>https://skemman.is/handle/1946/43056</link>
-      <description>The rights of children and future generations of the European Arctic to a healthy  environment - Schweizer, Sona Karbanová, 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43056</guid>
     </item>
   </channel>
 </rss>
