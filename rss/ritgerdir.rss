@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 05 Jan 2023 15:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2023 16:00:47 +0000</lastBuildDate>
     <item>
       <title>Hjúkrun heila- og taugaskurðsjúklinga með barkaraufartúbu:  Þróun meðferðarknippa og Delphi-rannsókn</title>
       <link>https://skemman.is/handle/1946/43085</link>
@@ -73,6 +73,12 @@
       <link>https://skemman.is/handle/1946/43093</link>
       <description>Hughyggja, formhyggja og fjármagn: Um tvær ímyndir fjármagns í kenningum hagfræðinga - Arnar Egill Hilmarsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43093</guid>
+    </item>
+    <item>
+      <title>Munurinn á Írlandi og Íslandi: Einn stafur og sex mánuðir. Áhrif Evrópusambands- og evruaðildar á ris og fall, stefnuviðbrögð og  efnahagsbata í aðdraganda og kjölfar bankakreppunnar 2008</title>
+      <link>https://skemman.is/handle/1946/43094</link>
+      <description>Munurinn á Írlandi og Íslandi: Einn stafur og sex mánuðir. Áhrif Evrópusambands- og evruaðildar á ris og fall, stefnuviðbrögð og  efnahagsbata í aðdraganda og kjölfar bankakreppunnar 2008 - Halldór Ágúst Ágústsson 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43094</guid>
     </item>
     <item>
       <title>L’insegnamento dell’italiano come lingua straniera: Approcci didattici utilizzati nei corsi di Uso della lingua I, II e III all’Università d’Islanda</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43070</link>
       <description>„Þú átt að gera“ Borðspil sem miðill - Aðalsteinn Hannesson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43070</guid>
-    </item>
-    <item>
-      <title>Riftun leigusamnings á grundvelli 60. gr. húsaleigulaga nr. 36/1994</title>
-      <link>https://skemman.is/handle/1946/43068</link>
-      <description>Riftun leigusamnings á grundvelli 60. gr. húsaleigulaga nr. 36/1994 - Hildur Berglind Jóhannsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43068</guid>
     </item>
   </channel>
 </rss>
