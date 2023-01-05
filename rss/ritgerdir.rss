@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 05 Jan 2023 14:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2023 15:00:36 +0000</lastBuildDate>
     <item>
       <title>Hjúkrun heila- og taugaskurðsjúklinga með barkaraufartúbu:  Þróun meðferðarknippa og Delphi-rannsókn</title>
       <link>https://skemman.is/handle/1946/43085</link>
@@ -55,6 +55,24 @@
       <link>https://skemman.is/handle/1946/43087</link>
       <description>Þanþol kvenleikans. Konur á vöktum - Sigríður Sóley Sveinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43087</guid>
+    </item>
+    <item>
+      <title>Exchange Rate Arrangements, Capital Mobility and Financial Crises</title>
+      <link>https://skemman.is/handle/1946/43091</link>
+      <description>Exchange Rate Arrangements, Capital Mobility and Financial Crises - Örn Ágústsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43091</guid>
+    </item>
+    <item>
+      <title>Foreldrar í háskólanámi. Áhrif barneigna á námsferil fólks</title>
+      <link>https://skemman.is/handle/1946/43092</link>
+      <description>Foreldrar í háskólanámi. Áhrif barneigna á námsferil fólks - Elfa Karen Markúsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43092</guid>
+    </item>
+    <item>
+      <title>Hughyggja, formhyggja og fjármagn: Um tvær ímyndir fjármagns í kenningum hagfræðinga</title>
+      <link>https://skemman.is/handle/1946/43093</link>
+      <description>Hughyggja, formhyggja og fjármagn: Um tvær ímyndir fjármagns í kenningum hagfræðinga - Arnar Egill Hilmarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43093</guid>
     </item>
     <item>
       <title>L’insegnamento dell’italiano come lingua straniera: Approcci didattici utilizzati nei corsi di Uso della lingua I, II e III all’Università d’Islanda</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/43068</link>
       <description>Riftun leigusamnings á grundvelli 60. gr. húsaleigulaga nr. 36/1994 - Hildur Berglind Jóhannsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43068</guid>
-    </item>
-    <item>
-      <title>Ósýnilegar hindranir: Upplifun einstaklinga af erlendum uppruna á fordómum á íslenskum vinnumarkaði</title>
-      <link>https://skemman.is/handle/1946/43069</link>
-      <description>Ósýnilegar hindranir: Upplifun einstaklinga af erlendum uppruna á fordómum á íslenskum vinnumarkaði - Monika Jovisic 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43069</guid>
-    </item>
-    <item>
-      <title>Small States and Large Weak States in the Eurovision Song Contest. Gaining Soft Power and Asserting Identity</title>
-      <link>https://skemman.is/handle/1946/43067</link>
-      <description>Small States and Large Weak States in the Eurovision Song Contest. Gaining Soft Power and Asserting Identity - Hera Melgar Aðalheiðardóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43067</guid>
-    </item>
-    <item>
-      <title>Hrörnunarmálstol í íslensku samhengi og þýðing á PASS-kvarðanum</title>
-      <link>https://skemman.is/handle/1946/43066</link>
-      <description>Hrörnunarmálstol í íslensku samhengi og þýðing á PASS-kvarðanum - Ingibjörg Rúnarsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43066</guid>
     </item>
   </channel>
 </rss>
