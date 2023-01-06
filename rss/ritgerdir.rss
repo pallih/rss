@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jan 2023 14:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 15:00:31 +0000</lastBuildDate>
     <item>
       <title>Risk Perception of COVID-19 Infection in the UK: Based on the 2021 Large-Scale Household Survey Analysis</title>
       <link>https://skemman.is/handle/1946/43095</link>
       <description>Risk Perception of COVID-19 Infection in the UK: Based on the 2021 Large-Scale Household Survey Analysis - Sungkyung Kang 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43095</guid>
-    </item>
-    <item>
-      <title>Túlkar brjóta út úr eigin þægindaramma: Rannsókn á kennslu VV sögur í menntun táknmálstúlka á Íslandi.</title>
-      <link>https://skemman.is/handle/1946/43097</link>
-      <description>Túlkar brjóta út úr eigin þægindaramma: Rannsókn á kennslu VV sögur í menntun táknmálstúlka á Íslandi. - Lilja Íris Long Birnudóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43097</guid>
     </item>
     <item>
       <title>Börn á flótta. Réttarstaða umsækjenda um alþjóðlega vernd á barnsaldri samkvæmt samningi Sameinuðu þjóðanna um réttindi barnsins og íslenskum rétti</title>
@@ -79,6 +73,12 @@
       <link>https://skemman.is/handle/1946/43106</link>
       <description>Skipulag á íslenskum vinnumarkaði: Hverjir eru helstu aðilar vinnumarkaðarins? - Guðrún Halla Friðjónsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43106</guid>
+    </item>
+    <item>
+      <title>Túlkar brjótast út úr eigin þægindaramma: Rannsókn á kennslu um VV sögur í menntun táknmálstúlka á Íslandi.</title>
+      <link>https://skemman.is/handle/1946/43097</link>
+      <description>Túlkar brjótast út úr eigin þægindaramma: Rannsókn á kennslu um VV sögur í menntun táknmálstúlka á Íslandi. - Lilja Íris Long Birnudóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43097</guid>
     </item>
     <item>
       <title>Hjúkrun heila- og taugaskurðsjúklinga með barkaraufartúbu:  Þróun meðferðarknippa og Delphi-rannsókn</title>
