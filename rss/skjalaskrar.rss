@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jan 2023 15:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 16:00:32 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2725-2022-148</link>
       <description>Heilbrigðisstofnunin Selfossi 2022-148 - 1952-2007</description>
@@ -87,6 +87,21 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2751-2022-167</link>
       <description>Guðmundur Reynir Óskar Jóhannsson (1939-2013) endurskoðandi 2022-167 - 1995-2012</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2751-2022-167</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2139-2022-079</link>
+      <description>Landssamband eldri borgara 2022-079 - 1984-2020</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2139-2022-079</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2753-2022-035</link>
+      <description>Jónas Ráðgarð Jónsson (1911-2008) fulltrúi hjá Landsímanum 2022-035 - 1960-1983</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2753-2022-035</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2754-2022-104</link>
+      <description>Hólavellir í Gerðahreppi 2022-104 - 1942-1962</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2754-2022-104</guid>
     </item>
   </channel>
 </rss>

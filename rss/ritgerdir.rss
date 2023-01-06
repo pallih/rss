@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jan 2023 15:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 16:00:35 +0000</lastBuildDate>
     <item>
       <title>Risk Perception of COVID-19 Infection in the UK: Based on the 2021 Large-Scale Household Survey Analysis</title>
       <link>https://skemman.is/handle/1946/43095</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43084</guid>
     </item>
     <item>
-      <title>“If I didn't want to coach, I think I'd be screwed”: Migrant athletes’ retirement transition from sports, case of Iceland</title>
-      <link>https://skemman.is/handle/1946/43083</link>
-      <description>“If I didn't want to coach, I think I'd be screwed”: Migrant athletes’ retirement transition from sports, case of Iceland - Olga Latapí 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43083</guid>
-    </item>
-    <item>
       <title>Is Iceland’s housing market experiencing a bubble? Hedonic price-rent ratios</title>
       <link>https://skemman.is/handle/1946/43089</link>
       <description>Is Iceland’s housing market experiencing a bubble? Hedonic price-rent ratios - Dilyara Nasyrova 1972-</description>
@@ -151,6 +145,12 @@
       <link>https://skemman.is/handle/1946/43091</link>
       <description>Exchange Rate Arrangements, Capital Mobility and Financial Crises - Örn Ágústsson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43091</guid>
+    </item>
+    <item>
+      <title>“If I didn't want to coach, I think I'd be screwed”: Migrant athletes’ retirement transition from sports, case of Iceland</title>
+      <link>https://skemman.is/handle/1946/43083</link>
+      <description>“If I didn't want to coach, I think I'd be screwed”: Migrant athletes’ retirement transition from sports, case of Iceland - Olga Latapí 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43083</guid>
     </item>
     <item>
       <title>Assessing the validity of FOCUS-ÍS: A parent report questionnaire of functional communication development of 4-year-old children</title>
