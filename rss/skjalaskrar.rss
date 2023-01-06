@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jan 2023 10:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 11:00:24 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2725-2022-148</link>
       <description>Heilbrigðisstofnunin Selfossi 2022-148 - 1952-2007</description>
@@ -42,6 +42,51 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2744-2022-053</link>
       <description>Þórhallur Björgvin Ólafsson (1926-2015) læknir 2022-053 - </description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2744-2022-053</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2745-2022-051</link>
+      <description>Ólafur Aðalsteinn Jónsson (1932-2006) tollvörður 2022-051 - 2005-2005</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2745-2022-051</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2746-2022-052</link>
+      <description>Sveinn Guðmundsson (1923-2005) kennari og bóndi 2022-052 - 1942-1953</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2746-2022-052</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2535-2022-099</link>
+      <description>Þórarinn Jónas Þór (1921-1993) prófastur og kennari 2022-099 - 1889-1985</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2535-2022-099</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2747-2022-112</link>
+      <description>Bernharður Guðmundsson (1881-1969) bóndi á Kirkjubóli í Valþjófsdal 2022-112 - 1887-2022</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2747-2022-112</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2748-2022-128</link>
+      <description>Sigurjón Stefánsson (1920-2005) skipstjóri 2022-128 - 1957-1992</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2748-2022-128</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2749-2022-133</link>
+      <description>Guðrún Teitsdóttir (1889-1978) ljósmóðir og Guðrún Anna Guðmunda Árnadóttir (1921-2017) húsmóðir 2022-133 - 1914-1985</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2749-2022-133</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2750-2022-147</link>
+      <description>Sigurður Guðmundsson (1918-1992) slökkviliðs- og sjómaður og Jóhanna Sigurjónsdóttir (1915-1989) verslunarkona 2022-147 - 1917-1969</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2750-2022-147</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1539-2022-165</link>
+      <description>Ólafur Þorgrímsson (1902-1989) hæstaréttarlögmaður 2022-165 - 1942-1980</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1539-2022-165</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2751-2022-167</link>
+      <description>Guðmundur Reynir Óskar Jóhannsson (1939-2013) endurskoðandi 2022-167 - 1995-2012</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2751-2022-167</guid>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jan 2023 10:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 11:00:26 +0000</lastBuildDate>
     <item>
       <title>Risk Perception of COVID-19 Infection in the UK: Based on the 2021 Large-Scale Household Survey Analysis</title>
       <link>https://skemman.is/handle/1946/43095</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/43096</link>
       <description>Saga brjóstagjafar á Íslandi með áherslu á lengd brjóstagjafar - Þórunn Helga Jóhannesdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43096</guid>
+    </item>
+    <item>
+      <title>Virði vímuefnaviðskipta í þjóðhagsreikningum metið og endurmetið</title>
+      <link>https://skemman.is/handle/1946/43098</link>
+      <description>Virði vímuefnaviðskipta í þjóðhagsreikningum metið og endurmetið - Elvar Egilsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43098</guid>
     </item>
     <item>
       <title>Hjúkrun heila- og taugaskurðsjúklinga með barkaraufartúbu:  Þróun meðferðarknippa og Delphi-rannsókn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43076</link>
       <description>Komdu eins og þú ert: Áhrif gruggtónlistar á Kynslóð X - Eiður Tjörvi Pálsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43076</guid>
-    </item>
-    <item>
-      <title>The Importance of Vision and the Gaze in Emily Brontë’s Wuthering Heights</title>
-      <link>https://skemman.is/handle/1946/43075</link>
-      <description>The Importance of Vision and the Gaze in Emily Brontë’s Wuthering Heights - Beatrice Fiducia 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43075</guid>
     </item>
   </channel>
 </rss>
