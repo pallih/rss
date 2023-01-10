@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jan 2023 08:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 09:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Hernaður og Hollywood: Stríðskvikmyndir sem valdatól Bandaríkjanna</title>
+      <link>https://skemman.is/handle/1946/43138</link>
+      <description>Hernaður og Hollywood: Stríðskvikmyndir sem valdatól Bandaríkjanna - Emilía Ósk Svavarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43138</guid>
+    </item>
+    <item>
+      <title>Þjónustugæði raftækjaverslana á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43139</link>
+      <description>Þjónustugæði raftækjaverslana á Íslandi - Sófús Árni Hafsteinsson 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43139</guid>
+    </item>
+    <item>
+      <title>Slökkvilið á landsbyggðinni. Eru byggðasamlög lausnin?</title>
+      <link>https://skemman.is/handle/1946/43140</link>
+      <description>Slökkvilið á landsbyggðinni. Eru byggðasamlög lausnin? - Regína Valdimarsdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43140</guid>
+    </item>
+    <item>
+      <title>Viðhorf markaðsfólks til faglegs markaðsstarfs</title>
+      <link>https://skemman.is/handle/1946/43141</link>
+      <description>Viðhorf markaðsfólks til faglegs markaðsstarfs - Bryndís Rún Baldursdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43141</guid>
+    </item>
+    <item>
+      <title>„Eini staðurinn í samfélaginu þar sem ekki er horft niður á þig“: Reynsla kvenna af Konukoti</title>
+      <link>https://skemman.is/handle/1946/43142</link>
+      <description>„Eini staðurinn í samfélaginu þar sem ekki er horft niður á þig“: Reynsla kvenna af Konukoti - Kolbrún Kolbeinsdóttir 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43142</guid>
+    </item>
     <item>
       <title>Snert á náttúru: Annarskonar hugsunarháttur með upplifun barnsins að leiðarljósi</title>
       <link>https://skemman.is/handle/1946/43113</link>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/43122</link>
       <description>Hugfanginn: Skáldverk - Númi Arnarson 1972-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43122</guid>
-    </item>
-    <item>
-      <title>Það er ekkert að</title>
-      <link>https://skemman.is/handle/1946/43127</link>
-      <description>Það er ekkert að - Hildur Selma Sigbertsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43127</guid>
-    </item>
-    <item>
-      <title>„Að sjálfsögðu sagði hann að ég væri lygari“: Um sagnaminnið um konu Pótífars og áhrif þess á MeToo</title>
-      <link>https://skemman.is/handle/1946/43132</link>
-      <description>„Að sjálfsögðu sagði hann að ég væri lygari“: Um sagnaminnið um konu Pótífars og áhrif þess á MeToo - Rakel Anna Boulter 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43132</guid>
-    </item>
-    <item>
-      <title>Hvernig persóna hlustar á hvaða tegund hlaðvarpa? Tengsl persónuleikaþátta, kyns og aldurs við vals á hlaðvarpi</title>
-      <link>https://skemman.is/handle/1946/43133</link>
-      <description>Hvernig persóna hlustar á hvaða tegund hlaðvarpa? Tengsl persónuleikaþátta, kyns og aldurs við vals á hlaðvarpi - Hrafnhildur Leósdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43133</guid>
-    </item>
-    <item>
-      <title>„Við vissum samt ekkert hvað við vorum að fara að gera“ Upplifun stjórnenda á áhrifum vinnustaðamenningar á verkefnið Betri borg fyrir börn.</title>
-      <link>https://skemman.is/handle/1946/43134</link>
-      <description>„Við vissum samt ekkert hvað við vorum að fara að gera“ Upplifun stjórnenda á áhrifum vinnustaðamenningar á verkefnið Betri borg fyrir börn. - Brynhildur Arna Jónsdóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43134</guid>
-    </item>
-    <item>
-      <title>Keeping an open mindset. Creativity in projects of software companies in Iceland</title>
-      <link>https://skemman.is/handle/1946/43135</link>
-      <description>Keeping an open mindset. Creativity in projects of software companies in Iceland - Petra Ruth Rúnarsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43135</guid>
     </item>
   </channel>
 </rss>
