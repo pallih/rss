@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 11 Jan 2023 08:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2023 09:00:37 +0000</lastBuildDate>
+    <item>
+      <title>Framtakssjóðir á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43191</link>
+      <description>Framtakssjóðir á Íslandi - Haraldur Bergvinsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43191</guid>
+    </item>
+    <item>
+      <title>Veltuhraði og ávöxtun: Hefur veltuhraði verðbréfa í íslenskum verðbréfasjóðum áhrif á ávöxtun þeirra?</title>
+      <link>https://skemman.is/handle/1946/43192</link>
+      <description>Veltuhraði og ávöxtun: Hefur veltuhraði verðbréfa í íslenskum verðbréfasjóðum áhrif á ávöxtun þeirra? - Elma Rebekka Högnadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43192</guid>
+    </item>
+    <item>
+      <title>Upplifun markaðsfólks á auglýsingum í hlaðvörpum</title>
+      <link>https://skemman.is/handle/1946/43193</link>
+      <description>Upplifun markaðsfólks á auglýsingum í hlaðvörpum - Sigríður Ósk Hafsteinsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43193</guid>
+    </item>
+    <item>
+      <title>Græna gullið. Dökku hliðar lárperuiðnaðar í Chile</title>
+      <link>https://skemman.is/handle/1946/43194</link>
+      <description>Græna gullið. Dökku hliðar lárperuiðnaðar í Chile - Elínrós Árnadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43194</guid>
+    </item>
+    <item>
+      <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
+      <link>https://skemman.is/handle/1946/43195</link>
+      <description>Policing the Dark Web: The double-edged sword of anonymity online - Rakel Óskarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43195</guid>
+    </item>
+    <item>
+      <title>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“.</title>
+      <link>https://skemman.is/handle/1946/43196</link>
+      <description>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“. - Hrefna Guðmundsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43196</guid>
+    </item>
+    <item>
+      <title>Þýðingatækni: Þýðing á hluta úr kennslubók í þýðingatækni ásamt greinargerð</title>
+      <link>https://skemman.is/handle/1946/43197</link>
+      <description>Þýðingatækni: Þýðing á hluta úr kennslubók í þýðingatækni ásamt greinargerð - Hannes Björn Hafsteinsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43197</guid>
+    </item>
+    <item>
+      <title>Hugvíkkandi áhrif efni og hugmyndir: Þróun fíkniefnaneyslu á Íslandi á árunum 1969-1973 í tengslum við hippatímabilið</title>
+      <link>https://skemman.is/handle/1946/43198</link>
+      <description>Hugvíkkandi áhrif efni og hugmyndir: Þróun fíkniefnaneyslu á Íslandi á árunum 1969-1973 í tengslum við hippatímabilið - Anton Bjarki Jóhannesson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43198</guid>
+    </item>
+    <item>
+      <title>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43199</link>
+      <description>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi - Linda Ósk Viktorsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43199</guid>
+    </item>
     <item>
       <title>Miðborgarleikskóli og fjölskyldumiðstöð : Njálsgata 89, Reykjavík</title>
       <link>https://skemman.is/handle/1946/43169</link>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/43162</link>
       <description>Kæru- og úrskurðarnefndir innan stjórnsýslunnar í ljósi kenninga um framsal valds og ábyrgðar í þingræðisskipulagi - Sif Eir Magnúsdóttir 1971-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43162</guid>
-    </item>
-    <item>
-      <title>Mótun höfuðborgarstefnu: Skoðanir sérfræðinga og kjörinna fulltrúa á mótun höfuðborgarstefnu á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43154</link>
-      <description>Mótun höfuðborgarstefnu: Skoðanir sérfræðinga og kjörinna fulltrúa á mótun höfuðborgarstefnu á Íslandi - Ásdís Sigurbergsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43154</guid>
-    </item>
-    <item>
-      <title>Betri vinnutími í vaktavinnu: „Mér fannst þetta rosalega flókið“</title>
-      <link>https://skemman.is/handle/1946/43155</link>
-      <description>Betri vinnutími í vaktavinnu: „Mér fannst þetta rosalega flókið“ - Sólborg Baldursdóttir 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43155</guid>
-    </item>
-    <item>
-      <title>Digital Transformation in the Aluminum Industry from an Innovation Ecosystem perspective</title>
-      <link>https://skemman.is/handle/1946/43158</link>
-      <description>Digital Transformation in the Aluminum Industry from an Innovation Ecosystem perspective - Arnar Guðnason 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43158</guid>
-    </item>
-    <item>
-      <title>The Monster in Her Blood</title>
-      <link>https://skemman.is/handle/1946/43159</link>
-      <description>The Monster in Her Blood - Regina Marie Wright 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43159</guid>
-    </item>
-    <item>
-      <title>Blóm á leiði Ingibjargar: Sameiginlegt ævisögubrot Ingibjargar Ólafsson og Despinu Kardja og framhaldslíf þess á skjalasafninu</title>
-      <link>https://skemman.is/handle/1946/43157</link>
-      <description>Blóm á leiði Ingibjargar: Sameiginlegt ævisögubrot Ingibjargar Ólafsson og Despinu Kardja og framhaldslíf þess á skjalasafninu - Steinunn Jónsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43157</guid>
-    </item>
-    <item>
-      <title>Hönnun á vinnslulínum um borð í togara fyrir norska útgerðarfélagið Bluewild</title>
-      <link>https://skemman.is/handle/1946/43161</link>
-      <description>Hönnun á vinnslulínum um borð í togara fyrir norska útgerðarfélagið Bluewild - Halldór Vilberg Reynisson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43161</guid>
-    </item>
-    <item>
-      <title>Víkurheiði 14 : hönnun burðarvirkis úr límtré</title>
-      <link>https://skemman.is/handle/1946/43160</link>
-      <description>Víkurheiði 14 : hönnun burðarvirkis úr límtré - Guðbrandur Tumi Gíslason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43160</guid>
-    </item>
-    <item>
-      <title>Lykillinn að farsæld fyrirtækja innan viðskiptaheimsins - Mikilvægi greininga á hegðun og þörfum viðskiptavina og neytenda</title>
-      <link>https://skemman.is/handle/1946/43150</link>
-      <description>Lykillinn að farsæld fyrirtækja innan viðskiptaheimsins - Mikilvægi greininga á hegðun og þörfum viðskiptavina og neytenda - Daníel Sæberg Hrólfsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43150</guid>
-    </item>
-    <item>
-      <title>Hefur peningastefna Seðlabanka Íslands breyst? Samanburður á peningamálastjórn í kjölfar hrunsins árið 2008 og í kjölfar Covid-19</title>
-      <link>https://skemman.is/handle/1946/43153</link>
-      <description>Hefur peningastefna Seðlabanka Íslands breyst? Samanburður á peningamálastjórn í kjölfar hrunsins árið 2008 og í kjölfar Covid-19 - Snorri Egholm Þórsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43153</guid>
     </item>
   </channel>
 </rss>
