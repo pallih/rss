@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 11 Jan 2023 09:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2023 10:00:32 +0000</lastBuildDate>
     <item>
-      <title>Framtakssjóðir á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43191</link>
-      <description>Framtakssjóðir á Íslandi - Haraldur Bergvinsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43191</guid>
+      <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
+      <link>https://skemman.is/handle/1946/43195</link>
+      <description>Policing the Dark Web: The double-edged sword of anonymity online - Rakel Óskarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43195</guid>
+    </item>
+    <item>
+      <title>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“.</title>
+      <link>https://skemman.is/handle/1946/43196</link>
+      <description>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“. - Hrefna Guðmundsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43196</guid>
     </item>
     <item>
       <title>Veltuhraði og ávöxtun: Hefur veltuhraði verðbréfa í íslenskum verðbréfasjóðum áhrif á ávöxtun þeirra?</title>
@@ -27,28 +33,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43193</guid>
     </item>
     <item>
+      <title>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43199</link>
+      <description>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi - Linda Ósk Viktorsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43199</guid>
+    </item>
+    <item>
+      <title>Framtakssjóðir á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43191</link>
+      <description>Framtakssjóðir á Íslandi - Haraldur Bergvinsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43191</guid>
+    </item>
+    <item>
       <title>Græna gullið. Dökku hliðar lárperuiðnaðar í Chile</title>
       <link>https://skemman.is/handle/1946/43194</link>
       <description>Græna gullið. Dökku hliðar lárperuiðnaðar í Chile - Elínrós Árnadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43194</guid>
-    </item>
-    <item>
-      <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
-      <link>https://skemman.is/handle/1946/43195</link>
-      <description>Policing the Dark Web: The double-edged sword of anonymity online - Rakel Óskarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43195</guid>
-    </item>
-    <item>
-      <title>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“.</title>
-      <link>https://skemman.is/handle/1946/43196</link>
-      <description>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“. - Hrefna Guðmundsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43196</guid>
-    </item>
-    <item>
-      <title>Þýðingatækni: Þýðing á hluta úr kennslubók í þýðingatækni ásamt greinargerð</title>
-      <link>https://skemman.is/handle/1946/43197</link>
-      <description>Þýðingatækni: Þýðing á hluta úr kennslubók í þýðingatækni ásamt greinargerð - Hannes Björn Hafsteinsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43197</guid>
     </item>
     <item>
       <title>Hugvíkkandi áhrif efni og hugmyndir: Þróun fíkniefnaneyslu á Íslandi á árunum 1969-1973 í tengslum við hippatímabilið</title>
@@ -57,106 +57,106 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43198</guid>
     </item>
     <item>
-      <title>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43199</link>
-      <description>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi - Linda Ósk Viktorsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43199</guid>
+      <title>Þýðingatækni: Þýðing á hluta úr kennslubók í þýðingatækni ásamt greinargerð</title>
+      <link>https://skemman.is/handle/1946/43197</link>
+      <description>Þýðingatækni: Þýðing á hluta úr kennslubók í þýðingatækni ásamt greinargerð - Hannes Björn Hafsteinsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43197</guid>
+    </item>
+    <item>
+      <title>Orðaheimurinn: Málörvun fjöltyngdra leikskólabarna með kennslustýrðri nálgun</title>
+      <link>https://skemman.is/handle/1946/43203</link>
+      <description>Orðaheimurinn: Málörvun fjöltyngdra leikskólabarna með kennslustýrðri nálgun - Svava Heiðarsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43203</guid>
+    </item>
+    <item>
+      <title>Hver er afstaða fasteignasala til beitingar siðferðislega vafasamra aðferða í viðskiptum? Um siðblindu og ósannindi í samningagerð</title>
+      <link>https://skemman.is/handle/1946/43202</link>
+      <description>Hver er afstaða fasteignasala til beitingar siðferðislega vafasamra aðferða í viðskiptum? Um siðblindu og ósannindi í samningagerð - Erla Sjöfn Jónsdóttir 1962-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43202</guid>
+    </item>
+    <item>
+      <title>Sögustund sem selur : Hvað þarf að hafa í huga þegar „storytelling“ er nýtt sem markaðstól?</title>
+      <link>https://skemman.is/handle/1946/43200</link>
+      <description>Sögustund sem selur : Hvað þarf að hafa í huga þegar „storytelling“ er nýtt sem markaðstól? - Oliver Darrason 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43200</guid>
+    </item>
+    <item>
+      <title>Húrra fyrir Gleði-Glaumi! Sagan af Bláa hnettinum í ljósi sálfræðikenninga</title>
+      <link>https://skemman.is/handle/1946/43201</link>
+      <description>Húrra fyrir Gleði-Glaumi! Sagan af Bláa hnettinum í ljósi sálfræðikenninga - Anna Margrét Kristinsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43201</guid>
+    </item>
+    <item>
+      <title>Hvenær glataði bókstafurinn ‚z‘ sjálfstæðu hljóðgildi sínu? Rannsóknarsöguleg athugun</title>
+      <link>https://skemman.is/handle/1946/43207</link>
+      <description>Hvenær glataði bókstafurinn ‚z‘ sjálfstæðu hljóðgildi sínu? Rannsóknarsöguleg athugun - Halla Hauksdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43207</guid>
+    </item>
+    <item>
+      <title>Quotidian Classics: Nick Hornby's Lad Lit</title>
+      <link>https://skemman.is/handle/1946/43204</link>
+      <description>Quotidian Classics: Nick Hornby's Lad Lit - Marta Ferrer 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43204</guid>
+    </item>
+    <item>
+      <title>Öryggi í fangelsum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43206</link>
+      <description>Öryggi í fangelsum á Íslandi - Björk Jónsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43206</guid>
+    </item>
+    <item>
+      <title>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum</title>
+      <link>https://skemman.is/handle/1946/43205</link>
+      <description>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum - Arnheiður Guðmundsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43205</guid>
+    </item>
+    <item>
+      <title>Assessing the strength of an employer brand: Developing an employer brand measurement tool</title>
+      <link>https://skemman.is/handle/1946/43208</link>
+      <description>Assessing the strength of an employer brand: Developing an employer brand measurement tool - Sonja Sigríður Jónsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43208</guid>
+    </item>
+    <item>
+      <title>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju.</title>
+      <link>https://skemman.is/handle/1946/43209</link>
+      <description>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju. - Klara Malín Þorsteinsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43209</guid>
+    </item>
+    <item>
+      <title>Eins manns rusl er annars manns fjársjóður: Tengsl persónuleikaþátta og kaupákvörðunarstíls þegar kemur að notuðum fatnaði</title>
+      <link>https://skemman.is/handle/1946/43210</link>
+      <description>Eins manns rusl er annars manns fjársjóður: Tengsl persónuleikaþátta og kaupákvörðunarstíls þegar kemur að notuðum fatnaði - Arna Guðnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43210</guid>
+    </item>
+    <item>
+      <title>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“</title>
+      <link>https://skemman.is/handle/1946/43211</link>
+      <description>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“ - Hrefna Guðmundsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43211</guid>
+    </item>
+    <item>
+      <title>Sustaining the unsustainable? The future of dental technicians</title>
+      <link>https://skemman.is/handle/1946/43212</link>
+      <description>Sustaining the unsustainable? The future of dental technicians - Þórða Berg Óskarsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43212</guid>
+    </item>
+    <item>
+      <title>Veltuhraði og ávöxtun: Hefur veltuhraði verðbréfa í íslenskum verðbréfasjóðum áhrif á ávöxtun þeirra?</title>
+      <link>https://skemman.is/handle/1946/43213</link>
+      <description>Veltuhraði og ávöxtun: Hefur veltuhraði verðbréfa í íslenskum verðbréfasjóðum áhrif á ávöxtun þeirra? - Elma Rebekka Högnadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43213</guid>
+    </item>
+    <item>
+      <title>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar</title>
+      <link>https://skemman.is/handle/1946/43214</link>
+      <description>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar - Herdís Magnúsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43214</guid>
     </item>
     <item>
       <title>Miðborgarleikskóli og fjölskyldumiðstöð : Njálsgata 89, Reykjavík</title>
       <link>https://skemman.is/handle/1946/43169</link>
       <description>Miðborgarleikskóli og fjölskyldumiðstöð : Njálsgata 89, Reykjavík - Halldór Ingi Elíasson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43169</guid>
-    </item>
-    <item>
-      <title>Íþrótta- og skólahúsnæði auk tengibyggingar og endurbóta Skólagata, 565 Hofsósi</title>
-      <link>https://skemman.is/handle/1946/43168</link>
-      <description>Íþrótta- og skólahúsnæði auk tengibyggingar og endurbóta Skólagata, 565 Hofsósi - Sigurgeir Fannar Guðmundsson 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43168</guid>
-    </item>
-    <item>
-      <title>Leikskólinn á Seltjarnarnesi : Suðurströnd 1, 170 Seltjarnarnes</title>
-      <link>https://skemman.is/handle/1946/43170</link>
-      <description>Leikskólinn á Seltjarnarnesi : Suðurströnd 1, 170 Seltjarnarnes - Bryndís Björk Sveinbjörnsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43170</guid>
-    </item>
-    <item>
-      <title>Leikskóli í Urriðaholti</title>
-      <link>https://skemman.is/handle/1946/43167</link>
-      <description>Leikskóli í Urriðaholti - Ingvar Heiðmann Birgisson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43167</guid>
-    </item>
-    <item>
-      <title>Hönnun og smíði á tölvustýrðri fjölása vél</title>
-      <link>https://skemman.is/handle/1946/43166</link>
-      <description>Hönnun og smíði á tölvustýrðri fjölása vél - Bjarni Sævar Sveinsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43166</guid>
-    </item>
-    <item>
-      <title>Greining á varmatapi íbúðarhúsnæðis til Svansvottunar</title>
-      <link>https://skemman.is/handle/1946/43163</link>
-      <description>Greining á varmatapi íbúðarhúsnæðis til Svansvottunar - Aron Þorbjörnsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43163</guid>
-    </item>
-    <item>
-      <title>Hönnun og smíði á fjallabrunshjóli</title>
-      <link>https://skemman.is/handle/1946/43165</link>
-      <description>Hönnun og smíði á fjallabrunshjóli - Jökull Þór Kristjánsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43165</guid>
-    </item>
-    <item>
-      <title>Að smána geðsjúkdóma. Hverjir eru ákjósanlegustu markhóparnir til að draga úr smánun alvarlegra geðsjúkdóma?</title>
-      <link>https://skemman.is/handle/1946/43179</link>
-      <description>Að smána geðsjúkdóma. Hverjir eru ákjósanlegustu markhóparnir til að draga úr smánun alvarlegra geðsjúkdóma? - Þorgerður Elva Magnúsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43179</guid>
-    </item>
-    <item>
-      <title>The Anachronistic Skald: the emotionality in Sonatorrek</title>
-      <link>https://skemman.is/handle/1946/43181</link>
-      <description>The Anachronistic Skald: the emotionality in Sonatorrek - Bridget Catherine Leary 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43181</guid>
-    </item>
-    <item>
-      <title>Þegar blöðin börðust um bannið. Hlutverk prentmiðla í kosningabaráttunni fyrir þjóðaratkvæðagreiðsluna um afnám áfengisbannsins árið 1933.</title>
-      <link>https://skemman.is/handle/1946/43164</link>
-      <description>Þegar blöðin börðust um bannið. Hlutverk prentmiðla í kosningabaráttunni fyrir þjóðaratkvæðagreiðsluna um afnám áfengisbannsins árið 1933. - Marinó Óli Guðmundsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43164</guid>
-    </item>
-    <item>
-      <title>„Ég hef verið svo margar konur“ Um sögumanninn í skáldsögunni Elín, ýmislegt eftir Kristínu Eiríksdóttur</title>
-      <link>https://skemman.is/handle/1946/43184</link>
-      <description>„Ég hef verið svo margar konur“ Um sögumanninn í skáldsögunni Elín, ýmislegt eftir Kristínu Eiríksdóttur - Bjarki Steinn Bragason 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43184</guid>
-    </item>
-    <item>
-      <title>Margur er knár þó hann sé smár: Möguleikar og tækifæri Íslands til áhrifa í alþjóðasamfélaginu</title>
-      <link>https://skemman.is/handle/1946/43183</link>
-      <description>Margur er knár þó hann sé smár: Möguleikar og tækifæri Íslands til áhrifa í alþjóðasamfélaginu - Álfheiður Österby Christensen 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43183</guid>
-    </item>
-    <item>
-      <title>Stafræn umbreyting. Hvernig hefja fyrirtæki stafræna vegferð</title>
-      <link>https://skemman.is/handle/1946/43180</link>
-      <description>Stafræn umbreyting. Hvernig hefja fyrirtæki stafræna vegferð - Jóhannes Helgi Guðjónsson 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43180</guid>
-    </item>
-    <item>
-      <title>Átök í austri. Hvað skýrir átök Rússlands og Úkraínu?</title>
-      <link>https://skemman.is/handle/1946/43182</link>
-      <description>Átök í austri. Hvað skýrir átök Rússlands og Úkraínu? - Dagur Kárason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43182</guid>
-    </item>
-    <item>
-      <title>Saumavélar á Íslandi 1865–1920: Útbreiðsla, efnismenning og samfélagsleg áhrif</title>
-      <link>https://skemman.is/handle/1946/43156</link>
-      <description>Saumavélar á Íslandi 1865–1920: Útbreiðsla, efnismenning og samfélagsleg áhrif - Arnheiður Steinþórsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43156</guid>
-    </item>
-    <item>
-      <title>Kæru- og úrskurðarnefndir innan stjórnsýslunnar í ljósi kenninga um framsal valds og ábyrgðar í þingræðisskipulagi</title>
-      <link>https://skemman.is/handle/1946/43162</link>
-      <description>Kæru- og úrskurðarnefndir innan stjórnsýslunnar í ljósi kenninga um framsal valds og ábyrgðar í þingræðisskipulagi - Sif Eir Magnúsdóttir 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43162</guid>
     </item>
   </channel>
 </rss>
