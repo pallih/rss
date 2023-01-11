@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 11 Jan 2023 11:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2023 12:00:29 +0000</lastBuildDate>
     <item>
       <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
       <link>https://skemman.is/handle/1946/43195</link>
@@ -105,40 +105,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43206</guid>
     </item>
     <item>
-      <title>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum</title>
-      <link>https://skemman.is/handle/1946/43205</link>
-      <description>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum - Arnheiður Guðmundsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43205</guid>
-    </item>
-    <item>
-      <title>Assessing the strength of an employer brand: Developing an employer brand measurement tool</title>
-      <link>https://skemman.is/handle/1946/43208</link>
-      <description>Assessing the strength of an employer brand: Developing an employer brand measurement tool - Sonja Sigríður Jónsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43208</guid>
-    </item>
-    <item>
-      <title>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju.</title>
-      <link>https://skemman.is/handle/1946/43209</link>
-      <description>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju. - Klara Malín Þorsteinsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43209</guid>
-    </item>
-    <item>
-      <title>Eins manns rusl er annars manns fjársjóður: Tengsl persónuleikaþátta og kaupákvörðunarstíls þegar kemur að notuðum fatnaði</title>
-      <link>https://skemman.is/handle/1946/43210</link>
-      <description>Eins manns rusl er annars manns fjársjóður: Tengsl persónuleikaþátta og kaupákvörðunarstíls þegar kemur að notuðum fatnaði - Arna Guðnadóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43210</guid>
-    </item>
-    <item>
-      <title>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“</title>
-      <link>https://skemman.is/handle/1946/43211</link>
-      <description>Sjálfbærniviðhorf og ákvarðanataka stjórnenda hönnunarfyrirtækja. „Góð hönnun á ekki að þurfa að segja að hún sé sjálfbær, hún á bara að vera það“ - Hrefna Guðmundsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43211</guid>
-    </item>
-    <item>
-      <title>Sustaining the unsustainable? The future of dental technicians</title>
-      <link>https://skemman.is/handle/1946/43212</link>
-      <description>Sustaining the unsustainable? The future of dental technicians - Þórða Berg Óskarsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43212</guid>
+      <title>Femínísk utanríkisstefna Svíþjóðar. Breyttar áherslur í utanríkismálum eða tímabundin stefnubreyting?</title>
+      <link>https://skemman.is/handle/1946/43215</link>
+      <description>Femínísk utanríkisstefna Svíþjóðar. Breyttar áherslur í utanríkismálum eða tímabundin stefnubreyting? - Pála Hallgrímsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43215</guid>
     </item>
     <item>
       <title>Veltuhraði og ávöxtun: Hefur veltuhraði verðbréfa í íslenskum verðbréfasjóðum áhrif á ávöxtun þeirra?</title>
@@ -147,16 +117,46 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43213</guid>
     </item>
     <item>
+      <title>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum</title>
+      <link>https://skemman.is/handle/1946/43205</link>
+      <description>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum - Arnheiður Guðmundsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43205</guid>
+    </item>
+    <item>
+      <title>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju.</title>
+      <link>https://skemman.is/handle/1946/43209</link>
+      <description>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju. - Klara Malín Þorsteinsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43209</guid>
+    </item>
+    <item>
+      <title>Assessing the strength of an employer brand: Developing an employer brand measurement tool</title>
+      <link>https://skemman.is/handle/1946/43208</link>
+      <description>Assessing the strength of an employer brand: Developing an employer brand measurement tool - Sonja Sigríður Jónsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43208</guid>
+    </item>
+    <item>
+      <title>Sustaining the unsustainable? The future of dental technicians</title>
+      <link>https://skemman.is/handle/1946/43212</link>
+      <description>Sustaining the unsustainable? The future of dental technicians - Þórða Berg Óskarsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43212</guid>
+    </item>
+    <item>
       <title>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar</title>
       <link>https://skemman.is/handle/1946/43214</link>
       <description>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar - Herdís Magnúsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43214</guid>
     </item>
     <item>
-      <title>Femínísk utanríkisstefna Svíþjóðar. Breyttar áherslur í utanríkismálum eða tímabundin stefnubreyting?</title>
-      <link>https://skemman.is/handle/1946/43215</link>
-      <description>Femínísk utanríkisstefna Svíþjóðar. Breyttar áherslur í utanríkismálum eða tímabundin stefnubreyting? - Pála Hallgrímsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43215</guid>
+      <title>Verknámsaðstaða FSU : stækkun verknámsaðstöðu fyrir FSU</title>
+      <link>https://skemman.is/handle/1946/43216</link>
+      <description>Verknámsaðstaða FSU : stækkun verknámsaðstöðu fyrir FSU - Annþór Kristján Karlsson 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43216</guid>
+    </item>
+    <item>
+      <title>Eins manns rusl er annars manns fjársjóður: Tengsl persónuleikaþátta og kaupákvörðunarstíls þegar kemur að notuðum fatnaði</title>
+      <link>https://skemman.is/handle/1946/43210</link>
+      <description>Eins manns rusl er annars manns fjársjóður: Tengsl persónuleikaþátta og kaupákvörðunarstíls þegar kemur að notuðum fatnaði - Arna Guðnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43210</guid>
     </item>
   </channel>
 </rss>
