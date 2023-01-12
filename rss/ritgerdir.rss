@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 11 Jan 2023 17:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 08:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Áhrif tímabundinnar úthlutunar á aflaheimildum</title>
+      <link>https://skemman.is/handle/1946/43242</link>
+      <description>Áhrif tímabundinnar úthlutunar á aflaheimildum - Birta Karen Tryggvadóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43242</guid>
+    </item>
+    <item>
+      <title>"Var þér ekki kennt að virða konur?": Upplifun kvenkyns fjármálastjóra á hindrunum á íslenskum vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/43243</link>
+      <description>"Var þér ekki kennt að virða konur?": Upplifun kvenkyns fjármálastjóra á hindrunum á íslenskum vinnumarkaði - Eygló Snæland Jónsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43243</guid>
+    </item>
     <item>
       <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
       <link>https://skemman.is/handle/1946/43195</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43214</link>
       <description>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar - Herdís Magnúsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43214</guid>
-    </item>
-    <item>
-      <title>Verknámsaðstaða FSU : stækkun verknámsaðstöðu fyrir FSU</title>
-      <link>https://skemman.is/handle/1946/43216</link>
-      <description>Verknámsaðstaða FSU : stækkun verknámsaðstöðu fyrir FSU - Annþór Kristján Karlsson 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43216</guid>
-    </item>
-    <item>
-      <title>Hristisigti fyrir sorpeyðingarstöð</title>
-      <link>https://skemman.is/handle/1946/43227</link>
-      <description>Hristisigti fyrir sorpeyðingarstöð - Magnús Már Hallsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43227</guid>
     </item>
   </channel>
 </rss>
