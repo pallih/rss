@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 12 Jan 2023 08:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 09:00:41 +0000</lastBuildDate>
     <item>
       <title>Áhrif tímabundinnar úthlutunar á aflaheimildum</title>
       <link>https://skemman.is/handle/1946/43242</link>
@@ -19,6 +19,30 @@
       <link>https://skemman.is/handle/1946/43243</link>
       <description>"Var þér ekki kennt að virða konur?": Upplifun kvenkyns fjármálastjóra á hindrunum á íslenskum vinnumarkaði - Eygló Snæland Jónsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43243</guid>
+    </item>
+    <item>
+      <title>Þróun refsinga fyrir kynferðisbrot gegn börnum : brot gegn 202. gr. almennra hegningarlaga nr. 19/1940</title>
+      <link>https://skemman.is/handle/1946/43244</link>
+      <description>Þróun refsinga fyrir kynferðisbrot gegn börnum : brot gegn 202. gr. almennra hegningarlaga nr. 19/1940 - Elísabet Karen Ingibergsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43244</guid>
+    </item>
+    <item>
+      <title>Framsal fullnaðarákvörðunarvalds : beiting 42. gr. sveitarstjórnarlaga nr. 138/2011 í samþykktum um stjórn sveitarfélaga</title>
+      <link>https://skemman.is/handle/1946/43245</link>
+      <description>Framsal fullnaðarákvörðunarvalds : beiting 42. gr. sveitarstjórnarlaga nr. 138/2011 í samþykktum um stjórn sveitarfélaga - Sonja Lind Estrajher Eyglóardóttir 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43245</guid>
+    </item>
+    <item>
+      <title>Greiðsla sanngirnisbóta á Íslandi : er tilefni til breytinga á íslenskri löggjöf?</title>
+      <link>https://skemman.is/handle/1946/43246</link>
+      <description>Greiðsla sanngirnisbóta á Íslandi : er tilefni til breytinga á íslenskri löggjöf? - Anna Sofía Rosdahl 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43246</guid>
+    </item>
+    <item>
+      <title>Misnotkun á markaðsráðandi stöðu : breyttar áherslur í evrópskri framkvæmd og hugsanleg áhrif á íslenskan rétt</title>
+      <link>https://skemman.is/handle/1946/43247</link>
+      <description>Misnotkun á markaðsráðandi stöðu : breyttar áherslur í evrópskri framkvæmd og hugsanleg áhrif á íslenskan rétt - Björn Leví Óskarsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43247</guid>
     </item>
     <item>
       <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/43205</link>
       <description>Borgaraleg réttindi í skugga öryggis : óvenjuleg valdbeiting í stríðinu gegn hryðjuverkum - Arnheiður Guðmundsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43205</guid>
-    </item>
-    <item>
-      <title>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju.</title>
-      <link>https://skemman.is/handle/1946/43209</link>
-      <description>Af náttúrunnar hendi: Um ómennska gjörninga í ljósi loftslagsbreytinga og nýefnishyggju. - Klara Malín Þorsteinsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43209</guid>
-    </item>
-    <item>
-      <title>Assessing the strength of an employer brand: Developing an employer brand measurement tool</title>
-      <link>https://skemman.is/handle/1946/43208</link>
-      <description>Assessing the strength of an employer brand: Developing an employer brand measurement tool - Sonja Sigríður Jónsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43208</guid>
-    </item>
-    <item>
-      <title>Sustaining the unsustainable? The future of dental technicians</title>
-      <link>https://skemman.is/handle/1946/43212</link>
-      <description>Sustaining the unsustainable? The future of dental technicians - Þórða Berg Óskarsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43212</guid>
-    </item>
-    <item>
-      <title>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar</title>
-      <link>https://skemman.is/handle/1946/43214</link>
-      <description>Uppbygging Kjalvegar F35 : Kerlingarfjallavegur - Svartárbotnar - Herdís Magnúsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43214</guid>
     </item>
   </channel>
 </rss>
