@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 12 Jan 2023 12:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 13:05:40 +0000</lastBuildDate>
     <item>
       <title>Löggjöf Íslands með tilliti til framtíðarverkefna sem snúa að kolefnisföngun og förgun</title>
       <link>https://skemman.is/handle/1946/43250</link>
@@ -81,12 +81,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43247</guid>
     </item>
     <item>
-      <title>Greiðsla sanngirnisbóta á Íslandi : er tilefni til breytinga á íslenskri löggjöf?</title>
-      <link>https://skemman.is/handle/1946/43246</link>
-      <description>Greiðsla sanngirnisbóta á Íslandi : er tilefni til breytinga á íslenskri löggjöf? - Anna Sofía Rosdahl 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43246</guid>
-    </item>
-    <item>
       <title>Áhrif tímabundinnar úthlutunar á aflaheimildum</title>
       <link>https://skemman.is/handle/1946/43242</link>
       <description>Áhrif tímabundinnar úthlutunar á aflaheimildum - Birta Karen Tryggvadóttir 2000-</description>
@@ -117,6 +111,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43249</guid>
     </item>
     <item>
+      <title>Greiðsla sanngirnisbóta á Íslandi : er tilefni til breytinga á íslenskri löggjöf?</title>
+      <link>https://skemman.is/handle/1946/43246</link>
+      <description>Greiðsla sanngirnisbóta á Íslandi : er tilefni til breytinga á íslenskri löggjöf? - Anna Sofía Rosdahl 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43246</guid>
+    </item>
+    <item>
+      <title>Staða Íslands vegna innleiðingar seðlabankarafeyris og möguleg þjóðhagsleg áhrif  : staða nágrannaríkja og horfur hagsmunaaðila hérlendis</title>
+      <link>https://skemman.is/handle/1946/43260</link>
+      <description>Staða Íslands vegna innleiðingar seðlabankarafeyris og möguleg þjóðhagsleg áhrif  : staða nágrannaríkja og horfur hagsmunaaðila hérlendis - Edda Björg Heitmann 2000-; Hlín Sigurðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43260</guid>
+    </item>
+    <item>
+      <title>Erfðabreytileiki í MC1R geninu í muskóttum (glóbrúnum) íslenskum hrossum</title>
+      <link>https://skemman.is/handle/1946/43261</link>
+      <description>Erfðabreytileiki í MC1R geninu í muskóttum (glóbrúnum) íslenskum hrossum - Hera Sól Hafsteinsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43261</guid>
+    </item>
+    <item>
       <title>Policing the Dark Web: The double-edged sword of anonymity online</title>
       <link>https://skemman.is/handle/1946/43195</link>
       <description>Policing the Dark Web: The double-edged sword of anonymity online - Rakel Óskarsdóttir 2001-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43199</link>
       <description>"Við erum oft kallaðar "bitches and hoes"": Orðræðugreining á upplifun ungra kvenkyns tölvuleikjaspilara á Íslandi - Linda Ósk Viktorsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43199</guid>
-    </item>
-    <item>
-      <title>Framtakssjóðir á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43191</link>
-      <description>Framtakssjóðir á Íslandi - Haraldur Bergvinsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43191</guid>
-    </item>
-    <item>
-      <title>Græna gullið. Dökku hliðar lárperuiðnaðar í Chile</title>
-      <link>https://skemman.is/handle/1946/43194</link>
-      <description>Græna gullið. Dökku hliðar lárperuiðnaðar í Chile - Elínrós Árnadóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43194</guid>
     </item>
   </channel>
 </rss>
