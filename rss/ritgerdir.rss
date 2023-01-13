@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 13 Jan 2023 14:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2023 15:00:34 +0000</lastBuildDate>
     <item>
       <title>Ný lönd, gamlar sögur</title>
       <link>https://skemman.is/handle/1946/43271</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/43275</link>
       <description>Samræmist skipulag dómsmálaráðuneytisins verkefnum þess og umhverfi - Aðalbjört María Sigurðardóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43275</guid>
+    </item>
+    <item>
+      <title>Recreating acoustics</title>
+      <link>https://skemman.is/handle/1946/43276</link>
+      <description>Recreating acoustics - Páll Ingvi Logason 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43276</guid>
     </item>
     <item>
       <title>Stigma towards eating disorders : differences in age, gender, and education in an Icelandic sample</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43253</link>
       <description>Predicting purchases and churn for paying customers using player behavioral data - Ragnar Stefánsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43253</guid>
-    </item>
-    <item>
-      <title>Er litið framhjá fjölbreytni innan tegunda í  íslenskum fjöruvistkerfum?</title>
-      <link>https://skemman.is/handle/1946/43256</link>
-      <description>Er litið framhjá fjölbreytni innan tegunda í  íslenskum fjöruvistkerfum? - Marinó Muggur Þorbjarnarson 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43256</guid>
     </item>
   </channel>
 </rss>
