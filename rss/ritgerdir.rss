@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 16 Jan 2023 08:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2023 09:00:27 +0000</lastBuildDate>
+    <item>
+      <title>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið?</title>
+      <link>https://skemman.is/handle/1946/43279</link>
+      <description>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið? - Brynjar Smári Elvarsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43279</guid>
+    </item>
     <item>
       <title>Automatic Condition Monitoring System for Pneumatic Actuators: An acoustic approach</title>
       <link>https://skemman.is/handle/1946/43277</link>
@@ -27,22 +33,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43271</guid>
     </item>
     <item>
-      <title>Meðferðarúrræði barna og unglinga með vímuefnavanda á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43272</link>
-      <description>Meðferðarúrræði barna og unglinga með vímuefnavanda á Íslandi - Erna Norðdahl 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43272</guid>
-    </item>
-    <item>
       <title>Þegar feðraveldið er skrifað í stein, byggingar og götur</title>
       <link>https://skemman.is/handle/1946/43273</link>
       <description>Þegar feðraveldið er skrifað í stein, byggingar og götur - Sunna Sigmarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43273</guid>
-    </item>
-    <item>
-      <title>Félagsleg úrræði fyrir foreldra undir 18 ára aldri</title>
-      <link>https://skemman.is/handle/1946/43274</link>
-      <description>Félagsleg úrræði fyrir foreldra undir 18 ára aldri - Hafdís Hilmarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43274</guid>
     </item>
     <item>
       <title>Samræmist skipulag dómsmálaráðuneytisins verkefnum þess og umhverfi</title>
@@ -51,10 +45,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43275</guid>
     </item>
     <item>
+      <title>Félagsleg úrræði fyrir foreldra undir 18 ára aldri</title>
+      <link>https://skemman.is/handle/1946/43274</link>
+      <description>Félagsleg úrræði fyrir foreldra undir 18 ára aldri - Hafdís Hilmarsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43274</guid>
+    </item>
+    <item>
       <title>Recreating acoustics</title>
       <link>https://skemman.is/handle/1946/43276</link>
       <description>Recreating acoustics - Páll Ingvi Logason 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43276</guid>
+    </item>
+    <item>
+      <title>Meðferðarúrræði barna og unglinga með vímuefnavanda á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43272</link>
+      <description>Meðferðarúrræði barna og unglinga með vímuefnavanda á Íslandi - Erna Norðdahl 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43272</guid>
     </item>
     <item>
       <title>Stigma towards eating disorders : differences in age, gender, and education in an Icelandic sample</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43252</link>
       <description>Áhrif tilkomu Landsréttar á dómsniðurstöður í nauðgunarmálum - Þorsteinn Hrannar Svavarsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43252</guid>
-    </item>
-    <item>
-      <title>Remote leadership : enhancing leadership self-efficacy within a virtual context</title>
-      <link>https://skemman.is/handle/1946/43255</link>
-      <description>Remote leadership : enhancing leadership self-efficacy within a virtual context - Isabell Wirth 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43255</guid>
     </item>
   </channel>
 </rss>
