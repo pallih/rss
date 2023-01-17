@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 17 Jan 2023 08:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2023 09:00:40 +0000</lastBuildDate>
     <item>
       <title>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið?</title>
       <link>https://skemman.is/handle/1946/43279</link>
@@ -69,22 +69,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43285</guid>
     </item>
     <item>
+      <title>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet</title>
+      <link>https://skemman.is/handle/1946/43292</link>
+      <description>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet - Ásdís Karen Waltersdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43292</guid>
+    </item>
+    <item>
       <title>Kvíði meðal barna og unglinga Mikilvægi skólafélagsráðgjafa og snemmtækrar íhlutunar í skólakerfinu</title>
       <link>https://skemman.is/handle/1946/43278</link>
       <description>Kvíði meðal barna og unglinga Mikilvægi skólafélagsráðgjafa og snemmtækrar íhlutunar í skólakerfinu - Hanna Stefanía Björnsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43278</guid>
-    </item>
-    <item>
-      <title>League Manager : hópgreinar</title>
-      <link>https://skemman.is/handle/1946/43288</link>
-      <description>League Manager : hópgreinar - Arnór Brynjólfsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43288</guid>
-    </item>
-    <item>
-      <title>SaaS Discovery : discovering methods to enumerate managed third-party SaaS platforms utilized by organizations with an online presence</title>
-      <link>https://skemman.is/handle/1946/43289</link>
-      <description>SaaS Discovery : discovering methods to enumerate managed third-party SaaS platforms utilized by organizations with an online presence - Bergur Már Guðmundsson 2000-; Jóhann Berentsson 1988-; Valdimar Már Pétursson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43289</guid>
     </item>
     <item>
       <title>Optimization of production plans for generic pharmaceutical companies</title>
@@ -99,10 +93,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43291</guid>
     </item>
     <item>
-      <title>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet</title>
-      <link>https://skemman.is/handle/1946/43292</link>
-      <description>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet - Ásdís Karen Waltersdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43292</guid>
+      <title>Viðskiptavinamiðað vörumerkjavirði Bónuss og Krónunnar</title>
+      <link>https://skemman.is/handle/1946/43294</link>
+      <description>Viðskiptavinamiðað vörumerkjavirði Bónuss og Krónunnar - Anna María Birgisdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43294</guid>
+    </item>
+    <item>
+      <title>SaaS Discovery : discovering methods to enumerate managed third-party SaaS platforms utilized by organizations with an online presence</title>
+      <link>https://skemman.is/handle/1946/43289</link>
+      <description>SaaS Discovery : discovering methods to enumerate managed third-party SaaS platforms utilized by organizations with an online presence - Bergur Már Guðmundsson 2000-; Jóhann Berentsson 1988-; Valdimar Már Pétursson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43289</guid>
     </item>
     <item>
       <title>The use of HTLS conductors and monitoring devices for de-icing transmission lines</title>
@@ -111,10 +111,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43293</guid>
     </item>
     <item>
-      <title>Viðskiptavinamiðað vörumerkjavirði Bónuss og Krónunnar</title>
-      <link>https://skemman.is/handle/1946/43294</link>
-      <description>Viðskiptavinamiðað vörumerkjavirði Bónuss og Krónunnar - Anna María Birgisdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43294</guid>
+      <title>League Manager : hópgreinar</title>
+      <link>https://skemman.is/handle/1946/43288</link>
+      <description>League Manager : hópgreinar - Arnór Brynjólfsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43288</guid>
     </item>
     <item>
       <title>Ný lönd, gamlar sögur</title>
