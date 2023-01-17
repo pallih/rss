@@ -7,12 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 17 Jan 2023 11:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2023 12:00:28 +0000</lastBuildDate>
     <item>
       <title>Þungunarrofslöggjöf í Póllandi</title>
       <link>https://skemman.is/handle/1946/43295</link>
       <description>Þungunarrofslöggjöf í Póllandi - Þórunn Soffía Snæhólm 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43295</guid>
+    </item>
+    <item>
+      <title>Rafsegulsviðssamhæfi (e. Electromagnetic Compatibility)</title>
+      <link>https://skemman.is/handle/1946/43296</link>
+      <description>Rafsegulsviðssamhæfi (e. Electromagnetic Compatibility) - Atli Örn Friðmarsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43296</guid>
+    </item>
+    <item>
+      <title>Suðurhella 12-20 : hönnun burðarvirkis</title>
+      <link>https://skemman.is/handle/1946/43297</link>
+      <description>Suðurhella 12-20 : hönnun burðarvirkis - Bragi Einarsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43297</guid>
+    </item>
+    <item>
+      <title>Raflagna- og lýsingarhönnun Borgarlandi 46</title>
+      <link>https://skemman.is/handle/1946/43298</link>
+      <description>Raflagna- og lýsingarhönnun Borgarlandi 46 - Guðjón Viðarsson 1981-; Steinar Hermannsson 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43298</guid>
     </item>
     <item>
       <title>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið?</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/43275</link>
       <description>Samræmist skipulag dómsmálaráðuneytisins verkefnum þess og umhverfi - Aðalbjört María Sigurðardóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43275</guid>
-    </item>
-    <item>
-      <title>Félagsleg úrræði fyrir foreldra undir 18 ára aldri</title>
-      <link>https://skemman.is/handle/1946/43274</link>
-      <description>Félagsleg úrræði fyrir foreldra undir 18 ára aldri - Hafdís Hilmarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43274</guid>
-    </item>
-    <item>
-      <title>Recreating acoustics</title>
-      <link>https://skemman.is/handle/1946/43276</link>
-      <description>Recreating acoustics - Páll Ingvi Logason 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43276</guid>
-    </item>
-    <item>
-      <title>Meðferðarúrræði barna og unglinga með vímuefnavanda á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43272</link>
-      <description>Meðferðarúrræði barna og unglinga með vímuefnavanda á Íslandi - Erna Norðdahl 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43272</guid>
     </item>
   </channel>
 </rss>
