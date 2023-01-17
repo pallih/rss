@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 17 Jan 2023 13:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2023 14:00:34 +0000</lastBuildDate>
     <item>
       <title>Þungunarrofslöggjöf í Póllandi</title>
       <link>https://skemman.is/handle/1946/43295</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/43299</link>
       <description>Liðavernd samfasa rafala - Þorgeir Þorsteinsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43299</guid>
+    </item>
+    <item>
+      <title>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir</title>
+      <link>https://skemman.is/handle/1946/43300</link>
+      <description>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir - Davíð Reginsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43300</guid>
     </item>
     <item>
       <title>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43271</link>
       <description>Ný lönd, gamlar sögur - Valur Snær Gunnarsson 1976-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43271</guid>
-    </item>
-    <item>
-      <title>Þegar feðraveldið er skrifað í stein, byggingar og götur</title>
-      <link>https://skemman.is/handle/1946/43273</link>
-      <description>Þegar feðraveldið er skrifað í stein, byggingar og götur - Sunna Sigmarsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43273</guid>
     </item>
   </channel>
 </rss>
