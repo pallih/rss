@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 18 Jan 2023 10:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 11:00:32 +0000</lastBuildDate>
     <item>
       <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
       <link>https://skemman.is/handle/1946/43301</link>
       <description>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu - Kristbjörg Eva Andersen Ramos 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43301</guid>
+    </item>
+    <item>
+      <title>Hjúkrunarheimili á Höfn í Hornafirði</title>
+      <link>https://skemman.is/handle/1946/43302</link>
+      <description>Hjúkrunarheimili á Höfn í Hornafirði - Birkir Birgisson 1962-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43302</guid>
     </item>
     <item>
       <title>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43293</link>
       <description>The use of HTLS conductors and monitoring devices for de-icing transmission lines - Grétar Áss Sigurðsson 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43293</guid>
-    </item>
-    <item>
-      <title>League Manager : hópgreinar</title>
-      <link>https://skemman.is/handle/1946/43288</link>
-      <description>League Manager : hópgreinar - Arnór Brynjólfsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43288</guid>
     </item>
   </channel>
 </rss>
