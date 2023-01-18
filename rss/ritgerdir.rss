@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 18 Jan 2023 11:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 12:00:31 +0000</lastBuildDate>
     <item>
       <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
       <link>https://skemman.is/handle/1946/43301</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/43302</link>
       <description>Hjúkrunarheimili á Höfn í Hornafirði - Birkir Birgisson 1962-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43302</guid>
+    </item>
+    <item>
+      <title>Almenn raflagnahönnun og lýsingarhönnun í einbýlishús</title>
+      <link>https://skemman.is/handle/1946/43303</link>
+      <description>Almenn raflagnahönnun og lýsingarhönnun í einbýlishús - Sverrir Sverrisson 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43303</guid>
+    </item>
+    <item>
+      <title>Framtíðarsýn í lagningu 132 kV jarðstrengja á höfuðborgarsvæðinu</title>
+      <link>https://skemman.is/handle/1946/43304</link>
+      <description>Framtíðarsýn í lagningu 132 kV jarðstrengja á höfuðborgarsvæðinu - Guðmundur Garðar Gíslason 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43304</guid>
     </item>
     <item>
       <title>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43294</link>
       <description>Viðskiptavinamiðað vörumerkjavirði Bónuss og Krónunnar - Anna María Birgisdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43294</guid>
-    </item>
-    <item>
-      <title>SaaS Discovery : discovering methods to enumerate managed third-party SaaS platforms utilized by organizations with an online presence</title>
-      <link>https://skemman.is/handle/1946/43289</link>
-      <description>SaaS Discovery : discovering methods to enumerate managed third-party SaaS platforms utilized by organizations with an online presence - Bergur Már Guðmundsson 2000-; Jóhann Berentsson 1988-; Valdimar Már Pétursson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43289</guid>
-    </item>
-    <item>
-      <title>The use of HTLS conductors and monitoring devices for de-icing transmission lines</title>
-      <link>https://skemman.is/handle/1946/43293</link>
-      <description>The use of HTLS conductors and monitoring devices for de-icing transmission lines - Grétar Áss Sigurðsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43293</guid>
     </item>
   </channel>
 </rss>
