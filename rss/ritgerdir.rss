@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 19 Jan 2023 09:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2023 10:00:36 +0000</lastBuildDate>
     <item>
       <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
       <link>https://skemman.is/handle/1946/43307</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43308</link>
       <description>Imbalanced learning in AML - Steinar Ágúst Steinarsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43308</guid>
+    </item>
+    <item>
+      <title>Corona crisis effects on Icelandic sport clubs in terms of human resource, finance and structural capacity</title>
+      <link>https://skemman.is/handle/1946/43309</link>
+      <description>Corona crisis effects on Icelandic sport clubs in terms of human resource, finance and structural capacity - Kolbrún Helga Hansen 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43309</guid>
     </item>
     <item>
       <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43285</link>
       <description>Caren Lite - Atli Karl Sigurbjartsson 1997-; Breki Harðarson 1996-; Róbert Ingi Arnarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43285</guid>
-    </item>
-    <item>
-      <title>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet</title>
-      <link>https://skemman.is/handle/1946/43292</link>
-      <description>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet - Ásdís Karen Waltersdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43292</guid>
     </item>
   </channel>
 </rss>
