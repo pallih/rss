@@ -7,12 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 19 Jan 2023 08:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2023 09:00:33 +0000</lastBuildDate>
+    <item>
+      <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
+      <link>https://skemman.is/handle/1946/43307</link>
+      <description>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur - Þóra María Sigurjónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43307</guid>
+    </item>
+    <item>
+      <title>Imbalanced learning in AML</title>
+      <link>https://skemman.is/handle/1946/43308</link>
+      <description>Imbalanced learning in AML - Steinar Ágúst Steinarsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43308</guid>
+    </item>
     <item>
       <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
       <link>https://skemman.is/handle/1946/43301</link>
       <description>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu - Kristbjörg Eva Andersen Ramos 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43301</guid>
+    </item>
+    <item>
+      <title>Kostnaðaráætlanir hjá Vegagerðinni : aðferðir til að áætla ófyrirséðan kostnað eftir hönnunarstigum</title>
+      <link>https://skemman.is/handle/1946/43306</link>
+      <description>Kostnaðaráætlanir hjá Vegagerðinni : aðferðir til að áætla ófyrirséðan kostnað eftir hönnunarstigum - Birgitta Rán Ásgeirsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43306</guid>
+    </item>
+    <item>
+      <title>Electric vehicle charge scheduling with deep reinforcement learning agents</title>
+      <link>https://skemman.is/handle/1946/43305</link>
+      <description>Electric vehicle charge scheduling with deep reinforcement learning agents - Björn Ólafur Björnsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43305</guid>
+    </item>
+    <item>
+      <title>Framtíðarsýn í lagningu 132 kV jarðstrengja á höfuðborgarsvæðinu</title>
+      <link>https://skemman.is/handle/1946/43304</link>
+      <description>Framtíðarsýn í lagningu 132 kV jarðstrengja á höfuðborgarsvæðinu - Guðmundur Garðar Gíslason 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43304</guid>
     </item>
     <item>
       <title>Hjúkrunarheimili á Höfn í Hornafirði</title>
@@ -25,24 +55,6 @@
       <link>https://skemman.is/handle/1946/43303</link>
       <description>Almenn raflagnahönnun og lýsingarhönnun í einbýlishús - Sverrir Sverrisson 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43303</guid>
-    </item>
-    <item>
-      <title>Framtíðarsýn í lagningu 132 kV jarðstrengja á höfuðborgarsvæðinu</title>
-      <link>https://skemman.is/handle/1946/43304</link>
-      <description>Framtíðarsýn í lagningu 132 kV jarðstrengja á höfuðborgarsvæðinu - Guðmundur Garðar Gíslason 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43304</guid>
-    </item>
-    <item>
-      <title>Electric vehicle charge scheduling with deep reinforcement learning agents</title>
-      <link>https://skemman.is/handle/1946/43305</link>
-      <description>Electric vehicle charge scheduling with deep reinforcement learning agents - Björn Ólafur Björnsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43305</guid>
-    </item>
-    <item>
-      <title>Kostnaðaráætlanir hjá Vegagerðinni : aðferðir til að áætla ófyrirséðan kostnað eftir hönnunarstigum</title>
-      <link>https://skemman.is/handle/1946/43306</link>
-      <description>Kostnaðaráætlanir hjá Vegagerðinni : aðferðir til að áætla ófyrirséðan kostnað eftir hönnunarstigum - Birgitta Rán Ásgeirsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43306</guid>
     </item>
     <item>
       <title>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43292</link>
       <description>Analysing the Icelandic vehicle fleet and projecting the future development of CO2 emissions from the passenger vehicle fleet - Ásdís Karen Waltersdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43292</guid>
-    </item>
-    <item>
-      <title>Kvíði meðal barna og unglinga Mikilvægi skólafélagsráðgjafa og snemmtækrar íhlutunar í skólakerfinu</title>
-      <link>https://skemman.is/handle/1946/43278</link>
-      <description>Kvíði meðal barna og unglinga Mikilvægi skólafélagsráðgjafa og snemmtækrar íhlutunar í skólakerfinu - Hanna Stefanía Björnsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43278</guid>
-    </item>
-    <item>
-      <title>Optimization of production plans for generic pharmaceutical companies</title>
-      <link>https://skemman.is/handle/1946/43290</link>
-      <description>Optimization of production plans for generic pharmaceutical companies - Andri Sveinn Ingólfsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43290</guid>
     </item>
   </channel>
 </rss>
