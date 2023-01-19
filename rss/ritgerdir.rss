@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 19 Jan 2023 11:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2023 12:00:36 +0000</lastBuildDate>
     <item>
       <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
       <link>https://skemman.is/handle/1946/43307</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/43310</link>
       <description>Automatic behavior classification of aquatic animals in underwater videos - Orri Steinn Guðfinnsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43310</guid>
+    </item>
+    <item>
+      <title>Why should you carbon offset your flights? An analysis of people’s willingness to pay for carbon offset and thereby offset the carbon footprints of flying.</title>
+      <link>https://skemman.is/handle/1946/43311</link>
+      <description>Why should you carbon offset your flights? An analysis of people’s willingness to pay for carbon offset and thereby offset the carbon footprints of flying. - Andrea Hanna Þorsteinsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43311</guid>
+    </item>
+    <item>
+      <title>Innovative Digitalization and Agile Project Management: Icelandair’s “Maintener” Software Experience</title>
+      <link>https://skemman.is/handle/1946/43312</link>
+      <description>Innovative Digitalization and Agile Project Management: Icelandair’s “Maintener” Software Experience - Júlía Helgadóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43312</guid>
     </item>
     <item>
       <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43287</link>
       <description>Reserva : booking engine profiles - Ágúst Örn Eiðsson 2000-; Baldur Bragi Baldursson 1994-; Bjarki Þór Jónsson 2000-; Kolbeinn Ingólfsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43287</guid>
-    </item>
-    <item>
-      <title>Nemendaauðkenning</title>
-      <link>https://skemman.is/handle/1946/43281</link>
-      <description>Nemendaauðkenning - Henrý Þór Baldursson 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43281</guid>
-    </item>
-    <item>
-      <title>Nexus</title>
-      <link>https://skemman.is/handle/1946/43280</link>
-      <description>Nexus - Shafagh Pirouz 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43280</guid>
     </item>
   </channel>
 </rss>
