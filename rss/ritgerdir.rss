@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 20 Jan 2023 11:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2023 12:00:39 +0000</lastBuildDate>
     <item>
       <title>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki</title>
       <link>https://skemman.is/handle/1946/43313</link>
       <description>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki - Viktor Snær Rúnarsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43313</guid>
+    </item>
+    <item>
+      <title>Predicting football match outcomes with fantasy league data and deep learning</title>
+      <link>https://skemman.is/handle/1946/43314</link>
+      <description>Predicting football match outcomes with fantasy league data and deep learning - Sveinn Henrik Kristinsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43314</guid>
     </item>
     <item>
       <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43286</link>
       <description>Hotsarch - Einar Már Eggertsson 1987-; Steinn Örvar Bjarnarson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43286</guid>
-    </item>
-    <item>
-      <title>PaxPortal : a project for Origo</title>
-      <link>https://skemman.is/handle/1946/43284</link>
-      <description>PaxPortal : a project for Origo - Hallur Hermannsson Aspar 1998-; Hyo-sam Nandkisore 1988-; Reynir Gunnarsson 1983-; Steinar Ísaksson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43284</guid>
     </item>
   </channel>
 </rss>
