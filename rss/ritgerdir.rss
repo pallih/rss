@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 23 Jan 2023 10:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 11:00:30 +0000</lastBuildDate>
     <item>
       <title>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið</title>
       <link>https://skemman.is/handle/1946/43315</link>
       <description>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið - Hulda Þórunn O. Þóroddsdóttir 1998-; Ingibjörg Jóna G. Björnsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43315</guid>
+    </item>
+    <item>
+      <title>Simulation and analysis of inbound baggage handling at Keflavík Airport</title>
+      <link>https://skemman.is/handle/1946/43316</link>
+      <description>Simulation and analysis of inbound baggage handling at Keflavík Airport - Kristinn Ingi Guðjónsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43316</guid>
     </item>
     <item>
       <title>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43282</link>
       <description>European sleep questionnaire : sleep revolution digital platform - Helga Björt Lilliendahl 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43282</guid>
-    </item>
-    <item>
-      <title>Hugtakasafn ferðaþjónustunnar</title>
-      <link>https://skemman.is/handle/1946/43283</link>
-      <description>Hugtakasafn ferðaþjónustunnar - Sindri Másson 2000-; Stefán Orri Eyþórsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43283</guid>
     </item>
   </channel>
 </rss>
