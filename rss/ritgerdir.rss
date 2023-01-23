@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 23 Jan 2023 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 13:04:51 +0000</lastBuildDate>
     <item>
       <title>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið</title>
       <link>https://skemman.is/handle/1946/43315</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/43318</link>
       <description>Predicting early-stage Parkinson’s disease using virtual reality and biomedical parameters - Þorbjörg Ída Ívarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43318</guid>
+    </item>
+    <item>
+      <title>Towards a quantitative assessment of early-stage Parkinson’s disease using BioVRSea paradigm</title>
+      <link>https://skemman.is/handle/1946/43319</link>
+      <description>Towards a quantitative assessment of early-stage Parkinson’s disease using BioVRSea paradigm - Sigrún Anna Auðardóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43319</guid>
     </item>
     <item>
       <title>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43299</link>
       <description>Liðavernd samfasa rafala - Þorgeir Þorsteinsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43299</guid>
-    </item>
-    <item>
-      <title>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið?</title>
-      <link>https://skemman.is/handle/1946/43279</link>
-      <description>Stýrivextir og verðbólga - Hver er áætluð framtíðarþróun verðbólgu á Íslandi til styttri tíma litið? - Brynjar Smári Elvarsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43279</guid>
     </item>
   </channel>
 </rss>
