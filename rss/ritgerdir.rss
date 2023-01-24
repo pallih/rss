@@ -7,24 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 24 Jan 2023 13:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2023 14:00:33 +0000</lastBuildDate>
     <item>
       <title>The Children’s Yale-Brown Obsessive-Compulsive Scale: Factor analytic evaluation and literature review</title>
       <link>https://skemman.is/handle/1946/43320</link>
       <description>The Children’s Yale-Brown Obsessive-Compulsive Scale: Factor analytic evaluation and literature review - Bergrós Skúladóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43320</guid>
-    </item>
-    <item>
-      <title>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið</title>
-      <link>https://skemman.is/handle/1946/43315</link>
-      <description>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið - Hulda Þórunn O. Þóroddsdóttir 1998-; Ingibjörg Jóna G. Björnsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43315</guid>
-    </item>
-    <item>
-      <title>Simulation and analysis of inbound baggage handling at Keflavík Airport</title>
-      <link>https://skemman.is/handle/1946/43316</link>
-      <description>Simulation and analysis of inbound baggage handling at Keflavík Airport - Kristinn Ingi Guðjónsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43316</guid>
     </item>
     <item>
       <title>Implementation and testing of a novel and customizable digital health platform and study on automatic medication dispensers in Iceland</title>
@@ -45,6 +33,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43319</guid>
     </item>
     <item>
+      <title>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið</title>
+      <link>https://skemman.is/handle/1946/43315</link>
+      <description>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið - Hulda Þórunn O. Þóroddsdóttir 1998-; Ingibjörg Jóna G. Björnsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43315</guid>
+    </item>
+    <item>
+      <title>Simulation and analysis of inbound baggage handling at Keflavík Airport</title>
+      <link>https://skemman.is/handle/1946/43316</link>
+      <description>Simulation and analysis of inbound baggage handling at Keflavík Airport - Kristinn Ingi Guðjónsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43316</guid>
+    </item>
+    <item>
       <title>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki</title>
       <link>https://skemman.is/handle/1946/43313</link>
       <description>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki - Viktor Snær Rúnarsson 1996-</description>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/43314</link>
       <description>Predicting football match outcomes with fantasy league data and deep learning - Sveinn Henrik Kristinsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43314</guid>
+    </item>
+    <item>
+      <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
+      <link>https://skemman.is/handle/1946/43307</link>
+      <description>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur - Þóra María Sigurjónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43307</guid>
     </item>
     <item>
       <title>Why should you carbon offset your flights? An analysis of people’s willingness to pay for carbon offset and thereby offset the carbon footprints of flying.</title>
@@ -85,12 +91,6 @@
       <link>https://skemman.is/handle/1946/43312</link>
       <description>Innovative Digitalization and Agile Project Management: Icelandair’s “Maintener” Software Experience - Júlía Helgadóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43312</guid>
-    </item>
-    <item>
-      <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
-      <link>https://skemman.is/handle/1946/43307</link>
-      <description>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur - Þóra María Sigurjónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43307</guid>
     </item>
     <item>
       <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
