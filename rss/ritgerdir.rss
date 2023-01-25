@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 25 Jan 2023 08:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 09:00:35 +0000</lastBuildDate>
     <item>
       <title>Prediction of Injection-Induced Cooling using Tracer Test Data in the Hellisheiði Geothermal Field, SW-Iceland  Comparison of Numerical and Analytical Modelling Approaches</title>
       <link>https://skemman.is/handle/1946/43321</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43322</link>
       <description>Computational Fluid Dynamics Simulation of a Box Designed to Ventilate Water Mist - Hafþór Helgi Heiðarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43322</guid>
+    </item>
+    <item>
+      <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
+      <link>https://skemman.is/handle/1946/43323</link>
+      <description>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis - Giulia Bellon 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43323</guid>
     </item>
     <item>
       <title>The Children’s Yale-Brown Obsessive-Compulsive Scale: Factor analytic evaluation and literature review</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43295</link>
       <description>Þungunarrofslöggjöf í Póllandi - Þórunn Soffía Snæhólm 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43295</guid>
-    </item>
-    <item>
-      <title>Rafsegulsviðssamhæfi (e. Electromagnetic Compatibility)</title>
-      <link>https://skemman.is/handle/1946/43296</link>
-      <description>Rafsegulsviðssamhæfi (e. Electromagnetic Compatibility) - Atli Örn Friðmarsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43296</guid>
     </item>
   </channel>
 </rss>
