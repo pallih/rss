@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 25 Jan 2023 14:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 15:00:41 +0000</lastBuildDate>
     <item>
       <title>Prediction of Injection-Induced Cooling using Tracer Test Data in the Hellisheiði Geothermal Field, SW-Iceland  Comparison of Numerical and Analytical Modelling Approaches</title>
       <link>https://skemman.is/handle/1946/43321</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/43323</link>
       <description>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis - Giulia Bellon 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43323</guid>
+    </item>
+    <item>
+      <title>Abstractive Text Summarization for Icelandic</title>
+      <link>https://skemman.is/handle/1946/43324</link>
+      <description>Abstractive Text Summarization for Icelandic - Þór Sverrisson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43324</guid>
+    </item>
+    <item>
+      <title>Microbial contamination in PUR- and PE- insulated fish tubs</title>
+      <link>https://skemman.is/handle/1946/43325</link>
+      <description>Microbial contamination in PUR- and PE- insulated fish tubs - Þóroddur Sigurðsson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43325</guid>
     </item>
     <item>
       <title>The Children’s Yale-Brown Obsessive-Compulsive Scale: Factor analytic evaluation and literature review</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43303</link>
       <description>Almenn raflagnahönnun og lýsingarhönnun í einbýlishús - Sverrir Sverrisson 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43303</guid>
-    </item>
-    <item>
-      <title>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir</title>
-      <link>https://skemman.is/handle/1946/43300</link>
-      <description>Niðurfelling bótaréttar í heild eða að hluta vegna stórkostlegs gáleysis í vátryggingarétti  : samanburður á bótarétti tjónþola út frá eðli tjóns og þeirrar tryggingar sem á reynir - Davíð Reginsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43300</guid>
-    </item>
-    <item>
-      <title>Þungunarrofslöggjöf í Póllandi</title>
-      <link>https://skemman.is/handle/1946/43295</link>
-      <description>Þungunarrofslöggjöf í Póllandi - Þórunn Soffía Snæhólm 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43295</guid>
     </item>
   </channel>
 </rss>
