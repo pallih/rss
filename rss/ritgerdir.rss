@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 24 Jan 2023 17:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 08:03:36 +0000</lastBuildDate>
+    <item>
+      <title>Prediction of Injection-Induced Cooling using Tracer Test Data in the Hellisheiði Geothermal Field, SW-Iceland  Comparison of Numerical and Analytical Modelling Approaches</title>
+      <link>https://skemman.is/handle/1946/43321</link>
+      <description>Prediction of Injection-Induced Cooling using Tracer Test Data in the Hellisheiði Geothermal Field, SW-Iceland  Comparison of Numerical and Analytical Modelling Approaches - Teka Nigussie Gebru 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43321</guid>
+    </item>
+    <item>
+      <title>Computational Fluid Dynamics Simulation of a Box Designed to Ventilate Water Mist</title>
+      <link>https://skemman.is/handle/1946/43322</link>
+      <description>Computational Fluid Dynamics Simulation of a Box Designed to Ventilate Water Mist - Hafþór Helgi Heiðarsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43322</guid>
+    </item>
     <item>
       <title>The Children’s Yale-Brown Obsessive-Compulsive Scale: Factor analytic evaluation and literature review</title>
       <link>https://skemman.is/handle/1946/43320</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43296</link>
       <description>Rafsegulsviðssamhæfi (e. Electromagnetic Compatibility) - Atli Örn Friðmarsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43296</guid>
-    </item>
-    <item>
-      <title>Suðurhella 12-20 : hönnun burðarvirkis</title>
-      <link>https://skemman.is/handle/1946/43297</link>
-      <description>Suðurhella 12-20 : hönnun burðarvirkis - Bragi Einarsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43297</guid>
-    </item>
-    <item>
-      <title>Raflagna- og lýsingarhönnun Borgarlandi 46</title>
-      <link>https://skemman.is/handle/1946/43298</link>
-      <description>Raflagna- og lýsingarhönnun Borgarlandi 46 - Guðjón Viðarsson 1981-; Steinar Hermannsson 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43298</guid>
     </item>
   </channel>
 </rss>
