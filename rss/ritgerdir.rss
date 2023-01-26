@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Jan 2023 13:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 14:00:33 +0000</lastBuildDate>
     <item>
       <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
       <link>https://skemman.is/handle/1946/43333</link>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/43327</link>
       <description>The Potential for Using Spruce (Picea) in Icelandic Forestry - Mai Lynn Duong 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43327</guid>
+    </item>
+    <item>
+      <title>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation</title>
+      <link>https://skemman.is/handle/1946/43334</link>
+      <description>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation - Lena Egilsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43334</guid>
     </item>
     <item>
       <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43309</link>
       <description>Corona crisis effects on Icelandic sport clubs in terms of human resource, finance and structural capacity - Kolbrún Helga Hansen 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43309</guid>
-    </item>
-    <item>
-      <title>Automatic behavior classification of aquatic animals in underwater videos</title>
-      <link>https://skemman.is/handle/1946/43310</link>
-      <description>Automatic behavior classification of aquatic animals in underwater videos - Orri Steinn Guðfinnsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43310</guid>
     </item>
   </channel>
 </rss>
