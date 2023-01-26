@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Jan 2023 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 09:00:33 +0000</lastBuildDate>
     <item>
       <title>The Potential for Using Spruce (Picea) in Icelandic Forestry</title>
       <link>https://skemman.is/handle/1946/43327</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/43328</link>
       <description>Towards a carbon neutral Vestmannaeyjar. Comparison of alternative fuels for backup district heating of Vestmannaeyjar. - Christian Michael Barrera 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43328</guid>
+    </item>
+    <item>
+      <title>Glaciovolcanic edifices. Correlation of passage zone with ice sheet slope at Bláfjall tuya, NE-Iceland</title>
+      <link>https://skemman.is/handle/1946/43329</link>
+      <description>Glaciovolcanic edifices. Correlation of passage zone with ice sheet slope at Bláfjall tuya, NE-Iceland - Anna Margrét Sigurbergsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43329</guid>
+    </item>
+    <item>
+      <title>Maturing of pre-expanded polystyrene - Effects of heat on maturing time and material strength</title>
+      <link>https://skemman.is/handle/1946/43330</link>
+      <description>Maturing of pre-expanded polystyrene - Effects of heat on maturing time and material strength - Jóhann Ingi Harðarson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43330</guid>
     </item>
     <item>
       <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43301</link>
       <description>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu - Kristbjörg Eva Andersen Ramos 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43301</guid>
-    </item>
-    <item>
-      <title>Kostnaðaráætlanir hjá Vegagerðinni : aðferðir til að áætla ófyrirséðan kostnað eftir hönnunarstigum</title>
-      <link>https://skemman.is/handle/1946/43306</link>
-      <description>Kostnaðaráætlanir hjá Vegagerðinni : aðferðir til að áætla ófyrirséðan kostnað eftir hönnunarstigum - Birgitta Rán Ásgeirsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43306</guid>
-    </item>
-    <item>
-      <title>Electric vehicle charge scheduling with deep reinforcement learning agents</title>
-      <link>https://skemman.is/handle/1946/43305</link>
-      <description>Electric vehicle charge scheduling with deep reinforcement learning agents - Björn Ólafur Björnsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43305</guid>
     </item>
   </channel>
 </rss>
