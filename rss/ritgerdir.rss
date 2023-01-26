@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Jan 2023 12:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 13:05:40 +0000</lastBuildDate>
     <item>
-      <title>The Potential for Using Spruce (Picea) in Icelandic Forestry</title>
-      <link>https://skemman.is/handle/1946/43327</link>
-      <description>The Potential for Using Spruce (Picea) in Icelandic Forestry - Mai Lynn Duong 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43327</guid>
+      <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
+      <link>https://skemman.is/handle/1946/43333</link>
+      <description>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints? - Húbert Óðinn Huntingdon-Williams 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43333</guid>
     </item>
     <item>
       <title>Towards a carbon neutral Vestmannaeyjar. Comparison of alternative fuels for backup district heating of Vestmannaeyjar.</title>
@@ -21,16 +21,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43328</guid>
     </item>
     <item>
+      <title>Maturing of pre-expanded polystyrene - Effects of heat on maturing time and material strength</title>
+      <link>https://skemman.is/handle/1946/43330</link>
+      <description>Maturing of pre-expanded polystyrene - Effects of heat on maturing time and material strength - Jóhann Ingi Harðarson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43330</guid>
+    </item>
+    <item>
+      <title>Vatnajökull surface mass balance - a weighted linear regression model</title>
+      <link>https://skemman.is/handle/1946/43332</link>
+      <description>Vatnajökull surface mass balance - a weighted linear regression model - Marta Björgvinsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43332</guid>
+    </item>
+    <item>
       <title>Glaciovolcanic edifices. Correlation of passage zone with ice sheet slope at Bláfjall tuya, NE-Iceland</title>
       <link>https://skemman.is/handle/1946/43329</link>
       <description>Glaciovolcanic edifices. Correlation of passage zone with ice sheet slope at Bláfjall tuya, NE-Iceland - Anna Margrét Sigurbergsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43329</guid>
     </item>
     <item>
-      <title>Maturing of pre-expanded polystyrene - Effects of heat on maturing time and material strength</title>
-      <link>https://skemman.is/handle/1946/43330</link>
-      <description>Maturing of pre-expanded polystyrene - Effects of heat on maturing time and material strength - Jóhann Ingi Harðarson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43330</guid>
+      <title>Endurhönnun á töppunarskörungslöpp fyrir Elkem ísland</title>
+      <link>https://skemman.is/handle/1946/43331</link>
+      <description>Endurhönnun á töppunarskörungslöpp fyrir Elkem ísland - Hafsteinn Einar Ágústsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43331</guid>
+    </item>
+    <item>
+      <title>The Potential for Using Spruce (Picea) in Icelandic Forestry</title>
+      <link>https://skemman.is/handle/1946/43327</link>
+      <description>The Potential for Using Spruce (Picea) in Icelandic Forestry - Mai Lynn Duong 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43327</guid>
     </item>
     <item>
       <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/43310</link>
       <description>Automatic behavior classification of aquatic animals in underwater videos - Orri Steinn Guðfinnsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43310</guid>
-    </item>
-    <item>
-      <title>Imbalanced learning in AML</title>
-      <link>https://skemman.is/handle/1946/43308</link>
-      <description>Imbalanced learning in AML - Steinar Ágúst Steinarsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43308</guid>
-    </item>
-    <item>
-      <title>Innovative Digitalization and Agile Project Management: Icelandair’s “Maintener” Software Experience</title>
-      <link>https://skemman.is/handle/1946/43312</link>
-      <description>Innovative Digitalization and Agile Project Management: Icelandair’s “Maintener” Software Experience - Júlía Helgadóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43312</guid>
-    </item>
-    <item>
-      <title>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu</title>
-      <link>https://skemman.is/handle/1946/43301</link>
-      <description>Ómeðhöndluð áföll í tengslum við ofbeldi og vanrækslu - Kristbjörg Eva Andersen Ramos 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43301</guid>
     </item>
   </channel>
 </rss>
