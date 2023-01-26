@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Jan 2023 16:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 17:00:24 +0000</lastBuildDate>
     <item>
       <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
       <link>https://skemman.is/handle/1946/43333</link>
@@ -61,6 +61,24 @@
       <link>https://skemman.is/handle/1946/43334</link>
       <description>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation - Lena Egilsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43334</guid>
+    </item>
+    <item>
+      <title>Stigskipt Bayesískt líkan fyrir íslenskan fiskuppboðsmarkað</title>
+      <link>https://skemman.is/handle/1946/43336</link>
+      <description>Stigskipt Bayesískt líkan fyrir íslenskan fiskuppboðsmarkað - Sólveig Ástudóttir Daðadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43336</guid>
+    </item>
+    <item>
+      <title>Polygenic risk scores using the lasso in a multi-cohort setting with application for lipoprotein(a)</title>
+      <link>https://skemman.is/handle/1946/43337</link>
+      <description>Polygenic risk scores using the lasso in a multi-cohort setting with application for lipoprotein(a) - Steinþór Árdal 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43337</guid>
+    </item>
+    <item>
+      <title>Temperature and salinity of the deep geothermal fluid in the Reykjanes geothermal field based on fluid inclusions</title>
+      <link>https://skemman.is/handle/1946/43338</link>
+      <description>Temperature and salinity of the deep geothermal fluid in the Reykjanes geothermal field based on fluid inclusions - Linus Huene 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43338</guid>
     </item>
     <item>
       <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/43313</link>
       <description>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki - Viktor Snær Rúnarsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43313</guid>
-    </item>
-    <item>
-      <title>Predicting football match outcomes with fantasy league data and deep learning</title>
-      <link>https://skemman.is/handle/1946/43314</link>
-      <description>Predicting football match outcomes with fantasy league data and deep learning - Sveinn Henrik Kristinsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43314</guid>
-    </item>
-    <item>
-      <title>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur</title>
-      <link>https://skemman.is/handle/1946/43307</link>
-      <description>Markvissar upphitunaræfingar fyrir unglingsstúlkur í handbolta : notendavæn kennslumyndbönd fyrir þjálfara og iðkendur - Þóra María Sigurjónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43307</guid>
-    </item>
-    <item>
-      <title>Why should you carbon offset your flights? An analysis of people’s willingness to pay for carbon offset and thereby offset the carbon footprints of flying.</title>
-      <link>https://skemman.is/handle/1946/43311</link>
-      <description>Why should you carbon offset your flights? An analysis of people’s willingness to pay for carbon offset and thereby offset the carbon footprints of flying. - Andrea Hanna Þorsteinsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43311</guid>
     </item>
   </channel>
 </rss>
