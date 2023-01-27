@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Jan 2023 10:00:36 +0000</lastBuildDate>
-    <item>
-      <title>Traduzione in islandese di quattro novelle di Italo Calvino</title>
-      <link>https://skemman.is/handle/1946/43339</link>
-      <description>Traduzione in islandese di quattro novelle di Italo Calvino - Magnús Hinrik Guðjónsson 1954-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43339</guid>
-    </item>
+    <lastBuildDate>Fri, 27 Jan 2023 11:00:40 +0000</lastBuildDate>
     <item>
       <title>Origin of gabbro and anorthosite mineral clusters in Fagradalsfjall lavas</title>
       <link>https://skemman.is/handle/1946/43340</link>
@@ -25,6 +19,18 @@
       <link>https://skemman.is/handle/1946/43341</link>
       <description>Líðan háskólanema skoðuð út frá samtvinnun mismunabreyta: Áhrif hinseginleika, uppruna, búsetu og aldurs - Laufey Ósk Jónsdóttir 2000-; Snædís Glóð Vikarsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43341</guid>
+    </item>
+    <item>
+      <title>Traduzione in islandese di quattro novelle di Italo Calvino</title>
+      <link>https://skemman.is/handle/1946/43339</link>
+      <description>Traduzione in islandese di quattro novelle di Italo Calvino - Magnús Hinrik Guðjónsson 1954-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43339</guid>
+    </item>
+    <item>
+      <title>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach</title>
+      <link>https://skemman.is/handle/1946/43342</link>
+      <description>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach - Magnús Magnússon 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43342</guid>
     </item>
     <item>
       <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
@@ -63,24 +69,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43331</guid>
     </item>
     <item>
-      <title>The Potential for Using Spruce (Picea) in Icelandic Forestry</title>
-      <link>https://skemman.is/handle/1946/43327</link>
-      <description>The Potential for Using Spruce (Picea) in Icelandic Forestry - Mai Lynn Duong 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43327</guid>
-    </item>
-    <item>
-      <title>Training staff in a secure psychiatric unit to set boundaries and communicate empathetically with patients</title>
-      <link>https://skemman.is/handle/1946/43335</link>
-      <description>Training staff in a secure psychiatric unit to set boundaries and communicate empathetically with patients - Margrét G. Kristjánsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43335</guid>
-    </item>
-    <item>
-      <title>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation</title>
-      <link>https://skemman.is/handle/1946/43334</link>
-      <description>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation - Lena Egilsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43334</guid>
-    </item>
-    <item>
       <title>Stigskipt Bayesískt líkan fyrir íslenskan fiskuppboðsmarkað</title>
       <link>https://skemman.is/handle/1946/43336</link>
       <description>Stigskipt Bayesískt líkan fyrir íslenskan fiskuppboðsmarkað - Sólveig Ástudóttir Daðadóttir 1997-</description>
@@ -93,10 +81,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43337</guid>
     </item>
     <item>
+      <title>The Potential for Using Spruce (Picea) in Icelandic Forestry</title>
+      <link>https://skemman.is/handle/1946/43327</link>
+      <description>The Potential for Using Spruce (Picea) in Icelandic Forestry - Mai Lynn Duong 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43327</guid>
+    </item>
+    <item>
       <title>Temperature and salinity of the deep geothermal fluid in the Reykjanes geothermal field based on fluid inclusions</title>
       <link>https://skemman.is/handle/1946/43338</link>
       <description>Temperature and salinity of the deep geothermal fluid in the Reykjanes geothermal field based on fluid inclusions - Linus Huene 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43338</guid>
+    </item>
+    <item>
+      <title>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation</title>
+      <link>https://skemman.is/handle/1946/43334</link>
+      <description>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation - Lena Egilsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43334</guid>
+    </item>
+    <item>
+      <title>Training staff in a secure psychiatric unit to set boundaries and communicate empathetically with patients</title>
+      <link>https://skemman.is/handle/1946/43335</link>
+      <description>Training staff in a secure psychiatric unit to set boundaries and communicate empathetically with patients - Margrét G. Kristjánsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43335</guid>
     </item>
     <item>
       <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43318</link>
       <description>Predicting early-stage Parkinson’s disease using virtual reality and biomedical parameters - Þorbjörg Ída Ívarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43318</guid>
-    </item>
-    <item>
-      <title>Towards a quantitative assessment of early-stage Parkinson’s disease using BioVRSea paradigm</title>
-      <link>https://skemman.is/handle/1946/43319</link>
-      <description>Towards a quantitative assessment of early-stage Parkinson’s disease using BioVRSea paradigm - Sigrún Anna Auðardóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43319</guid>
     </item>
   </channel>
 </rss>
