@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Jan 2023 17:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 08:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Traduzione in islandese di quattro novelle di Italo Calvino</title>
+      <link>https://skemman.is/handle/1946/43339</link>
+      <description>Traduzione in islandese di quattro novelle di Italo Calvino - Magnús Hinrik Guðjónsson 1954-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43339</guid>
+    </item>
+    <item>
+      <title>Origin of gabbro and anorthosite mineral clusters in Fagradalsfjall lavas</title>
+      <link>https://skemman.is/handle/1946/43340</link>
+      <description>Origin of gabbro and anorthosite mineral clusters in Fagradalsfjall lavas - William Charles Wenrich 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43340</guid>
+    </item>
     <item>
       <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
       <link>https://skemman.is/handle/1946/43333</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43315</link>
       <description>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið - Hulda Þórunn O. Þóroddsdóttir 1998-; Ingibjörg Jóna G. Björnsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43315</guid>
-    </item>
-    <item>
-      <title>Simulation and analysis of inbound baggage handling at Keflavík Airport</title>
-      <link>https://skemman.is/handle/1946/43316</link>
-      <description>Simulation and analysis of inbound baggage handling at Keflavík Airport - Kristinn Ingi Guðjónsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43316</guid>
-    </item>
-    <item>
-      <title>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki</title>
-      <link>https://skemman.is/handle/1946/43313</link>
-      <description>Hjónabandssæla - Athugun á próffræðilegum eiginleikum matskvarða sem mæla ánægju í parsamböndum í íslensku úrtaki - Viktor Snær Rúnarsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43313</guid>
     </item>
   </channel>
 </rss>
