@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Jan 2023 14:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 15:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach</title>
+      <link>https://skemman.is/handle/1946/43342</link>
+      <description>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach - Magnús Magnússon 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43342</guid>
+    </item>
+    <item>
+      <title>The end of Graphical Sequencers : TidalCycles as a way of experimentation</title>
+      <link>https://skemman.is/handle/1946/43349</link>
+      <description>The end of Graphical Sequencers : TidalCycles as a way of experimentation - Gustavo Nicolás Villanueva Cataldi 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43349</guid>
+    </item>
+    <item>
+      <title>Grafískar birtingarmyndir erkitýpa</title>
+      <link>https://skemman.is/handle/1946/43344</link>
+      <description>Grafískar birtingarmyndir erkitýpa - Guðni Þór Ólafsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43344</guid>
+    </item>
+    <item>
+      <title>Postponement</title>
+      <link>https://skemman.is/handle/1946/43348</link>
+      <description>Postponement - Samúel Jón Samúelsson 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43348</guid>
+    </item>
+    <item>
+      <title>Modus Operandi : stafræn alkemía</title>
+      <link>https://skemman.is/handle/1946/43343</link>
+      <description>Modus Operandi : stafræn alkemía - Guðni Þór Ólafsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43343</guid>
+    </item>
+    <item>
+      <title>The Opera Game</title>
+      <link>https://skemman.is/handle/1946/43346</link>
+      <description>The Opera Game - Rógvi á Rógvu 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43346</guid>
+    </item>
+    <item>
+      <title>The Oceanic Gaze</title>
+      <link>https://skemman.is/handle/1946/43345</link>
+      <description>The Oceanic Gaze - Isabelle Jean Knickle Riche 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43345</guid>
+    </item>
     <item>
       <title>Origin of gabbro and anorthosite mineral clusters in Fagradalsfjall lavas</title>
       <link>https://skemman.is/handle/1946/43340</link>
@@ -27,52 +69,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43339</guid>
     </item>
     <item>
-      <title>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach</title>
-      <link>https://skemman.is/handle/1946/43342</link>
-      <description>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach - Magnús Magnússon 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43342</guid>
+      <title>Syngjandi hér, syngjandi þar : sýn leikskólastjórnenda á tónlistariðkun í íslenskum leikskólum</title>
+      <link>https://skemman.is/handle/1946/43350</link>
+      <description>Syngjandi hér, syngjandi þar : sýn leikskólastjórnenda á tónlistariðkun í íslenskum leikskólum - Sæbjörg Eva Hlynsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43350</guid>
     </item>
     <item>
-      <title>Modus Operandi : stafræn alkemía</title>
-      <link>https://skemman.is/handle/1946/43343</link>
-      <description>Modus Operandi : stafræn alkemía - Guðni Þór Ólafsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43343</guid>
-    </item>
-    <item>
-      <title>Grafískar birtingarmyndir erkitýpa</title>
-      <link>https://skemman.is/handle/1946/43344</link>
-      <description>Grafískar birtingarmyndir erkitýpa - Guðni Þór Ólafsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43344</guid>
-    </item>
-    <item>
-      <title>The Oceanic Gaze</title>
-      <link>https://skemman.is/handle/1946/43345</link>
-      <description>The Oceanic Gaze - Isabelle Jean Knickle Riche 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43345</guid>
-    </item>
-    <item>
-      <title>The Opera Game</title>
-      <link>https://skemman.is/handle/1946/43346</link>
-      <description>The Opera Game - Rógvi á Rógvu 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43346</guid>
-    </item>
-    <item>
-      <title>MMus Composition Final Project - 1) Full Score of Besiege for Chamber Orchestra 2) A Critical Reflection and Full Analysis of Besiege</title>
+      <title>Besiege : for Chamber Orchestra</title>
       <link>https://skemman.is/handle/1946/43347</link>
-      <description>MMus Composition Final Project - 1) Full Score of Besiege for Chamber Orchestra 2) A Critical Reflection and Full Analysis of Besiege - Michelle Zen-in Cheng 1988-</description>
+      <description>Besiege : for Chamber Orchestra - Michelle Zen-in Cheng 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43347</guid>
     </item>
     <item>
-      <title>Postponement</title>
-      <link>https://skemman.is/handle/1946/43348</link>
-      <description>Postponement - Samúel Jón Samúelsson 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43348</guid>
+      <title>Stundum festist í manni ljóðlína og maður losnar ekki við hana : sönglög Jórunnar Viðar</title>
+      <link>https://skemman.is/handle/1946/43351</link>
+      <description>Stundum festist í manni ljóðlína og maður losnar ekki við hana : sönglög Jórunnar Viðar - Edda Björk Jónsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43351</guid>
     </item>
     <item>
-      <title>The end of Graphical Sequencers : TidalCycles as a way of experimentation</title>
-      <link>https://skemman.is/handle/1946/43349</link>
-      <description>The end of Graphical Sequencers : TidalCycles as a way of experimentation - Gustavo Nicolás Villanueva Cataldi 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43349</guid>
+      <title>Margt er það í steininum</title>
+      <link>https://skemman.is/handle/1946/43352</link>
+      <description>Margt er það í steininum - Edda Björk Jónsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43352</guid>
+    </item>
+    <item>
+      <title>Tilraunatónlist í samtíma kvikmyndagerð : rýnt í verk Jóhanns Jóhannssonar og Mica Levi</title>
+      <link>https://skemman.is/handle/1946/43353</link>
+      <description>Tilraunatónlist í samtíma kvikmyndagerð : rýnt í verk Jóhanns Jóhannssonar og Mica Levi - Brynjar Daðason 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43353</guid>
+    </item>
+    <item>
+      <title>Myth, not fiction</title>
+      <link>https://skemman.is/handle/1946/43354</link>
+      <description>Myth, not fiction - Brynjar Daðason 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43354</guid>
+    </item>
+    <item>
+      <title>Frásagnarlistin í flautuverkum Þorkels Sigurbjörnssonar</title>
+      <link>https://skemman.is/handle/1946/43355</link>
+      <description>Frásagnarlistin í flautuverkum Þorkels Sigurbjörnssonar - Karen Jóna Steinarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43355</guid>
+    </item>
+    <item>
+      <title>Nemendamiðað nám : hugmyndafræði nemendamiðaðs náms sett í samhengi við tónlistarkennslu á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43356</link>
+      <description>Nemendamiðað nám : hugmyndafræði nemendamiðaðs náms sett í samhengi við tónlistarkennslu á Íslandi - Erla Mist Magnúsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43356</guid>
+    </item>
+    <item>
+      <title>Fast Radio Bursts: An overview with a focus on magnetars as potential progenitors</title>
+      <link>https://skemman.is/handle/1946/43357</link>
+      <description>Fast Radio Bursts: An overview with a focus on magnetars as potential progenitors - Kristjana Björnsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43357</guid>
     </item>
     <item>
       <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
@@ -109,54 +157,6 @@
       <link>https://skemman.is/handle/1946/43331</link>
       <description>Endurhönnun á töppunarskörungslöpp fyrir Elkem ísland - Hafsteinn Einar Ágústsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43331</guid>
-    </item>
-    <item>
-      <title>Stigskipt Bayesískt líkan fyrir íslenskan fiskuppboðsmarkað</title>
-      <link>https://skemman.is/handle/1946/43336</link>
-      <description>Stigskipt Bayesískt líkan fyrir íslenskan fiskuppboðsmarkað - Sólveig Ástudóttir Daðadóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43336</guid>
-    </item>
-    <item>
-      <title>Polygenic risk scores using the lasso in a multi-cohort setting with application for lipoprotein(a)</title>
-      <link>https://skemman.is/handle/1946/43337</link>
-      <description>Polygenic risk scores using the lasso in a multi-cohort setting with application for lipoprotein(a) - Steinþór Árdal 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43337</guid>
-    </item>
-    <item>
-      <title>The Potential for Using Spruce (Picea) in Icelandic Forestry</title>
-      <link>https://skemman.is/handle/1946/43327</link>
-      <description>The Potential for Using Spruce (Picea) in Icelandic Forestry - Mai Lynn Duong 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43327</guid>
-    </item>
-    <item>
-      <title>Temperature and salinity of the deep geothermal fluid in the Reykjanes geothermal field based on fluid inclusions</title>
-      <link>https://skemman.is/handle/1946/43338</link>
-      <description>Temperature and salinity of the deep geothermal fluid in the Reykjanes geothermal field based on fluid inclusions - Linus Huene 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43338</guid>
-    </item>
-    <item>
-      <title>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation</title>
-      <link>https://skemman.is/handle/1946/43334</link>
-      <description>Evaluation of conditional discrimination skills and establishment of identity matching using within-stimulus prompts while ensuring motivation - Lena Egilsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43334</guid>
-    </item>
-    <item>
-      <title>Training staff in a secure psychiatric unit to set boundaries and communicate empathetically with patients</title>
-      <link>https://skemman.is/handle/1946/43335</link>
-      <description>Training staff in a secure psychiatric unit to set boundaries and communicate empathetically with patients - Margrét G. Kristjánsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43335</guid>
-    </item>
-    <item>
-      <title>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis</title>
-      <link>https://skemman.is/handle/1946/43323</link>
-      <description>Playing hide and seek underwater: Evidence of orca (Orcinus orca) presence in offshore Icelandic waters through acoustic analysis - Giulia Bellon 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43323</guid>
-    </item>
-    <item>
-      <title>Teacher Well-being and Functionality of Educational Models : a Study of Icelandic Playschools</title>
-      <link>https://skemman.is/handle/1946/43326</link>
-      <description>Teacher Well-being and Functionality of Educational Models : a Study of Icelandic Playschools - Nora Elisabeth Christine Jacob 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43326</guid>
     </item>
   </channel>
 </rss>
