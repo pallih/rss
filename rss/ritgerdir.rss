@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Jan 2023 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 09:00:27 +0000</lastBuildDate>
     <item>
       <title>Traduzione in islandese di quattro novelle di Italo Calvino</title>
       <link>https://skemman.is/handle/1946/43339</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43340</link>
       <description>Origin of gabbro and anorthosite mineral clusters in Fagradalsfjall lavas - William Charles Wenrich 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43340</guid>
+    </item>
+    <item>
+      <title>Líðan háskólanema skoðuð út frá samtvinnun mismunabreyta: Áhrif hinseginleika, uppruna, búsetu og aldurs</title>
+      <link>https://skemman.is/handle/1946/43341</link>
+      <description>Líðan háskólanema skoðuð út frá samtvinnun mismunabreyta: Áhrif hinseginleika, uppruna, búsetu og aldurs - Laufey Ósk Jónsdóttir 2000-; Snædís Glóð Vikarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43341</guid>
     </item>
     <item>
       <title>Carbon Footprints in the Nordics:  Do dietary choices of Nordic households affect their consumption-based carbon footprints?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43319</link>
       <description>Towards a quantitative assessment of early-stage Parkinson’s disease using BioVRSea paradigm - Sigrún Anna Auðardóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43319</guid>
-    </item>
-    <item>
-      <title>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið</title>
-      <link>https://skemman.is/handle/1946/43315</link>
-      <description>Íslensk þýðing og staðfærsla RAASI matslistans: Próffræðilegir eiginleikar og aldursviðmið - Hulda Þórunn O. Þóroddsdóttir 1998-; Ingibjörg Jóna G. Björnsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43315</guid>
     </item>
   </channel>
 </rss>
