@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 30 Jan 2023 15:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2023 16:00:41 +0000</lastBuildDate>
     <item>
       <title>Characterization of GABARAP isoforms, Role and redundancy</title>
       <link>https://skemman.is/handle/1946/43363</link>
@@ -49,6 +49,18 @@
       <link>https://skemman.is/handle/1946/43367</link>
       <description>Farsæld kennara: Dagbók með skapandi verkefnum - Steinunn Hrafnan Hilmisdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43367</guid>
+    </item>
+    <item>
+      <title>Haunted Reykjavík: Cultural heritage in the form of Ghost Stories</title>
+      <link>https://skemman.is/handle/1946/43368</link>
+      <description>Haunted Reykjavík: Cultural heritage in the form of Ghost Stories - Matthildur Hjartardóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43368</guid>
+    </item>
+    <item>
+      <title>Newborn Screening for Cystic Fibrosis in Iceland: a Pilot Study</title>
+      <link>https://skemman.is/handle/1946/43369</link>
+      <description>Newborn Screening for Cystic Fibrosis in Iceland: a Pilot Study - Lizette Cinco Marchadesch 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43369</guid>
     </item>
     <item>
       <title>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43354</link>
       <description>Myth, not fiction - Brynjar Daðason 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43354</guid>
-    </item>
-    <item>
-      <title>Besiege : for Chamber Orchestra</title>
-      <link>https://skemman.is/handle/1946/43347</link>
-      <description>Besiege : for Chamber Orchestra - Michelle Zen-in Cheng 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43347</guid>
-    </item>
-    <item>
-      <title>Retinal Biomarkers in Mild Cognitive Impairment and Alzheimer's Disease</title>
-      <link>https://skemman.is/handle/1946/43360</link>
-      <description>Retinal Biomarkers in Mild Cognitive Impairment and Alzheimer's Disease - Védís Helgadóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43360</guid>
     </item>
   </channel>
 </rss>
