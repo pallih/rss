@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 30 Jan 2023 11:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2023 12:00:25 +0000</lastBuildDate>
     <item>
-      <title>Smávirkjanir</title>
-      <link>https://skemman.is/handle/1946/43361</link>
-      <description>Smávirkjanir - Bjarni Benedikt Gunnarsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43361</guid>
+      <title>Characterization of GABARAP isoforms, Role and redundancy</title>
+      <link>https://skemman.is/handle/1946/43363</link>
+      <description>Characterization of GABARAP isoforms, Role and redundancy - Þengill Fannar Jónsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43363</guid>
     </item>
     <item>
       <title>Útilegumenn samtímans: Tengsl útskúfunar og trausts við trú á samsæriskenningar</title>
@@ -21,10 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43362</guid>
     </item>
     <item>
-      <title>Characterization of GABARAP isoforms, Role and redundancy</title>
-      <link>https://skemman.is/handle/1946/43363</link>
-      <description>Characterization of GABARAP isoforms, Role and redundancy - Þengill Fannar Jónsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43363</guid>
+      <title>Smávirkjanir</title>
+      <link>https://skemman.is/handle/1946/43361</link>
+      <description>Smávirkjanir - Bjarni Benedikt Gunnarsson 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43361</guid>
     </item>
     <item>
       <title>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach</title>
@@ -135,10 +135,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43347</guid>
     </item>
     <item>
-      <title>Margt er það í steininum</title>
-      <link>https://skemman.is/handle/1946/43352</link>
-      <description>Margt er það í steininum - Edda Björk Jónsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43352</guid>
+      <title>Retinal Biomarkers in Mild Cognitive Impairment and Alzheimer's Disease</title>
+      <link>https://skemman.is/handle/1946/43360</link>
+      <description>Retinal Biomarkers in Mild Cognitive Impairment and Alzheimer's Disease - Védís Helgadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43360</guid>
     </item>
     <item>
       <title>Exploring Attentional Neural Differences During an Oddball Paradigm: An SSVEP Study </title>
@@ -153,10 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43359</guid>
     </item>
     <item>
-      <title>Retinal Biomarkers in Mild Cognitive Impairment and Alzheimer's Disease</title>
-      <link>https://skemman.is/handle/1946/43360</link>
-      <description>Retinal Biomarkers in Mild Cognitive Impairment and Alzheimer's Disease - Védís Helgadóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43360</guid>
+      <title>Margt er það í steininum</title>
+      <link>https://skemman.is/handle/1946/43352</link>
+      <description>Margt er það í steininum - Edda Björk Jónsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43352</guid>
     </item>
   </channel>
 </rss>
