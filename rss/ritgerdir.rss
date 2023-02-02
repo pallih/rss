@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 02 Feb 2023 14:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 15:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Neysla orkudrykkja, svefn,- og fæðuval íslenskra ungmenna</title>
+      <link>https://skemman.is/handle/1946/43374</link>
+      <description>Neysla orkudrykkja, svefn,- og fæðuval íslenskra ungmenna - Arna Ösp Gunnarsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43374</guid>
+    </item>
     <item>
       <title>Þjónustuvegferð Samkaupa. Raundæmisrannsókn á stefnumiðaðri stjórnun rótgróins samvinnufélags á breyttum samkeppnismarkaði matvöruverslunar</title>
       <link>https://skemman.is/handle/1946/43372</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43353</link>
       <description>Tilraunatónlist í samtíma kvikmyndagerð : rýnt í verk Jóhanns Jóhannssonar og Mica Levi - Brynjar Daðason 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43353</guid>
-    </item>
-    <item>
-      <title>Nemendamiðað nám : hugmyndafræði nemendamiðaðs náms sett í samhengi við tónlistarkennslu á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43356</link>
-      <description>Nemendamiðað nám : hugmyndafræði nemendamiðaðs náms sett í samhengi við tónlistarkennslu á Íslandi - Erla Mist Magnúsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43356</guid>
     </item>
   </channel>
 </rss>
