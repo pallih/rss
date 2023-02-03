@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 03 Feb 2023 08:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2023 09:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Effect of School Based Ambient Bright White Light Intervention on Adolescents’ Sleep and Circadian Rhythms</title>
+      <link>https://skemman.is/handle/1946/43376</link>
+      <description>Effect of School Based Ambient Bright White Light Intervention on Adolescents’ Sleep and Circadian Rhythms - Ingvar Guðjónsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43376</guid>
+    </item>
+    <item>
+      <title>Orðaheimurinn - Málörvun fjöltyngdra leikskólabarna í gegnum leik</title>
+      <link>https://skemman.is/handle/1946/43377</link>
+      <description>Orðaheimurinn - Málörvun fjöltyngdra leikskólabarna í gegnum leik - Sædís Dúadóttir Landmark 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43377</guid>
+    </item>
     <item>
       <title>Neysla orkudrykkja, svefn,- og fæðuval íslenskra ungmenna</title>
       <link>https://skemman.is/handle/1946/43374</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43344</link>
       <description>Grafískar birtingarmyndir erkitýpa - Guðni Þór Ólafsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43344</guid>
-    </item>
-    <item>
-      <title>Postponement</title>
-      <link>https://skemman.is/handle/1946/43348</link>
-      <description>Postponement - Samúel Jón Samúelsson 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43348</guid>
-    </item>
-    <item>
-      <title>Modus Operandi : stafræn alkemía</title>
-      <link>https://skemman.is/handle/1946/43343</link>
-      <description>Modus Operandi : stafræn alkemía - Guðni Þór Ólafsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43343</guid>
     </item>
   </channel>
 </rss>
