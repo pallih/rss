@@ -7,67 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sat, 04 Feb 2023 17:00:25 +0000</lastBuildDate>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2745-2022-051</link>
-      <description>Ólafur Aðalsteinn Jónsson (1932-2006) tollvörður 2022-051 - 2005-2005</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2745-2022-051</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2746-2022-052</link>
-      <description>Sveinn Guðmundsson (1923-2005) kennari og bóndi 2022-052 - 1942-1953</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2746-2022-052</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2535-2022-099</link>
-      <description>Þórarinn Jónas Þór (1921-1993) prófastur og kennari 2022-099 - 1889-1985</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2535-2022-099</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2747-2022-112</link>
-      <description>Bernharður Guðmundsson (1881-1969) bóndi á Kirkjubóli í Valþjófsdal 2022-112 - 1887-2022</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2747-2022-112</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2748-2022-128</link>
-      <description>Sigurjón Stefánsson (1920-2005) skipstjóri 2022-128 - 1957-1992</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2748-2022-128</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2749-2022-133</link>
-      <description>Guðrún Teitsdóttir (1889-1978) ljósmóðir og Guðrún Anna Guðmunda Árnadóttir (1921-2017) húsmóðir 2022-133 - 1914-1985</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2749-2022-133</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2750-2022-147</link>
-      <description>Sigurður Guðmundsson (1918-1992) slökkviliðs- og sjómaður og Jóhanna Sigurjónsdóttir (1915-1989) verslunarkona 2022-147 - 1917-1969</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2750-2022-147</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1539-2022-165</link>
-      <description>Ólafur Þorgrímsson (1902-1989) hæstaréttarlögmaður 2022-165 - 1942-1980</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1539-2022-165</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2751-2022-167</link>
-      <description>Guðmundur Reynir Óskar Jóhannsson (1939-2013) endurskoðandi 2022-167 - 1995-2012</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2751-2022-167</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2139-2022-079</link>
-      <description>Landssamband eldri borgara 2022-079 - 1984-2020</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2139-2022-079</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2753-2022-035</link>
-      <description>Jónas Ráðgarð Jónsson (1911-2008) fulltrúi hjá Landsímanum 2022-035 - 1960-1983</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2753-2022-035</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2754-2022-104</link>
-      <description>Hólavellir í Gerðahreppi 2022-104 - 1942-1962</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2754-2022-104</guid>
-    </item>
+    <lastBuildDate>Sun, 05 Feb 2023 08:00:26 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2755-2022-078</link>
       <description>Sigríður Guðjónsdóttir (1933-2021) húsmóðir á Skeggjastöðum 2022-078 - 1979-1999</description>
