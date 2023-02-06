@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 06 Feb 2023 10:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 11:00:22 +0000</lastBuildDate>
     <item>
       <title>Hvað verður um þau efnilegu? Lýsandi þversniðsrannsókn á brottfalli efnilegs knattspyrnufólks á árunum 2010-2015 með sérstöku tilliti til meiðsla</title>
       <link>https://skemman.is/handle/1946/43379</link>
       <description>Hvað verður um þau efnilegu? Lýsandi þversniðsrannsókn á brottfalli efnilegs knattspyrnufólks á árunum 2010-2015 með sérstöku tilliti til meiðsla - Ragnheiður Lóa Stefánsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43379</guid>
+    </item>
+    <item>
+      <title>Greining á Selfossi út frá skipulagshugmyndinni um 20 mínútna bæinn Kortlagning svæða eftir aðgengi að þjónustu í GIS og tillögur að skipulagi</title>
+      <link>https://skemman.is/handle/1946/43380</link>
+      <description>Greining á Selfossi út frá skipulagshugmyndinni um 20 mínútna bæinn Kortlagning svæða eftir aðgengi að þjónustu í GIS og tillögur að skipulagi - Anne Steinbrenner 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43380</guid>
     </item>
     <item>
       <title>Orðaheimurinn - Málörvun fjöltyngdra leikskólabarna í gegnum leik</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43342</link>
       <description>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach - Magnús Magnússon 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43342</guid>
-    </item>
-    <item>
-      <title>The end of Graphical Sequencers : TidalCycles as a way of experimentation</title>
-      <link>https://skemman.is/handle/1946/43349</link>
-      <description>The end of Graphical Sequencers : TidalCycles as a way of experimentation - Gustavo Nicolás Villanueva Cataldi 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43349</guid>
     </item>
   </channel>
 </rss>
