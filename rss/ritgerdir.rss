@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 07 Feb 2023 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2023 15:00:34 +0000</lastBuildDate>
     <item>
       <title>Staða fólks með vefjagigt: Mat á atvinnustöðu, menntun, geðröskunum, áfallasögu, lífsgæðum og einkennum þreytu og heilaþoku meðal vefjagigtarsjúklinga hjá Þraut</title>
       <link>https://skemman.is/handle/1946/43381</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43382</link>
       <description>Prevalence of sarcopenia in community-dwelling  habitués of day-care and social services at three  nursing homes in the Greater Reykjavik area - Arnar Hafsteinsson 1972-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43382</guid>
+    </item>
+    <item>
+      <title>Food Choices of Vegans and Omnivores in Iceland. Dietary Surveys 2019–2022</title>
+      <link>https://skemman.is/handle/1946/43383</link>
+      <description>Food Choices of Vegans and Omnivores in Iceland. Dietary Surveys 2019–2022 - Olga Eir Þórarinsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43383</guid>
     </item>
     <item>
       <title>Hvað verður um þau efnilegu? Lýsandi þversniðsrannsókn á brottfalli efnilegs knattspyrnufólks á árunum 2010-2015 með sérstöku tilliti til meiðsla</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43359</link>
       <description>Árangursmæling á Sigrum streituna: Áhrif mánaðar námskeiðs á einkenni þunglyndis, streitu, kvíða og svefngæða - Eygló Dögg Hjaltadóttir 1994-; Írena Þula L. Bergþórsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43359</guid>
-    </item>
-    <item>
-      <title>Margt er það í steininum</title>
-      <link>https://skemman.is/handle/1946/43352</link>
-      <description>Margt er það í steininum - Edda Björk Jónsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43352</guid>
     </item>
   </channel>
 </rss>
