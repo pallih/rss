@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 07 Feb 2023 09:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2023 10:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Staða fólks með vefjagigt: Mat á atvinnustöðu, menntun, geðröskunum, áfallasögu, lífsgæðum og einkennum þreytu og heilaþoku meðal vefjagigtarsjúklinga hjá Þraut</title>
+      <link>https://skemman.is/handle/1946/43381</link>
+      <description>Staða fólks með vefjagigt: Mat á atvinnustöðu, menntun, geðröskunum, áfallasögu, lífsgæðum og einkennum þreytu og heilaþoku meðal vefjagigtarsjúklinga hjá Þraut - Linda Rut Jónsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43381</guid>
+    </item>
+    <item>
+      <title>Prevalence of sarcopenia in community-dwelling  habitués of day-care and social services at three  nursing homes in the Greater Reykjavik area</title>
+      <link>https://skemman.is/handle/1946/43382</link>
+      <description>Prevalence of sarcopenia in community-dwelling  habitués of day-care and social services at three  nursing homes in the Greater Reykjavik area - Arnar Hafsteinsson 1972-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43382</guid>
+    </item>
     <item>
       <title>Hvað verður um þau efnilegu? Lýsandi þversniðsrannsókn á brottfalli efnilegs knattspyrnufólks á árunum 2010-2015 með sérstöku tilliti til meiðsla</title>
       <link>https://skemman.is/handle/1946/43379</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43352</link>
       <description>Margt er það í steininum - Edda Björk Jónsdóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43352</guid>
-    </item>
-    <item>
-      <title>Stundum festist í manni ljóðlína og maður losnar ekki við hana : sönglög Jórunnar Viðar</title>
-      <link>https://skemman.is/handle/1946/43351</link>
-      <description>Stundum festist í manni ljóðlína og maður losnar ekki við hana : sönglög Jórunnar Viðar - Edda Björk Jónsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43351</guid>
-    </item>
-    <item>
-      <title>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach</title>
-      <link>https://skemman.is/handle/1946/43342</link>
-      <description>Automatic Segmentation of the Brainstem Substructures from MRI Using a Deep Learning Approach - Magnús Magnússon 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43342</guid>
     </item>
   </channel>
 </rss>
