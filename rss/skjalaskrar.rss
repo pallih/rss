@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 09 Feb 2023 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2023 15:00:21 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2758-2022-122</link>
       <description>Vinir Vatnajökuls 2022-122 - 2008-2021</description>
@@ -42,6 +42,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1182-2005-024</link>
       <description>A-Veggir ehf. 2005-024 - 2002-2002</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1182-2005-024</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2765-2021-051</link>
+      <description>Framleiðnisjóður landbúnaðarins 2021-051 - 1966-2021</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2765-2021-051</guid>
     </item>
   </channel>
 </rss>
