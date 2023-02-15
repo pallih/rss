@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 15 Feb 2023 15:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2023 16:00:30 +0000</lastBuildDate>
+    <item>
+      <title>ADHD og nám yngri barna : kennsla ungra barna með ADHD</title>
+      <link>https://skemman.is/handle/1946/43388</link>
+      <description>ADHD og nám yngri barna : kennsla ungra barna með ADHD - Hrefna Jónsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43388</guid>
+    </item>
     <item>
       <title>Mat fatlaðs fólks á þátttöku sinni heima fyrir, í vinnu og í frístundum á Íslandi : Lýðgrunduð lagskipt greining</title>
       <link>https://skemman.is/handle/1946/43387</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43365</link>
       <description>Analyzing learning-evoked myelination - Tanja Mist Birgisdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43365</guid>
-    </item>
-    <item>
-      <title>Haunted Reykjavík: Cultural heritage in the form of Ghost Stories</title>
-      <link>https://skemman.is/handle/1946/43368</link>
-      <description>Haunted Reykjavík: Cultural heritage in the form of Ghost Stories - Matthildur Hjartardóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43368</guid>
     </item>
   </channel>
 </rss>
