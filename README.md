@@ -33,6 +33,12 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 
   [ritgerdir.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/ritgerdir.rss)
 
+* ## Skipulag í kynningu í Reykjavík
+
+  Uppfært á klukkustundar fresti milli 8-17.
+
+  [skipulag_rvk.rss](https://raw.githubusercontent.com/pallih/rss/main/rss/skipulag_rvk.rss)
+
 
 
 pallih@gogn.in
