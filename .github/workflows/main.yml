@@ -6,45 +6,47 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '*/60 8-17 * * *'
+    - cron: "*/60 8-17 * * *"
 jobs:
   make_rss_feeds:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out this repo
-      uses: actions/checkout@v2.5.0
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: "3.10"
-    - uses: syphar/restore-virtualenv@v1
-      id: cache-virtualenv
-      with:
-        requirement_files: requirements.txt
-    - uses: syphar/restore-pip-download-cache@v1
-      if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      - name: Check out this repo
+        uses: actions/checkout@v2.5.0
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      - uses: syphar/restore-virtualenv@v1
+        id: cache-virtualenv
+        with:
+          requirement_files: requirements.txt
+      - uses: syphar/restore-pip-download-cache@v1
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
 
-      # the package installation will only be executed when the
-      # requirements-files have changed.
-    - run: pip install -r requirements.txt
-      if: steps.cache-virtualenv.outputs.cache-hit != 'true'
-    - name: Create reglugerdir.rss file
-      run: python src/reglugerdir.py
-    - name: Create skjalaskrar.rss file
-      run: python src/skjalaskrar.py
-    - name: Create palmemordsarkivet.rss file
-      run: python src/palmemordsaarkivet.py
-    - name: Create ritgerdir.rss file
-      run: python src/ritgerdir.py
-    - name: Commit changes
-      run: |
-        git add .
-        git config --global user.email "rssbot@example.com"
-        git config --global user.name "RSS þjarkur"
-        git commit --allow-empty -m 'uppfærsla'
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
-        force: true
+        # the package installation will only be executed when the
+        # requirements-files have changed.
+      - run: pip install -r requirements.txt
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      - name: Create reglugerdir.rss file
+        run: python src/reglugerdir.py
+      - name: Create skjalaskrar.rss file
+        run: python src/skjalaskrar.py
+      - name: Create palmemordsarkivet.rss file
+        run: python src/palmemordsaarkivet.py
+      - name: Create ritgerdir.rss file
+        run: python src/ritgerdir.py
+      - name: Create skipulag_rvk.rss file
+        run: python src/skipulag_rvk.py
+      - name: Commit changes
+        run: |
+          git add .
+          git config --global user.email "rssbot@example.com"
+          git config --global user.name "RSS þjarkur"
+          git commit --allow-empty -m 'uppfærsla'
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          force: true
