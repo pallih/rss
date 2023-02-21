@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 Feb 2023 16:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2023 17:00:26 +0000</lastBuildDate>
     <item>
       <title>„Svo er maður ekki einn í þessu“ : þörf á foreldrafræðslu og  stuðningi í uppeldishlutverkinu : sjónarhorn feðra 13–16 ára  unglinga</title>
       <link>https://skemman.is/handle/1946/43394</link>
@@ -55,6 +55,18 @@
       <link>https://skemman.is/handle/1946/43400</link>
       <description>Tækni og tónmennt : horft til framtíðar - Bjarki Guðmundsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43400</guid>
+    </item>
+    <item>
+      <title>Leikur sem námsleið barna</title>
+      <link>https://skemman.is/handle/1946/43401</link>
+      <description>Leikur sem námsleið barna - Björgvin Helgi Jóhannsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43401</guid>
+    </item>
+    <item>
+      <title>Vímuefnavandi fatlaðs fólks</title>
+      <link>https://skemman.is/handle/1946/43402</link>
+      <description>Vímuefnavandi fatlaðs fólks - Bríet Inga Bjarnadóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43402</guid>
     </item>
     <item>
       <title>Effects of the Beanfee token economy software on students´ persistent problem behavior and lack of academic engagement</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43377</link>
       <description>Orðaheimurinn - Málörvun fjöltyngdra leikskólabarna í gegnum leik - Sædís Dúadóttir Landmark 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43377</guid>
-    </item>
-    <item>
-      <title>Effect of School Based Ambient Bright White Light Intervention on Adolescents’ Sleep and Circadian Rhythms</title>
-      <link>https://skemman.is/handle/1946/43376</link>
-      <description>Effect of School Based Ambient Bright White Light Intervention on Adolescents’ Sleep and Circadian Rhythms - Ingvar Guðjónsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43376</guid>
-    </item>
-    <item>
-      <title>Neysla orkudrykkja, svefn,- og fæðuval íslenskra ungmenna</title>
-      <link>https://skemman.is/handle/1946/43374</link>
-      <description>Neysla orkudrykkja, svefn,- og fæðuval íslenskra ungmenna - Arna Ösp Gunnarsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43374</guid>
     </item>
   </channel>
 </rss>
