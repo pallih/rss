@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Skipulag í kynningu - Reykjavík</title>
+    <link>http://skjalasafn.is</link>
+    <description>Skipulag í kynningu - Reykjavík</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>is</language>
+    <lastBuildDate>Tue, 21 Feb 2023 17:35:38 +0000</lastBuildDate>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/vidimelur-66</link>
+      <description>Víðimelur 66  - Kynning fyrir hagsmunaaðila - 28.11.2022 til 03.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vidimelur-66</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/brautarholt-32</link>
+      <description>Brautarholt 32 - Breyting á deiliskipulagi - 30.11.2022 til 13.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/brautarholt-32</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/brautarholt-6</link>
+      <description>Brautarholt 6 - Kynning fyrir hagsmunaaðila - 13.12.2022 til 13.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/brautarholt-6</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/nordurbrun-2-1</link>
+      <description>Norðurbrún 2 - Grenndarkynning á deiliskipulagi - 13.12.2022 til 13.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/nordurbrun-2-1</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/freyjugata-16</link>
+      <description>Freyjugata 16 - Kynning fyrir hagsmunaaðila - 13.12.2022 til 13.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/freyjugata-16</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/akurgerdi-33</link>
+      <description>Akurgerði 33 - Kynning fyrir hagsmunaaðila - 13.12.2022 til 13.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/akurgerdi-33</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/asvegur-16</link>
+      <description>Ásvegur 16  - Grenndarkynning á deiliskipulagi - 19.12.2022 til 20.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/asvegur-16</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/haskolinn-i-reykjavik-1</link>
+      <description> Háskólinn í Reykjavík - Breyting á deiliskipulagi - 22.12.2022 til 07.02.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/haskolinn-i-reykjavik-1</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/vogabyggd-svaedi-3</link>
+      <description>Vogabyggð svæði 3 - Deiliskipulag - 22.12.2022 til 28.02.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vogabyggd-svaedi-3</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-19</link>
+      <description>Laufásvegur 19  - Kynning fyrir hagsmunaaðila - 29.12.2022 til 30.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-19</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-21-23</link>
+      <description>Laufásvegur 21-23  - Kynning fyrir hagsmunaaðila - 29.12.2022 til 30.01.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-21-23</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/breidagerdi-4</link>
+      <description>Breiðagerði 4  - Grenndarkynning á deiliskipulagi - 16.01.2023 til 13.02.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/breidagerdi-4</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/arnarnesvegur-3-afangi</link>
+      <description>Arnarnesvegur - 3 áfangi - Kynning fyrir hagsmunaaðila - 17.01.2023 til 14.02.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/arnarnesvegur-3-afangi</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/njorvasund-30</link>
+      <description>Njörvasund 30 - Kynning fyrir hagsmunaaðila - 17.01.2023 til 14.02.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/njorvasund-30</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/asvallagata-21</link>
+      <description>Ásvallagata 21 - Kynning fyrir hagsmunaaðila - 23.01.2023 til 20.02.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/asvallagata-21</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/kambsvegur-26</link>
+      <description>Kambsvegur 26  - Kynning fyrir hagsmunaaðila - 08.02.2023 til 08.03.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/kambsvegur-26</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/mosavegur-hjukrunarheimili</link>
+      <description>Mosavegur hjúkrunarheimili  - Breyting á deiliskipulagi - 09.02.2023 til 24.03.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/mosavegur-hjukrunarheimili</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/spitalastigur-4-4b-6-og-6b</link>
+      <description>Spítalastígur 4, 4B, 6 og 6B - Breyting á deiliskipulagi - 09.02.2023 til 24.03.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/spitalastigur-4-4b-6-og-6b</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/vesturgata-61</link>
+      <description>Vesturgata 61  - Breyting á deiliskipulagi - 09.02.2023 til 24.03.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vesturgata-61</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/sudurhlid-9-klettaskoli-0</link>
+      <description>Suðurhlíð 9, Klettaskóli  - Grenndarkynning á deiliskipulagi - 22.02.2023 til 22.03.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/sudurhlid-9-klettaskoli-0</guid>
+    </item>
+  </channel>
+</rss>
