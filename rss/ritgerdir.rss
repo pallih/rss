@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Feb 2023 12:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2023 13:05:31 +0000</lastBuildDate>
     <item>
       <title>Málfræði í mótun : málfræðikennsla á grunnskólastigi á tímum hraðra samfélagsbreytinga</title>
       <link>https://skemman.is/handle/1946/43404</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/43410</link>
       <description>Fjölbreytt námsmat og tækifæri til náms : viðhorf kennara til fjölbreytts námsmats og jafnra tækifæra til náms - Jóhanna Sigrún Andrésdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43410</guid>
+    </item>
+    <item>
+      <title>„Ég væri ekki á sama stað félagslega ef það væri áfangakerfi“ : áskoranir og tækifæri við breytta námsskipan hjá nýnemum í Flensborgarskólanum í Hafnarfirði</title>
+      <link>https://skemman.is/handle/1946/43411</link>
+      <description>„Ég væri ekki á sama stað félagslega ef það væri áfangakerfi“ : áskoranir og tækifæri við breytta námsskipan hjá nýnemum í Flensborgarskólanum í Hafnarfirði - Júlía Jörgensen 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43411</guid>
     </item>
     <item>
       <title>Tækni og tónmennt : horft til framtíðar</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43387</link>
       <description>Mat fatlaðs fólks á þátttöku sinni heima fyrir, í vinnu og í frístundum á Íslandi : Lýðgrunduð lagskipt greining - Carmen Fuchs 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43387</guid>
-    </item>
-    <item>
-      <title>Mat grunnskólastarfsfólks á kennslu og innleiðingu geðræktarnámsefnisins „Leikni til lífs“</title>
-      <link>https://skemman.is/handle/1946/43384</link>
-      <description>Mat grunnskólastarfsfólks á kennslu og innleiðingu geðræktarnámsefnisins „Leikni til lífs“ - Ásdís Jóna Björnsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43384</guid>
     </item>
   </channel>
 </rss>
