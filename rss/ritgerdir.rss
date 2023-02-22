@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Feb 2023 14:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2023 15:00:31 +0000</lastBuildDate>
     <item>
       <title>Málfræði í mótun : málfræðikennsla á grunnskólastigi á tímum hraðra samfélagsbreytinga</title>
       <link>https://skemman.is/handle/1946/43404</link>
       <description>Málfræði í mótun : málfræðikennsla á grunnskólastigi á tímum hraðra samfélagsbreytinga - Fróði Frímann Kristjánsson 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43404</guid>
-    </item>
-    <item>
-      <title>Áhrif COVID-19 faraldursins á framhaldsskólanemendur : fjarkennsla, aðstæður og líðan nemenda</title>
-      <link>https://skemman.is/handle/1946/43405</link>
-      <description>Áhrif COVID-19 faraldursins á framhaldsskólanemendur : fjarkennsla, aðstæður og líðan nemenda - Guðlaug M. Pálsdóttir 1969-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43405</guid>
     </item>
     <item>
       <title>Samstíga í átt að farsælum þáttaskilum : samfella í námi barna.</title>
@@ -39,10 +33,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43407</guid>
     </item>
     <item>
-      <title>Barnaleikur : tenging leiksins við íþróttaiðkun</title>
-      <link>https://skemman.is/handle/1946/43408</link>
-      <description>Barnaleikur : tenging leiksins við íþróttaiðkun - Ingi Rúnar Árnason 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43408</guid>
+      <title>Fjölbreytt námsmat og tækifæri til náms : viðhorf kennara til fjölbreytts námsmats og jafnra tækifæra til náms</title>
+      <link>https://skemman.is/handle/1946/43410</link>
+      <description>Fjölbreytt námsmat og tækifæri til náms : viðhorf kennara til fjölbreytts námsmats og jafnra tækifæra til náms - Jóhanna Sigrún Andrésdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43410</guid>
     </item>
     <item>
       <title>Innsýn í réttindafræðslu UNICEF í leikskólanum Klöppum</title>
@@ -51,10 +45,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43409</guid>
     </item>
     <item>
-      <title>Fjölbreytt námsmat og tækifæri til náms : viðhorf kennara til fjölbreytts námsmats og jafnra tækifæra til náms</title>
-      <link>https://skemman.is/handle/1946/43410</link>
-      <description>Fjölbreytt námsmat og tækifæri til náms : viðhorf kennara til fjölbreytts námsmats og jafnra tækifæra til náms - Jóhanna Sigrún Andrésdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43410</guid>
+      <title>Þörf fyrir foreldrafræðslu : sjónarhorn stjúpmæðra ungra barna</title>
+      <link>https://skemman.is/handle/1946/43412</link>
+      <description>Þörf fyrir foreldrafræðslu : sjónarhorn stjúpmæðra ungra barna - Karen María Magnúsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43412</guid>
+    </item>
+    <item>
+      <title>Barnaleikur : tenging leiksins við íþróttaiðkun</title>
+      <link>https://skemman.is/handle/1946/43408</link>
+      <description>Barnaleikur : tenging leiksins við íþróttaiðkun - Ingi Rúnar Árnason 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43408</guid>
+    </item>
+    <item>
+      <title>Áhrif COVID-19 faraldursins á framhaldsskólanemendur : fjarkennsla, aðstæður og líðan nemenda</title>
+      <link>https://skemman.is/handle/1946/43405</link>
+      <description>Áhrif COVID-19 faraldursins á framhaldsskólanemendur : fjarkennsla, aðstæður og líðan nemenda - Guðlaug M. Pálsdóttir 1969-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43405</guid>
     </item>
     <item>
       <title>„Ég væri ekki á sama stað félagslega ef það væri áfangakerfi“ : áskoranir og tækifæri við breytta námsskipan hjá nýnemum í Flensborgarskólanum í Hafnarfirði</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43388</link>
       <description>ADHD og nám yngri barna : kennsla ungra barna með ADHD - Hrefna Jónsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43388</guid>
-    </item>
-    <item>
-      <title>Mat fatlaðs fólks á þátttöku sinni heima fyrir, í vinnu og í frístundum á Íslandi : Lýðgrunduð lagskipt greining</title>
-      <link>https://skemman.is/handle/1946/43387</link>
-      <description>Mat fatlaðs fólks á þátttöku sinni heima fyrir, í vinnu og í frístundum á Íslandi : Lýðgrunduð lagskipt greining - Carmen Fuchs 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43387</guid>
     </item>
   </channel>
 </rss>
