@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Feb 2023 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 13:06:01 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2761-2023-006</link>
       <description>Sjúkraþjálfun Mosfellsbæjar 2023-006 - 1994-2021</description>
@@ -47,6 +47,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0007-2022-072</link>
       <description>Landbúnaðarráðuneytið 2022-072 - 1905-2000</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0007-2022-072</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2768-2022-172</link>
+      <description>Bragi hf. 2022-172 - 1938-1977</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2768-2022-172</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2769-2022-172</link>
+      <description>Dagbók um landanir íslenskra fiskiskipa í Bretlandi 2022-172 - 1964-1968</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2769-2022-172</guid>
     </item>
   </channel>
 </rss>
