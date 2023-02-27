@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 Feb 2023 08:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 09:00:21 +0000</lastBuildDate>
     <item>
       <title>Tómstundakistan : vefsíða sem heldur utan um framboð tómstunda á landsvísu ætluð fyrir fullorðna sem eru utan vinnumarkaðar</title>
       <link>https://skemman.is/handle/1946/43443</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43433</guid>
     </item>
     <item>
-      <title>„Íþróttirnar björguðu mér“ : reynsla afreksíþróttafólks með erfiða upplifun í æsku af íþróttaiðkun</title>
-      <link>https://skemman.is/handle/1946/43428</link>
-      <description>„Íþróttirnar björguðu mér“ : reynsla afreksíþróttafólks með erfiða upplifun í æsku af íþróttaiðkun - Stella Hjaltadóttir 1967-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43428</guid>
-    </item>
-    <item>
       <title>Leiðsögn í leikskóla : áskoranir og tækifæri</title>
       <link>https://skemman.is/handle/1946/43431</link>
       <description>Leiðsögn í leikskóla : áskoranir og tækifæri - Linda Ósk Sigurðardóttir 1966-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/43437</link>
       <description>Áklæðagerð með textílaðferðum sem kennslugögn í endursköpun fyrir efri bekki grunnskóla - Selma Ósk Gunnarsdóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43437</guid>
+    </item>
+    <item>
+      <title>Útikennsla leikskólabarna : Gesthúsaskógur á Selfossi sem vettvangur útikennslu yngri barna</title>
+      <link>https://skemman.is/handle/1946/43436</link>
+      <description>Útikennsla leikskólabarna : Gesthúsaskógur á Selfossi sem vettvangur útikennslu yngri barna - Rósa Vigdís Arnardóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43436</guid>
     </item>
   </channel>
 </rss>
