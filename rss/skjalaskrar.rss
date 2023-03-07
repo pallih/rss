@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 07 Mar 2023 10:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 11:00:40 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0007-2001-016</link>
       <description>Landbúnaðarráðuneytið 2001-016 - 1874-1999</description>
@@ -37,6 +37,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0007-2022-072</link>
       <description>Landbúnaðarráðuneytið 2022-072 - 1905-2000</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0007-2022-072</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1498-0022-017</link>
+      <description>Borgarfógetinn í Reykjavík 22-017 - 1943-1950</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1498-0022-017</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0781-2023-024</link>
@@ -69,6 +74,26 @@
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2767-2023-020</guid>
     </item>
     <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1178-2002-066</link>
+      <description>Flugfélag Íslands 2002-066 - 1974-1995</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1178-2002-066</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2773-2002-079</link>
+      <description>Miðskólinn 2002-079 - 1964-1997</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2773-2002-079</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2772-2002-078</link>
+      <description>Námsefnisráðgjöfin 2002-078 - 1974-1996</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2772-2002-078</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2774-2003-013</link>
+      <description>Héraðslæknir Reykjaneshéraðs 2003-013 - 1978-2002</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2774-2003-013</guid>
+    </item>
+    <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2515-2021-087</link>
       <description>Heilbrigðisstofnun Þingeyinga 2021-087 - 1886-2018</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2515-2021-087</guid>
@@ -97,6 +122,21 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2517-2021-089</link>
       <description>Heilsugæslustöðin á Akureyri 2021-089 - 1881-2018</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2517-2021-089</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2777-2008-047</link>
+      <description>Belgíska ræðismannsskrifstofan 2008-047 - 1958-2002</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2777-2008-047</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2778-2008-048</link>
+      <description>Félag heilablóðfallsskaðaðra (Heilaheill) 2008-048 - 1990-2007</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2778-2008-048</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0730-2008-049</link>
+      <description>Þorbjörg Jónsdóttir (1917-2005), skólastýra 2008-049 - 1907-1993</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0730-2008-049</guid>
     </item>
   </channel>
 </rss>
