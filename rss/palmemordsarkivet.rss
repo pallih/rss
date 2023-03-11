@@ -7,7 +7,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sat, 11 Mar 2023 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2023 15:00:21 +0000</lastBuildDate>
+    <item>
+      <description>Vittne ser man i blå lång jacka på Rådmansgatan 00.10</description>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/17Il9XOvl-yTf_xs_3qXtLMbJxWLOM41q/view?usp=share_link</link>
       <description>Förhör med Birgitta angående kompis till Östling</description>
@@ -252,11 +255,6 @@
       <link>https://drive.google.com/file/d/16R5eJmeLDHlHSyoOPPwOw1DVwR_DTPQs/view?usp=share_link</link>
       <description>Förhör om en lägenhet och om springande man på Döbelnsgatan</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/16R5eJmeLDHlHSyoOPPwOw1DVwR_DTPQs/view?usp=share_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1EB4RLtcJrTtUUqtSRvGcRapAUeSsAW7T/view?usp=share_link</link>
-      <description>Tredjehandsuppgifter om att någon sett något på Malmskillnadsgatan</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1EB4RLtcJrTtUUqtSRvGcRapAUeSsAW7T/view?usp=share_link</guid>
     </item>
   </channel>
 </rss>
