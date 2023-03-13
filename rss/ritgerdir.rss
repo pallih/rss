@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 Mar 2023 13:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 14:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Skilningur fólks á orðalagi spurninga í íslenskri þýðingu á HEXACO-60, Ítarviðtöl</title>
+      <link>https://skemman.is/handle/1946/43444</link>
+      <description>Skilningur fólks á orðalagi spurninga í íslenskri þýðingu á HEXACO-60, Ítarviðtöl - Ragnhildur Katla Jónsdóttir 1999-; Þula Sonja Davíðsdóttir 1990-; Sandra Ósk Jóhannsdóttir 2000-; Ásta Dagmar Melsted 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43444</guid>
+    </item>
     <item>
       <title>Tómstundakistan : vefsíða sem heldur utan um framboð tómstunda á landsvísu ætluð fyrir fullorðna sem eru utan vinnumarkaðar</title>
       <link>https://skemman.is/handle/1946/43443</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43437</link>
       <description>Áklæðagerð með textílaðferðum sem kennslugögn í endursköpun fyrir efri bekki grunnskóla - Selma Ósk Gunnarsdóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43437</guid>
-    </item>
-    <item>
-      <title>Útikennsla leikskólabarna : Gesthúsaskógur á Selfossi sem vettvangur útikennslu yngri barna</title>
-      <link>https://skemman.is/handle/1946/43436</link>
-      <description>Útikennsla leikskólabarna : Gesthúsaskógur á Selfossi sem vettvangur útikennslu yngri barna - Rósa Vigdís Arnardóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43436</guid>
     </item>
   </channel>
 </rss>
