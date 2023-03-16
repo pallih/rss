@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 Mar 2023 12:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2023 13:05:09 +0000</lastBuildDate>
+    <item>
+      <title>Nýjar kynslóðir á vinnumarkaði:  Upplifun og væntingar með hliðsjón af starfsánægju og áherslum stjórnenda</title>
+      <link>https://skemman.is/handle/1946/43445</link>
+      <description>Nýjar kynslóðir á vinnumarkaði:  Upplifun og væntingar með hliðsjón af starfsánægju og áherslum stjórnenda - Camelia Iuliönudóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43445</guid>
+    </item>
+    <item>
+      <title>Áskoranir og úrræði íslenskra fatafyrirtækja í Covid-19 heimsfaraldri : stafræn umbreyting</title>
+      <link>https://skemman.is/handle/1946/43446</link>
+      <description>Áskoranir og úrræði íslenskra fatafyrirtækja í Covid-19 heimsfaraldri : stafræn umbreyting - Dóróthea Jóhannesdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43446</guid>
+    </item>
     <item>
       <title>Skilningur fólks á orðalagi spurninga í íslenskri þýðingu á HEXACO-60, Ítarviðtöl</title>
       <link>https://skemman.is/handle/1946/43444</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43438</link>
       <description>Spjaldvefnaður fyrir byrjendur : grunnkennsluefni í spjaldvefnaði - Sóldís Sara Pétursdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43438</guid>
-    </item>
-    <item>
-      <title>Samkennsla árganga í fámennum skólum : viðhorf og reynsla starfandi kennara</title>
-      <link>https://skemman.is/handle/1946/43441</link>
-      <description>Samkennsla árganga í fámennum skólum : viðhorf og reynsla starfandi kennara - Þorgerður Hlín Gísladóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43441</guid>
-    </item>
-    <item>
-      <title>Áklæðagerð með textílaðferðum sem kennslugögn í endursköpun fyrir efri bekki grunnskóla</title>
-      <link>https://skemman.is/handle/1946/43437</link>
-      <description>Áklæðagerð með textílaðferðum sem kennslugögn í endursköpun fyrir efri bekki grunnskóla - Selma Ósk Gunnarsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43437</guid>
     </item>
   </channel>
 </rss>
