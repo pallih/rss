@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 Mar 2023 14:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 15:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Creativity through retrospection? Software industry projects in Iceland</title>
+      <link>https://skemman.is/handle/1946/43468</link>
+      <description>Creativity through retrospection? Software industry projects in Iceland - Auður Guðríður Hafliðadóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43468</guid>
+    </item>
+    <item>
+      <title>Vefurinn mikli. Vefstjórn, vefstefna og efnisstefna</title>
+      <link>https://skemman.is/handle/1946/43469</link>
+      <description>Vefurinn mikli. Vefstjórn, vefstefna og efnisstefna - Sigríður Inga Sigurðardóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43469</guid>
+    </item>
     <item>
       <title>Áskoranir og úrræði íslenskra fatafyrirtækja í Covid-19 heimsfaraldri : stafræn umbreyting</title>
       <link>https://skemman.is/handle/1946/43446</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43464</link>
       <description>Áhrif samfélagsmiðla á kauphegðun - Linda Bjork Helgadottir 1971-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43464</guid>
-    </item>
-    <item>
-      <title>Skilningur fólks á orðalagi spurninga í íslenskri þýðingu á HEXACO-60, Ítarviðtöl</title>
-      <link>https://skemman.is/handle/1946/43444</link>
-      <description>Skilningur fólks á orðalagi spurninga í íslenskri þýðingu á HEXACO-60, Ítarviðtöl - Ragnhildur Katla Jónsdóttir 1999-; Þula Sonja Davíðsdóttir 1990-; Sandra Ósk Jóhannsdóttir 2000-; Ásta Dagmar Melsted 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43444</guid>
-    </item>
-    <item>
-      <title>Tómstundakistan : vefsíða sem heldur utan um framboð tómstunda á landsvísu ætluð fyrir fullorðna sem eru utan vinnumarkaðar</title>
-      <link>https://skemman.is/handle/1946/43443</link>
-      <description>Tómstundakistan : vefsíða sem heldur utan um framboð tómstunda á landsvísu ætluð fyrir fullorðna sem eru utan vinnumarkaðar - Fanney Marín Magnúsdóttir 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43443</guid>
     </item>
   </channel>
 </rss>
