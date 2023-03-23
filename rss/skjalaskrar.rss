@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Mar 2023 10:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2023 11:00:27 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2768-2022-172</link>
       <description>Bragi hf. 2022-172 - 1938-1977</description>
@@ -17,6 +17,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2769-2022-172</link>
       <description>Dagbók um landanir íslenskra fiskiskipa í Bretlandi 2022-172 - 1964-1968</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2769-2022-172</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2770-2022-098</link>
+      <description>Óþekkt 2022-098 - </description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2770-2022-098</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2767-2023-020</link>
@@ -107,6 +112,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2784-2023-037</link>
       <description>Krabbameinsfélag Íslands 2023-037 - 1986-2005</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2784-2023-037</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2788-2022-109</link>
+      <description>Sigrún Kristbjörg Árnadóttir (1931-2020) húsmóðir og bókari 2022-109 - 1942-2011</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2788-2022-109</guid>
     </item>
   </channel>
 </rss>
