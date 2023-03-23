@@ -7,12 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Mar 2023 17:00:37 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-19</link>
-      <description>Laufásvegur 19  - Kynning fyrir hagsmunaaðila - 29.12.2022 til 30.01.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-19</guid>
-    </item>
+    <lastBuildDate>Thu, 23 Mar 2023 08:00:34 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-21-23</link>
       <description>Laufásvegur 21-23  - Kynning fyrir hagsmunaaðila - 29.12.2022 til 30.01.2023</description>
@@ -107,6 +102,11 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/ellidaarvogurartunshofdi-svaedi-7</link>
       <description>Elliðaárvogur/Ártúnshöfði - svæði 7 - Lýsing - 21.03.2023 til 18.04.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/ellidaarvogurartunshofdi-svaedi-7</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/alfsnes-skotaefingasvaedi</link>
+      <description>Álfsnes Skotæfingasvæði  - Lýsing - 23.03.2023 til 21.04.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/alfsnes-skotaefingasvaedi</guid>
     </item>
   </channel>
 </rss>

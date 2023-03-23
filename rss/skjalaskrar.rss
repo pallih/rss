@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Mar 2023 17:00:32 +0000</lastBuildDate>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0781-2023-024</link>
-      <description>Heilbrigðisstofnun Suðurlands 2023-024 - 2000-2022</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0781-2023-024</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2726-2023-025</link>
-      <description>Heilbrigðisstofnunin Vestmannaeyjum 2023-025 - 1939-2019</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2726-2023-025</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2732-2023-026</link>
-      <description>Heilsugæslustöðin Vík 2023-026 - 1932-2002</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2732-2023-026</guid>
-    </item>
+    <lastBuildDate>Thu, 23 Mar 2023 08:00:27 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2768-2022-172</link>
       <description>Bragi hf. 2022-172 - 1938-1977</description>
