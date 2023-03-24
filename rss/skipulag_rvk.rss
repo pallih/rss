@@ -7,32 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Mar 2023 17:00:26 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-21-23</link>
-      <description>Laufásvegur 21-23  - Kynning fyrir hagsmunaaðila - 29.12.2022 til 30.01.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/laufasvegur-21-23</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/breidagerdi-4</link>
-      <description>Breiðagerði 4  - Grenndarkynning á deiliskipulagi - 16.01.2023 til 13.02.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/breidagerdi-4</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/arnarnesvegur-3-afangi</link>
-      <description>Arnarnesvegur - 3 áfangi - Kynning fyrir hagsmunaaðila - 17.01.2023 til 14.02.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/arnarnesvegur-3-afangi</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/njorvasund-30</link>
-      <description>Njörvasund 30 - Kynning fyrir hagsmunaaðila - 17.01.2023 til 14.02.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/njorvasund-30</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/asvallagata-21</link>
-      <description>Ásvallagata 21 - Kynning fyrir hagsmunaaðila - 23.01.2023 til 20.02.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/asvallagata-21</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Mar 2023 08:00:29 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/kambsvegur-26</link>
       <description>Kambsvegur 26  - Kynning fyrir hagsmunaaðila - 08.02.2023 til 08.03.2023</description>
@@ -107,6 +82,31 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/alfsnes-skotaefingasvaedi</link>
       <description>Álfsnes Skotæfingasvæði  - Lýsing - 23.03.2023 til 21.04.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/alfsnes-skotaefingasvaedi</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/fiskislod-39</link>
+      <description>Fiskislóð 39  - Grenndarkynning á deiliskipulagi - 29.03.2023 til 04.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/fiskislod-39</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/granaskjol-12</link>
+      <description>Granaskjól 12 - Kynning fyrir hagsmunaaðila - 29.03.2023 til 04.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/granaskjol-12</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/sidumuli-10-0</link>
+      <description>Síðumúli 10 - Kynning fyrir hagsmunaaðila - 29.03.2023 til 04.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/sidumuli-10-0</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/almannadalur-9</link>
+      <description>Almannadalur 9 - Grenndarkynning á deiliskipulagi - 29.03.2023 til 04.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/almannadalur-9</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/lindargata-58</link>
+      <description>Lindargata 58 - Grenndarkynning á deiliskipulagi - 29.03.2023 til 04.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/lindargata-58</guid>
     </item>
   </channel>
 </rss>
