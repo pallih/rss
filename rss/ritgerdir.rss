@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 04 Apr 2023 08:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 09:00:32 +0000</lastBuildDate>
+    <item>
+      <title>„Að meta virði fjárfestinga er sálfræðilega séð að horfa út í eilífðina"</title>
+      <link>https://skemman.is/handle/1946/43507</link>
+      <description>„Að meta virði fjárfestinga er sálfræðilega séð að horfa út í eilífðina" - Eik Arnþórsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43507</guid>
+    </item>
     <item>
       <title>Allt sem hugurinn girnist : hefur aðgangur Íslendinga að streymisveitum dregið úr ólöglegri notkun á skapandi efni?</title>
       <link>https://skemman.is/handle/1946/43472</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43499</link>
       <description>Fjárhagsleg áhrif Menntaskóla Borgarfjarðar - Helga Halldórsdóttir 1962-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43499</guid>
-    </item>
-    <item>
-      <title>Er Spotify skilvirkur vettvangur fyrir tónlistarfólk til að koma efni sínu á framfæri?</title>
-      <link>https://skemman.is/handle/1946/43493</link>
-      <description>Er Spotify skilvirkur vettvangur fyrir tónlistarfólk til að koma efni sínu á framfæri? - Eggert Ingi Jóhannesson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43493</guid>
     </item>
   </channel>
 </rss>
