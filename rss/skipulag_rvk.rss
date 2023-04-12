@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 12 Apr 2023 11:00:35 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/sudurhlid-9-klettaskoli-0</link>
-      <description>Suðurhlíð 9, Klettaskóli  - Grenndarkynning á deiliskipulagi - 22.02.2023 til 22.03.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/sudurhlid-9-klettaskoli-0</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/skarfagardar-6-8-og-10</link>
-      <description>Skarfagarðar 6, 8 og 10 - Breyting á deiliskipulagi - 16.03.2023 til 05.05.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/skarfagardar-6-8-og-10</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/vesturgata-61-0</link>
-      <description> Vesturgata 61 - Breyting á deiliskipulagi - 16.03.2023 til 05.05.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vesturgata-61-0</guid>
-    </item>
+    <lastBuildDate>Wed, 12 Apr 2023 12:00:43 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/ofanleiti-1</link>
       <description>Ofanleiti 1  - Grenndarkynning á deiliskipulagi - 20.03.2023 til 24.04.2023</description>
@@ -102,6 +87,21 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/valla</link>
       <description>Vallá  - Breyting á deiliskipulagi - 11.04.2023 til 26.05.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/valla</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/silfratjorn-1-3-gaefutjorn-18-og-skyggnisbraut-21-23-lod-c1</link>
+      <description>Silfratjörn 1-3, Gæfutjörn 18 og Skyggnisbraut 21-23 - lóð C1 - Grenndarkynning á deiliskipulagi - 17.04.2023 til 17.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/silfratjorn-1-3-gaefutjorn-18-og-skyggnisbraut-21-23-lod-c1</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/nokkvavogur-42</link>
+      <description>Nökkvavogur 42 - Grenndarkynning á deiliskipulagi - 17.04.2023 til 17.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/nokkvavogur-42</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/hlidargerdi-6</link>
+      <description>Hlíðargerði 6 - Kynning fyrir hagsmunaaðila - 17.04.2023 til 17.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/hlidargerdi-6</guid>
     </item>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/hrisateigur-9</link>
