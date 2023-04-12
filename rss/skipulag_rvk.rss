@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 11 Apr 2023 17:00:29 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/spitalastigur-4-4b-6-og-6b</link>
-      <description>Spítalastígur 4, 4B, 6 og 6B - Breyting á deiliskipulagi - 09.02.2023 til 24.03.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/spitalastigur-4-4b-6-og-6b</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/vesturgata-61</link>
-      <description>Vesturgata 61  - Breyting á deiliskipulagi - 09.02.2023 til 24.03.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vesturgata-61</guid>
-    </item>
+    <lastBuildDate>Wed, 12 Apr 2023 08:00:29 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/sudurhlid-9-klettaskoli-0</link>
       <description>Suðurhlíð 9, Klettaskóli  - Grenndarkynning á deiliskipulagi - 22.02.2023 til 22.03.2023</description>
@@ -107,6 +97,16 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/vedurstofureitur</link>
       <description>Veðurstofureitur   - Lýsing - 30.03.2023 til 04.05.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vedurstofureitur</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/valla</link>
+      <description>Vallá  - Breyting á deiliskipulagi - 11.04.2023 til 26.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/valla</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/hrisateigur-9</link>
+      <description>Hrísateigur 9 - Grenndarkynning á deiliskipulagi - 17.04.2023 til 17.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/hrisateigur-9</guid>
     </item>
   </channel>
 </rss>
