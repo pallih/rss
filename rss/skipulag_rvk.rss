@@ -7,12 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 12 Apr 2023 17:00:45 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/ofanleiti-1</link>
-      <description>Ofanleiti 1  - Grenndarkynning á deiliskipulagi - 20.03.2023 til 24.04.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/ofanleiti-1</guid>
-    </item>
+    <lastBuildDate>Thu, 13 Apr 2023 08:00:29 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/tunguvegur-24</link>
       <description>Tunguvegur 24 - Kynning fyrir hagsmunaaðila - 20.03.2023 til 24.04.2023</description>
@@ -102,6 +97,11 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/hlidargerdi-6</link>
       <description>Hlíðargerði 6 - Kynning fyrir hagsmunaaðila - 17.04.2023 til 17.05.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/hlidargerdi-6</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/lindargata-14</link>
+      <description>Lindargata 14 - Grenndarkynning á deiliskipulagi - 17.04.2023 til 17.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/lindargata-14</guid>
     </item>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/hrisateigur-9</link>
