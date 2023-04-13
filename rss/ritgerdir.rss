@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 13 Apr 2023 13:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2023 14:00:35 +0000</lastBuildDate>
     <item>
       <title>Bætur vegna sakamála - Bætur til þess sem saklaus hefur hlotið dóm</title>
       <link>https://skemman.is/handle/1946/43513</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43514</link>
       <description>Húsnæðisleysi á Íslandi. Þarfagreining fyrir húsnæðislausa karlmenn - Inga Björk Jónsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43514</guid>
+    </item>
+    <item>
+      <title>Áhrif beitingu stjórntækja Seðlabanka Íslands á umfang lántöku og samsetningu lána með veði í húsnæði á tímabilinu 2019-2022</title>
+      <link>https://skemman.is/handle/1946/43515</link>
+      <description>Áhrif beitingu stjórntækja Seðlabanka Íslands á umfang lántöku og samsetningu lána með veði í húsnæði á tímabilinu 2019-2022 - Helga María Guðmundsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43515</guid>
     </item>
     <item>
       <title>Misneyting skv. 253. gr. hgl. og aager skv. 282. gr. dhgl.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43488</link>
       <description>Er Growth Hacking vænlegt markaðstól við rekstur veitingastaða ? - Ásdís Stefanía Jónsdóttir 1963-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43488</guid>
-    </item>
-    <item>
-      <title>„Við erum öll að leita að einhverjum til að tengja við“ : áhrifavaldar og áhrif þeirra á markaðssetningu á íslenskum snyrtivörumarkaði</title>
-      <link>https://skemman.is/handle/1946/43487</link>
-      <description>„Við erum öll að leita að einhverjum til að tengja við“ : áhrifavaldar og áhrif þeirra á markaðssetningu á íslenskum snyrtivörumarkaði - Arna Björg Hermannsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43487</guid>
     </item>
   </channel>
 </rss>
