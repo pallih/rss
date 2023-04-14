@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 14 Apr 2023 09:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 10:00:28 +0000</lastBuildDate>
     <item>
       <title>Hver er réttur kaupanda til að krefjast skaðabóta í fasteignakaupum þegar seljandi vanrækir upplýsingaskyldu sína?</title>
       <link>https://skemman.is/handle/1946/43516</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/43519</link>
       <description>Listening to the Song of the Wind: The Mediating Role of Sigur Rós on Chinese Audiences’ Perceptions of Iceland - Zhenwen Lai 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43519</guid>
+    </item>
+    <item>
+      <title>CRM starfsemi Icelandair</title>
+      <link>https://skemman.is/handle/1946/43520</link>
+      <description>CRM starfsemi Icelandair - Sigríður Birna Hallfreðsdóttir 1991-; Sigríður Dóra Birgisdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43520</guid>
     </item>
     <item>
       <title>Áhrif beitingu stjórntækja Seðlabanka Íslands á umfang lántöku og samsetningu lána með veði í húsnæði á tímabilinu 2019-2022</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43485</link>
       <description>Viðskiptatryggð : hvað hefur áhrif á val neytenda á lyfjaverslun / apóteki og hverjir eru helstu áhrifaþættirnir? - Aðalbjörg Eggertsdóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43485</guid>
-    </item>
-    <item>
-      <title>Nálgunarbann : uppfyllir Ísland skyldur 50. og 53. greinar Istanbúl samningsins um fullnægjandi vernd til handa þolendum?</title>
-      <link>https://skemman.is/handle/1946/43483</link>
-      <description>Nálgunarbann : uppfyllir Ísland skyldur 50. og 53. greinar Istanbúl samningsins um fullnægjandi vernd til handa þolendum? - Unnur Ósk Sigfinnsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43483</guid>
     </item>
   </channel>
 </rss>
