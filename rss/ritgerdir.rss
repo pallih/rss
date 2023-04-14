@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 14 Apr 2023 13:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 14:00:28 +0000</lastBuildDate>
     <item>
       <title>Innleiðing íslenskra fyrirtækja á stefnu í sjálfbærni og samfélagslegri ábyrgð og birting upplýsinga um hana</title>
       <link>https://skemman.is/handle/1946/43524</link>
@@ -117,6 +117,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43533</guid>
     </item>
     <item>
+      <title>Viðbragðsáætlanir vegna náttúruhamfara á Reykjanesi : greining á stöðu viðbragðsáætlana fjá fyrirtækjum og stofnunum á Reykjanesi</title>
+      <link>https://skemman.is/handle/1946/43534</link>
+      <description>Viðbragðsáætlanir vegna náttúruhamfara á Reykjanesi : greining á stöðu viðbragðsáætlana fjá fyrirtækjum og stofnunum á Reykjanesi - Karen Ósk Lárusdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43534</guid>
+    </item>
+    <item>
+      <title>Öryggi ferðamanna á gossvæði á Reykjanesi</title>
+      <link>https://skemman.is/handle/1946/43535</link>
+      <description>Öryggi ferðamanna á gossvæði á Reykjanesi - Kristín Rós Hlynsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43535</guid>
+    </item>
+    <item>
       <title>Áhrif beitingu stjórntækja Seðlabanka Íslands á umfang lántöku og samsetningu lána með veði í húsnæði á tímabilinu 2019-2022</title>
       <link>https://skemman.is/handle/1946/43515</link>
       <description>Áhrif beitingu stjórntækja Seðlabanka Íslands á umfang lántöku og samsetningu lána með veði í húsnæði á tímabilinu 2019-2022 - Helga María Guðmundsdóttir 2000-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43511</link>
       <description>Misneyting skv. 253. gr. hgl. og aager skv. 282. gr. dhgl. - Anna Einarsdóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43511</guid>
-    </item>
-    <item>
-      <title>The Tip of the Iceberg: Situating the U.S. Arctic Discourse as an Arctic Ally or Adversary</title>
-      <link>https://skemman.is/handle/1946/43509</link>
-      <description>The Tip of the Iceberg: Situating the U.S. Arctic Discourse as an Arctic Ally or Adversary - Alexandria Jessika Fenn 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43509</guid>
-    </item>
-    <item>
-      <title>Bætur vegna handtöku á grundvelli 246. gr. laga um meðferð sakamála</title>
-      <link>https://skemman.is/handle/1946/43510</link>
-      <description>Bætur vegna handtöku á grundvelli 246. gr. laga um meðferð sakamála - Elín Harpa Héðinsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43510</guid>
     </item>
   </channel>
 </rss>
