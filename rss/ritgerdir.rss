@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 16 Apr 2023 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2023 08:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Skipulagsvald sveitarfélaga. Sjálfstjórn sveitarfélaga í skipulagsmálum.</title>
+      <link>https://skemman.is/handle/1946/43542</link>
+      <description>Skipulagsvald sveitarfélaga. Sjálfstjórn sveitarfélaga í skipulagsmálum. - María Bogadóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43542</guid>
+    </item>
+    <item>
+      <title>Mat íslenskra dómstóla og stjórnvalda á hugtakinu almenningsógn til heimildar á brottvísun EES borgara</title>
+      <link>https://skemman.is/handle/1946/43543</link>
+      <description>Mat íslenskra dómstóla og stjórnvalda á hugtakinu almenningsógn til heimildar á brottvísun EES borgara - Þórdís Ólöf Jónsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43543</guid>
+    </item>
     <item>
       <title>Innleiðing íslenskra fyrirtækja á stefnu í sjálfbærni og samfélagslegri ábyrgð og birting upplýsinga um hana</title>
       <link>https://skemman.is/handle/1946/43524</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43534</link>
       <description>Viðbragðsáætlanir vegna náttúruhamfara á Reykjanesi : greining á stöðu viðbragðsáætlana fjá fyrirtækjum og stofnunum á Reykjanesi - Karen Ósk Lárusdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43534</guid>
-    </item>
-    <item>
-      <title>Öryggi ferðamanna á gossvæði á Reykjanesi</title>
-      <link>https://skemman.is/handle/1946/43535</link>
-      <description>Öryggi ferðamanna á gossvæði á Reykjanesi - Kristín Rós Hlynsdóttir 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43535</guid>
-    </item>
-    <item>
-      <title>Bætur vegna handtöku að ósekju í þágu sakamála: Almenn handtökuheimild lögreglu og mat Hæstaréttar á fjárhæð bóta á grundvelli 2. mgr. 246. gr. laga um meðferð sakamála nr. 88/2008</title>
-      <link>https://skemman.is/handle/1946/43540</link>
-      <description>Bætur vegna handtöku að ósekju í þágu sakamála: Almenn handtökuheimild lögreglu og mat Hæstaréttar á fjárhæð bóta á grundvelli 2. mgr. 246. gr. laga um meðferð sakamála nr. 88/2008 - Védís Halla Víðisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43540</guid>
     </item>
   </channel>
 </rss>
