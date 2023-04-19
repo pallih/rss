@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 18 Apr 2023 17:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 08:00:27 +0000</lastBuildDate>
+    <item>
+      <title>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43640</link>
+      <description>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi - Íris Hafþórsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43640</guid>
+    </item>
     <item>
       <title>Áföll í æsku og afbrotahegðun kvenna: Hvernig er hægt að mæta þörfum þeirra?</title>
       <link>https://skemman.is/handle/1946/43620</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43627</link>
       <description>Kulnun í starfi félagsráðgjafa. Hverjir eru áhættuþættir í starfi félagsráðgjafa og hvernig er hægt að koma í veg fyrir kulnun. - Karen Líf Jóhannsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43627</guid>
-    </item>
-    <item>
-      <title>Sakhæf börn með áhættuhegðun: Hvaða úrræði eru í boði?</title>
-      <link>https://skemman.is/handle/1946/43623</link>
-      <description>Sakhæf börn með áhættuhegðun: Hvaða úrræði eru í boði? - Ada Björnsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43623</guid>
     </item>
   </channel>
 </rss>
