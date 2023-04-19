@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 19 Apr 2023 15:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 16:00:27 +0000</lastBuildDate>
     <item>
       <title>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna</title>
       <link>https://skemman.is/handle/1946/43646</link>
@@ -87,6 +87,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43652</guid>
     </item>
     <item>
+      <title>„Hver er frú Ragnheiður“. Hugmyndafræði skaðaminnkunar, saga og þróun Frú  Ragnheiðar</title>
+      <link>https://skemman.is/handle/1946/43653</link>
+      <description>„Hver er frú Ragnheiður“. Hugmyndafræði skaðaminnkunar, saga og þróun Frú  Ragnheiðar - Hildur María Brynjólfsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43653</guid>
+    </item>
+    <item>
       <title>Áföll í æsku og afbrotahegðun kvenna: Hvernig er hægt að mæta þörfum þeirra?</title>
       <link>https://skemman.is/handle/1946/43620</link>
       <description>Áföll í æsku og afbrotahegðun kvenna: Hvernig er hægt að mæta þörfum þeirra? - Sunneva Líf Sindradóttir 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43594</link>
       <description>Konur sem verða fyrir kynþáttun: Áhrif fordóma og öráreitis á líðan og heilsu kvenna - Ylfa Örk Davíðsdóttir 2000-; Freydís Óskarsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43594</guid>
-    </item>
-    <item>
-      <title>Heimildargildi Landnámu. Kynning á Landnámu og gildi hennar sem sönnun um stofnun beins eignarréttar yfir fasteignum hér á landi.</title>
-      <link>https://skemman.is/handle/1946/43593</link>
-      <description>Heimildargildi Landnámu. Kynning á Landnámu og gildi hennar sem sönnun um stofnun beins eignarréttar yfir fasteignum hér á landi. - Rúnar Bergþórsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43593</guid>
     </item>
   </channel>
 </rss>
