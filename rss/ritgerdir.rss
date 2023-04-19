@@ -7,12 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 19 Apr 2023 08:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 09:00:27 +0000</lastBuildDate>
     <item>
       <title>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi</title>
       <link>https://skemman.is/handle/1946/43640</link>
       <description>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi - Íris Hafþórsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43640</guid>
+    </item>
+    <item>
+      <title>Streituvaldar í streitutengdu samfélagi. Birtingarmyndir streituvalda og áhrif þeirra á einstaklinga</title>
+      <link>https://skemman.is/handle/1946/43641</link>
+      <description>Streituvaldar í streitutengdu samfélagi. Birtingarmyndir streituvalda og áhrif þeirra á einstaklinga - Elín Ísold Pálsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43641</guid>
+    </item>
+    <item>
+      <title>Skólaforðun: Hlutverk og ábyrgð skóla</title>
+      <link>https://skemman.is/handle/1946/43642</link>
+      <description>Skólaforðun: Hlutverk og ábyrgð skóla - Anna María Birgisdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43642</guid>
+    </item>
+    <item>
+      <title>Starfsendurhæfing fyrir ungt fólk NEET hópurinn á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43643</link>
+      <description>Starfsendurhæfing fyrir ungt fólk NEET hópurinn á Íslandi - Berglind Jónsdóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43643</guid>
+    </item>
+    <item>
+      <title>Uppeldi foreldra og námsárangur grunnskólabarna. Áhrif foreldrauppeldis á námsárangur barna á skólaskyldualdri</title>
+      <link>https://skemman.is/handle/1946/43644</link>
+      <description>Uppeldi foreldra og námsárangur grunnskólabarna. Áhrif foreldrauppeldis á námsárangur barna á skólaskyldualdri - Kristín Helga Vilbergsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43644</guid>
     </item>
     <item>
       <title>Áföll í æsku og afbrotahegðun kvenna: Hvernig er hægt að mæta þörfum þeirra?</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/43626</link>
       <description>Ofbeldi og vanræksla á börnum á tímum Covid-19: Tilkynningar um ofbeldi og vanrækslu á börnum til barnaverndar á Íslandi á árunum 2020-2022 - Andrea Steinþórsdóttir 2000-; Laufey Hanna Tómasdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43626</guid>
-    </item>
-    <item>
-      <title>Velferð og öryggi barna: Heimsfaraldurinn Covid-19 og fjöldi tilkynninga til barnavendarþjónustu</title>
-      <link>https://skemman.is/handle/1946/43628</link>
-      <description>Velferð og öryggi barna: Heimsfaraldurinn Covid-19 og fjöldi tilkynninga til barnavendarþjónustu - Brynja Björt Óskarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43628</guid>
-    </item>
-    <item>
-      <title>Fátækt og fjármálalæsi. Færni félagsráðgjafa við meðhöndlun á fjármálaröskun</title>
-      <link>https://skemman.is/handle/1946/43624</link>
-      <description>Fátækt og fjármálalæsi. Færni félagsráðgjafa við meðhöndlun á fjármálaröskun - Una Mathiesen Nikulásdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43624</guid>
-    </item>
-    <item>
-      <title>Áhrifin af því að vera náinn aðstandandi einstaklings með geðhvarfasýki: Stuðningsþarfir og aðkoma félagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/43625</link>
-      <description>Áhrifin af því að vera náinn aðstandandi einstaklings með geðhvarfasýki: Stuðningsþarfir og aðkoma félagsráðgjafa - Guðrún Eik Sveinsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43625</guid>
-    </item>
-    <item>
-      <title>Kulnun í starfi félagsráðgjafa. Hverjir eru áhættuþættir í starfi félagsráðgjafa og hvernig er hægt að koma í veg fyrir kulnun.</title>
-      <link>https://skemman.is/handle/1946/43627</link>
-      <description>Kulnun í starfi félagsráðgjafa. Hverjir eru áhættuþættir í starfi félagsráðgjafa og hvernig er hægt að koma í veg fyrir kulnun. - Karen Líf Jóhannsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43627</guid>
     </item>
   </channel>
 </rss>
