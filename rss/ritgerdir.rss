@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 21 Apr 2023 10:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 11:00:29 +0000</lastBuildDate>
     <item>
       <title>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines</title>
       <link>https://skemman.is/handle/1946/43664</link>
@@ -111,6 +111,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43671</guid>
     </item>
     <item>
+      <title>Development of reusable patch for treatment of Hand Osteoarthritis: Application of 3D printed medical device</title>
+      <link>https://skemman.is/handle/1946/43672</link>
+      <description>Development of reusable patch for treatment of Hand Osteoarthritis: Application of 3D printed medical device - Rakel Sif Kristjánsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43672</guid>
+    </item>
+    <item>
       <title>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna</title>
       <link>https://skemman.is/handle/1946/43646</link>
       <description>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna - Salka Rán Ragnarsdóttir Thorarensen 1999-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43640</link>
       <description>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi - Íris Hafþórsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43640</guid>
-    </item>
-    <item>
-      <title>Fólk á rétt á að fara sér að voða: Aðgerðir stjórnvalda í þágu öryggis ferðamanna sem fara á eigin vegum gangandi og hjólandi um hálendi Íslandsmanna</title>
-      <link>https://skemman.is/handle/1946/43654</link>
-      <description>Fólk á rétt á að fara sér að voða: Aðgerðir stjórnvalda í þágu öryggis ferðamanna sem fara á eigin vegum gangandi og hjólandi um hálendi Íslandsmanna - Erla Sigurðardóttir 1964-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43654</guid>
     </item>
   </channel>
 </rss>
