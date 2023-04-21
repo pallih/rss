@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 21 Apr 2023 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 12:00:28 +0000</lastBuildDate>
     <item>
       <title>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines</title>
       <link>https://skemman.is/handle/1946/43664</link>
@@ -117,6 +117,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43672</guid>
     </item>
     <item>
+      <title>Sakhæfisaldur. Hvenær hættum við að vera börn og verðum sakhæf?</title>
+      <link>https://skemman.is/handle/1946/43673</link>
+      <description>Sakhæfisaldur. Hvenær hættum við að vera börn og verðum sakhæf? - Sigurlaug Hrefna Sverrisdóttir 1964-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43673</guid>
+    </item>
+    <item>
       <title>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna</title>
       <link>https://skemman.is/handle/1946/43646</link>
       <description>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna - Salka Rán Ragnarsdóttir Thorarensen 1999-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43647</link>
       <description>Spilaröskun. Meðferðarnálganir og úrræði - Sara Lind Sölvadóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43647</guid>
-    </item>
-    <item>
-      <title>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43640</link>
-      <description>Hlutverk frjálsra félagasamtaka í þjónustu við fanga á Íslandi - Íris Hafþórsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43640</guid>
     </item>
   </channel>
 </rss>
