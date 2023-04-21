@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 21 Apr 2023 12:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 13:02:07 +0000</lastBuildDate>
     <item>
       <title>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines</title>
       <link>https://skemman.is/handle/1946/43664</link>
@@ -69,34 +69,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43655</guid>
     </item>
     <item>
-      <title>Kortasvik: Atferli, þróun og varnir</title>
-      <link>https://skemman.is/handle/1946/43665</link>
-      <description>Kortasvik: Atferli, þróun og varnir - Ísabella Schweitz Ágústsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43665</guid>
-    </item>
-    <item>
-      <title>Medication-induced Delirium in Dementia patients: A systematic literature review</title>
-      <link>https://skemman.is/handle/1946/43666</link>
-      <description>Medication-induced Delirium in Dementia patients: A systematic literature review - Rut Matthíasdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43666</guid>
-    </item>
-    <item>
-      <title>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43667</link>
-      <description>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi - Rakel Rún Matthíasdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43667</guid>
-    </item>
-    <item>
-      <title>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line</title>
-      <link>https://skemman.is/handle/1946/43668</link>
-      <description>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line - Ragnar Axel Adolfsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43668</guid>
-    </item>
-    <item>
-      <title>Cannabidiol in Icelandic grown hemp: Extraction methods and analytical techniques</title>
-      <link>https://skemman.is/handle/1946/43669</link>
-      <description>Cannabidiol in Icelandic grown hemp: Extraction methods and analytical techniques - Kristófer Haukur Hauksson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43669</guid>
+      <title>Áhrif Covid-19 heimsfaraldurs á heilsugæslur á höfuðborgarsvæðinu: Ávísanamynstur sýkla- og öndunarfæralyfja</title>
+      <link>https://skemman.is/handle/1946/43671</link>
+      <description>Áhrif Covid-19 heimsfaraldurs á heilsugæslur á höfuðborgarsvæðinu: Ávísanamynstur sýkla- og öndunarfæralyfja - Kristín Rún Gunnarsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43671</guid>
     </item>
     <item>
       <title>Antifungal Properties of Capric acid, Monocaprin, and Monolaurin. Formulation Efficacy and Prevalence of Fungal Infections in Malawi</title>
@@ -105,22 +81,52 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43670</guid>
     </item>
     <item>
-      <title>Áhrif Covid-19 heimsfaraldurs á heilsugæslur á höfuðborgarsvæðinu: Ávísanamynstur sýkla- og öndunarfæralyfja</title>
-      <link>https://skemman.is/handle/1946/43671</link>
-      <description>Áhrif Covid-19 heimsfaraldurs á heilsugæslur á höfuðborgarsvæðinu: Ávísanamynstur sýkla- og öndunarfæralyfja - Kristín Rún Gunnarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43671</guid>
-    </item>
-    <item>
       <title>Development of reusable patch for treatment of Hand Osteoarthritis: Application of 3D printed medical device</title>
       <link>https://skemman.is/handle/1946/43672</link>
       <description>Development of reusable patch for treatment of Hand Osteoarthritis: Application of 3D printed medical device - Rakel Sif Kristjánsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43672</guid>
     </item>
     <item>
+      <title>Medication-induced Delirium in Dementia patients: A systematic literature review</title>
+      <link>https://skemman.is/handle/1946/43666</link>
+      <description>Medication-induced Delirium in Dementia patients: A systematic literature review - Rut Matthíasdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43666</guid>
+    </item>
+    <item>
+      <title>Kortasvik: Atferli, þróun og varnir</title>
+      <link>https://skemman.is/handle/1946/43665</link>
+      <description>Kortasvik: Atferli, þróun og varnir - Ísabella Schweitz Ágústsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43665</guid>
+    </item>
+    <item>
+      <title>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line</title>
+      <link>https://skemman.is/handle/1946/43668</link>
+      <description>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line - Ragnar Axel Adolfsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43668</guid>
+    </item>
+    <item>
+      <title>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43667</link>
+      <description>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi - Rakel Rún Matthíasdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43667</guid>
+    </item>
+    <item>
+      <title>Cannabidiol in Icelandic grown hemp: Extraction methods and analytical techniques</title>
+      <link>https://skemman.is/handle/1946/43669</link>
+      <description>Cannabidiol in Icelandic grown hemp: Extraction methods and analytical techniques - Kristófer Haukur Hauksson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43669</guid>
+    </item>
+    <item>
       <title>Sakhæfisaldur. Hvenær hættum við að vera börn og verðum sakhæf?</title>
       <link>https://skemman.is/handle/1946/43673</link>
       <description>Sakhæfisaldur. Hvenær hættum við að vera börn og verðum sakhæf? - Sigurlaug Hrefna Sverrisdóttir 1964-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43673</guid>
+    </item>
+    <item>
+      <title>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum</title>
+      <link>https://skemman.is/handle/1946/43674</link>
+      <description>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum - Belinda Berg Jónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43674</guid>
     </item>
     <item>
       <title>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43642</link>
       <description>Skólaforðun: Hlutverk og ábyrgð skóla - Anna María Birgisdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43642</guid>
-    </item>
-    <item>
-      <title>Spilaröskun. Meðferðarnálganir og úrræði</title>
-      <link>https://skemman.is/handle/1946/43647</link>
-      <description>Spilaröskun. Meðferðarnálganir og úrræði - Sara Lind Sölvadóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43647</guid>
     </item>
   </channel>
 </rss>
