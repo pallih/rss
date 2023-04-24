@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 24 Apr 2023 13:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 14:00:31 +0000</lastBuildDate>
     <item>
       <title>Backlash Against Female Negotiators. Does It Hurt to Ask?</title>
       <link>https://skemman.is/handle/1946/43681</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/43678</link>
       <description>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar - Kristrún Anna Borgþórsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43678</guid>
+    </item>
+    <item>
+      <title>Formulation and Development of Diclofenac Sodium Tablets that Imitate the Dissolution Profile of Dimax Rapid®</title>
+      <link>https://skemman.is/handle/1946/43683</link>
+      <description>Formulation and Development of Diclofenac Sodium Tablets that Imitate the Dissolution Profile of Dimax Rapid® - Ívar Örn Jónsson 2001-; Björn Hrannar Brynjarsson 1997-; Telma Rún Magnúsdóttir 2000-; Kristín Brynjarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43683</guid>
+    </item>
+    <item>
+      <title>Development of generic first-order release paracetamol tablets</title>
+      <link>https://skemman.is/handle/1946/43684</link>
+      <description>Development of generic first-order release paracetamol tablets - Selma Pedersen Kjartansdóttir 2001-; Úrsúla Hanna K. Karlsdóttir 1996-; Hanna Margrét Jónsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43684</guid>
     </item>
     <item>
       <title>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43665</link>
       <description>Kortasvik: Atferli, þróun og varnir - Ísabella Schweitz Ágústsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43665</guid>
-    </item>
-    <item>
-      <title>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line</title>
-      <link>https://skemman.is/handle/1946/43668</link>
-      <description>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line - Ragnar Axel Adolfsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43668</guid>
-    </item>
-    <item>
-      <title>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43667</link>
-      <description>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi - Rakel Rún Matthíasdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43667</guid>
     </item>
   </channel>
 </rss>
