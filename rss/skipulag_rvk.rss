@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 23 Apr 2023 17:00:33 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/lindargata-50</link>
-      <description>Lindargata 50  - Grenndarkynning á deiliskipulagi - 20.03.2023 til 24.04.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/lindargata-50</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/lynghagi-20</link>
-      <description>Lynghagi 20 - Kynning fyrir hagsmunaaðila - 20.03.2023 til 24.04.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/lynghagi-20</guid>
-    </item>
+    <lastBuildDate>Mon, 24 Apr 2023 08:00:33 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/egilsgata-14</link>
       <description>Egilsgata 14 - Grenndarkynning á deiliskipulagi - 20.03.2023 til 24.04.2023</description>
@@ -107,6 +97,16 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/aegisida-62-1</link>
       <description>Ægisíða 62  - Grenndarkynning á deiliskipulagi - 19.04.2023 til 22.05.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/aegisida-62-1</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/kjalarnes-saltvik-3</link>
+      <description>Kjalarnes, Saltvík - Breyting á deiliskipulagi - 25.04.2023 til 09.06.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/kjalarnes-saltvik-3</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/laugardalur-thjodarholl</link>
+      <description>Laugardalur - Þjóðarhöll  - Breyting á deiliskipulagi - 25.04.2023 til 09.06.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/laugardalur-thjodarholl</guid>
     </item>
   </channel>
 </rss>
