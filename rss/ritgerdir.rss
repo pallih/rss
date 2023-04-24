@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 24 Apr 2023 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 12:00:31 +0000</lastBuildDate>
     <item>
       <title>Backlash Against Female Negotiators. Does It Hurt to Ask?</title>
       <link>https://skemman.is/handle/1946/43681</link>
       <description>Backlash Against Female Negotiators. Does It Hurt to Ask? - Júlía Leví Baldursdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43681</guid>
-    </item>
-    <item>
-      <title>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar</title>
-      <link>https://skemman.is/handle/1946/43678</link>
-      <description>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar - Kristrún Anna Borgþórsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43678</guid>
     </item>
     <item>
       <title>Stjórnskipulag opinberra stofnana. Greining skipurita</title>
@@ -37,6 +31,12 @@
       <link>https://skemman.is/handle/1946/43682</link>
       <description>Optimization of Drug Substance Manufacturing Facility Occupancy for a Biosimilar Product - Hjördís Ólafsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43682</guid>
+    </item>
+    <item>
+      <title>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar</title>
+      <link>https://skemman.is/handle/1946/43678</link>
+      <description>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar - Kristrún Anna Borgþórsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43678</guid>
     </item>
     <item>
       <title>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines</title>
@@ -123,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43655</guid>
     </item>
     <item>
-      <title>Áhrif Covid-19 heimsfaraldurs á heilsugæslur á höfuðborgarsvæðinu: Ávísanamynstur sýkla- og öndunarfæralyfja</title>
-      <link>https://skemman.is/handle/1946/43671</link>
-      <description>Áhrif Covid-19 heimsfaraldurs á heilsugæslur á höfuðborgarsvæðinu: Ávísanamynstur sýkla- og öndunarfæralyfja - Kristín Rún Gunnarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43671</guid>
-    </item>
-    <item>
       <title>Antifungal Properties of Capric acid, Monocaprin, and Monolaurin. Formulation Efficacy and Prevalence of Fungal Infections in Malawi</title>
       <link>https://skemman.is/handle/1946/43670</link>
       <description>Antifungal Properties of Capric acid, Monocaprin, and Monolaurin. Formulation Efficacy and Prevalence of Fungal Infections in Malawi - Sigríður Ruth Th. Barker 1997-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/43668</link>
       <description>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line - Ragnar Axel Adolfsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43668</guid>
+    </item>
+    <item>
+      <title>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi</title>
+      <link>https://skemman.is/handle/1946/43667</link>
+      <description>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi - Rakel Rún Matthíasdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43667</guid>
     </item>
   </channel>
 </rss>
