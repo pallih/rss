@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 24 Apr 2023 10:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 11:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Backlash Against Female Negotiators. Does It Hurt to Ask?</title>
+      <link>https://skemman.is/handle/1946/43681</link>
+      <description>Backlash Against Female Negotiators. Does It Hurt to Ask? - Júlía Leví Baldursdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43681</guid>
+    </item>
+    <item>
+      <title>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar</title>
+      <link>https://skemman.is/handle/1946/43678</link>
+      <description>Réttindamál fatlaðs fólks: Greining á mannréttindum fatlaðs fólks út frá sjónarhorni félagsráðgjafar - Kristrún Anna Borgþórsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43678</guid>
+    </item>
+    <item>
+      <title>Stjórnskipulag opinberra stofnana. Greining skipurita</title>
+      <link>https://skemman.is/handle/1946/43679</link>
+      <description>Stjórnskipulag opinberra stofnana. Greining skipurita - Anna Guðrún Ahlbrecht 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43679</guid>
+    </item>
+    <item>
+      <title>Ógeðslegir hlutir: Ljóðsaga</title>
+      <link>https://skemman.is/handle/1946/43680</link>
+      <description>Ógeðslegir hlutir: Ljóðsaga - Sunneva Kristín Sigurðardóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43680</guid>
+    </item>
+    <item>
+      <title>Optimization of Drug Substance Manufacturing Facility Occupancy for a Biosimilar Product</title>
+      <link>https://skemman.is/handle/1946/43682</link>
+      <description>Optimization of Drug Substance Manufacturing Facility Occupancy for a Biosimilar Product - Hjördís Ólafsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43682</guid>
+    </item>
     <item>
       <title>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines</title>
       <link>https://skemman.is/handle/1946/43664</link>
@@ -63,6 +93,30 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43658</guid>
     </item>
     <item>
+      <title>Formulation development of ibuprofen tablets: Formulation of ibuprofen tablets with the same drug release profile as Íbúfen®</title>
+      <link>https://skemman.is/handle/1946/43675</link>
+      <description>Formulation development of ibuprofen tablets: Formulation of ibuprofen tablets with the same drug release profile as Íbúfen® - Karitas Ýr Jakobsdóttir 2000-; Anna Helga Kristjánsdóttir 1999-; Ingibjörg Andrésdóttir 1998-; María Rós Guðmundsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43675</guid>
+    </item>
+    <item>
+      <title>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum</title>
+      <link>https://skemman.is/handle/1946/43674</link>
+      <description>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum - Belinda Berg Jónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43674</guid>
+    </item>
+    <item>
+      <title>„Ekki borða eins og úlfur í afmæli“. Birtingarmynd fordóma og mismununar gegn konum í yfirþyngd á íslenskum vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/43676</link>
+      <description>„Ekki borða eins og úlfur í afmæli“. Birtingarmynd fordóma og mismununar gegn konum í yfirþyngd á íslenskum vinnumarkaði - Steinunn Helga Sigurðardóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43676</guid>
+    </item>
+    <item>
+      <title>Gasviðskipti og gaslýsing: Hvað skýrir stormasöm viðskipti Rússlands og Úkraínu?</title>
+      <link>https://skemman.is/handle/1946/43677</link>
+      <description>Gasviðskipti og gaslýsing: Hvað skýrir stormasöm viðskipti Rússlands og Úkraínu? - Þórhildur Kristbjörnsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43677</guid>
+    </item>
+    <item>
       <title>Hjartatengdar auka- og eiturverkanir í kjölfar lyfjameðferðar með hjartatoxískum krabbameinslyfjum</title>
       <link>https://skemman.is/handle/1946/43655</link>
       <description>Hjartatengdar auka- og eiturverkanir í kjölfar lyfjameðferðar með hjartatoxískum krabbameinslyfjum - Harpa Ýr Jóhannsdóttir 1995-</description>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/43668</link>
       <description>Targeted extracellular vesicles derived from HEK293EAEYLR+/GFP+ cell line - Ragnar Axel Adolfsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43668</guid>
-    </item>
-    <item>
-      <title>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43667</link>
-      <description>Mansal: Yfirlit yfir stöðu þekkingar á Íslandi - Rakel Rún Matthíasdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43667</guid>
-    </item>
-    <item>
-      <title>Cannabidiol in Icelandic grown hemp: Extraction methods and analytical techniques</title>
-      <link>https://skemman.is/handle/1946/43669</link>
-      <description>Cannabidiol in Icelandic grown hemp: Extraction methods and analytical techniques - Kristófer Haukur Hauksson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43669</guid>
-    </item>
-    <item>
-      <title>Sakhæfisaldur. Hvenær hættum við að vera börn og verðum sakhæf?</title>
-      <link>https://skemman.is/handle/1946/43673</link>
-      <description>Sakhæfisaldur. Hvenær hættum við að vera börn og verðum sakhæf? - Sigurlaug Hrefna Sverrisdóttir 1964-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43673</guid>
-    </item>
-    <item>
-      <title>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum</title>
-      <link>https://skemman.is/handle/1946/43674</link>
-      <description>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum - Belinda Berg Jónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43674</guid>
-    </item>
-    <item>
-      <title>Formulation development of ibuprofen tablets: Formulation of ibuprofen tablets with the same drug release profile as Íbúfen®</title>
-      <link>https://skemman.is/handle/1946/43675</link>
-      <description>Formulation development of ibuprofen tablets: Formulation of ibuprofen tablets with the same drug release profile as Íbúfen® - Karitas Ýr Jakobsdóttir 2000-; Anna Helga Kristjánsdóttir 1999-; Ingibjörg Andrésdóttir 1998-; María Rós Guðmundsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43675</guid>
-    </item>
-    <item>
-      <title>„Ekki borða eins og úlfur í afmæli“. Birtingarmynd fordóma og mismununar gegn konum í yfirþyngd á íslenskum vinnumarkaði</title>
-      <link>https://skemman.is/handle/1946/43676</link>
-      <description>„Ekki borða eins og úlfur í afmæli“. Birtingarmynd fordóma og mismununar gegn konum í yfirþyngd á íslenskum vinnumarkaði - Steinunn Helga Sigurðardóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43676</guid>
-    </item>
-    <item>
-      <title>Gasviðskipti og gaslýsing: Hvað skýrir stormasöm viðskipti Rússlands og Úkraínu?</title>
-      <link>https://skemman.is/handle/1946/43677</link>
-      <description>Gasviðskipti og gaslýsing: Hvað skýrir stormasöm viðskipti Rússlands og Úkraínu? - Þórhildur Kristbjörnsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43677</guid>
-    </item>
-    <item>
-      <title>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna</title>
-      <link>https://skemman.is/handle/1946/43646</link>
-      <description>Áhrif kynjaðra staðalímyndir á stjórnun karla og kvenna. Um áhrif kynbundna staðalímyndir á stjórnunarstíl karla og kvenna - Salka Rán Ragnarsdóttir Thorarensen 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43646</guid>
-    </item>
-    <item>
-      <title>Streituvaldar í streitutengdu samfélagi. Birtingarmyndir streituvalda og áhrif þeirra á einstaklinga</title>
-      <link>https://skemman.is/handle/1946/43641</link>
-      <description>Streituvaldar í streitutengdu samfélagi. Birtingarmyndir streituvalda og áhrif þeirra á einstaklinga - Elín Ísold Pálsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43641</guid>
     </item>
   </channel>
 </rss>
