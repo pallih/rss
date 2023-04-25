@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 24 Apr 2023 17:00:26 +0000</lastBuildDate>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/egilsgata-14</link>
-      <description>Egilsgata 14 - Grenndarkynning á deiliskipulagi - 20.03.2023 til 24.04.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/egilsgata-14</guid>
-    </item>
-    <item>
-      <link>https://2021.reykjavik.is/skipulag-i-kynningu/holtsgata-23</link>
-      <description>Holtsgata 23  - Grenndarkynning á deiliskipulagi - 20.03.2023 til 24.04.2023</description>
-      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/holtsgata-23</guid>
-    </item>
+    <lastBuildDate>Tue, 25 Apr 2023 08:00:37 +0000</lastBuildDate>
     <item>
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/ellidaarvogurartunshofdi-svaedi-7</link>
       <description>Elliðaárvogur/Ártúnshöfði - svæði 7 - Lýsing - 21.03.2023 til 18.04.2023</description>
@@ -107,6 +97,16 @@
       <link>https://2021.reykjavik.is/skipulag-i-kynningu/laugardalur-thjodarholl</link>
       <description>Laugardalur - Þjóðarhöll  - Breyting á deiliskipulagi - 25.04.2023 til 09.06.2023</description>
       <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/laugardalur-thjodarholl</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/vagnhofdi-29</link>
+      <description>Vagnhöfði 29  - Breyting á deiliskipulagi - 25.04.2023 til 09.06.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/vagnhofdi-29</guid>
+    </item>
+    <item>
+      <link>https://2021.reykjavik.is/skipulag-i-kynningu/hraunteigur-30</link>
+      <description>Hraunteigur 30  - Grenndarkynning á deiliskipulagi - 28.04.2023 til 31.05.2023</description>
+      <guid isPermaLink="false">https://2021.reykjavik.is/skipulag-i-kynningu/hraunteigur-30</guid>
     </item>
   </channel>
 </rss>
