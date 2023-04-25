@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 25 Apr 2023 16:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 17:00:27 +0000</lastBuildDate>
     <item>
       <title>Birting frumkvöðlaeiginleika á opinbera og almenna markaðnum. Samanburður á frumkvöðlaeiginleikum á milli  opinbera og almenna markaðarins með kyn að leiðarljósi.</title>
       <link>https://skemman.is/handle/1946/43687</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/43688</link>
       <description>Selling the Scent-sory: An Exploration of the Power of Storytelling Techniques in Fischersund's 'Authentic Icelandic' Brand - Katherine Marie Scott Stewart 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43688</guid>
+    </item>
+    <item>
+      <title>Weimar lýðveldið: uppgangur og fall. Fyrri heimsstyrjöldin, Weimar lýðveldið og afdrif fyrrverandi hermanna</title>
+      <link>https://skemman.is/handle/1946/43689</link>
+      <description>Weimar lýðveldið: uppgangur og fall. Fyrri heimsstyrjöldin, Weimar lýðveldið og afdrif fyrrverandi hermanna - Ásdís Eva Goldsworthy 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43689</guid>
     </item>
     <item>
       <title>Backlash Against Female Negotiators. Does It Hurt to Ask?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43677</link>
       <description>Gasviðskipti og gaslýsing: Hvað skýrir stormasöm viðskipti Rússlands og Úkraínu? - Þórhildur Kristbjörnsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43677</guid>
-    </item>
-    <item>
-      <title>Hjartatengdar auka- og eiturverkanir í kjölfar lyfjameðferðar með hjartatoxískum krabbameinslyfjum</title>
-      <link>https://skemman.is/handle/1946/43655</link>
-      <description>Hjartatengdar auka- og eiturverkanir í kjölfar lyfjameðferðar með hjartatoxískum krabbameinslyfjum - Harpa Ýr Jóhannsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43655</guid>
     </item>
   </channel>
 </rss>
