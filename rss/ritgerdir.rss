@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 25 Apr 2023 13:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 14:00:26 +0000</lastBuildDate>
     <item>
       <title>Birting frumkvöðlaeiginleika á opinbera og almenna markaðnum. Samanburður á frumkvöðlaeiginleikum á milli  opinbera og almenna markaðarins með kyn að leiðarljósi.</title>
       <link>https://skemman.is/handle/1946/43687</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/43685</link>
       <description>Development of Aspirin Tablets with a Comparable Dissolution Profile to a Commercial Product - Una Þorsteinsdóttir 1999-; Jóhanna Lan 2001-; María Björk Pálsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43685</guid>
+    </item>
+    <item>
+      <title>Selling the Scent-sory: An Exploration of the Power of Storytelling Techniques in Fischersund's 'Authentic Icelandic' Brand</title>
+      <link>https://skemman.is/handle/1946/43688</link>
+      <description>Selling the Scent-sory: An Exploration of the Power of Storytelling Techniques in Fischersund's 'Authentic Icelandic' Brand - Katherine Marie Scott Stewart 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43688</guid>
     </item>
     <item>
       <title>Backlash Against Female Negotiators. Does It Hurt to Ask?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43655</link>
       <description>Hjartatengdar auka- og eiturverkanir í kjölfar lyfjameðferðar með hjartatoxískum krabbameinslyfjum - Harpa Ýr Jóhannsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43655</guid>
-    </item>
-    <item>
-      <title>Antifungal Properties of Capric acid, Monocaprin, and Monolaurin. Formulation Efficacy and Prevalence of Fungal Infections in Malawi</title>
-      <link>https://skemman.is/handle/1946/43670</link>
-      <description>Antifungal Properties of Capric acid, Monocaprin, and Monolaurin. Formulation Efficacy and Prevalence of Fungal Infections in Malawi - Sigríður Ruth Th. Barker 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43670</guid>
     </item>
   </channel>
 </rss>
