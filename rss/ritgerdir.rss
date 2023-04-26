@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 26 Apr 2023 10:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2023 11:00:24 +0000</lastBuildDate>
     <item>
       <title>„Í grunninn eru þetta ungir úthverfastráka í glæponaleik": Samanburður á íslenskri og bandarískri hip hop menningu</title>
       <link>https://skemman.is/handle/1946/43690</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/43691</link>
       <description>Fin whale (Balaenoptera physalus) age estimate validated through bomb radiocarbon dating - Sigríður Vala Finnsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43691</guid>
+    </item>
+    <item>
+      <title>The Value of Female Reason. Echoes of Wollstonecraft in Jane Austen's Pride and Prejudice and Sense and Sensibility</title>
+      <link>https://skemman.is/handle/1946/43692</link>
+      <description>The Value of Female Reason. Echoes of Wollstonecraft in Jane Austen's Pride and Prejudice and Sense and Sensibility - Unnur Ásta Harðardóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43692</guid>
     </item>
     <item>
       <title>Birting frumkvöðlaeiginleika á opinbera og almenna markaðnum. Samanburður á frumkvöðlaeiginleikum á milli  opinbera og almenna markaðarins með kyn að leiðarljósi.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43675</link>
       <description>Formulation development of ibuprofen tablets: Formulation of ibuprofen tablets with the same drug release profile as Íbúfen® - Karitas Ýr Jakobsdóttir 2000-; Anna Helga Kristjánsdóttir 1999-; Ingibjörg Andrésdóttir 1998-; María Rós Guðmundsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43675</guid>
-    </item>
-    <item>
-      <title>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum</title>
-      <link>https://skemman.is/handle/1946/43674</link>
-      <description>Ósamræmi menntunar og þekkingar leikskólakennara við kröfur og ábyrgð í starfi varðandi vanrækslu og ofbeldi gagnvart börnum - Belinda Berg Jónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43674</guid>
     </item>
   </channel>
 </rss>
