@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 26 Apr 2023 16:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2023 17:00:49 +0000</lastBuildDate>
     <item>
       <title>Fin whale (Balaenoptera physalus) age estimate validated through bomb radiocarbon dating</title>
       <link>https://skemman.is/handle/1946/43691</link>
@@ -61,6 +61,18 @@
       <link>https://skemman.is/handle/1946/43698</link>
       <description>Storage of iced salmon in insulated reusable food containers and EPS boxes - impact on quality and yield. - Muhammad Mir Showkat 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43698</guid>
+    </item>
+    <item>
+      <title>Modified Release Tablets of Diclofenac Sodium</title>
+      <link>https://skemman.is/handle/1946/43699</link>
+      <description>Modified Release Tablets of Diclofenac Sodium - Elizabeth Ósk Anjie Löve 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43699</guid>
+    </item>
+    <item>
+      <title>Development of caffeine tablets exhibiting similar dissolution profile to reference tablets</title>
+      <link>https://skemman.is/handle/1946/43700</link>
+      <description>Development of caffeine tablets exhibiting similar dissolution profile to reference tablets - Magnús Gauti Úlfarsson 2000-; Einar Magnús Hjaltason 2001-; Urszula Bondarow 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43700</guid>
     </item>
     <item>
       <title>Weimar lýðveldið: uppgangur og fall. Fyrri heimsstyrjöldin, Weimar lýðveldið og afdrif fyrrverandi hermanna</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43656</link>
       <description>Development of Gelatin-Curcumin Membranes for Wound Treatment : Optimization and property evaluation - Sævar Hrafn Jóhannsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43656</guid>
-    </item>
-    <item>
-      <title>Ávísun lyfjameðferða eftir mismunandi svipgerðum hjartabilunar við útskrift á hjartadeild Landspítala: Eru íslenskir hjartabilunarsjúklingar að fá meðferð í samræmi við klínískar leiðbeiningar Evrópsku hjartalæknasamtakanna?</title>
-      <link>https://skemman.is/handle/1946/43663</link>
-      <description>Ávísun lyfjameðferða eftir mismunandi svipgerðum hjartabilunar við útskrift á hjartadeild Landspítala: Eru íslenskir hjartabilunarsjúklingar að fá meðferð í samræmi við klínískar leiðbeiningar Evrópsku hjartalæknasamtakanna? - Hrafnhildur Hauksdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43663</guid>
-    </item>
-    <item>
-      <title>Phenazine 5,10-dioxides as potent inhibitors of Candida growth: Synthesis and structure-activity relationships</title>
-      <link>https://skemman.is/handle/1946/43660</link>
-      <description>Phenazine 5,10-dioxides as potent inhibitors of Candida growth: Synthesis and structure-activity relationships - Dagmar Ísleifsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43660</guid>
     </item>
   </channel>
 </rss>
