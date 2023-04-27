@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 27 Apr 2023 15:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2023 16:00:35 +0000</lastBuildDate>
     <item>
       <title>Áhrif starfsánægju á geðdeildum á starfsfólk og gæði þjónustunnar : Kerfisbundin fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/43702</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/43705</link>
       <description>Eru líkamar kvenna enn vígvellir stríða? Stríðsnauðganir í Bosníu-Hersegóvínustríðinu og í Lýðstjórnarlýðveldinu Kongó - Katrín Rut Möller Magnúsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43705</guid>
+    </item>
+    <item>
+      <title>„Tekur þú þetta ekki bara?” Hlutverk náms- og starfsráðgjafa í framhaldsskólum</title>
+      <link>https://skemman.is/handle/1946/43706</link>
+      <description>„Tekur þú þetta ekki bara?” Hlutverk náms- og starfsráðgjafa í framhaldsskólum - Hildur Halla Gylfadóttir 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43706</guid>
     </item>
     <item>
       <title>Fin whale (Balaenoptera physalus) age estimate validated through bomb radiocarbon dating</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43680</link>
       <description>Ógeðslegir hlutir: Ljóðsaga - Sunneva Kristín Sigurðardóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43680</guid>
-    </item>
-    <item>
-      <title>Formulation and Development of Diclofenac Sodium Tablets that Imitate the Dissolution Profile of Dimax Rapid®</title>
-      <link>https://skemman.is/handle/1946/43683</link>
-      <description>Formulation and Development of Diclofenac Sodium Tablets that Imitate the Dissolution Profile of Dimax Rapid® - Ívar Örn Jónsson 2001-; Björn Hrannar Brynjarsson 1997-; Telma Rún Magnúsdóttir 2000-; Kristín Brynjarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43683</guid>
     </item>
   </channel>
 </rss>
