@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 27 Apr 2023 09:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2023 10:00:41 +0000</lastBuildDate>
+    <item>
+      <title>„Ekki borða eins og úlfur í afmæli“: Birtingarmynd fordóma og mismununar gegn konum í yfirþyngd á íslenskum vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/43701</link>
+      <description>„Ekki borða eins og úlfur í afmæli“: Birtingarmynd fordóma og mismununar gegn konum í yfirþyngd á íslenskum vinnumarkaði - Steinunn Helga Sigurðardóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43701</guid>
+    </item>
     <item>
       <title>Fin whale (Balaenoptera physalus) age estimate validated through bomb radiocarbon dating</title>
       <link>https://skemman.is/handle/1946/43691</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/43664</link>
       <description>Medication-induced delirium in patients with and without dementia: A systematic review of international guidelines - Guðný Björk Proppé 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43664</guid>
-    </item>
-    <item>
-      <title>Development of Gelatin-Curcumin Membranes for Wound Treatment : Optimization and property evaluation</title>
-      <link>https://skemman.is/handle/1946/43656</link>
-      <description>Development of Gelatin-Curcumin Membranes for Wound Treatment : Optimization and property evaluation - Sævar Hrafn Jóhannsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43656</guid>
     </item>
   </channel>
 </rss>
