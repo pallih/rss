@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 May 2023 15:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2023 16:00:36 +0000</lastBuildDate>
     <item>
       <title>„Konur, friður og öryggi voru bara skrautið í hattinn”: Upplifun íslenskra kvenna af störfum á vettvangi NATO</title>
       <link>https://skemman.is/handle/1946/43768</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43783</guid>
     </item>
     <item>
-      <title>Af hverju finn ég ekki allt efni eftir höfundinn? Rannsókn á vensluðum gögnum og nafnmyndastjórnun</title>
-      <link>https://skemman.is/handle/1946/43786</link>
-      <description>Af hverju finn ég ekki allt efni eftir höfundinn? Rannsókn á vensluðum gögnum og nafnmyndastjórnun - Telma Rós Sigfúsdóttir 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43786</guid>
-    </item>
-    <item>
       <title>Litbrigði fjölmiðla: umhverfi og mótunarvald fjölmiðlunar á tímum hnattrænnar upplýsingavæðingar</title>
       <link>https://skemman.is/handle/1946/43788</link>
       <description>Litbrigði fjölmiðla: umhverfi og mótunarvald fjölmiðlunar á tímum hnattrænnar upplýsingavæðingar - Sigurður Kaiser 1974-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/43789</link>
       <description>Before I Forget: Writing A Screenplay - Iana Starostina 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43789</guid>
+    </item>
+    <item>
+      <title>Paediatric traumatic brain injuries: a descriptive analysis of incidence, visits, cause, and admission rates in Iceland from 2010 to 2021.</title>
+      <link>https://skemman.is/handle/1946/43767</link>
+      <description>Paediatric traumatic brain injuries: a descriptive analysis of incidence, visits, cause, and admission rates in Iceland from 2010 to 2021. - Svana Katla Þorsteinsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43767</guid>
     </item>
   </channel>
 </rss>
