@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 May 2023 09:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 10:00:23 +0000</lastBuildDate>
     <item>
       <title>,,Leikvöllurinn stækkar gígantískt": Starfshættir, tækifæri og hindranir við stafræna náms- og starfsráðgjöf í framhaldsfræðslu á Íslandi</title>
       <link>https://skemman.is/handle/1946/43813</link>
@@ -81,12 +81,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43819</guid>
     </item>
     <item>
-      <title>"Nú er ég meira farin að trúa á sjálfa mig": Upplifun og reynsla þátttakenda af raunfærnimati á móti námskrá</title>
-      <link>https://skemman.is/handle/1946/43821</link>
-      <description>"Nú er ég meira farin að trúa á sjálfa mig": Upplifun og reynsla þátttakenda af raunfærnimati á móti námskrá - Dagný Sveinsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43821</guid>
-    </item>
-    <item>
       <title>Virðing og aðgát í garð fæðandi kvenna: Mikilvægi þekkingar á menningarlegum fjölbreytileika</title>
       <link>https://skemman.is/handle/1946/43822</link>
       <description>Virðing og aðgát í garð fæðandi kvenna: Mikilvægi þekkingar á menningarlegum fjölbreytileika - Anna Kolbrún Kristmundsdóttir 1988-</description>
@@ -99,64 +93,70 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43824</guid>
     </item>
     <item>
+      <title>"Nú er ég meira farin að trúa á sjálfa mig": Upplifun og reynsla þátttakenda af raunfærnimati á móti námskrá</title>
+      <link>https://skemman.is/handle/1946/43821</link>
+      <description>"Nú er ég meira farin að trúa á sjálfa mig": Upplifun og reynsla þátttakenda af raunfærnimati á móti námskrá - Dagný Sveinsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43821</guid>
+    </item>
+    <item>
+      <title>Neysluhyggja á netinu: Áhrif samfélagsmiðla á   kaupáform tískuneytenda</title>
+      <link>https://skemman.is/handle/1946/43832</link>
+      <description>Neysluhyggja á netinu: Áhrif samfélagsmiðla á   kaupáform tískuneytenda - Hafrún Dóra Hafþórsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43832</guid>
+    </item>
+    <item>
+      <title>Loftslagsverkföll á Íslandi. Alþjóðlegar fjöldahreyfingar og aðlögun að staðbundnu samhengi</title>
+      <link>https://skemman.is/handle/1946/43830</link>
+      <description>Loftslagsverkföll á Íslandi. Alþjóðlegar fjöldahreyfingar og aðlögun að staðbundnu samhengi - Jóhanna Ingisól Sævarsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43830</guid>
+    </item>
+    <item>
+      <title>Bíbí í Berlín, Brúðufjölskylda - efnisheimur og túlkun</title>
+      <link>https://skemman.is/handle/1946/43829</link>
+      <description>Bíbí í Berlín, Brúðufjölskylda - efnisheimur og túlkun - Guðlaug Dröfn Gunnarsdóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43829</guid>
+    </item>
+    <item>
+      <title>Ólíkir heimar en hliðstæðir: Upplifun landsbyggðarfólks af skemmtanalífi í heimabyggð og höfuðborg</title>
+      <link>https://skemman.is/handle/1946/43827</link>
+      <description>Ólíkir heimar en hliðstæðir: Upplifun landsbyggðarfólks af skemmtanalífi í heimabyggð og höfuðborg - Guðný Jónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43827</guid>
+    </item>
+    <item>
+      <title>„Þetta er pínu költ…“ - Sönn sakamál sem áhugamál.</title>
+      <link>https://skemman.is/handle/1946/43826</link>
+      <description>„Þetta er pínu költ…“ - Sönn sakamál sem áhugamál. - Sigríður Björk Bragadóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43826</guid>
+    </item>
+    <item>
+      <title>Uppgjör við karlmennskuna: Afstaða ungra karla til #metoo og jafnréttisbaráttunnar</title>
+      <link>https://skemman.is/handle/1946/43828</link>
+      <description>Uppgjör við karlmennskuna: Afstaða ungra karla til #metoo og jafnréttisbaráttunnar - Þorgils Máni Jónsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43828</guid>
+    </item>
+    <item>
+      <title>Örverpi</title>
+      <link>https://skemman.is/handle/1946/43831</link>
+      <description>Örverpi - Birna Stefánsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43831</guid>
+    </item>
+    <item>
       <title>„Þarna vil ég búa, undir fossinum á túninu“: Áhrif og eftirmálar skriðufallanna á Seyðisfirði</title>
       <link>https://skemman.is/handle/1946/43825</link>
       <description>„Þarna vil ég búa, undir fossinum á túninu“: Áhrif og eftirmálar skriðufallanna á Seyðisfirði - Guðný Ósk Guðnadóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43825</guid>
     </item>
     <item>
+      <title>Hamíngja norrænna manna : Sex þátta sjónvarpssería</title>
+      <link>https://skemman.is/handle/1946/43833</link>
+      <description>Hamíngja norrænna manna : Sex þátta sjónvarpssería - Bergþór Másson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43833</guid>
+    </item>
+    <item>
       <title>„Konur, friður og öryggi voru bara skrautið í hattinn”: Upplifun íslenskra kvenna af störfum á vettvangi NATO</title>
       <link>https://skemman.is/handle/1946/43768</link>
       <description>„Konur, friður og öryggi voru bara skrautið í hattinn”: Upplifun íslenskra kvenna af störfum á vettvangi NATO - Ólína Lind Sigurðardóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43768</guid>
-    </item>
-    <item>
-      <title>„Mér finnst eins og ég þurfi að selja mig, sýna mig og vera einhver önnur en ég er": Viðhorf og upplifun ungra kvenna til samninga</title>
-      <link>https://skemman.is/handle/1946/43769</link>
-      <description>„Mér finnst eins og ég þurfi að selja mig, sýna mig og vera einhver önnur en ég er": Viðhorf og upplifun ungra kvenna til samninga - Sólveig Huld Sveinsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43769</guid>
-    </item>
-    <item>
-      <title>Að hanna og skapa híbýli, og okkur sjálf í leiðinni: Mannfræði efnismenningar inn á heimilum</title>
-      <link>https://skemman.is/handle/1946/43770</link>
-      <description>Að hanna og skapa híbýli, og okkur sjálf í leiðinni: Mannfræði efnismenningar inn á heimilum - Elín Halla Hólmfríðardóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43770</guid>
-    </item>
-    <item>
-      <title>Japan’s Efforts to Raise Sunken Fertility Rates in the 21st Century</title>
-      <link>https://skemman.is/handle/1946/43766</link>
-      <description>Japan’s Efforts to Raise Sunken Fertility Rates in the 21st Century - Esja Sigurðardóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43766</guid>
-    </item>
-    <item>
-      <title>Hvernig má auðvelda notkun heilasírits á gjörgæslu? Grunduð kenning byggð á sjónarhorni fagfólks</title>
-      <link>https://skemman.is/handle/1946/43776</link>
-      <description>Hvernig má auðvelda notkun heilasírits á gjörgæslu? Grunduð kenning byggð á sjónarhorni fagfólks - Sjöfn Kjartansdóttir 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43776</guid>
-    </item>
-    <item>
-      <title>Sæborgir og snjallverur. Áhrif upplýsingaumhverfis nútímans á öflun þekkingar í starfi</title>
-      <link>https://skemman.is/handle/1946/43779</link>
-      <description>Sæborgir og snjallverur. Áhrif upplýsingaumhverfis nútímans á öflun þekkingar í starfi - Svanhvít Sif Thorlacius Sigurðardóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43779</guid>
-    </item>
-    <item>
-      <title>Áhrif tjáskiptaörðugleika á líðan einstaklinga með skammtíma barkaraufartúbu á gjörgæslu og notkun á tjáskiptatækni til að bæta samskipti: Kerfisbundin fræðileg samantekt</title>
-      <link>https://skemman.is/handle/1946/43771</link>
-      <description>Áhrif tjáskiptaörðugleika á líðan einstaklinga með skammtíma barkaraufartúbu á gjörgæslu og notkun á tjáskiptatækni til að bæta samskipti: Kerfisbundin fræðileg samantekt - Anna Marín Kristjánsdóttir 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43771</guid>
-    </item>
-    <item>
-      <title>Snjallvæðing raforkukerfisins og álitamál um persónuvernd og mannréttindi</title>
-      <link>https://skemman.is/handle/1946/43778</link>
-      <description>Snjallvæðing raforkukerfisins og álitamál um persónuvernd og mannréttindi - Magnús Geir Björnsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43778</guid>
-    </item>
-    <item>
-      <title>Femínismi á stafrænum vettvangi: myllumerki, andóf og samtvinnun í kynjaðri orðræðu á netinu</title>
-      <link>https://skemman.is/handle/1946/43777</link>
-      <description>Femínismi á stafrænum vettvangi: myllumerki, andóf og samtvinnun í kynjaðri orðræðu á netinu - Guðrún Kristín Kristinsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43777</guid>
     </item>
   </channel>
 </rss>
