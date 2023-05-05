@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 05 May 2023 12:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 13:01:45 +0000</lastBuildDate>
     <item>
       <title>Með harðfisk og hangikjöt að heiman. Undirbúningur og þátttaka Íslands á Sumarólympíuleikunum í London árið 1948.</title>
       <link>https://skemman.is/handle/1946/43852</link>
@@ -63,6 +63,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43847</guid>
     </item>
     <item>
+      <title>Skráning hjúkrunar á Íslandi og notkun staðlaðra fagorðaskráa: Vörpun yfir í ICNP</title>
+      <link>https://skemman.is/handle/1946/43862</link>
+      <description>Skráning hjúkrunar á Íslandi og notkun staðlaðra fagorðaskráa: Vörpun yfir í ICNP - Lovísa Snorradóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43862</guid>
+    </item>
+    <item>
+      <title>Samspil friðhelgi einkalífs skv. 8. gr. MSE og reglna persónuverndarréttar við vernd persónuupplýsinga - Hafa persónuverndarreglur áhrif á túlkun 8. gr. MSE?</title>
+      <link>https://skemman.is/handle/1946/43860</link>
+      <description>Samspil friðhelgi einkalífs skv. 8. gr. MSE og reglna persónuverndarréttar við vernd persónuupplýsinga - Hafa persónuverndarreglur áhrif á túlkun 8. gr. MSE? - Kolbrún Birna Hallgrímsdóttir Bachmann 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43860</guid>
+    </item>
+    <item>
       <title>Dolus eventualis í íslenskum refsirétti</title>
       <link>https://skemman.is/handle/1946/43856</link>
       <description>Dolus eventualis í íslenskum refsirétti - Alexander Jakob Dubik 1993-</description>
@@ -75,10 +87,64 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43857</guid>
     </item>
     <item>
+      <title>"Líf vort er ófullkomið án vina". Samvinna sveitarfélaga og greining á samningum sveitarfélaga um samvinnu</title>
+      <link>https://skemman.is/handle/1946/43859</link>
+      <description>"Líf vort er ófullkomið án vina". Samvinna sveitarfélaga og greining á samningum sveitarfélaga um samvinnu - Sigurjón Gauti Friðriksson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43859</guid>
+    </item>
+    <item>
+      <title>Non-argumental expletive dropping in Danish: A comparative approach: “Længere tilbage i lokalet står et arbejdsbord”</title>
+      <link>https://skemman.is/handle/1946/43861</link>
+      <description>Non-argumental expletive dropping in Danish: A comparative approach: “Længere tilbage i lokalet står et arbejdsbord” - Albert Simon Tallai 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43861</guid>
+    </item>
+    <item>
+      <title>Hverjar eru meginástæður heimaslagsíðu? Hegðunarþættir, ósamhverfar upplýsingar, hindranir á alþjóðlegum fjárfestingum og landsáhætta</title>
+      <link>https://skemman.is/handle/1946/43865</link>
+      <description>Hverjar eru meginástæður heimaslagsíðu? Hegðunarþættir, ósamhverfar upplýsingar, hindranir á alþjóðlegum fjárfestingum og landsáhætta - Elísabet Praowphilai Torp 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43865</guid>
+    </item>
+    <item>
       <title>Comment mange-t-on un éléphant? Construction d'un plan pédagogique pour la technique tandem.</title>
       <link>https://skemman.is/handle/1946/43858</link>
       <description>Comment mange-t-on un éléphant? Construction d'un plan pédagogique pour la technique tandem. - Ásta Lovísa Arnórsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43858</guid>
+    </item>
+    <item>
+      <title>Sturlung the Pot: Investigating Sturla Þórðarson's Contributions to Sturlunga saga</title>
+      <link>https://skemman.is/handle/1946/43866</link>
+      <description>Sturlung the Pot: Investigating Sturla Þórðarson's Contributions to Sturlunga saga - Freyja Elizabeth Petersen 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43866</guid>
+    </item>
+    <item>
+      <title>Seið the Magic Words: Two Case Studies in Old Norse Etymology</title>
+      <link>https://skemman.is/handle/1946/43867</link>
+      <description>Seið the Magic Words: Two Case Studies in Old Norse Etymology - Ellora Nimbkar Rich 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43867</guid>
+    </item>
+    <item>
+      <title>Verklag við svæfingar á gjörgæsludeildum: Kerfisbundin fræðileg samantekt og samanburður á verkferlum</title>
+      <link>https://skemman.is/handle/1946/43863</link>
+      <description>Verklag við svæfingar á gjörgæsludeildum: Kerfisbundin fræðileg samantekt og samanburður á verkferlum - Helga Margrét Ingvarsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43863</guid>
+    </item>
+    <item>
+      <title>Sustainable Public Transport in Iceland. Drivers and Barriers</title>
+      <link>https://skemman.is/handle/1946/43864</link>
+      <description>Sustainable Public Transport in Iceland. Drivers and Barriers - Lisanne Melissa Berker 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43864</guid>
+    </item>
+    <item>
+      <title>"Hann er ljósið í lífinu sem kemur og lýsir upp daginn okkar": Upplifun veitingastjóra af verkefni Móralska</title>
+      <link>https://skemman.is/handle/1946/43868</link>
+      <description>"Hann er ljósið í lífinu sem kemur og lýsir upp daginn okkar": Upplifun veitingastjóra af verkefni Móralska - Vigdís Hauksdóttir 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43868</guid>
+    </item>
+    <item>
+      <title>Sjálfbær þróun og samkeppni: Vægi sjálfbærnisjónarmiða við samkeppnismat</title>
+      <link>https://skemman.is/handle/1946/43869</link>
+      <description>Sjálfbær þróun og samkeppni: Vægi sjálfbærnisjónarmiða við samkeppnismat - Guðbjörg Heiða Einarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43869</guid>
     </item>
     <item>
       <title>,,Leikvöllurinn stækkar gígantískt": Starfshættir, tækifæri og hindranir við stafræna náms- og starfsráðgjöf í framhaldsfræðslu á Íslandi</title>
@@ -87,76 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43813</guid>
     </item>
     <item>
-      <title>"Ég ætlaði að byrja aftur eftir eitt ár en hefur bara ekki tekist það ennþá" Reynsla ungra karla sem horfið hafa frá starfstengdu námi í framhaldsskóla</title>
-      <link>https://skemman.is/handle/1946/43815</link>
-      <description>"Ég ætlaði að byrja aftur eftir eitt ár en hefur bara ekki tekist það ennþá" Reynsla ungra karla sem horfið hafa frá starfstengdu námi í framhaldsskóla - Margrét Helga Hallsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43815</guid>
-    </item>
-    <item>
       <title>"Þau eru bara eins og aðrir"  Starfsnám og þróun starfsferils fatlaðra nemenda á starfsbraut í framhaldsskóla</title>
       <link>https://skemman.is/handle/1946/43814</link>
       <description>"Þau eru bara eins og aðrir"  Starfsnám og þróun starfsferils fatlaðra nemenda á starfsbraut í framhaldsskóla - Aðalheiður Reynisdóttir 1964-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43814</guid>
-    </item>
-    <item>
-      <title>Stafræn efnismenning: Óáþreifanlegur efnisleiki og lýðræðisleg aðkoma einstaklinga innan stafrænna fyrirbæra</title>
-      <link>https://skemman.is/handle/1946/43811</link>
-      <description>Stafræn efnismenning: Óáþreifanlegur efnisleiki og lýðræðisleg aðkoma einstaklinga innan stafrænna fyrirbæra - Snævar Freyr Valsteinsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43811</guid>
-    </item>
-    <item>
-      <title>,,Á 90% af fundunum sem ég sit, er ég eina konan’’ Upplifanir kvenna í stjórnunarstöðum í karllægum atvinnugreinum</title>
-      <link>https://skemman.is/handle/1946/43817</link>
-      <description>,,Á 90% af fundunum sem ég sit, er ég eina konan’’ Upplifanir kvenna í stjórnunarstöðum í karllægum atvinnugreinum - Guðleif Aþena Magnúsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43817</guid>
-    </item>
-    <item>
-      <title>„Landakort íslenskrar tónlistar“: Upplifun tónlistarfólks á íslensku hljómsveitarstarfi</title>
-      <link>https://skemman.is/handle/1946/43820</link>
-      <description>„Landakort íslenskrar tónlistar“: Upplifun tónlistarfólks á íslensku hljómsveitarstarfi - Dagbjört Lena Sigurðardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43820</guid>
-    </item>
-    <item>
-      <title>"Hvað er eiginlega í gangi í þessu þjóðfélagi": Greining á umfjöllun fjölmiðla og viðbrögðum almennings við manndrápum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/43823</link>
-      <description>"Hvað er eiginlega í gangi í þessu þjóðfélagi": Greining á umfjöllun fjölmiðla og viðbrögðum almennings við manndrápum á Íslandi - Sif Svavarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43823</guid>
-    </item>
-    <item>
-      <title>Áhrif rómantískra raunveruleikaþátta á ástarsambönd: Félagsfræðileg greining</title>
-      <link>https://skemman.is/handle/1946/43816</link>
-      <description>Áhrif rómantískra raunveruleikaþátta á ástarsambönd: Félagsfræðileg greining - Linda Ösp Dewage 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43816</guid>
-    </item>
-    <item>
-      <title>Admiring a Disaster: The Cultural Effects of the Chernobyl Disaster</title>
-      <link>https://skemman.is/handle/1946/43810</link>
-      <description>Admiring a Disaster: The Cultural Effects of the Chernobyl Disaster - Tatjana Snót Brynjólfsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43810</guid>
-    </item>
-    <item>
-      <title>„Markmiðið okkar með þessu stúdíói er að valdefla fólk“ Upplifun iðkenda súlufimi af viðhorfum til íþróttarinnar</title>
-      <link>https://skemman.is/handle/1946/43818</link>
-      <description>„Markmiðið okkar með þessu stúdíói er að valdefla fólk“ Upplifun iðkenda súlufimi af viðhorfum til íþróttarinnar - Þórunn Valdís Þórsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43818</guid>
-    </item>
-    <item>
-      <title>Að fræða og að hræða: Hrollvekjandi greining á Garðinum og Dúkku eftir Gerði Kristnýju</title>
-      <link>https://skemman.is/handle/1946/43812</link>
-      <description>Að fræða og að hræða: Hrollvekjandi greining á Garðinum og Dúkku eftir Gerði Kristnýju - Áslaug Ýr Hjartardóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43812</guid>
-    </item>
-    <item>
-      <title>Staða farandverkafólks á vinnumarkaði: Mansal og þrældómur</title>
-      <link>https://skemman.is/handle/1946/43819</link>
-      <description>Staða farandverkafólks á vinnumarkaði: Mansal og þrældómur - Íris Svala Gunnarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43819</guid>
-    </item>
-    <item>
-      <title>Virðing og aðgát í garð fæðandi kvenna: Mikilvægi þekkingar á menningarlegum fjölbreytileika</title>
-      <link>https://skemman.is/handle/1946/43822</link>
-      <description>Virðing og aðgát í garð fæðandi kvenna: Mikilvægi þekkingar á menningarlegum fjölbreytileika - Anna Kolbrún Kristmundsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43822</guid>
     </item>
   </channel>
 </rss>
