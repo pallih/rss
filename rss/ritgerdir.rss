@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 May 2023 17:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 08:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Ég vil að þú vitir. Ferðalag höfundar um gatnamót listmiðaðra rannsókna og bókarskrifa.</title>
+      <link>https://skemman.is/handle/1946/43847</link>
+      <description>Ég vil að þú vitir. Ferðalag höfundar um gatnamót listmiðaðra rannsókna og bókarskrifa. - Anna Sigríður Ólafsdóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43847</guid>
+    </item>
+    <item>
+      <title>Að aðlaga val sitt og spila leikinn: Verufræðileg greining á þátttöku kvenna í eigin undirskipun</title>
+      <link>https://skemman.is/handle/1946/43848</link>
+      <description>Að aðlaga val sitt og spila leikinn: Verufræðileg greining á þátttöku kvenna í eigin undirskipun - Ásthildur Gyða Garðarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43848</guid>
+    </item>
     <item>
       <title>,,Leikvöllurinn stækkar gígantískt": Starfshættir, tækifæri og hindranir við stafræna náms- og starfsráðgjöf í framhaldsfræðslu á Íslandi</title>
       <link>https://skemman.is/handle/1946/43813</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/43825</link>
       <description>„Þarna vil ég búa, undir fossinum á túninu“: Áhrif og eftirmálar skriðufallanna á Seyðisfirði - Guðný Ósk Guðnadóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43825</guid>
-    </item>
-    <item>
-      <title>Hetjur í fjötrum. Ófrjálsar konur í hugarheimi íslenskra miðaldabókmennta</title>
-      <link>https://skemman.is/handle/1946/43835</link>
-      <description>Hetjur í fjötrum. Ófrjálsar konur í hugarheimi íslenskra miðaldabókmennta - Hana Steríková 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43835</guid>
-    </item>
-    <item>
-      <title>Fátækramál í Kjósarhreppi 1871–1920: Samskipti sex þurfamanna við fátækrastjórnina</title>
-      <link>https://skemman.is/handle/1946/43839</link>
-      <description>Fátækramál í Kjósarhreppi 1871–1920: Samskipti sex þurfamanna við fátækrastjórnina - Þórður G. Guðmundsson 1949-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43839</guid>
     </item>
   </channel>
 </rss>
