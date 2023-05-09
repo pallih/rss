@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 May 2023 09:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2023 10:00:28 +0000</lastBuildDate>
     <item>
       <title>Úr takti: Tengsl lesblindu við skynjun á hrynjandi í tali og tónlist</title>
       <link>https://skemman.is/handle/1946/43951</link>
@@ -45,10 +45,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43949</guid>
     </item>
     <item>
-      <title>Kóagúlasa neikvæðir stafýlókokkar í blóði á Landspítala: Afturvirk rannsókn á blóðsýkingum á tímabilinu 2011-2021</title>
-      <link>https://skemman.is/handle/1946/43952</link>
-      <description>Kóagúlasa neikvæðir stafýlókokkar í blóði á Landspítala: Afturvirk rannsókn á blóðsýkingum á tímabilinu 2011-2021 - Elín Perla Stefánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43952</guid>
+      <title>Samhljóð í máli tveggja íslenskra barna. Athugun á samhljóðaframburði þriggja og hálfs árs gamalla tvíburasystra</title>
+      <link>https://skemman.is/handle/1946/43965</link>
+      <description>Samhljóð í máli tveggja íslenskra barna. Athugun á samhljóðaframburði þriggja og hálfs árs gamalla tvíburasystra - Ásta Margrét Einarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43965</guid>
+    </item>
+    <item>
+      <title>Málhæfni einstaklinga með Williams-heilkenni</title>
+      <link>https://skemman.is/handle/1946/43966</link>
+      <description>Málhæfni einstaklinga með Williams-heilkenni - Nanna Karlsdóttir Yeoman 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43966</guid>
+    </item>
+    <item>
+      <title>“You can’t use an old map to explore new worlds”:  A systematic literature review on challenges leaders faced due to telework during COVID-19</title>
+      <link>https://skemman.is/handle/1946/43961</link>
+      <description>“You can’t use an old map to explore new worlds”:  A systematic literature review on challenges leaders faced due to telework during COVID-19 - Jóhanna Garðarsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43961</guid>
+    </item>
+    <item>
+      <title>Tækni í ráðningarferlinu</title>
+      <link>https://skemman.is/handle/1946/43962</link>
+      <description>Tækni í ráðningarferlinu - Sölvi Daðason 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43962</guid>
+    </item>
+    <item>
+      <title>Húsnæðislán og neysluviðmið: Hvaða áhrif hefur það á fjárhag fjölskyldna með húsnæðislán þegar stýrivextir hækka?</title>
+      <link>https://skemman.is/handle/1946/43968</link>
+      <description>Húsnæðislán og neysluviðmið: Hvaða áhrif hefur það á fjárhag fjölskyldna með húsnæðislán þegar stýrivextir hækka? - Aníta Ýr Fjölnisdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43968</guid>
+    </item>
+    <item>
+      <title>Mikilvægi innfluttra muna: Erlend viðskiptatengsl á Skútustöðum frá 900 til 1500.</title>
+      <link>https://skemman.is/handle/1946/43967</link>
+      <description>Mikilvægi innfluttra muna: Erlend viðskiptatengsl á Skútustöðum frá 900 til 1500. - Brynja Árnadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43967</guid>
+    </item>
+    <item>
+      <title>An Analysis on Kurt Vonnegut's Humor in Cat's Cradle, Slaughterhouse-Five and Slapstick or Lonesome No More</title>
+      <link>https://skemman.is/handle/1946/43963</link>
+      <description>An Analysis on Kurt Vonnegut's Humor in Cat's Cradle, Slaughterhouse-Five and Slapstick or Lonesome No More - Egill Sigurðsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43963</guid>
+    </item>
+    <item>
+      <title>Náms- og starfsráðgjöf í framhaldsskólum á Íslandi. Staðan 2023.</title>
+      <link>https://skemman.is/handle/1946/43969</link>
+      <description>Náms- og starfsráðgjöf í framhaldsskólum á Íslandi. Staðan 2023. - Agnes Helga Sigurðardóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43969</guid>
+    </item>
+    <item>
+      <title>Grænkerið. Markaðsáætlun fyrir hlaðvarp</title>
+      <link>https://skemman.is/handle/1946/43964</link>
+      <description>Grænkerið. Markaðsáætlun fyrir hlaðvarp - Eva Guðrún Kristjánsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43964</guid>
     </item>
     <item>
       <title>Verkir eftir svæfingar og skurðaðgerðir á Landspítala. Framsýn ferilrannsókn</title>
@@ -57,106 +105,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/43953</guid>
     </item>
     <item>
+      <title>Neitun í ÍTM: Yfirlit yfir myndun neitunar í íslensku táknmáli</title>
+      <link>https://skemman.is/handle/1946/43957</link>
+      <description>Neitun í ÍTM: Yfirlit yfir myndun neitunar í íslensku táknmáli - Birta Björg Heiðarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43957</guid>
+    </item>
+    <item>
+      <title>Kóagúlasa neikvæðir stafýlókokkar í blóði á Landspítala: Afturvirk rannsókn á blóðsýkingum á tímabilinu 2011-2021</title>
+      <link>https://skemman.is/handle/1946/43952</link>
+      <description>Kóagúlasa neikvæðir stafýlókokkar í blóði á Landspítala: Afturvirk rannsókn á blóðsýkingum á tímabilinu 2011-2021 - Elín Perla Stefánsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43952</guid>
+    </item>
+    <item>
+      <title>“An Accomplished Woman”: Societal Expectations Imposed on the Nineteenth-Century Woman as Represented in Jane Austen’s Pride and Prejudice and Emma</title>
+      <link>https://skemman.is/handle/1946/43956</link>
+      <description>“An Accomplished Woman”: Societal Expectations Imposed on the Nineteenth-Century Woman as Represented in Jane Austen’s Pride and Prejudice and Emma - Dóa Dagný Böðvarsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43956</guid>
+    </item>
+    <item>
+      <title>Þróun vaxtamunar íslensku viðskiptabankanna árin 2005-2022: Áhrifaþættir vaxtaumhverfis á íslenskum fjármálamarkaði</title>
+      <link>https://skemman.is/handle/1946/43960</link>
+      <description>Þróun vaxtamunar íslensku viðskiptabankanna árin 2005-2022: Áhrifaþættir vaxtaumhverfis á íslenskum fjármálamarkaði - Heiður Ívarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43960</guid>
+    </item>
+    <item>
+      <title>Starfshvatning útsendra starfsmanna. Mikilvægi starfshvatningar fyrir útsenda starfsmenn</title>
+      <link>https://skemman.is/handle/1946/43955</link>
+      <description>Starfshvatning útsendra starfsmanna. Mikilvægi starfshvatningar fyrir útsenda starfsmenn - Heiðrún Ósk Jóhannsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43955</guid>
+    </item>
+    <item>
       <title>Fjarskiptamarkaður. Hvað einkennir viðhorf til vörumerkja á fjarskiptamarkaðinum?</title>
       <link>https://skemman.is/handle/1946/43954</link>
       <description>Fjarskiptamarkaður. Hvað einkennir viðhorf til vörumerkja á fjarskiptamarkaðinum? - Rakel Ýr Jónsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43954</guid>
     </item>
     <item>
-      <title>Minningar og mósaík. Andvaka kona, áföll og erfðir í Horfið ekki í ljósið eftir  Þórdísi Gísladóttur</title>
-      <link>https://skemman.is/handle/1946/43945</link>
-      <description>Minningar og mósaík. Andvaka kona, áföll og erfðir í Horfið ekki í ljósið eftir  Þórdísi Gísladóttur - Steinunn Rósa Sturludóttir 1964-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43945</guid>
+      <title>„Við verðum bara að bíða“: Pólsk þýðing á þremur smásögum úr Kláða eftir Fríðu Ísberg, ásamt greinargerð</title>
+      <link>https://skemman.is/handle/1946/43958</link>
+      <description>„Við verðum bara að bíða“: Pólsk þýðing á þremur smásögum úr Kláða eftir Fríðu Ísberg, ásamt greinargerð - Barbara Lempicka 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43958</guid>
     </item>
     <item>
-      <title>Sorgin gleymir engum: Sorg barna í ljósi tengslakenningar Johns Bowlby</title>
-      <link>https://skemman.is/handle/1946/43943</link>
-      <description>Sorgin gleymir engum: Sorg barna í ljósi tengslakenningar Johns Bowlby - Elísa Mjöll Sigurðardóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43943</guid>
+      <title>Áhrifavaldar allra landa, sameinist! Innsýn í áhrif og skyldur aðgerðasinna á samfélagsmiðlum</title>
+      <link>https://skemman.is/handle/1946/43959</link>
+      <description>Áhrifavaldar allra landa, sameinist! Innsýn í áhrif og skyldur aðgerðasinna á samfélagsmiðlum - Ragna Dúa Þórsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43959</guid>
     </item>
     <item>
-      <title>Barátta kínverskra kvenna seinustu 10 ár</title>
-      <link>https://skemman.is/handle/1946/43944</link>
-      <description>Barátta kínverskra kvenna seinustu 10 ár - Saga Eir Svanbergsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43944</guid>
-    </item>
-    <item>
-      <title>Sjálfbær fjármögnun: Hvatar til sjálfbærrar fjármögnunar í regluverki ESB á sviði sjálfbærra fjármála</title>
-      <link>https://skemman.is/handle/1946/43902</link>
-      <description>Sjálfbær fjármögnun: Hvatar til sjálfbærrar fjármögnunar í regluverki ESB á sviði sjálfbærra fjármála - Kristín Alexandra Gísladóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43902</guid>
-    </item>
-    <item>
-      <title>Ísland, öruggasta land í heimi? Inntak 100. gr. a almennra hegningarlaga nr. 19/1940</title>
-      <link>https://skemman.is/handle/1946/43909</link>
-      <description>Ísland, öruggasta land í heimi? Inntak 100. gr. a almennra hegningarlaga nr. 19/1940 - Diljá Björt Stefánsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43909</guid>
-    </item>
-    <item>
-      <title>Umfang verðtryggðra og óverðtryggðra húsnæðislána : Hvernig ákvarðast valið á milli þeirra?</title>
-      <link>https://skemman.is/handle/1946/43905</link>
-      <description>Umfang verðtryggðra og óverðtryggðra húsnæðislána : Hvernig ákvarðast valið á milli þeirra? - Sæunn Nanna Ægisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43905</guid>
-    </item>
-    <item>
-      <title>Samrunar og yfirtökur: Með hliðsjón af skyldum stjórna hlutafélaga</title>
-      <link>https://skemman.is/handle/1946/43908</link>
-      <description>Samrunar og yfirtökur: Með hliðsjón af skyldum stjórna hlutafélaga - Gunnar Magnús Bergs 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43908</guid>
-    </item>
-    <item>
-      <title>Gríska smáorðið οὖν í Nýja testamentinu. Orðræðugreining á hlutverki οὖν í píslarsögu Jóhannesarguðspjalls</title>
-      <link>https://skemman.is/handle/1946/43907</link>
-      <description>Gríska smáorðið οὖν í Nýja testamentinu. Orðræðugreining á hlutverki οὖν í píslarsögu Jóhannesarguðspjalls - Auður Pálsdóttir 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43907</guid>
-    </item>
-    <item>
-      <title>Mannauðsstefnur fyrirtækja: Er munur á mannauðsstefnu fyrirtækja í ólíkum atvinnugreinum?</title>
-      <link>https://skemman.is/handle/1946/43901</link>
-      <description>Mannauðsstefnur fyrirtækja: Er munur á mannauðsstefnu fyrirtækja í ólíkum atvinnugreinum? - Karen Ösp Guðnadóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43901</guid>
-    </item>
-    <item>
-      <title>Þátttaka sveitarfélaga í samkeppnisrekstri</title>
-      <link>https://skemman.is/handle/1946/43906</link>
-      <description>Þátttaka sveitarfélaga í samkeppnisrekstri - Ólöf Sunna Jónsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43906</guid>
-    </item>
-    <item>
-      <title>Evaluation of the European Green Deal</title>
-      <link>https://skemman.is/handle/1946/43903</link>
-      <description>Evaluation of the European Green Deal - Aixin Wen 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43903</guid>
-    </item>
-    <item>
-      <title>Áhrif ofbeldis í umgengnis- og forsjármálum: Samanburðarrannsókn</title>
-      <link>https://skemman.is/handle/1946/43904</link>
-      <description>Áhrif ofbeldis í umgengnis- og forsjármálum: Samanburðarrannsókn - Valdís Erla Björnsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43904</guid>
-    </item>
-    <item>
-      <title>Decolonization Through Words: Using Indigenous Languages to Revitalize Indigenous Culture in a Postcolonial Canada</title>
-      <link>https://skemman.is/handle/1946/43927</link>
-      <description>Decolonization Through Words: Using Indigenous Languages to Revitalize Indigenous Culture in a Postcolonial Canada - Jacob Connor Graham 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43927</guid>
-    </item>
-    <item>
-      <title>The Effects of Housing Size on The Consumption-Based Carbon Footprint: Exploring Trade-Offs</title>
-      <link>https://skemman.is/handle/1946/43933</link>
-      <description>The Effects of Housing Size on The Consumption-Based Carbon Footprint: Exploring Trade-Offs - Anna Kristín Einarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43933</guid>
-    </item>
-    <item>
-      <title>„Allt breytist í þessu lífi“. Samspil mynda og texta í nokkrum útgáfum Sögunnar af Dimmalimm eftir Mugg</title>
-      <link>https://skemman.is/handle/1946/43928</link>
-      <description>„Allt breytist í þessu lífi“. Samspil mynda og texta í nokkrum útgáfum Sögunnar af Dimmalimm eftir Mugg - Anna Magnúsdóttir Eirúnardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43928</guid>
-    </item>
-    <item>
-      <title>Er Keflavíkurflugvöllur flöskuháls? : Stærð flugvallar sem takmarkandi þáttur fyrir fjölda farþega</title>
-      <link>https://skemman.is/handle/1946/43931</link>
-      <description>Er Keflavíkurflugvöllur flöskuháls? : Stærð flugvallar sem takmarkandi þáttur fyrir fjölda farþega - Helga Ósk Hauksdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43931</guid>
+      <title>Af því að jörðin snýst: Um textatengsl í skáldsögunni Kötu eftir Steinar Braga</title>
+      <link>https://skemman.is/handle/1946/43970</link>
+      <description>Af því að jörðin snýst: Um textatengsl í skáldsögunni Kötu eftir Steinar Braga - Guðrún Lilja Friðjónsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43970</guid>
     </item>
   </channel>
 </rss>
