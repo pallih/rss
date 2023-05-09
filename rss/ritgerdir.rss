@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 May 2023 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2023 13:18:00 +0000</lastBuildDate>
     <item>
       <title>Úr takti: Tengsl lesblindu við skynjun á hrynjandi í tali og tónlist</title>
       <link>https://skemman.is/handle/1946/43951</link>
@@ -43,6 +43,60 @@
       <link>https://skemman.is/handle/1946/43949</link>
       <description>Tricothéa : « Il était une fois… » Le conte merveilleux littéraire aujourd’hui - Sumarliði V Snæland Ingimarsson 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43949</guid>
+    </item>
+    <item>
+      <title>Notagildi sjálfsmats stjórna fyrir tilnefningarnefndir og framþróun góðra stjórnarhátta</title>
+      <link>https://skemman.is/handle/1946/43986</link>
+      <description>Notagildi sjálfsmats stjórna fyrir tilnefningarnefndir og framþróun góðra stjórnarhátta - Arnrún Sæby Þórarinsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43986</guid>
+    </item>
+    <item>
+      <title>„Þú ferðast gegnum dimman kynjaskóg  af blekkingum“  Um hinseginleika og samkynja langanir  í ljóðum Steins Steinars</title>
+      <link>https://skemman.is/handle/1946/43980</link>
+      <description>„Þú ferðast gegnum dimman kynjaskóg  af blekkingum“  Um hinseginleika og samkynja langanir  í ljóðum Steins Steinars - Kristján Hrafn Guðmundsson 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43980</guid>
+    </item>
+    <item>
+      <title>Einveldi þjóðarinnar: Áhrif Stjórnarskrár um hin sjerstaklegu málefni Íslands á íslenskt stjórnarfar</title>
+      <link>https://skemman.is/handle/1946/43979</link>
+      <description>Einveldi þjóðarinnar: Áhrif Stjórnarskrár um hin sjerstaklegu málefni Íslands á íslenskt stjórnarfar - Þór Martinsson 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43979</guid>
+    </item>
+    <item>
+      <title>Atvinnuþátttaka döff á Íslandi. Reynsla og upplifun á stöðu döff hérlendis.</title>
+      <link>https://skemman.is/handle/1946/43985</link>
+      <description>Atvinnuþátttaka döff á Íslandi. Reynsla og upplifun á stöðu döff hérlendis. - Viktoría Rós Magnúsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43985</guid>
+    </item>
+    <item>
+      <title>Valkostir Íslands í gjaldmiðilsmálum: Helstu valkostir og kostir þeirra og gallar</title>
+      <link>https://skemman.is/handle/1946/43984</link>
+      <description>Valkostir Íslands í gjaldmiðilsmálum: Helstu valkostir og kostir þeirra og gallar - Guðrún Katrín Viktorsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43984</guid>
+    </item>
+    <item>
+      <title>Áhrif gervigreindar á bankastarfsemi</title>
+      <link>https://skemman.is/handle/1946/43987</link>
+      <description>Áhrif gervigreindar á bankastarfsemi - Máni Mar Steinbjörnsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43987</guid>
+    </item>
+    <item>
+      <title>Stormblessed: Recovering from Depression in Sanderson's The Way of Kings</title>
+      <link>https://skemman.is/handle/1946/43982</link>
+      <description>Stormblessed: Recovering from Depression in Sanderson's The Way of Kings - Sólon Birkir Sveinsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43982</guid>
+    </item>
+    <item>
+      <title>I may can help you with that: A review of English double modals</title>
+      <link>https://skemman.is/handle/1946/43983</link>
+      <description>I may can help you with that: A review of English double modals - Berglind Magnúsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43983</guid>
+    </item>
+    <item>
+      <title>Fjórar greinar: Um bókabörn í Vesturfarasögum Böðvars Guðmundssonar</title>
+      <link>https://skemman.is/handle/1946/43981</link>
+      <description>Fjórar greinar: Um bókabörn í Vesturfarasögum Böðvars Guðmundssonar - Hugrún Ragnarsdóttir 1965-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/43981</guid>
     </item>
     <item>
       <title>Samhljóð í máli tveggja íslenskra barna. Athugun á samhljóðaframburði þriggja og hálfs árs gamalla tvíburasystra</title>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/43953</link>
       <description>Verkir eftir svæfingar og skurðaðgerðir á Landspítala. Framsýn ferilrannsókn - Andri Már Tómasson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/43953</guid>
-    </item>
-    <item>
-      <title>Neitun í ÍTM: Yfirlit yfir myndun neitunar í íslensku táknmáli</title>
-      <link>https://skemman.is/handle/1946/43957</link>
-      <description>Neitun í ÍTM: Yfirlit yfir myndun neitunar í íslensku táknmáli - Birta Björg Heiðarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43957</guid>
-    </item>
-    <item>
-      <title>Kóagúlasa neikvæðir stafýlókokkar í blóði á Landspítala: Afturvirk rannsókn á blóðsýkingum á tímabilinu 2011-2021</title>
-      <link>https://skemman.is/handle/1946/43952</link>
-      <description>Kóagúlasa neikvæðir stafýlókokkar í blóði á Landspítala: Afturvirk rannsókn á blóðsýkingum á tímabilinu 2011-2021 - Elín Perla Stefánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43952</guid>
-    </item>
-    <item>
-      <title>“An Accomplished Woman”: Societal Expectations Imposed on the Nineteenth-Century Woman as Represented in Jane Austen’s Pride and Prejudice and Emma</title>
-      <link>https://skemman.is/handle/1946/43956</link>
-      <description>“An Accomplished Woman”: Societal Expectations Imposed on the Nineteenth-Century Woman as Represented in Jane Austen’s Pride and Prejudice and Emma - Dóa Dagný Böðvarsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43956</guid>
-    </item>
-    <item>
-      <title>Þróun vaxtamunar íslensku viðskiptabankanna árin 2005-2022: Áhrifaþættir vaxtaumhverfis á íslenskum fjármálamarkaði</title>
-      <link>https://skemman.is/handle/1946/43960</link>
-      <description>Þróun vaxtamunar íslensku viðskiptabankanna árin 2005-2022: Áhrifaþættir vaxtaumhverfis á íslenskum fjármálamarkaði - Heiður Ívarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43960</guid>
-    </item>
-    <item>
-      <title>Starfshvatning útsendra starfsmanna. Mikilvægi starfshvatningar fyrir útsenda starfsmenn</title>
-      <link>https://skemman.is/handle/1946/43955</link>
-      <description>Starfshvatning útsendra starfsmanna. Mikilvægi starfshvatningar fyrir útsenda starfsmenn - Heiðrún Ósk Jóhannsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43955</guid>
-    </item>
-    <item>
-      <title>Fjarskiptamarkaður. Hvað einkennir viðhorf til vörumerkja á fjarskiptamarkaðinum?</title>
-      <link>https://skemman.is/handle/1946/43954</link>
-      <description>Fjarskiptamarkaður. Hvað einkennir viðhorf til vörumerkja á fjarskiptamarkaðinum? - Rakel Ýr Jónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43954</guid>
-    </item>
-    <item>
-      <title>„Við verðum bara að bíða“: Pólsk þýðing á þremur smásögum úr Kláða eftir Fríðu Ísberg, ásamt greinargerð</title>
-      <link>https://skemman.is/handle/1946/43958</link>
-      <description>„Við verðum bara að bíða“: Pólsk þýðing á þremur smásögum úr Kláða eftir Fríðu Ísberg, ásamt greinargerð - Barbara Lempicka 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43958</guid>
-    </item>
-    <item>
-      <title>Áhrifavaldar allra landa, sameinist! Innsýn í áhrif og skyldur aðgerðasinna á samfélagsmiðlum</title>
-      <link>https://skemman.is/handle/1946/43959</link>
-      <description>Áhrifavaldar allra landa, sameinist! Innsýn í áhrif og skyldur aðgerðasinna á samfélagsmiðlum - Ragna Dúa Þórsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43959</guid>
-    </item>
-    <item>
-      <title>Af því að jörðin snýst: Um textatengsl í skáldsögunni Kötu eftir Steinar Braga</title>
-      <link>https://skemman.is/handle/1946/43970</link>
-      <description>Af því að jörðin snýst: Um textatengsl í skáldsögunni Kötu eftir Steinar Braga - Guðrún Lilja Friðjónsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/43970</guid>
     </item>
   </channel>
 </rss>
