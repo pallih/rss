@@ -2,8 +2,8 @@ import lxml.html
 import requests
 from feedgen.feed import FeedGenerator
 
-site_url = "https://2021.reykjavik.is/skipulag-i-kynningu"
-base_url = "https://2021.reykjavik.is{}"
+site_url = "https://reykjavik.is/skipulag-i-kynningu"
+base_url = "https://reykjavik.is{}"
 
 
 def scrape_site(url):
