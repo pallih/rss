@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 May 2023 10:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 11:00:29 +0000</lastBuildDate>
     <item>
       <title>Er öryggi sjúklinga á sjúkrahúsum ógnað að næturlagi?</title>
       <link>https://skemman.is/handle/1946/44219</link>
@@ -25,12 +25,6 @@
       <link>https://skemman.is/handle/1946/44225</link>
       <description>Alvarlegir höfuðáverkar á bráðamóttöku Landspítala á árunum 2019 og 2020: Lýsandi rannsókn á mati og meðferð - Kolfinna Ýr Karelsdóttir 1999-; Sigurborg Arnardóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44225</guid>
-    </item>
-    <item>
-      <title>Localization and function of AT1 and AT2 receptors in the porcine retinal artery</title>
-      <link>https://skemman.is/handle/1946/44222</link>
-      <description>Localization and function of AT1 and AT2 receptors in the porcine retinal artery - Egill Ívarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44222</guid>
     </item>
     <item>
       <title>Stærð brjóstakrabbameinsæxla við greiningu: Samanburður á stærð skimunargreinda og klínískt greindra æxla og milli Íslands og Svíþjóðar</title>
@@ -153,10 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44234</guid>
     </item>
     <item>
-      <title>Rúlluborð</title>
-      <link>https://skemman.is/handle/1946/44243</link>
-      <description>Rúlluborð - Hannibal Sindri Óskarsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44243</guid>
+      <title>Valkæð splæsing á utangenaþáttum við taugafrumuþroska</title>
+      <link>https://skemman.is/handle/1946/44246</link>
+      <description>Valkæð splæsing á utangenaþáttum við taugafrumuþroska - Katrín Wang 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44246</guid>
+    </item>
+    <item>
+      <title>Aðgerðir við endómetríósu: Áhrif á verki og lífsgæði</title>
+      <link>https://skemman.is/handle/1946/44250</link>
+      <description>Aðgerðir við endómetríósu: Áhrif á verki og lífsgæði - Þuríður Rut Þuríðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44250</guid>
     </item>
   </channel>
 </rss>
