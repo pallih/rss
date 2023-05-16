@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 16 May 2023 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 13:02:48 +0000</lastBuildDate>
     <item>
       <title>Hjartsláttur hagkerfisins : ný nálgun til að meta verðbólguvæntingar út frá verðbólguálagi á skuldabréfamarkaði með leiðréttingu fyrir heildarálagi</title>
       <link>https://skemman.is/handle/1946/44276</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44288</guid>
     </item>
     <item>
+      <title>Sjálfvirknivæðing með stafrænu vinnuafli : hvernig eru störf að breytast?</title>
+      <link>https://skemman.is/handle/1946/44289</link>
+      <description>Sjálfvirknivæðing með stafrænu vinnuafli : hvernig eru störf að breytast? - Bjarki Guðmundsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44289</guid>
+    </item>
+    <item>
       <title>Endurtekin segulörvun á heila við meðferðarþráu og langvinnu þunglyndi. Uppgjör á árangri meðferðarinnar fyrstu 15 mánuðina á Heilaörvunarmiðstöð Heilsugæslu höfuðborgarsvæðisins 2022-2023</title>
       <link>https://skemman.is/handle/1946/44258</link>
       <description>Endurtekin segulörvun á heila við meðferðarþráu og langvinnu þunglyndi. Uppgjör á árangri meðferðarinnar fyrstu 15 mánuðina á Heilaörvunarmiðstöð Heilsugæslu höfuðborgarsvæðisins 2022-2023 - Elín María Árnadóttir 1997-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44219</link>
       <description>Er öryggi sjúklinga á sjúkrahúsum ógnað að næturlagi? - Ólöf Rún Antoniussen 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44219</guid>
-    </item>
-    <item>
-      <title>Burðarmálskrampar á Íslandi. Klínísk, tölfræðileg lýsing á tímabilinu 1982-2022 á Landspítala</title>
-      <link>https://skemman.is/handle/1946/44224</link>
-      <description>Burðarmálskrampar á Íslandi. Klínísk, tölfræðileg lýsing á tímabilinu 1982-2022 á Landspítala - Sunneva Roinesdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44224</guid>
     </item>
   </channel>
 </rss>
