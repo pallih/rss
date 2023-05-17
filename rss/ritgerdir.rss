@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 17 May 2023 09:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 10:00:33 +0000</lastBuildDate>
     <item>
       <title>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja</title>
       <link>https://skemman.is/handle/1946/44301</link>
@@ -25,6 +25,24 @@
       <link>https://skemman.is/handle/1946/44303</link>
       <description>Seldu sjálfur : FSBO fasteignasala og aðkoma fasteignasala - Arnar Már Steinarsson 2001-; Arnar Ingi Valgeirsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44303</guid>
+    </item>
+    <item>
+      <title>Sports betting : what factors motivate and influence the decision of bettors to place bets on sports?</title>
+      <link>https://skemman.is/handle/1946/44304</link>
+      <description>Sports betting : what factors motivate and influence the decision of bettors to place bets on sports? - Aron Andri Jeannotsson 2001-; Unnar Steinn Ingvarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44304</guid>
+    </item>
+    <item>
+      <title>Exploring the influence of managerial behavior on employee turnover : a mixed-method study</title>
+      <link>https://skemman.is/handle/1946/44305</link>
+      <description>Exploring the influence of managerial behavior on employee turnover : a mixed-method study - Eva Halldórsdóttir 2000-; Matthildur Helga Víðisdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44305</guid>
+    </item>
+    <item>
+      <title>Markaðssetning Íslands sem áfangastað fyrir ferðamenn: Ný viðhorf og áherslur</title>
+      <link>https://skemman.is/handle/1946/44306</link>
+      <description>Markaðssetning Íslands sem áfangastað fyrir ferðamenn: Ný viðhorf og áherslur - Nikulás Búi Linduson Birgisson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44306</guid>
     </item>
     <item>
       <title>Hjartsláttur hagkerfisins : ný nálgun til að meta verðbólguvæntingar út frá verðbólguálagi á skuldabréfamarkaði með leiðréttingu fyrir heildarálagi</title>
@@ -61,12 +79,6 @@
       <link>https://skemman.is/handle/1946/44273</link>
       <description>The Question of Animal Ethics in Contemporary Art - Mirra Elísabet Valdísardóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44273</guid>
-    </item>
-    <item>
-      <title>Álagspróf í greiðslumiðlun : vver er viðnámsþróttur kerfislega mikilvægra banka gegn lausafjáráhættu í millibankakerfinu?</title>
-      <link>https://skemman.is/handle/1946/44282</link>
-      <description>Álagspróf í greiðslumiðlun : vver er viðnámsþróttur kerfislega mikilvægra banka gegn lausafjáráhættu í millibankakerfinu? - Aron Kári Ágústsson 2000-; Kári Jón Hannesson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44282</guid>
     </item>
     <item>
       <title>Þátttaka kvenna á hlutabréfamarkaði á Íslandi : er munur á áhættusækni kynjanna þegar kemur að fjárfestingum í hlutabréfum?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/44287</link>
       <description>Réttmæti sjálfsákvörðunarréttar til dánaraðstoðar: Að fá að stjórna þínum dauða - Gunnar Páll Bjarnason 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44287</guid>
-    </item>
-    <item>
-      <title>Markaðsumhverfi verslana í miðborg Reykjavíkur</title>
-      <link>https://skemman.is/handle/1946/44288</link>
-      <description>Markaðsumhverfi verslana í miðborg Reykjavíkur - Sigrún Valdís Kristjánsdóttir 2000-; Þóra Björk Þórsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44288</guid>
-    </item>
-    <item>
-      <title>Verðmat. Ölgerðin Egill Skallagrímsson hf.</title>
-      <link>https://skemman.is/handle/1946/44293</link>
-      <description>Verðmat. Ölgerðin Egill Skallagrímsson hf. - Hlynur Logi Ingólfsson 1999-; Róbert Ingi Óskarsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44293</guid>
     </item>
   </channel>
 </rss>
