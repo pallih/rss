@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 17 May 2023 14:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 15:00:44 +0000</lastBuildDate>
     <item>
       <title>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja</title>
       <link>https://skemman.is/handle/1946/44301</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44309</guid>
     </item>
     <item>
-      <title>Kistill mobile application : mobile application for the artefact database system Kistill</title>
-      <link>https://skemman.is/handle/1946/44308</link>
-      <description>Kistill mobile application : mobile application for the artefact database system Kistill - Aron Bergur Jóhannsson 1999-; Baldur Fróði Briem 2001-; Marvin Daði Ægisson 1999-; Ólafur Vaur Sigurðsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44308</guid>
-    </item>
-    <item>
       <title>Græn fortíð, nútíð og framtíð : áhrif nýrra reglugerða á upplýsingagjöf um sjálfbærni íslenskra fyrirtækja og kostnaðargreining á mótvægisaðgerðum skráðra fyrirtækja á Íslandi vegna losunar gróðurhúsalofttegunda.</title>
       <link>https://skemman.is/handle/1946/44323</link>
       <description>Græn fortíð, nútíð og framtíð : áhrif nýrra reglugerða á upplýsingagjöf um sjálfbærni íslenskra fyrirtækja og kostnaðargreining á mótvægisaðgerðum skráðra fyrirtækja á Íslandi vegna losunar gróðurhúsalofttegunda. - Benedikt Bjarnason 1998-; Sverrir Hreggviðsson 2001-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/44322</link>
       <description>Foreign payments in Microsoft Business Central - Eva Rún Barðadóttir 1994-; Jón Róbert Árnason 1996-; Kristján Orri Ragnarsson 2000-; Lárus Arnar Sverrisson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44322</guid>
+    </item>
+    <item>
+      <title>Association of a missense variant in PRG3 with eosinophil counts and asthma</title>
+      <link>https://skemman.is/handle/1946/44331</link>
+      <description>Association of a missense variant in PRG3 with eosinophil counts and asthma - Kjartan Þorri Kristjánsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44331</guid>
     </item>
   </channel>
 </rss>
