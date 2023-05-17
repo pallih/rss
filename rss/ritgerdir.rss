@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 17 May 2023 08:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 09:00:28 +0000</lastBuildDate>
     <item>
       <title>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja</title>
       <link>https://skemman.is/handle/1946/44301</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/44302</link>
       <description>Áreiðanleiki valinna sjúkdómsgreininga á Landspítala - Arnar Þór Sigtryggsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44302</guid>
+    </item>
+    <item>
+      <title>Seldu sjálfur : FSBO fasteignasala og aðkoma fasteignasala</title>
+      <link>https://skemman.is/handle/1946/44303</link>
+      <description>Seldu sjálfur : FSBO fasteignasala og aðkoma fasteignasala - Arnar Már Steinarsson 2001-; Arnar Ingi Valgeirsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44303</guid>
     </item>
     <item>
       <title>Hjartsláttur hagkerfisins : ný nálgun til að meta verðbólguvæntingar út frá verðbólguálagi á skuldabréfamarkaði með leiðréttingu fyrir heildarálagi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44293</link>
       <description>Verðmat. Ölgerðin Egill Skallagrímsson hf. - Hlynur Logi Ingólfsson 1999-; Róbert Ingi Óskarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44293</guid>
-    </item>
-    <item>
-      <title>Verðmat á Alvotech</title>
-      <link>https://skemman.is/handle/1946/44291</link>
-      <description>Verðmat á Alvotech - Jón Arnar Sigurðarson 2000-; Ragnar Áki Ragnarsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44291</guid>
     </item>
   </channel>
 </rss>
