@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 19 May 2023 13:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 14:00:21 +0000</lastBuildDate>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
       <link>https://skemman.is/handle/1946/44337</link>
@@ -37,6 +37,30 @@
       <link>https://skemman.is/handle/1946/44341</link>
       <description>Streamlining risk management through a SaaS platform : Kompásinn - Pétur Steinn Guðmundsson 1998-; Róbert Ingi Hálfdanarson 2000-; Valdimar John Parks 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44341</guid>
+    </item>
+    <item>
+      <title>A Modulated Aeroponics System: A prototype of an automated solution for home growing</title>
+      <link>https://skemman.is/handle/1946/44342</link>
+      <description>A Modulated Aeroponics System: A prototype of an automated solution for home growing - Daníel Stefán Richter 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44342</guid>
+    </item>
+    <item>
+      <title>Transition towards co-management of protected areas in the Hindu Kush-Karakoram-Himalaya region: An analysis of the governance system of Central Karakoram National Park, Pakistan</title>
+      <link>https://skemman.is/handle/1946/44343</link>
+      <description>Transition towards co-management of protected areas in the Hindu Kush-Karakoram-Himalaya region: An analysis of the governance system of Central Karakoram National Park, Pakistan - Ahmed Nawaz 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44343</guid>
+    </item>
+    <item>
+      <title>Astria: sameining netbankaþjónustu með PSD2</title>
+      <link>https://skemman.is/handle/1946/44344</link>
+      <description>Astria: sameining netbankaþjónustu með PSD2 - Birna Rún Karlsdóttir 1999-; Birta Hlíðkvist Óskarsdóttir 2000-; Hákon Már Jónsson 2001-; Kjartan Gauti Gíslason 2001-; Úlfar Andri Snæfeld 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44344</guid>
+    </item>
+    <item>
+      <title>Enhancing wake-up with Apple watch using only heart rate : reducing sleep inertia by waking up from lighter sleep</title>
+      <link>https://skemman.is/handle/1946/44345</link>
+      <description>Enhancing wake-up with Apple watch using only heart rate : reducing sleep inertia by waking up from lighter sleep - Brynjar Arturo Soto Erwinsson 2001-; Sebastían Sigurðarson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44345</guid>
     </item>
     <item>
       <title>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/44323</link>
       <description>Græn fortíð, nútíð og framtíð : áhrif nýrra reglugerða á upplýsingagjöf um sjálfbærni íslenskra fyrirtækja og kostnaðargreining á mótvægisaðgerðum skráðra fyrirtækja á Íslandi vegna losunar gróðurhúsalofttegunda. - Benedikt Bjarnason 1998-; Sverrir Hreggviðsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44323</guid>
-    </item>
-    <item>
-      <title>Að duga eða drepast : getur einkabankaþjónusta orðið hagkvæmari í nútímasamfélagi?</title>
-      <link>https://skemman.is/handle/1946/44324</link>
-      <description>Að duga eða drepast : getur einkabankaþjónusta orðið hagkvæmari í nútímasamfélagi? - Selma Þöll Guðjónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44324</guid>
-    </item>
-    <item>
-      <title>„Við þurfum öll að standa saman“ - baráttan gegn peningaþvætti í bankaþjónustu : tækifæri og áskoranir</title>
-      <link>https://skemman.is/handle/1946/44325</link>
-      <description>„Við þurfum öll að standa saman“ - baráttan gegn peningaþvætti í bankaþjónustu : tækifæri og áskoranir - Katla Sól Sigurðardóttir 2001-; Rakel Reynisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44325</guid>
-    </item>
-    <item>
-      <title>Fjarvinnufyrirkomulag Seðlabanka Íslands : er fjarvinna til framtíðar?</title>
-      <link>https://skemman.is/handle/1946/44317</link>
-      <description>Fjarvinnufyrirkomulag Seðlabanka Íslands : er fjarvinna til framtíðar? - Bjarnþóra Hauksdóttir 1999-; Ingibjörg Sigurðardóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44317</guid>
-    </item>
-    <item>
-      <title>Eru rafmyntir framtíðin eða stutt partý</title>
-      <link>https://skemman.is/handle/1946/44319</link>
-      <description>Eru rafmyntir framtíðin eða stutt partý - Unnar Elí Egilsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44319</guid>
     </item>
   </channel>
 </rss>
