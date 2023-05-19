@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 19 May 2023 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 12:00:31 +0000</lastBuildDate>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
       <link>https://skemman.is/handle/1946/44337</link>
@@ -19,6 +19,24 @@
       <link>https://skemman.is/handle/1946/44338</link>
       <description>Vinnustaðamenning eldhúsa veitingastaða - Matthías Már Kristjánsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44338</guid>
+    </item>
+    <item>
+      <title>Time mobile by Tempo</title>
+      <link>https://skemman.is/handle/1946/44339</link>
+      <description>Time mobile by Tempo - Andri Kjerúlf 2000-; Kári Georgsson 2000-; Kjartan Freyr Hafþórsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44339</guid>
+    </item>
+    <item>
+      <title>Modernizing the data integration process : implementation of Azure Data Factory at Össur</title>
+      <link>https://skemman.is/handle/1946/44340</link>
+      <description>Modernizing the data integration process : implementation of Azure Data Factory at Össur - Gunnlaugur Berg Sverrisson 1995-; Helgi Hákonarson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44340</guid>
+    </item>
+    <item>
+      <title>Streamlining risk management through a SaaS platform : Kompásinn</title>
+      <link>https://skemman.is/handle/1946/44341</link>
+      <description>Streamlining risk management through a SaaS platform : Kompásinn - Pétur Steinn Guðmundsson 1998-; Róbert Ingi Hálfdanarson 2000-; Valdimar John Parks 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44341</guid>
     </item>
     <item>
       <title>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/44319</link>
       <description>Eru rafmyntir framtíðin eða stutt partý - Unnar Elí Egilsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44319</guid>
-    </item>
-    <item>
-      <title>Auðlindaskattur í sjókvíaeldi : greining á skattafyrirkomulagi í íslensku sjókvíaeldi og samanburður við aðrar þjóðir</title>
-      <link>https://skemman.is/handle/1946/44318</link>
-      <description>Auðlindaskattur í sjókvíaeldi : greining á skattafyrirkomulagi í íslensku sjókvíaeldi og samanburður við aðrar þjóðir - Daníel Darri Gunnarsson 2001-; Finnur Tómas Pálmason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44318</guid>
-    </item>
-    <item>
-      <title>How do sustainability concerns impact consumers’ shopping behavior and brand loyalty?</title>
-      <link>https://skemman.is/handle/1946/44320</link>
-      <description>How do sustainability concerns impact consumers’ shopping behavior and brand loyalty? - Haukur Steinn Helgason 1994-; Perla Steingrímsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44320</guid>
-    </item>
-    <item>
-      <title>Verðmat á Íslandsbanka hf.</title>
-      <link>https://skemman.is/handle/1946/44321</link>
-      <description>Verðmat á Íslandsbanka hf. - Dagur Þórhallsson 2000-; Elvar Otri Hjálmarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44321</guid>
     </item>
   </channel>
 </rss>
