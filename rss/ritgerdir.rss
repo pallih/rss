@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 19 May 2023 16:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 17:00:30 +0000</lastBuildDate>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
       <link>https://skemman.is/handle/1946/44337</link>
@@ -21,40 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44338</guid>
     </item>
     <item>
-      <title>Time mobile by Tempo</title>
-      <link>https://skemman.is/handle/1946/44339</link>
-      <description>Time mobile by Tempo - Andri Kjerúlf 2000-; Kári Georgsson 2000-; Kjartan Freyr Hafþórsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44339</guid>
-    </item>
-    <item>
-      <title>Modernizing the data integration process : implementation of Azure Data Factory at Össur</title>
-      <link>https://skemman.is/handle/1946/44340</link>
-      <description>Modernizing the data integration process : implementation of Azure Data Factory at Össur - Gunnlaugur Berg Sverrisson 1995-; Helgi Hákonarson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44340</guid>
-    </item>
-    <item>
-      <title>Streamlining risk management through a SaaS platform : Kompásinn</title>
-      <link>https://skemman.is/handle/1946/44341</link>
-      <description>Streamlining risk management through a SaaS platform : Kompásinn - Pétur Steinn Guðmundsson 1998-; Róbert Ingi Hálfdanarson 2000-; Valdimar John Parks 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44341</guid>
-    </item>
-    <item>
-      <title>A Modulated Aeroponics System: A prototype of an automated solution for home growing</title>
-      <link>https://skemman.is/handle/1946/44342</link>
-      <description>A Modulated Aeroponics System: A prototype of an automated solution for home growing - Daníel Stefán Richter 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44342</guid>
-    </item>
-    <item>
       <title>Transition towards co-management of protected areas in the Hindu Kush-Karakoram-Himalaya region: An analysis of the governance system of Central Karakoram National Park, Pakistan</title>
       <link>https://skemman.is/handle/1946/44343</link>
       <description>Transition towards co-management of protected areas in the Hindu Kush-Karakoram-Himalaya region: An analysis of the governance system of Central Karakoram National Park, Pakistan - Ahmed Nawaz 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44343</guid>
-    </item>
-    <item>
-      <title>Astria: sameining netbankaþjónustu með PSD2</title>
-      <link>https://skemman.is/handle/1946/44344</link>
-      <description>Astria: sameining netbankaþjónustu með PSD2 - Birna Rún Karlsdóttir 1999-; Birta Hlíðkvist Óskarsdóttir 2000-; Hákon Már Jónsson 2001-; Kjartan Gauti Gíslason 2001-; Úlfar Andri Snæfeld 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44344</guid>
     </item>
     <item>
       <title>Enhancing wake-up with Apple watch using only heart rate : reducing sleep inertia by waking up from lighter sleep</title>
@@ -63,10 +33,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44345</guid>
     </item>
     <item>
+      <title>Modernizing the data integration process : implementation of Azure Data Factory at Össur</title>
+      <link>https://skemman.is/handle/1946/44340</link>
+      <description>Modernizing the data integration process : implementation of Azure Data Factory at Össur - Gunnlaugur Berg Sverrisson 1995-; Helgi Hákonarson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44340</guid>
+    </item>
+    <item>
+      <title>A Modulated Aeroponics System: A prototype of an automated solution for home growing</title>
+      <link>https://skemman.is/handle/1946/44342</link>
+      <description>A Modulated Aeroponics System: A prototype of an automated solution for home growing - Daníel Stefán Richter 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44342</guid>
+    </item>
+    <item>
+      <title>Astria: sameining netbankaþjónustu með PSD2</title>
+      <link>https://skemman.is/handle/1946/44344</link>
+      <description>Astria: sameining netbankaþjónustu með PSD2 - Birna Rún Karlsdóttir 1999-; Birta Hlíðkvist Óskarsdóttir 2000-; Hákon Már Jónsson 2001-; Kjartan Gauti Gíslason 2001-; Úlfar Andri Snæfeld 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44344</guid>
+    </item>
+    <item>
       <title>How can virtual reality benefit the lives of persons with MND?</title>
       <link>https://skemman.is/handle/1946/44346</link>
       <description>How can virtual reality benefit the lives of persons with MND? - Elísabet Líf Birgisdóttir 2000-; Emil Trausti Smyrilsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44346</guid>
+    </item>
+    <item>
+      <title>Streamlining risk management through a SaaS platform : Kompásinn</title>
+      <link>https://skemman.is/handle/1946/44341</link>
+      <description>Streamlining risk management through a SaaS platform : Kompásinn - Pétur Steinn Guðmundsson 1998-; Róbert Ingi Hálfdanarson 2000-; Valdimar John Parks 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44341</guid>
+    </item>
+    <item>
+      <title>Time mobile by Tempo</title>
+      <link>https://skemman.is/handle/1946/44339</link>
+      <description>Time mobile by Tempo - Andri Kjerúlf 2000-; Kári Georgsson 2000-; Kjartan Freyr Hafþórsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44339</guid>
     </item>
     <item>
       <title>Fyrstu skrefin í fjármálum</title>
@@ -75,10 +75,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44347</guid>
     </item>
     <item>
-      <title>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja</title>
-      <link>https://skemman.is/handle/1946/44301</link>
-      <description>Orsakir fyrir hækkun á ALAT og samtímis hækkun á ALAT og ALP með hliðsjón af lifrarskaða af völdum lyfja - Sigurður Sölvi Sigurðarson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44301</guid>
+      <title>Tölvusneiðmyndir af höfði hjá börnum. Hversu oft koma jákvæðar niðurstöður?</title>
+      <link>https://skemman.is/handle/1946/44348</link>
+      <description>Tölvusneiðmyndir af höfði hjá börnum. Hversu oft koma jákvæðar niðurstöður? - Andrea Rán Magnúsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44348</guid>
+    </item>
+    <item>
+      <title>Hlutfall kvenna 75 ára og eldri sem greinast með brjóstakrabbamein á Brjóstamiðstöð Landspítalans: Er hámarksaldur brjóstaskimunar á Íslandi of lágur?</title>
+      <link>https://skemman.is/handle/1946/44349</link>
+      <description>Hlutfall kvenna 75 ára og eldri sem greinast með brjóstakrabbamein á Brjóstamiðstöð Landspítalans: Er hámarksaldur brjóstaskimunar á Íslandi of lágur? - Særún Ósk Diego Arnarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44349</guid>
+    </item>
+    <item>
+      <title>Myndgæði tveggja ólíkra segulómtækja á Röntgen Domus. Samanburðarrannsókn</title>
+      <link>https://skemman.is/handle/1946/44350</link>
+      <description>Myndgæði tveggja ólíkra segulómtækja á Röntgen Domus. Samanburðarrannsókn - Sóley Sara Magnúsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44350</guid>
     </item>
     <item>
       <title>Sports betting : what factors motivate and influence the decision of bettors to place bets on sports?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/44315</link>
       <description>Áhrif netverslana á kauphegðun neytenda í fataverslunum : áhersla lögð á Ísland - Kolfinna Magnúsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44315</guid>
-    </item>
-    <item>
-      <title>Áhrif peningastefnu Seðlabanka Íslands  á ávöxtun hlutabréfa á Íslandi</title>
-      <link>https://skemman.is/handle/1946/44314</link>
-      <description>Áhrif peningastefnu Seðlabanka Íslands  á ávöxtun hlutabréfa á Íslandi - Ingi Rúnar Birgisson 2000-; Oddur Ísar Þórsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44314</guid>
-    </item>
-    <item>
-      <title>Tásumyndir frá Tenerife og áhrif þeirra á íslenskan efnahag : áhrif ferðamannastreymis til og frá Íslandi á nafngengi og verðbólgu</title>
-      <link>https://skemman.is/handle/1946/44316</link>
-      <description>Tásumyndir frá Tenerife og áhrif þeirra á íslenskan efnahag : áhrif ferðamannastreymis til og frá Íslandi á nafngengi og verðbólgu - Birgir Bragi Magnússon 1997-; Máney Alda Rúnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44316</guid>
     </item>
   </channel>
 </rss>
