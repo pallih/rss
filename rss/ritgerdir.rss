@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 21 May 2023 17:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 08:00:27 +0000</lastBuildDate>
+    <item>
+      <title>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair</title>
+      <link>https://skemman.is/handle/1946/44351</link>
+      <description>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair - Katrín Hólmgrímsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44351</guid>
+    </item>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
       <link>https://skemman.is/handle/1946/44337</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44311</link>
       <description>Exploring gambling behavior and attitudes among college students in Iceland : a gender perspective - Ágúst Ármann 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44311</guid>
-    </item>
-    <item>
-      <title>Áhrif netverslana á kauphegðun neytenda í fataverslunum : áhersla lögð á Ísland</title>
-      <link>https://skemman.is/handle/1946/44315</link>
-      <description>Áhrif netverslana á kauphegðun neytenda í fataverslunum : áhersla lögð á Ísland - Kolfinna Magnúsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44315</guid>
     </item>
   </channel>
 </rss>
