@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 May 2023 14:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 15:00:33 +0000</lastBuildDate>
     <item>
       <title>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair</title>
       <link>https://skemman.is/handle/1946/44351</link>
@@ -87,12 +87,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44364</guid>
     </item>
     <item>
-      <title>Modelling geothermally induced ground deformation: thermo-poro-elasticity model for the 2005 - 2008 period in the Reykjanes geothermal field, SW Iceland</title>
-      <link>https://skemman.is/handle/1946/44358</link>
-      <description>Modelling geothermally induced ground deformation: thermo-poro-elasticity model for the 2005 - 2008 period in the Reykjanes geothermal field, SW Iceland - Matthijs Hendrik Nuus 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44358</guid>
-    </item>
-    <item>
       <title>Standast lög nr. 54/2006 um atvinnuleysistryggingar ákvæði EES-samningsins?</title>
       <link>https://skemman.is/handle/1946/44360</link>
       <description>Standast lög nr. 54/2006 um atvinnuleysistryggingar ákvæði EES-samningsins? - Pétur Magnús Pétursson 1998-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/44374</link>
       <description>Réttarstaða fylgdarlausra barna í leit að alþjóðlegri vernd : uppfyllir Ísland skyldur sínar samkvæmt Barnasáttmálanum? - Dagbjört Dögg Karlsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44374</guid>
+    </item>
+    <item>
+      <title>Solidarity in crisis : the operationalization of the principle of solidarity in EU migration and asylum law</title>
+      <link>https://skemman.is/handle/1946/44378</link>
+      <description>Solidarity in crisis : the operationalization of the principle of solidarity in EU migration and asylum law - Snorri Hjálmarsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44378</guid>
     </item>
   </channel>
 </rss>
