@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 May 2023 10:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 11:00:29 +0000</lastBuildDate>
     <item>
       <title>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair</title>
       <link>https://skemman.is/handle/1946/44351</link>
       <description>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair - Katrín Hólmgrímsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44351</guid>
-    </item>
-    <item>
-      <title>Langvinnir sjúkdómar á Íslandi</title>
-      <link>https://skemman.is/handle/1946/44352</link>
-      <description>Langvinnir sjúkdómar á Íslandi - Iveta Krasimirova Kostova 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44352</guid>
     </item>
     <item>
       <title>Faraldsfræðileg greining á skjólstæðingum Transteymis BUGL</title>
@@ -27,10 +21,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44353</guid>
     </item>
     <item>
+      <title>Langvinnir sjúkdómar á Íslandi</title>
+      <link>https://skemman.is/handle/1946/44352</link>
+      <description>Langvinnir sjúkdómar á Íslandi - Iveta Krasimirova Kostova 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44352</guid>
+    </item>
+    <item>
       <title>Development and Comparison of Generalized Linear Models for Predicting Avoidable Mortality: Fixed vs. Mixed Effects Approach</title>
       <link>https://skemman.is/handle/1946/44354</link>
       <description>Development and Comparison of Generalized Linear Models for Predicting Avoidable Mortality: Fixed vs. Mixed Effects Approach - Michaela Balogová 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44354</guid>
+    </item>
+    <item>
+      <title>Association of Mitral Annular Calcification with Warfarin Use</title>
+      <link>https://skemman.is/handle/1946/44356</link>
+      <description>Association of Mitral Annular Calcification with Warfarin Use - Birta Rakel Óskarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44356</guid>
     </item>
     <item>
       <title>Streita og kvíði hjá barnshafandi konum á tímum Covid-19</title>
@@ -39,10 +45,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44355</guid>
     </item>
     <item>
-      <title>Association of Mitral Annular Calcification with Warfarin Use</title>
-      <link>https://skemman.is/handle/1946/44356</link>
-      <description>Association of Mitral Annular Calcification with Warfarin Use - Birta Rakel Óskarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44356</guid>
+      <title>Acute Heart Failure in Iceland: Epidemiology, Phenotypes, Underlying Aetiology, and Prognostic Insights</title>
+      <link>https://skemman.is/handle/1946/44357</link>
+      <description>Acute Heart Failure in Iceland: Epidemiology, Phenotypes, Underlying Aetiology, and Prognostic Insights - Johan Sindri Hansen 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44357</guid>
+    </item>
+    <item>
+      <title>Modelling geothermally induced ground deformation: thermo-poro-elasticity model for the 2005 - 2008 period in the Reykjanes geothermal field, SW Iceland</title>
+      <link>https://skemman.is/handle/1946/44358</link>
+      <description>Modelling geothermally induced ground deformation: thermo-poro-elasticity model for the 2005 - 2008 period in the Reykjanes geothermal field, SW Iceland - Matthijs Hendrik Nuus 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44358</guid>
+    </item>
+    <item>
+      <title>Neyðarvörn : er neyðarvarnarákvæði 12. gr. almennra hegningarlaga nr. 19/1940 nógu skýrt?</title>
+      <link>https://skemman.is/handle/1946/44359</link>
+      <description>Neyðarvörn : er neyðarvarnarákvæði 12. gr. almennra hegningarlaga nr. 19/1940 nógu skýrt? - Margrét Erla Hákonardóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44359</guid>
+    </item>
+    <item>
+      <title>Standast lög nr. 54/2006 um atvinnuleysistryggingar ákvæði EES-samningsins?</title>
+      <link>https://skemman.is/handle/1946/44360</link>
+      <description>Standast lög nr. 54/2006 um atvinnuleysistryggingar ákvæði EES-samningsins? - Pétur Magnús Pétursson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44360</guid>
+    </item>
+    <item>
+      <title>Handtökur : eðli, heimildir og tímamark handtöku</title>
+      <link>https://skemman.is/handle/1946/44361</link>
+      <description>Handtökur : eðli, heimildir og tímamark handtöku - Halldór Tumi Ólason 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44361</guid>
+    </item>
+    <item>
+      <title>Þróun réttar til heilnæms umhverfis í þjóðarétti</title>
+      <link>https://skemman.is/handle/1946/44362</link>
+      <description>Þróun réttar til heilnæms umhverfis í þjóðarétti - Katrín Sól Gunnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44362</guid>
     </item>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
@@ -105,16 +141,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44339</guid>
     </item>
     <item>
-      <title>Fyrstu skrefin í fjármálum</title>
-      <link>https://skemman.is/handle/1946/44347</link>
-      <description>Fyrstu skrefin í fjármálum - Hjörtur Freyr Lárusson 1999-; Pálmi Guðmundsson 2001-; Robin William Varadaraj 1997-; Valgarð Guðni Oddsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44347</guid>
-    </item>
-    <item>
-      <title>Tölvusneiðmyndir af höfði hjá börnum. Hversu oft koma jákvæðar niðurstöður?</title>
-      <link>https://skemman.is/handle/1946/44348</link>
-      <description>Tölvusneiðmyndir af höfði hjá börnum. Hversu oft koma jákvæðar niðurstöður? - Andrea Rán Magnúsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44348</guid>
+      <title>Myndgæði tveggja ólíkra segulómtækja á Röntgen Domus. Samanburðarrannsókn</title>
+      <link>https://skemman.is/handle/1946/44350</link>
+      <description>Myndgæði tveggja ólíkra segulómtækja á Röntgen Domus. Samanburðarrannsókn - Sóley Sara Magnúsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44350</guid>
     </item>
     <item>
       <title>Hlutfall kvenna 75 ára og eldri sem greinast með brjóstakrabbamein á Brjóstamiðstöð Landspítalans: Er hámarksaldur brjóstaskimunar á Íslandi of lágur?</title>
@@ -123,40 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44349</guid>
     </item>
     <item>
-      <title>Myndgæði tveggja ólíkra segulómtækja á Röntgen Domus. Samanburðarrannsókn</title>
-      <link>https://skemman.is/handle/1946/44350</link>
-      <description>Myndgæði tveggja ólíkra segulómtækja á Röntgen Domus. Samanburðarrannsókn - Sóley Sara Magnúsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44350</guid>
-    </item>
-    <item>
-      <title>Sports betting : what factors motivate and influence the decision of bettors to place bets on sports?</title>
-      <link>https://skemman.is/handle/1946/44304</link>
-      <description>Sports betting : what factors motivate and influence the decision of bettors to place bets on sports? - Aron Andri Jeannotsson 2001-; Unnar Steinn Ingvarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44304</guid>
-    </item>
-    <item>
-      <title>Áreiðanleiki valinna sjúkdómsgreininga á Landspítala</title>
-      <link>https://skemman.is/handle/1946/44302</link>
-      <description>Áreiðanleiki valinna sjúkdómsgreininga á Landspítala - Arnar Þór Sigtryggsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44302</guid>
-    </item>
-    <item>
-      <title>Peningasköpun og rafeyrir : innkoma rafkrónu og vandinn sem fylgir henni</title>
-      <link>https://skemman.is/handle/1946/44307</link>
-      <description>Peningasköpun og rafeyrir : innkoma rafkrónu og vandinn sem fylgir henni - Magnús Benediktsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44307</guid>
-    </item>
-    <item>
-      <title>Markaðssetning Íslands sem áfangastað fyrir ferðamenn: Ný viðhorf og áherslur</title>
-      <link>https://skemman.is/handle/1946/44306</link>
-      <description>Markaðssetning Íslands sem áfangastað fyrir ferðamenn: Ný viðhorf og áherslur - Nikulás Búi Linduson Birgisson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44306</guid>
-    </item>
-    <item>
-      <title>Exploring the influence of managerial behavior on employee turnover : a mixed-method study</title>
-      <link>https://skemman.is/handle/1946/44305</link>
-      <description>Exploring the influence of managerial behavior on employee turnover : a mixed-method study - Eva Halldórsdóttir 2000-; Matthildur Helga Víðisdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44305</guid>
+      <title>Tölvusneiðmyndir af höfði hjá börnum. Hversu oft koma jákvæðar niðurstöður?</title>
+      <link>https://skemman.is/handle/1946/44348</link>
+      <description>Tölvusneiðmyndir af höfði hjá börnum. Hversu oft koma jákvæðar niðurstöður? - Andrea Rán Magnúsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44348</guid>
     </item>
   </channel>
 </rss>
