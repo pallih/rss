@@ -7,12 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 May 2023 08:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 09:00:27 +0000</lastBuildDate>
     <item>
       <title>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair</title>
       <link>https://skemman.is/handle/1946/44351</link>
       <description>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair - Katrín Hólmgrímsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44351</guid>
+    </item>
+    <item>
+      <title>Langvinnir sjúkdómar á Íslandi</title>
+      <link>https://skemman.is/handle/1946/44352</link>
+      <description>Langvinnir sjúkdómar á Íslandi - Iveta Krasimirova Kostova 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44352</guid>
+    </item>
+    <item>
+      <title>Faraldsfræðileg greining á skjólstæðingum Transteymis BUGL</title>
+      <link>https://skemman.is/handle/1946/44353</link>
+      <description>Faraldsfræðileg greining á skjólstæðingum Transteymis BUGL - Kolbrá Ethel Dagnýjardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44353</guid>
+    </item>
+    <item>
+      <title>Development and Comparison of Generalized Linear Models for Predicting Avoidable Mortality: Fixed vs. Mixed Effects Approach</title>
+      <link>https://skemman.is/handle/1946/44354</link>
+      <description>Development and Comparison of Generalized Linear Models for Predicting Avoidable Mortality: Fixed vs. Mixed Effects Approach - Michaela Balogová 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44354</guid>
     </item>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/44313</link>
       <description>When Helga Was a Swan: Tracing the Waterbird as a Religious Concept in Pre-Christian Nordic Culture - Rain Adriann Mason 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44313</guid>
-    </item>
-    <item>
-      <title>Viðhorf íslenskra neytenda gagnvart stafrænum kaupum trygginga</title>
-      <link>https://skemman.is/handle/1946/44310</link>
-      <description>Viðhorf íslenskra neytenda gagnvart stafrænum kaupum trygginga - Sólveig Björt Hlynsdóttir 2001-; Þórunn Elísa Þórisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44310</guid>
-    </item>
-    <item>
-      <title>Sjálfbærni á stafrænni öld : rannsókn á umhverfisáhrifum tækniþróunar í viðskiptum</title>
-      <link>https://skemman.is/handle/1946/44312</link>
-      <description>Sjálfbærni á stafrænni öld : rannsókn á umhverfisáhrifum tækniþróunar í viðskiptum - Assa Ólafsdóttir 2001-; Stefán Ísak Stefánsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44312</guid>
-    </item>
-    <item>
-      <title>Exploring gambling behavior and attitudes among college students in Iceland : a gender perspective</title>
-      <link>https://skemman.is/handle/1946/44311</link>
-      <description>Exploring gambling behavior and attitudes among college students in Iceland : a gender perspective - Ágúst Ármann 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44311</guid>
     </item>
   </channel>
 </rss>
