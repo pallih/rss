@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 May 2023 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 10:00:23 +0000</lastBuildDate>
     <item>
       <title>Safety of novel oral anticoagulants (NOAC) compared to warfarin for postoperative anticoagulation following mitral valve repair</title>
       <link>https://skemman.is/handle/1946/44351</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/44354</link>
       <description>Development and Comparison of Generalized Linear Models for Predicting Avoidable Mortality: Fixed vs. Mixed Effects Approach - Michaela Balogová 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44354</guid>
+    </item>
+    <item>
+      <title>Streita og kvíði hjá barnshafandi konum á tímum Covid-19</title>
+      <link>https://skemman.is/handle/1946/44355</link>
+      <description>Streita og kvíði hjá barnshafandi konum á tímum Covid-19 - Þórdís Eva Þórsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44355</guid>
+    </item>
+    <item>
+      <title>Association of Mitral Annular Calcification with Warfarin Use</title>
+      <link>https://skemman.is/handle/1946/44356</link>
+      <description>Association of Mitral Annular Calcification with Warfarin Use - Birta Rakel Óskarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44356</guid>
     </item>
     <item>
       <title>Viðhorf tannsmiða til víxlmengunar á tannsmíðastofum</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/44305</link>
       <description>Exploring the influence of managerial behavior on employee turnover : a mixed-method study - Eva Halldórsdóttir 2000-; Matthildur Helga Víðisdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44305</guid>
-    </item>
-    <item>
-      <title>Seldu sjálfur : FSBO fasteignasala og aðkoma fasteignasala</title>
-      <link>https://skemman.is/handle/1946/44303</link>
-      <description>Seldu sjálfur : FSBO fasteignasala og aðkoma fasteignasala - Arnar Már Steinarsson 2001-; Arnar Ingi Valgeirsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44303</guid>
-    </item>
-    <item>
-      <title>When Helga Was a Swan: Tracing the Waterbird as a Religious Concept in Pre-Christian Nordic Culture</title>
-      <link>https://skemman.is/handle/1946/44313</link>
-      <description>When Helga Was a Swan: Tracing the Waterbird as a Religious Concept in Pre-Christian Nordic Culture - Rain Adriann Mason 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44313</guid>
     </item>
   </channel>
 </rss>
