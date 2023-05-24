@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 May 2023 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 15:00:35 +0000</lastBuildDate>
     <item>
       <title>Balancing legal liability and AI innovation : assessing the possible impact of the proposed AI liability directive</title>
       <link>https://skemman.is/handle/1946/44425</link>
@@ -51,10 +51,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44426</guid>
     </item>
     <item>
+      <title>Differential gene expression analysis of Nostoc sp. N6 in Peltigera membranacea</title>
+      <link>https://skemman.is/handle/1946/44439</link>
+      <description>Differential gene expression analysis of Nostoc sp. N6 in Peltigera membranacea - Guðmundur Valur Magnússon 1945-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44439</guid>
+    </item>
+    <item>
       <title>Áhrif evrópskrar löggjafar um sjálfbærni á íslensk fjármálafyrirtæki</title>
       <link>https://skemman.is/handle/1946/44427</link>
       <description>Áhrif evrópskrar löggjafar um sjálfbærni á íslensk fjármálafyrirtæki - Geirmundur Ingi Eiríksson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44427</guid>
+    </item>
+    <item>
+      <title>Líkamsástand skógarþrasta frá vetri fram á vor</title>
+      <link>https://skemman.is/handle/1946/44434</link>
+      <description>Líkamsástand skógarþrasta frá vetri fram á vor - Kristrún Thanyathon Rodpitak 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44434</guid>
+    </item>
+    <item>
+      <title>Samanburður á líkamsástandsstuðli svartþrasta (Turdus merula) og skógarþrasta (Turdus iliacus)</title>
+      <link>https://skemman.is/handle/1946/44433</link>
+      <description>Samanburður á líkamsástandsstuðli svartþrasta (Turdus merula) og skógarþrasta (Turdus iliacus) - Írena Pálsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44433</guid>
+    </item>
+    <item>
+      <title>The Location of SmoH177C Protein in Chondrocytes</title>
+      <link>https://skemman.is/handle/1946/44437</link>
+      <description>The Location of SmoH177C Protein in Chondrocytes - Hlynur Magnússon 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44437</guid>
+    </item>
+    <item>
+      <title>Viðbrögð framhalds- og háskóla við kynferðislegu ofbeldi meðal nemenda</title>
+      <link>https://skemman.is/handle/1946/44438</link>
+      <description>Viðbrögð framhalds- og háskóla við kynferðislegu ofbeldi meðal nemenda - Auður Lára Bjarnfreðsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44438</guid>
+    </item>
+    <item>
+      <title>Taipan : gagnasöfnunarkerfi fyrir Skagann 3X</title>
+      <link>https://skemman.is/handle/1946/44443</link>
+      <description>Taipan : gagnasöfnunarkerfi fyrir Skagann 3X - Sindri Þór Harðarson 1998-; Friðrik Tryggvi Róbertsson 1997-; Ólafur Starri Pálsson 1995-; Magni Mar Magnason 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44443</guid>
+    </item>
+    <item>
+      <title>App fyrir útlögðum kostnaði starfsmanna : "Kvitt"</title>
+      <link>https://skemman.is/handle/1946/44442</link>
+      <description>App fyrir útlögðum kostnaði starfsmanna : "Kvitt" - Andri Freysson 1992-; Ívar Alexander Barja 1996-; Jón Steinar Sölvason 1992-; Unnur Ósk Gunnlaugsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44442</guid>
+    </item>
+    <item>
+      <title>Kjarni</title>
+      <link>https://skemman.is/handle/1946/44432</link>
+      <description>Kjarni - Bryndís Muller 1997-; Guðlaug I. Guðmundsdóttir 1993-; Kacper Zuromski 2001-; Nökkvi Gíslason 1990-; Sunna Björk Hermannsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44432</guid>
     </item>
     <item>
       <title>Stjórnarskrár Danmerkur og Íslands : samanburðarrannsókn</title>
@@ -81,24 +129,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44431</guid>
     </item>
     <item>
-      <title>Kjarni</title>
-      <link>https://skemman.is/handle/1946/44432</link>
-      <description>Kjarni - Bryndís Muller 1997-; Guðlaug I. Guðmundsdóttir 1993-; Kacper Zuromski 2001-; Nökkvi Gíslason 1990-; Sunna Björk Hermannsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44432</guid>
-    </item>
-    <item>
-      <title>Samanburður á líkamsástandsstuðli svartþrasta (Turdus merula) og skógarþrasta (Turdus iliacus)</title>
-      <link>https://skemman.is/handle/1946/44433</link>
-      <description>Samanburður á líkamsástandsstuðli svartþrasta (Turdus merula) og skógarþrasta (Turdus iliacus) - Írena Pálsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44433</guid>
-    </item>
-    <item>
-      <title>Líkamsástand skógarþrasta frá vetri fram á vor</title>
-      <link>https://skemman.is/handle/1946/44434</link>
-      <description>Líkamsástand skógarþrasta frá vetri fram á vor - Kristrún Thanyathon Rodpitak 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44434</guid>
-    </item>
-    <item>
       <title>Innleiðing nýrra ESB reglna  á sviði fjölmiðla í íslenskan rétt :tillaga að reglugerð Evrópuþingsins og ráðsins um að koma á sameiginlegu regluverki  fyrir fjölmiðlaþjónustu á innri markaðnum (European Media Freedom Act)</title>
       <link>https://skemman.is/handle/1946/44435</link>
       <description>Innleiðing nýrra ESB reglna  á sviði fjölmiðla í íslenskan rétt :tillaga að reglugerð Evrópuþingsins og ráðsins um að koma á sameiginlegu regluverki  fyrir fjölmiðlaþjónustu á innri markaðnum (European Media Freedom Act) - Kristín Þóra Jónsdóttir 1981-</description>
@@ -109,24 +139,6 @@
       <link>https://skemman.is/handle/1946/44436</link>
       <description>Beiting víðtækrar refsilögsögu á Íslandi : víðtækar lögsöguheimildir - Þórdís Rafnsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44436</guid>
-    </item>
-    <item>
-      <title>The Location of SmoH177C Protein in Chondrocytes</title>
-      <link>https://skemman.is/handle/1946/44437</link>
-      <description>The Location of SmoH177C Protein in Chondrocytes - Hlynur Magnússon 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44437</guid>
-    </item>
-    <item>
-      <title>Viðbrögð framhalds- og háskóla við kynferðislegu ofbeldi meðal nemenda</title>
-      <link>https://skemman.is/handle/1946/44438</link>
-      <description>Viðbrögð framhalds- og háskóla við kynferðislegu ofbeldi meðal nemenda - Auður Lára Bjarnfreðsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44438</guid>
-    </item>
-    <item>
-      <title>Differential gene expression analysis of Nostoc sp. N6 in Peltigera membranacea</title>
-      <link>https://skemman.is/handle/1946/44439</link>
-      <description>Differential gene expression analysis of Nostoc sp. N6 in Peltigera membranacea - Guðmundur Valur Magnússon 1945-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44439</guid>
     </item>
     <item>
       <title>Upplýsingaskipti milli samrunaaðila : lögmæti upplýsingaskipta samrunaaðila í óvissu lagaumhverfi</title>
@@ -141,22 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44441</guid>
     </item>
     <item>
-      <title>App fyrir útlögðum kostnaði starfsmanna : "Kvitt"</title>
-      <link>https://skemman.is/handle/1946/44442</link>
-      <description>App fyrir útlögðum kostnaði starfsmanna : "Kvitt" - Andri Freysson 1992-; Ívar Alexander Barja 1996-; Jón Steinar Sölvason 1992-; Unnur Ósk Gunnlaugsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44442</guid>
-    </item>
-    <item>
-      <title>Stuðningur og aðlögun nýútskrifaðra hjúkrunarfræðinga. Fræðileg samantekt</title>
-      <link>https://skemman.is/handle/1946/44399</link>
-      <description>Stuðningur og aðlögun nýútskrifaðra hjúkrunarfræðinga. Fræðileg samantekt - Katrín Rós Pálsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44399</guid>
-    </item>
-    <item>
-      <title>Áhrif fjórfrelsis á tvísköttunarsamninga aðildarríkja Evrópska Efnahagssvæðisins : með hliðsjón af dómaframkvæmd Evrópudómstólsins</title>
-      <link>https://skemman.is/handle/1946/44402</link>
-      <description>Áhrif fjórfrelsis á tvísköttunarsamninga aðildarríkja Evrópska Efnahagssvæðisins : með hliðsjón af dómaframkvæmd Evrópudómstólsins - Edda Marín Ólafsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44402</guid>
+      <title>Afladagbók</title>
+      <link>https://skemman.is/handle/1946/44444</link>
+      <description>Afladagbók - Ágúst Þór Þrastarson 2000-; Ragnar Már Anfinnsson Heinesen 1990-; Ragnar Smári Ómarsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44444</guid>
     </item>
   </channel>
 </rss>
