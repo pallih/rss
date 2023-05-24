@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 May 2023 08:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 09:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Geislaskammtar í brennsluaðgerðum og gangráðsísetningum</title>
+      <link>https://skemman.is/handle/1946/44420</link>
+      <description>Geislaskammtar í brennsluaðgerðum og gangráðsísetningum - Steinunn Sheila Guðmundsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44420</guid>
+    </item>
+    <item>
+      <title>Þekking barna á hljóðum bókstafa í fyrsta bekk grunnskóla: Þróun og áhættuþættir</title>
+      <link>https://skemman.is/handle/1946/44421</link>
+      <description>Þekking barna á hljóðum bókstafa í fyrsta bekk grunnskóla: Þróun og áhættuþættir - Sóley Katla Þorsteinsdóttir 2000-; Viktória Kontulová 2000-; Elín Anna Guðmundsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44421</guid>
+    </item>
+    <item>
+      <title>A microprobe study of glass and minerals from the 1975-1984 Krafla Fires, NE Iceland: Implications for multiple magma reservoirs</title>
+      <link>https://skemman.is/handle/1946/44422</link>
+      <description>A microprobe study of glass and minerals from the 1975-1984 Krafla Fires, NE Iceland: Implications for multiple magma reservoirs - Kate Jessica Carroll 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44422</guid>
+    </item>
     <item>
       <title>Stuðningur og aðlögun nýútskrifaðra hjúkrunarfræðinga. Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/44399</link>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/44387</link>
       <description>Identification of parasites in haddock (Melanogrammus aeglefinus) for use in stock discrimination - Tryggvi Guðmundsson 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44387</guid>
-    </item>
-    <item>
-      <title>Röntgenrannsóknir af kviðarholi barna. Gæðarannsókn</title>
-      <link>https://skemman.is/handle/1946/44393</link>
-      <description>Röntgenrannsóknir af kviðarholi barna. Gæðarannsókn - Sara Arnardóttir Olsen 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44393</guid>
-    </item>
-    <item>
-      <title>Comparing parasite communities in Atlantic Wolffish Anarhichas lupus around Iceland for stock discrimination</title>
-      <link>https://skemman.is/handle/1946/44388</link>
-      <description>Comparing parasite communities in Atlantic Wolffish Anarhichas lupus around Iceland for stock discrimination - Alex Rafn Elfarsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44388</guid>
-    </item>
-    <item>
-      <title>Exploration of Kubernetes-based FaaS solutions</title>
-      <link>https://skemman.is/handle/1946/44391</link>
-      <description>Exploration of Kubernetes-based FaaS solutions - Ingunn Birta Ómarsdóttir 2000-; Svanfríður Júlía Steingrímsdóttir 2001-; Telma Guðmundsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44391</guid>
     </item>
   </channel>
 </rss>
