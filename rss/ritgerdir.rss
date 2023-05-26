@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 26 May 2023 09:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2023 10:00:43 +0000</lastBuildDate>
     <item>
       <title>Membrane Fouling Behaviors of Pressure-Retarded Osmosis Process with CO2- Captured Alkali Solutions as Draw Solutions</title>
       <link>https://skemman.is/handle/1946/44454</link>
@@ -67,6 +67,18 @@
       <link>https://skemman.is/handle/1946/44459</link>
       <description>Brush Polymers with Macrocyclic Side Chains. A Synthetic Attempt - Sigurður Guðni Gunnarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44459</guid>
+    </item>
+    <item>
+      <title>Starfsánægja meðal tannheilsuteymisins</title>
+      <link>https://skemman.is/handle/1946/44464</link>
+      <description>Starfsánægja meðal tannheilsuteymisins - Bryndís Hong Ingvadóttir 1997-; Signý Eir Guðmundsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44464</guid>
+    </item>
+    <item>
+      <title>Mikilvægi vegasamgangna fyrir öryggi, vellíðan og samfélagslega þátttöku: Rannsókn um Vatnsnesveg</title>
+      <link>https://skemman.is/handle/1946/44465</link>
+      <description>Mikilvægi vegasamgangna fyrir öryggi, vellíðan og samfélagslega þátttöku: Rannsókn um Vatnsnesveg - Tómas Bergsteinn Arnarsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44465</guid>
     </item>
     <item>
       <title>Fæðuval brandugla (Asio flammeus) í mismunandi vistlendum</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/44422</link>
       <description>A microprobe study of glass and minerals from the 1975-1984 Krafla Fires, NE Iceland: Implications for multiple magma reservoirs - Kate Jessica Carroll 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44422</guid>
-    </item>
-    <item>
-      <title>Vision object tracker</title>
-      <link>https://skemman.is/handle/1946/44426</link>
-      <description>Vision object tracker - Eiríkur Bernharðsson 1999-; Marteinn Víðir Sigþórsson 1999-; Tumi Ólason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44426</guid>
-    </item>
-    <item>
-      <title>Differential gene expression analysis of Nostoc sp. N6 in Peltigera membranacea</title>
-      <link>https://skemman.is/handle/1946/44439</link>
-      <description>Differential gene expression analysis of Nostoc sp. N6 in Peltigera membranacea - Guðmundur Valur Magnússon 1945-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44439</guid>
     </item>
   </channel>
 </rss>
