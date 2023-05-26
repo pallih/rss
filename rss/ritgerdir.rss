@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 26 May 2023 11:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2023 12:00:36 +0000</lastBuildDate>
     <item>
       <title>Membrane Fouling Behaviors of Pressure-Retarded Osmosis Process with CO2- Captured Alkali Solutions as Draw Solutions</title>
       <link>https://skemman.is/handle/1946/44454</link>
@@ -19,6 +19,54 @@
       <link>https://skemman.is/handle/1946/44455</link>
       <description>Grufl, upplifuð stjórn og þunglyndi: Tengsl grufls og upplifaðrar stjórnar við þunglyndi og gleðileysi í almennu úrtaki - Áróra Ósk Einarsdóttir 1997-; Valgerður Helgadóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44455</guid>
+    </item>
+    <item>
+      <title>Starfsánægja meðal tannheilsuteymisins</title>
+      <link>https://skemman.is/handle/1946/44464</link>
+      <description>Starfsánægja meðal tannheilsuteymisins - Bryndís Hong Ingvadóttir 1997-; Signý Eir Guðmundsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44464</guid>
+    </item>
+    <item>
+      <title>Endothelial-Specific Molecular Targeting Agents to Inhibit ALK1 and EGFL7</title>
+      <link>https://skemman.is/handle/1946/44467</link>
+      <description>Endothelial-Specific Molecular Targeting Agents to Inhibit ALK1 and EGFL7 - Þorri Þórarinsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44467</guid>
+    </item>
+    <item>
+      <title>Mikilvægi vegasamgangna fyrir öryggi, vellíðan og samfélagslega þátttöku: Rannsókn um Vatnsnesveg</title>
+      <link>https://skemman.is/handle/1946/44465</link>
+      <description>Mikilvægi vegasamgangna fyrir öryggi, vellíðan og samfélagslega þátttöku: Rannsókn um Vatnsnesveg - Tómas Bergsteinn Arnarsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44465</guid>
+    </item>
+    <item>
+      <title>Mars Rover analog2 : a MESR analog with environmental mapping and simulation</title>
+      <link>https://skemman.is/handle/1946/44468</link>
+      <description>Mars Rover analog2 : a MESR analog with environmental mapping and simulation - Baldur Logi Gautason 2000-; Eva María Hönnudóttir Sigurþórsdóttir 2001-; Sölvi Karl Einarsson 2000-; Unnar Freyr Arnþórsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44468</guid>
+    </item>
+    <item>
+      <title>Svæðisgarður á Tröllaskaga: Viðhorf sveitarstjórnarfólks til stofnunar svæðisgarðs</title>
+      <link>https://skemman.is/handle/1946/44466</link>
+      <description>Svæðisgarður á Tröllaskaga: Viðhorf sveitarstjórnarfólks til stofnunar svæðisgarðs - Kristinn Knörr Jóhannesson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44466</guid>
+    </item>
+    <item>
+      <title>Time series methods for improving weather model temperature forecasts</title>
+      <link>https://skemman.is/handle/1946/44469</link>
+      <description>Time series methods for improving weather model temperature forecasts - Íris Ósk Hilmarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44469</guid>
+    </item>
+    <item>
+      <title>Hlunnindi.is : söluvefur fyrir ýmis hlunnindi</title>
+      <link>https://skemman.is/handle/1946/44471</link>
+      <description>Hlunnindi.is : söluvefur fyrir ýmis hlunnindi - Silfá Björk Jónsdóttir 1995-; Sigrún Júnía Magnúsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44471</guid>
+    </item>
+    <item>
+      <title>Using ExistenceSDK to make a ship MMO</title>
+      <link>https://skemman.is/handle/1946/44470</link>
+      <description>Using ExistenceSDK to make a ship MMO - Benedikt Aron Sigurþórsson 1999-; Jónas Freyr Bjarnason 2000-; Sigmar Snær Sigurðsson 2000-; Úlfur Ingólfsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44470</guid>
     </item>
     <item>
       <title>„Þú heyrir mig alveg öskra af gleði þegar ég skíða“ Hvati og upplifun fjallaskíðafólks</title>
@@ -69,22 +117,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44459</guid>
     </item>
     <item>
-      <title>Starfsánægja meðal tannheilsuteymisins</title>
-      <link>https://skemman.is/handle/1946/44464</link>
-      <description>Starfsánægja meðal tannheilsuteymisins - Bryndís Hong Ingvadóttir 1997-; Signý Eir Guðmundsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44464</guid>
+      <title>API connectivity between Kaptio and Bókun</title>
+      <link>https://skemman.is/handle/1946/44472</link>
+      <description>API connectivity between Kaptio and Bókun - Dagur Benjamín R. Kjartansson 1998-; Jóhann Ólafur Jóhannsson 1996-; Leifur Sævarsson 1996-; Muggur Ólafsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44472</guid>
     </item>
     <item>
-      <title>Mikilvægi vegasamgangna fyrir öryggi, vellíðan og samfélagslega þátttöku: Rannsókn um Vatnsnesveg</title>
-      <link>https://skemman.is/handle/1946/44465</link>
-      <description>Mikilvægi vegasamgangna fyrir öryggi, vellíðan og samfélagslega þátttöku: Rannsókn um Vatnsnesveg - Tómas Bergsteinn Arnarsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44465</guid>
-    </item>
-    <item>
-      <title>Svæðisgarður á Tröllaskaga: Viðhorf sveitarstjórnarfólks til stofnunar svæðisgarðs</title>
-      <link>https://skemman.is/handle/1946/44466</link>
-      <description>Svæðisgarður á Tröllaskaga: Viðhorf sveitarstjórnarfólks til stofnunar svæðisgarðs - Kristinn Knörr Jóhannesson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44466</guid>
+      <title>Electrical Resistivity Tomography and Ground Penetrating Radar Measurements for Permafrost Detection on Strandartindur, Seyðisfjörður - East Iceland</title>
+      <link>https://skemman.is/handle/1946/44473</link>
+      <description>Electrical Resistivity Tomography and Ground Penetrating Radar Measurements for Permafrost Detection on Strandartindur, Seyðisfjörður - East Iceland - Alexandra Von Der Esch 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44473</guid>
     </item>
     <item>
       <title>Fæðuval brandugla (Asio flammeus) í mismunandi vistlendum</title>
@@ -115,48 +157,6 @@
       <link>https://skemman.is/handle/1946/44447</link>
       <description>Risk of refeeding syndrome, nutritional status, and dietitian involvement in treatment of hospitalized children and adolescents with eating disorders - Elva Björk Bjarnadóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44447</guid>
-    </item>
-    <item>
-      <title>Loftslags- og umhverfisvænt skipulag  í dreifbýli Flokkun lands með hliðsjón af bindingu kolefnis,  losun gróðurhúsalofttegunda, líffræðilegri  fjölbreytni og landslagi</title>
-      <link>https://skemman.is/handle/1946/44452</link>
-      <description>Loftslags- og umhverfisvænt skipulag  í dreifbýli Flokkun lands með hliðsjón af bindingu kolefnis,  losun gróðurhúsalofttegunda, líffræðilegri  fjölbreytni og landslagi - Jóna Björk Jónsdóttir 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44452</guid>
-    </item>
-    <item>
-      <title>Genetic Parameters for Udder and Teat. Type Traits in Icelandic Cattle Breed</title>
-      <link>https://skemman.is/handle/1946/44453</link>
-      <description>Genetic Parameters for Udder and Teat. Type Traits in Icelandic Cattle Breed - Anna Guðrún Þórðardóttir</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44453</guid>
-    </item>
-    <item>
-      <title>Balancing legal liability and AI innovation : assessing the possible impact of the proposed AI liability directive</title>
-      <link>https://skemman.is/handle/1946/44425</link>
-      <description>Balancing legal liability and AI innovation : assessing the possible impact of the proposed AI liability directive - Gabríela Ósk Vignisdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44425</guid>
-    </item>
-    <item>
-      <title>Refsilækkunar- og refsibrottfallsheimildir dómstóla : neyðarvörn og mat dómstóla á refsilækkunar og refsibrottfallsheimildum í 2. mgr. 12. gr. hgl., 1. tl. 1. mgr. 74. gr. hgl. og 3. mgr. 218. gr. c. sömu laga.</title>
-      <link>https://skemman.is/handle/1946/44423</link>
-      <description>Refsilækkunar- og refsibrottfallsheimildir dómstóla : neyðarvörn og mat dómstóla á refsilækkunar og refsibrottfallsheimildum í 2. mgr. 12. gr. hgl., 1. tl. 1. mgr. 74. gr. hgl. og 3. mgr. 218. gr. c. sömu laga. - Elín Edda Sigurðardóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44423</guid>
-    </item>
-    <item>
-      <title>Geislaskammtar í brennsluaðgerðum og gangráðsísetningum</title>
-      <link>https://skemman.is/handle/1946/44420</link>
-      <description>Geislaskammtar í brennsluaðgerðum og gangráðsísetningum - Steinunn Sheila Guðmundsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44420</guid>
-    </item>
-    <item>
-      <title>Rannsókn á stöðu fjármálalæsis Íslendinga árið 2023 og samanburður við rannsókn árið 2011</title>
-      <link>https://skemman.is/handle/1946/44424</link>
-      <description>Rannsókn á stöðu fjármálalæsis Íslendinga árið 2023 og samanburður við rannsókn árið 2011 - Bjarki Þór Guðnason 2000-; Eiríkur Þór Björnsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44424</guid>
-    </item>
-    <item>
-      <title>Þekking barna á hljóðum bókstafa í fyrsta bekk grunnskóla: Þróun og áhættuþættir</title>
-      <link>https://skemman.is/handle/1946/44421</link>
-      <description>Þekking barna á hljóðum bókstafa í fyrsta bekk grunnskóla: Þróun og áhættuþættir - Sóley Katla Þorsteinsdóttir 2000-; Viktória Kontulová 2000-; Elín Anna Guðmundsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44421</guid>
     </item>
   </channel>
 </rss>
