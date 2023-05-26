@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 26 May 2023 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2023 13:01:47 +0000</lastBuildDate>
     <item>
       <title>Membrane Fouling Behaviors of Pressure-Retarded Osmosis Process with CO2- Captured Alkali Solutions as Draw Solutions</title>
       <link>https://skemman.is/handle/1946/44454</link>
@@ -129,6 +129,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44473</guid>
     </item>
     <item>
+      <title>Bridging Cinematics and gameplay at Myrkur Games</title>
+      <link>https://skemman.is/handle/1946/44474</link>
+      <description>Bridging Cinematics and gameplay at Myrkur Games - Valur Guðmundsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44474</guid>
+    </item>
+    <item>
       <title>Fæðuval brandugla (Asio flammeus) í mismunandi vistlendum</title>
       <link>https://skemman.is/handle/1946/44451</link>
       <description>Fæðuval brandugla (Asio flammeus) í mismunandi vistlendum - Viktor Árnason 2002-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44449</link>
       <description>Notkunarmöguleikar og kostir ljóseindatalninga tölvusneiðmyndatækninnar. Kerfisbundið yfirlit - Ásta Ragnheiður Thorarensen 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44449</guid>
-    </item>
-    <item>
-      <title>Risk of refeeding syndrome, nutritional status, and dietitian involvement in treatment of hospitalized children and adolescents with eating disorders</title>
-      <link>https://skemman.is/handle/1946/44447</link>
-      <description>Risk of refeeding syndrome, nutritional status, and dietitian involvement in treatment of hospitalized children and adolescents with eating disorders - Elva Björk Bjarnadóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44447</guid>
     </item>
   </channel>
 </rss>
