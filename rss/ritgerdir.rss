@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 31 May 2023 08:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 09:00:35 +0000</lastBuildDate>
+    <item>
+      <title>„Það var eins og ég væri ekki lengur til.“ Upplifun kvenna af kulnun</title>
+      <link>https://skemman.is/handle/1946/44552</link>
+      <description>„Það var eins og ég væri ekki lengur til.“ Upplifun kvenna af kulnun - Sigríður Hildur Snæbjörnsdóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44552</guid>
+    </item>
     <item>
       <title>Identifying and tracking a target in an indoor environment : algorithms and embedded systems</title>
       <link>https://skemman.is/handle/1946/44487</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44543</link>
       <description>Öryggi barna í innkaupakerrum. Langvarandi áhrif sjónræns inngrips. - Xenia Katrin Gonzales Munoz 2000-; Breki Dagur Jónsson 2001-; Írena Björk Ágústsdóttir 2000-; Jóna Guðrún Hermannsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44543</guid>
-    </item>
-    <item>
-      <title>Studying the effects of cancer mutations on the structure and dynamics of pioneer factor FOXA1</title>
-      <link>https://skemman.is/handle/1946/44510</link>
-      <description>Studying the effects of cancer mutations on the structure and dynamics of pioneer factor FOXA1 - Magnús Arnar Rúnarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44510</guid>
     </item>
   </channel>
 </rss>
