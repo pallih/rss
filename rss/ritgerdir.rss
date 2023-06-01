@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 01 Jun 2023 12:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 13:02:44 +0000</lastBuildDate>
     <item>
       <title>Randomized Clinical Trial Comparing Preheated and Room Temperature Class II Composite Resin Restorations</title>
       <link>https://skemman.is/handle/1946/44624</link>
@@ -129,6 +129,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44640</guid>
     </item>
     <item>
+      <title>Adolescents sleep, a pathway to improved mental health and cognitive function</title>
+      <link>https://skemman.is/handle/1946/44641</link>
+      <description>Adolescents sleep, a pathway to improved mental health and cognitive function - Vilhelm Bergmann Björnsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44641</guid>
+    </item>
+    <item>
       <title>Analysing the Costs and Benefits of Green Building Certifications: A study on stakeholder experience of using BREEAM and the Nordic Swan in Iceland</title>
       <link>https://skemman.is/handle/1946/44571</link>
       <description>Analysing the Costs and Benefits of Green Building Certifications: A study on stakeholder experience of using BREEAM and the Nordic Swan in Iceland - Guðrún Heiður Ísaksdóttir 1989-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44568</link>
       <description>Environmental and Social Analysis of Soil Salinization in Utah Valley, USA - Fernanda Sofía Arévalo 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44568</guid>
-    </item>
-    <item>
-      <title>Extent and elevation changes of Tröllaskagi glaciers, North Iceland</title>
-      <link>https://skemman.is/handle/1946/44572</link>
-      <description>Extent and elevation changes of Tröllaskagi glaciers, North Iceland - Isla Emily Sweet 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44572</guid>
     </item>
   </channel>
 </rss>
