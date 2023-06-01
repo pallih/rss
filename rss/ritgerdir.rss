@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 01 Jun 2023 14:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 15:00:35 +0000</lastBuildDate>
     <item>
       <title>Randomized Clinical Trial Comparing Preheated and Room Temperature Class II Composite Resin Restorations</title>
       <link>https://skemman.is/handle/1946/44624</link>
@@ -123,10 +123,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44639</guid>
     </item>
     <item>
+      <title>Phonemic and semantic fluency among individuals diagnosed with MCI, AD, and other dementias</title>
+      <link>https://skemman.is/handle/1946/44645</link>
+      <description>Phonemic and semantic fluency among individuals diagnosed with MCI, AD, and other dementias - Kristín Birna Júlíudóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44645</guid>
+    </item>
+    <item>
       <title>The Effect of On-Call Duties on Flight Attendants: Sleep Inertia and Work Performance</title>
       <link>https://skemman.is/handle/1946/44640</link>
       <description>The Effect of On-Call Duties on Flight Attendants: Sleep Inertia and Work Performance - Berglind Þóra Bragadóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44640</guid>
+    </item>
+    <item>
+      <title>Saga vísinda í eðlisfræðikennslu. Hvernig má nýta sögu rafsegulfræði í kennslu á rafsegulbylgjum?</title>
+      <link>https://skemman.is/handle/1946/44646</link>
+      <description>Saga vísinda í eðlisfræðikennslu. Hvernig má nýta sögu rafsegulfræði í kennslu á rafsegulbylgjum? - Lea María Lemarquis 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44646</guid>
     </item>
     <item>
       <title>Adolescents sleep, a pathway to improved mental health and cognitive function</title>
@@ -141,22 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44642</guid>
     </item>
     <item>
-      <title>Hönnun á 33kV dreifikerfi</title>
-      <link>https://skemman.is/handle/1946/44643</link>
-      <description>Hönnun á 33kV dreifikerfi - Alexander Jón Baldursson 1990-; Gunnar Þóroddsson 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44643</guid>
-    </item>
-    <item>
-      <title>Faxatröð 11</title>
-      <link>https://skemman.is/handle/1946/44644</link>
-      <description>Faxatröð 11 - Þorsteinn Þorvaldsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44644</guid>
-    </item>
-    <item>
-      <title>Analysing the Costs and Benefits of Green Building Certifications: A study on stakeholder experience of using BREEAM and the Nordic Swan in Iceland</title>
-      <link>https://skemman.is/handle/1946/44571</link>
-      <description>Analysing the Costs and Benefits of Green Building Certifications: A study on stakeholder experience of using BREEAM and the Nordic Swan in Iceland - Guðrún Heiður Ísaksdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44571</guid>
+      <title>Anticipated depreciation of outstanding claims for the Icelandic treasury</title>
+      <link>https://skemman.is/handle/1946/44647</link>
+      <description>Anticipated depreciation of outstanding claims for the Icelandic treasury - Daníel Fannar Guðmundsson 1991-; Ívar Kristinsson 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44647</guid>
     </item>
   </channel>
 </rss>
