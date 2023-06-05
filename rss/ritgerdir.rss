@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 05 Jun 2023 14:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2023 15:00:32 +0000</lastBuildDate>
     <item>
       <title>The effect of HER2 overexpression on breast epithelium subpopulations</title>
       <link>https://skemman.is/handle/1946/44692</link>
@@ -147,16 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44711</guid>
     </item>
     <item>
+      <title>Skyllian : a flexible layer II solution for blockchain systems</title>
+      <link>https://skemman.is/handle/1946/44712</link>
+      <description>Skyllian : a flexible layer II solution for blockchain systems - Friðrik Örn Gunnarsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44712</guid>
+    </item>
+    <item>
       <title>Tengsl atferlishagfræðilegra mælinga við námsárangur</title>
       <link>https://skemman.is/handle/1946/44684</link>
       <description>Tengsl atferlishagfræðilegra mælinga við námsárangur - Gísli Guðnason 1990-; Sigurbjörg Ósk Klörudóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44684</guid>
-    </item>
-    <item>
-      <title>Mat á kolefnisfótspori íslenskra vega</title>
-      <link>https://skemman.is/handle/1946/44667</link>
-      <description>Mat á kolefnisfótspori íslenskra vega - Sara Kolodziejczyk 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44667</guid>
     </item>
   </channel>
 </rss>
