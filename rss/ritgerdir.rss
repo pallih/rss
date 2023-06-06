@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 06 Jun 2023 12:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 13:03:06 +0000</lastBuildDate>
     <item>
       <title>Tengsl mótþróaþrjóskuröskunar og félagsfærni barna: Slembuð klínísk samanburðarrannsókn á áhrifum tveggja ólíkra meðferða</title>
       <link>https://skemman.is/handle/1946/44715</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44730</guid>
     </item>
     <item>
+      <title>Tengsl Milou miðlægs fósturhjartsláttarkerfis við útkomu fæðinga á Landspítala: Afturvirk ferilrannsókn</title>
+      <link>https://skemman.is/handle/1946/44731</link>
+      <description>Tengsl Milou miðlægs fósturhjartsláttarkerfis við útkomu fæðinga á Landspítala: Afturvirk ferilrannsókn - Birta Hildardóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44731</guid>
+    </item>
+    <item>
       <title>The effect of HER2 overexpression on breast epithelium subpopulations</title>
       <link>https://skemman.is/handle/1946/44692</link>
       <description>The effect of HER2 overexpression on breast epithelium subpopulations - Una Sólveig Bergsteinsdóttir 1996-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44699</link>
       <description>Raflagna- og lýsingarhönnun parhúss - Hólmar Daði Skúlason 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44699</guid>
-    </item>
-    <item>
-      <title>Heildarsýn á  PON kerfi</title>
-      <link>https://skemman.is/handle/1946/44698</link>
-      <description>Heildarsýn á  PON kerfi - Oddgeir Már Ingþórsson 1978-; Rúnar Finnsson 1964-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44698</guid>
     </item>
   </channel>
 </rss>
