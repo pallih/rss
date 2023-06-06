@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 06 Jun 2023 09:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 10:00:29 +0000</lastBuildDate>
     <item>
       <title>Tengsl mótþróaþrjóskuröskunar og félagsfærni barna: Slembuð klínísk samanburðarrannsókn á áhrifum tveggja ólíkra meðferða</title>
       <link>https://skemman.is/handle/1946/44715</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/44720</link>
       <description>Siblings - more than just a pain in the neck : the effects of growing up with siblings on sociability in adults - Írena Einarsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44720</guid>
+    </item>
+    <item>
+      <title>The association between parental support and monitoring and substance use among adolescence; ADHD symptoms and delinquent peer influences as risk factors</title>
+      <link>https://skemman.is/handle/1946/44721</link>
+      <description>The association between parental support and monitoring and substance use among adolescence; ADHD symptoms and delinquent peer influences as risk factors - Karítas Líf Óskarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44721</guid>
+    </item>
+    <item>
+      <title>Overview of emergency department visits due to concussion and the comorbidity of concussion and whiplash injuries in Iceland between 2010-2021</title>
+      <link>https://skemman.is/handle/1946/44722</link>
+      <description>Overview of emergency department visits due to concussion and the comorbidity of concussion and whiplash injuries in Iceland between 2010-2021 - Ólöf Jóhanna Sigurþórsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44722</guid>
     </item>
     <item>
       <title>The effect of HER2 overexpression on breast epithelium subpopulations</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/44702</link>
       <description>Lítil fallvatnsvirkjun í Litlu-Þverá - Sigurður Ingi Sigurpálsson 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44702</guid>
-    </item>
-    <item>
-      <title>Gamified education : building recommendation system for an educational game platform for elementary school children</title>
-      <link>https://skemman.is/handle/1946/44713</link>
-      <description>Gamified education : building recommendation system for an educational game platform for elementary school children - Thorsten Alexander Roloff 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44713</guid>
-    </item>
-    <item>
-      <title>Anxiety disorders and anxiety symptoms in pregnant women in Iceland and how they fare from pregnancy to postpartum</title>
-      <link>https://skemman.is/handle/1946/44711</link>
-      <description>Anxiety disorders and anxiety symptoms in pregnant women in Iceland and how they fare from pregnancy to postpartum - Inga Lilja Hilmarsdóttir 2001-; Steinunn Vala Arnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44711</guid>
     </item>
   </channel>
 </rss>
