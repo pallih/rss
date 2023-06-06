@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 06 Jun 2023 10:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 11:00:27 +0000</lastBuildDate>
     <item>
       <title>Tengsl mótþróaþrjóskuröskunar og félagsfærni barna: Slembuð klínísk samanburðarrannsókn á áhrifum tveggja ólíkra meðferða</title>
       <link>https://skemman.is/handle/1946/44715</link>
@@ -21,28 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44717</guid>
     </item>
     <item>
-      <title>Tíðni eðlilegra fæðinga eftir sameiningu fæðingardeilda á Landspítala Afturvirk ferilrannsókn á langtímaáhrifum fyrirbyggjandi aðgerða</title>
-      <link>https://skemman.is/handle/1946/44716</link>
-      <description>Tíðni eðlilegra fæðinga eftir sameiningu fæðingardeilda á Landspítala Afturvirk ferilrannsókn á langtímaáhrifum fyrirbyggjandi aðgerða - Ragnhildur Anna Ólafsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44716</guid>
-    </item>
-    <item>
-      <title>Byltur hjá eldra fólki: Hjúkrunargreiningum og -meðferð varpað yfir í ICNP</title>
-      <link>https://skemman.is/handle/1946/44718</link>
-      <description>Byltur hjá eldra fólki: Hjúkrunargreiningum og -meðferð varpað yfir í ICNP - Fatima Mandia Labitigan 1990-; Wendill Galan Viejo 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44718</guid>
-    </item>
-    <item>
-      <title>Brjóstagjöf mánuði eftir fæðingu: Lýsandi þversniðsrannsókn meðal kvenna á Íslandi</title>
-      <link>https://skemman.is/handle/1946/44719</link>
-      <description>Brjóstagjöf mánuði eftir fæðingu: Lýsandi þversniðsrannsókn meðal kvenna á Íslandi - Ágústa Gísladóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44719</guid>
-    </item>
-    <item>
-      <title>Siblings - more than just a pain in the neck : the effects of growing up with siblings on sociability in adults</title>
-      <link>https://skemman.is/handle/1946/44720</link>
-      <description>Siblings - more than just a pain in the neck : the effects of growing up with siblings on sociability in adults - Írena Einarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44720</guid>
+      <title>Effects of HRV biofeedback training on reducing anxiety-, stress- and traumatic stress symptoms among police officers in Iceland</title>
+      <link>https://skemman.is/handle/1946/44723</link>
+      <description>Effects of HRV biofeedback training on reducing anxiety-, stress- and traumatic stress symptoms among police officers in Iceland - Katrín Ása Karlsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44723</guid>
     </item>
     <item>
       <title>The association between parental support and monitoring and substance use among adolescence; ADHD symptoms and delinquent peer influences as risk factors</title>
@@ -51,10 +33,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/44721</guid>
     </item>
     <item>
+      <title>Byltur hjá eldra fólki: Hjúkrunargreiningum og -meðferð varpað yfir í ICNP</title>
+      <link>https://skemman.is/handle/1946/44718</link>
+      <description>Byltur hjá eldra fólki: Hjúkrunargreiningum og -meðferð varpað yfir í ICNP - Fatima Mandia Labitigan 1990-; Wendill Galan Viejo 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44718</guid>
+    </item>
+    <item>
       <title>Overview of emergency department visits due to concussion and the comorbidity of concussion and whiplash injuries in Iceland between 2010-2021</title>
       <link>https://skemman.is/handle/1946/44722</link>
       <description>Overview of emergency department visits due to concussion and the comorbidity of concussion and whiplash injuries in Iceland between 2010-2021 - Ólöf Jóhanna Sigurþórsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44722</guid>
+    </item>
+    <item>
+      <title>Brjóstagjöf mánuði eftir fæðingu: Lýsandi þversniðsrannsókn meðal kvenna á Íslandi</title>
+      <link>https://skemman.is/handle/1946/44719</link>
+      <description>Brjóstagjöf mánuði eftir fæðingu: Lýsandi þversniðsrannsókn meðal kvenna á Íslandi - Ágústa Gísladóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44719</guid>
+    </item>
+    <item>
+      <title>Employment and adults with autism : what is the employment status for autistic adults in Iceland  : challenges and obstacles</title>
+      <link>https://skemman.is/handle/1946/44726</link>
+      <description>Employment and adults with autism : what is the employment status for autistic adults in Iceland  : challenges and obstacles - Camilla Rós Þrastardóttir 1998-; Lovísa Kristín Þórðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44726</guid>
+    </item>
+    <item>
+      <title>Siblings - more than just a pain in the neck : the effects of growing up with siblings on sociability in adults</title>
+      <link>https://skemman.is/handle/1946/44720</link>
+      <description>Siblings - more than just a pain in the neck : the effects of growing up with siblings on sociability in adults - Írena Einarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44720</guid>
+    </item>
+    <item>
+      <title>Gender and generation differences in attitude towards mental illness</title>
+      <link>https://skemman.is/handle/1946/44725</link>
+      <description>Gender and generation differences in attitude towards mental illness - Ásdís Jana Ólafsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44725</guid>
+    </item>
+    <item>
+      <title>Áhrif innflytjenda á íslenskt efnahagslíf</title>
+      <link>https://skemman.is/handle/1946/44724</link>
+      <description>Áhrif innflytjenda á íslenskt efnahagslíf - Kristbjörg Steingrímsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44724</guid>
+    </item>
+    <item>
+      <title>Tíðni eðlilegra fæðinga eftir sameiningu fæðingardeilda á Landspítala Afturvirk ferilrannsókn á langtímaáhrifum fyrirbyggjandi aðgerða</title>
+      <link>https://skemman.is/handle/1946/44716</link>
+      <description>Tíðni eðlilegra fæðinga eftir sameiningu fæðingardeilda á Landspítala Afturvirk ferilrannsókn á langtímaáhrifum fyrirbyggjandi aðgerða - Ragnhildur Anna Ólafsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44716</guid>
+    </item>
+    <item>
+      <title>Unsupervised anomaly detection in financial transactions</title>
+      <link>https://skemman.is/handle/1946/44727</link>
+      <description>Unsupervised anomaly detection in financial transactions - Hafsteinn Atli Stefánsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44727</guid>
     </item>
     <item>
       <title>The effect of HER2 overexpression on breast epithelium subpopulations</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/44701</link>
       <description>Interrater Reliability of the Icelandic Translation of the DSM-5 Version of the Schedule for Affective Disorders and Schizophrenia for School-Age Children – Present and Lifetime Version  (K-SADS-PL) - Hans Hektor Hannesson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44701</guid>
-    </item>
-    <item>
-      <title>The effect of having the option to work remotely on job satisfaction and work-family conflict</title>
-      <link>https://skemman.is/handle/1946/44707</link>
-      <description>The effect of having the option to work remotely on job satisfaction and work-family conflict - Sóley Sigurðardóttir 2001-; 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44707</guid>
-    </item>
-    <item>
-      <title>Stýrð kennsla Engelmanns og fimiþjálfun. Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni tveggja drengja í tveimur grunnskólum á höfuðborgarsvæðinu</title>
-      <link>https://skemman.is/handle/1946/44693</link>
-      <description>Stýrð kennsla Engelmanns og fimiþjálfun. Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni tveggja drengja í tveimur grunnskólum á höfuðborgarsvæðinu - Aðalheiður Þorvaldsdóttir 1998-; Alísa Rún Andrésdóttir 2001-; Birna Rós Stefánsdóttir 1996-; Fanndís Rún Stefánsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44693</guid>
-    </item>
-    <item>
-      <title>Life satisfaction among Icelandic retirees : contributing factors</title>
-      <link>https://skemman.is/handle/1946/44708</link>
-      <description>Life satisfaction among Icelandic retirees : contributing factors - Eva María Thorarensen 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44708</guid>
-    </item>
-    <item>
-      <title>Attitudes toward abortion among the Icelandic public</title>
-      <link>https://skemman.is/handle/1946/44706</link>
-      <description>Attitudes toward abortion among the Icelandic public - Katrín Sól Þórðardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44706</guid>
-    </item>
-    <item>
-      <title>Lítil fallvatnsvirkjun í Litlu-Þverá</title>
-      <link>https://skemman.is/handle/1946/44702</link>
-      <description>Lítil fallvatnsvirkjun í Litlu-Þverá - Sigurður Ingi Sigurpálsson 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44702</guid>
     </item>
   </channel>
 </rss>
