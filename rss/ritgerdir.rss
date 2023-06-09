@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 09 Jun 2023 14:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 15:00:40 +0000</lastBuildDate>
     <item>
       <title>Geislaskammtar í röntgenrannsóknum af hryggskekkju</title>
       <link>https://skemman.is/handle/1946/44911</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/44917</link>
       <description>Virtual humans making first contact : teaching socially appropriate approaching behavior using deep reinforcement learning - Anna Franziska Horne 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44917</guid>
+    </item>
+    <item>
+      <title>Að hvaða marki hafa aðferðir verkefnastjórnunar verið innleiddar hjá sveitarfélögum á Íslandi?</title>
+      <link>https://skemman.is/handle/1946/44918</link>
+      <description>Að hvaða marki hafa aðferðir verkefnastjórnunar verið innleiddar hjá sveitarfélögum á Íslandi? - Andri Ómarsson 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44918</guid>
     </item>
     <item>
       <title>Direct mixing of geothermal water and condensate into heated groundwater at Nesjavellir power station</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44824</link>
       <description>The effects of bright light therapy on adolescent ́s sleep and well-being - Lára Margrét Kjartansdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44824</guid>
-    </item>
-    <item>
-      <title>Clinical outcomes of brief Therapist Guided Parent led : Cognitive Behavioural Group Therapy (TGP-CBGT) for treatment of childhood anxiety problems in routine clinical care</title>
-      <link>https://skemman.is/handle/1946/44823</link>
-      <description>Clinical outcomes of brief Therapist Guided Parent led : Cognitive Behavioural Group Therapy (TGP-CBGT) for treatment of childhood anxiety problems in routine clinical care - Tinna Baldursdóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44823</guid>
     </item>
   </channel>
 </rss>
