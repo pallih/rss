@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 09 Jun 2023 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 12:00:41 +0000</lastBuildDate>
     <item>
       <title>Geislaskammtar í röntgenrannsóknum af hryggskekkju</title>
       <link>https://skemman.is/handle/1946/44911</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/44913</link>
       <description>Insights in environmental attitudes : economic and psychological methods for engaging electricity utility customers and electric vehicle drivers - Max Andrew Gamerman 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44913</guid>
+    </item>
+    <item>
+      <title>Dealing with ambiguity in NLP : finding the best tree in the parse forest</title>
+      <link>https://skemman.is/handle/1946/44915</link>
+      <description>Dealing with ambiguity in NLP : finding the best tree in the parse forest - Róbert Badí Baldursson 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44915</guid>
+    </item>
+    <item>
+      <title>Learning the Txalaparta : intimate musical collaboration with a deep learning model</title>
+      <link>https://skemman.is/handle/1946/44916</link>
+      <description>Learning the Txalaparta : intimate musical collaboration with a deep learning model - Karl Jóhann Jóhannsson 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44916</guid>
     </item>
     <item>
       <title>Direct mixing of geothermal water and condensate into heated groundwater at Nesjavellir power station</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/44822</link>
       <description>Parent-led group CBT for childhood anxiety problems :clinical outcomes of a new treatment option within the public mental health services in Iceland - Þórunn Sif Guðlaugsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44822</guid>
-    </item>
-    <item>
-      <title>Intergraded CBT and MI for substance abuse in psychotic patients : a randomized controlled trial</title>
-      <link>https://skemman.is/handle/1946/44825</link>
-      <description>Intergraded CBT and MI for substance abuse in psychotic patients : a randomized controlled trial - Stefán Þorri Helgason 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44825</guid>
-    </item>
-    <item>
-      <title>Better sleep for teens in Reykjavík : effects of delaying school start on adolescent sleep</title>
-      <link>https://skemman.is/handle/1946/44821</link>
-      <description>Better sleep for teens in Reykjavík : effects of delaying school start on adolescent sleep - Ágústa Dan Árnadóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44821</guid>
     </item>
   </channel>
 </rss>
