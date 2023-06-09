@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 09 Jun 2023 13:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 14:00:31 +0000</lastBuildDate>
     <item>
       <title>Geislaskammtar í röntgenrannsóknum af hryggskekkju</title>
       <link>https://skemman.is/handle/1946/44911</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/44916</link>
       <description>Learning the Txalaparta : intimate musical collaboration with a deep learning model - Karl Jóhann Jóhannsson 1979-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44916</guid>
+    </item>
+    <item>
+      <title>Virtual humans making first contact : teaching socially appropriate approaching behavior using deep reinforcement learning</title>
+      <link>https://skemman.is/handle/1946/44917</link>
+      <description>Virtual humans making first contact : teaching socially appropriate approaching behavior using deep reinforcement learning - Anna Franziska Horne 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/44917</guid>
     </item>
     <item>
       <title>Direct mixing of geothermal water and condensate into heated groundwater at Nesjavellir power station</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44823</link>
       <description>Clinical outcomes of brief Therapist Guided Parent led : Cognitive Behavioural Group Therapy (TGP-CBGT) for treatment of childhood anxiety problems in routine clinical care - Tinna Baldursdóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44823</guid>
-    </item>
-    <item>
-      <title>Parent-led group CBT for childhood anxiety problems :clinical outcomes of a new treatment option within the public mental health services in Iceland</title>
-      <link>https://skemman.is/handle/1946/44822</link>
-      <description>Parent-led group CBT for childhood anxiety problems :clinical outcomes of a new treatment option within the public mental health services in Iceland - Þórunn Sif Guðlaugsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44822</guid>
     </item>
   </channel>
 </rss>
