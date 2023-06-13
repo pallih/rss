@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 12 Jun 2023 17:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2023 08:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Investigating occurrence and fine-scale movement of deep-diving cetaceans in Icelandic offshore waters through passive acoustic monitoring</title>
+      <link>https://skemman.is/handle/1946/45130</link>
+      <description>Investigating occurrence and fine-scale movement of deep-diving cetaceans in Icelandic offshore waters through passive acoustic monitoring - Dutro, Michelle, 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45130</guid>
+    </item>
     <item>
       <title>Hvati og væntingar : hver er hvatinn og hverjar eru væntingar til fjallgöngu hjá íslensku fjallgöngufólki? : dæmi frá Vesturlandi</title>
       <link>https://skemman.is/handle/1946/44984</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44921</link>
       <description>The Emotional Effects of Warning Labels on Nicotine Pouch Packages - Heiðar Bernharðsson 1995-; Kristinn Ingvarsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44921</guid>
-    </item>
-    <item>
-      <title>Foreign mothers of disabled children in Iceland : challenges of daily life</title>
-      <link>https://skemman.is/handle/1946/44927</link>
-      <description>Foreign mothers of disabled children in Iceland : challenges of daily life - Ostrovska, Anete, 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44927</guid>
     </item>
   </channel>
 </rss>
