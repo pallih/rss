@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Jun 2023 08:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 09:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Snemmbær sérhæfing : áhættuþættir og afleiðing</title>
+      <link>https://skemman.is/handle/1946/45153</link>
+      <description>Snemmbær sérhæfing : áhættuþættir og afleiðing - Bergvin Haraldsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45153</guid>
+    </item>
     <item>
       <title>Using high-frequency EMG during PTR test and tSCS to develop and establish a measurement system for analysis of events chronology by healthy and individuals with spinal cord injury and the following treatment.</title>
       <link>https://skemman.is/handle/1946/45136</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/44984</link>
       <description>Hvati og væntingar : hver er hvatinn og hverjar eru væntingar til fjallgöngu hjá íslensku fjallgöngufólki? : dæmi frá Vesturlandi - Hafþór Ingi Gunnarsson 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/44984</guid>
-    </item>
-    <item>
-      <title>Nýliðaþjáfun í gestamóttöku : hvernig er best að standa að nýliðaþjálfun í gestamóttöku á hóteli?</title>
-      <link>https://skemman.is/handle/1946/44981</link>
-      <description>Nýliðaþjáfun í gestamóttöku : hvernig er best að standa að nýliðaþjálfun í gestamóttöku á hóteli? - Ástrós Pálmadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44981</guid>
     </item>
   </channel>
 </rss>
