@@ -7,12 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Jun 2023 10:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 11:00:38 +0000</lastBuildDate>
     <item>
       <title>Snemmbær sérhæfing : áhættuþættir og afleiðing</title>
       <link>https://skemman.is/handle/1946/45153</link>
       <description>Snemmbær sérhæfing : áhættuþættir og afleiðing - Bergvin Haraldsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45153</guid>
+    </item>
+    <item>
+      <title>Experimental analysis of non-catalytic methane pyrolysis in a tubular reactor</title>
+      <link>https://skemman.is/handle/1946/45154</link>
+      <description>Experimental analysis of non-catalytic methane pyrolysis in a tubular reactor - David Aguerrebere Jr 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45154</guid>
+    </item>
+    <item>
+      <title>Understand acceptance and opposition to geothermal energy in Iceland</title>
+      <link>https://skemman.is/handle/1946/45155</link>
+      <description>Understand acceptance and opposition to geothermal energy in Iceland - Julia Lee Reimer 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45155</guid>
+    </item>
+    <item>
+      <title>Áætlunargerð sveitarfélaga : þróun á veflausn fyrir KPMG ehf.</title>
+      <link>https://skemman.is/handle/1946/45156</link>
+      <description>Áætlunargerð sveitarfélaga : þróun á veflausn fyrir KPMG ehf. - Arnór Ingi Kárason 1995-; Halldór Valberg Skúlason 1998-; Hinrik Pétur Jóhannsson 2001-; Sandra Björt Kristjánsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45156</guid>
+    </item>
+    <item>
+      <title>A smartphone application to support individuals in mental health treatment</title>
+      <link>https://skemman.is/handle/1946/45157</link>
+      <description>A smartphone application to support individuals in mental health treatment - Aron Orri Fannarsson 2001-; Davíð Örn Harðarson 2001-; Grímur Valur Gunnarsson 1998-; Hörður Snævar Harðarson 1993-; Tryggvi Þór Árnason 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45157</guid>
     </item>
     <item>
       <title>Using high-frequency EMG during PTR test and tSCS to develop and establish a measurement system for analysis of events chronology by healthy and individuals with spinal cord injury and the following treatment.</title>
@@ -123,18 +147,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45133</guid>
     </item>
     <item>
-      <title>The effects of goal-setting, notification alerts, and sharing results with peers on screen time usage</title>
-      <link>https://skemman.is/handle/1946/45132</link>
-      <description>The effects of goal-setting, notification alerts, and sharing results with peers on screen time usage - Steingerður Hauksdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45132</guid>
-    </item>
-    <item>
-      <title>Að UNNA tónlist</title>
-      <link>https://skemman.is/handle/1946/45149</link>
-      <description>Að UNNA tónlist - Steinunn Þóra Camilla Sigurðardóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45149</guid>
-    </item>
-    <item>
       <title>Innleiðingar á verkferlum gegn kynferðisofbeldi hjá skipulagsheildum : hvert er viðhorf stjórnenda til innleiðingar verkferla og eru þau í samræmi við tillögur reglugerða, krísu- og samskiptafræða?</title>
       <link>https://skemman.is/handle/1946/45150</link>
       <description>Innleiðingar á verkferlum gegn kynferðisofbeldi hjá skipulagsheildum : hvert er viðhorf stjórnenda til innleiðingar verkferla og eru þau í samræmi við tillögur reglugerða, krísu- og samskiptafræða? - Brynja Sif Harðardóttir 1998-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45151</link>
       <description>Hvernig taka sveitarfélög á málefnum fatlaðs fólks sem telst hættulegt? - Hafsteinn Jóhannsson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45151</guid>
-    </item>
-    <item>
-      <title>Í leit að samastað í tilverunni</title>
-      <link>https://skemman.is/handle/1946/45152</link>
-      <description>Í leit að samastað í tilverunni - Hulda Ingibjörg Rafnarsdóttir 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45152</guid>
-    </item>
-    <item>
-      <title>Hvati og væntingar : hver er hvatinn og hverjar eru væntingar til fjallgöngu hjá íslensku fjallgöngufólki? : dæmi frá Vesturlandi</title>
-      <link>https://skemman.is/handle/1946/44984</link>
-      <description>Hvati og væntingar : hver er hvatinn og hverjar eru væntingar til fjallgöngu hjá íslensku fjallgöngufólki? : dæmi frá Vesturlandi - Hafþór Ingi Gunnarsson 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/44984</guid>
     </item>
   </channel>
 </rss>
