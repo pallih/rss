@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Jun 2023 12:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 13:03:17 +0000</lastBuildDate>
     <item>
       <title>Eiginleikar leiðtoga : vægi þjónandi forystu</title>
       <link>https://skemman.is/handle/1946/45176</link>
@@ -55,6 +55,24 @@
       <link>https://skemman.is/handle/1946/45180</link>
       <description>Umbúðir eru ekki lengur aðeins umbúðir : hver er ávinningur umbúða fyrir fyrirtæki  í núverandi samfélagsmiðla umhverfi? - Jóhann Helgi Sveinsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45180</guid>
+    </item>
+    <item>
+      <title>Mat á flutningi blóðsýna milli starfsstöðva á Heilbrigðisstofnun Norðurlands, með tilliti til forrannsóknarferils</title>
+      <link>https://skemman.is/handle/1946/45181</link>
+      <description>Mat á flutningi blóðsýna milli starfsstöðva á Heilbrigðisstofnun Norðurlands, með tilliti til forrannsóknarferils - Magnea Ósk Örvarsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45181</guid>
+    </item>
+    <item>
+      <title>Móttaka og þjálfun nýrra starfsmanna í Kjörís : hvar má gera betur?</title>
+      <link>https://skemman.is/handle/1946/45182</link>
+      <description>Móttaka og þjálfun nýrra starfsmanna í Kjörís : hvar má gera betur? - Jóhanna Ýr Ólafsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45182</guid>
+    </item>
+    <item>
+      <title>Spjallmenni og notendur : könnun á viðhorfi notenda á þjónustu spjallmenna í íslenskum fyrirtækjum</title>
+      <link>https://skemman.is/handle/1946/45183</link>
+      <description>Spjallmenni og notendur : könnun á viðhorfi notenda á þjónustu spjallmenna í íslenskum fyrirtækjum - Karen Mist Matthíasdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45183</guid>
     </item>
     <item>
       <title>Experimental analysis of non-catalytic methane pyrolysis in a tubular reactor</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45165</link>
       <description>The GDPR Meets Pick&amp;Go Stores in the European Union: Do Pick&amp;Go stores comply with the GDPR’s customer privacy regulations? - Sandra Rós Hernes Pálmadóttir 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45165</guid>
-    </item>
-    <item>
-      <title>Fjarvinna : ógn eða tækifæri í rekstri skipulagsheilda?</title>
-      <link>https://skemman.is/handle/1946/45170</link>
-      <description>Fjarvinna : ógn eða tækifæri í rekstri skipulagsheilda? - Bryndís Lúðvíksdóttir 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45170</guid>
-    </item>
-    <item>
-      <title>Hvenær verður valdbeiting handhafa lögregluvalds ólögmæt? Hvað einkennir slík tilfelli?</title>
-      <link>https://skemman.is/handle/1946/45166</link>
-      <description>Hvenær verður valdbeiting handhafa lögregluvalds ólögmæt? Hvað einkennir slík tilfelli? - Silja Stefánsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45166</guid>
-    </item>
-    <item>
-      <title>Neyðarvörn í skilningi 12. gr. almennra hegningarlaga nr. 19/1940.</title>
-      <link>https://skemman.is/handle/1946/45167</link>
-      <description>Neyðarvörn í skilningi 12. gr. almennra hegningarlaga nr. 19/1940. - Þórdís Lilja Bergs 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45167</guid>
     </item>
   </channel>
 </rss>
