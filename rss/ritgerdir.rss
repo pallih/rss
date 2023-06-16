@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Jun 2023 10:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2023 11:00:22 +0000</lastBuildDate>
     <item>
       <title>Röntgenrannsóknir af börnum; Hlutföll rannsókna sem leiða til greiningar áverka</title>
       <link>https://skemman.is/handle/1946/45196</link>
@@ -43,6 +43,36 @@
       <link>https://skemman.is/handle/1946/45199</link>
       <description>Verkefnastjórnun í kvikmyndagerð á Íslandi - Guðný Sch. Snæbjörnsdóttir 1963-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45199</guid>
+    </item>
+    <item>
+      <title>Viðhorf presta þjóðkirkjunnar til þjónandi forystu : vegvísir til innleiðingar</title>
+      <link>https://skemman.is/handle/1946/45200</link>
+      <description>Viðhorf presta þjóðkirkjunnar til þjónandi forystu : vegvísir til innleiðingar - Arna Grétarsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45200</guid>
+    </item>
+    <item>
+      <title>Starfshönnun og starfstengd viðhorf lífeindafræðinga</title>
+      <link>https://skemman.is/handle/1946/45201</link>
+      <description>Starfshönnun og starfstengd viðhorf lífeindafræðinga - Lóa Björk Óskarsdóttir 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45201</guid>
+    </item>
+    <item>
+      <title>Áherslur og eiginleikar stjórnenda í upplýsingatækni</title>
+      <link>https://skemman.is/handle/1946/45202</link>
+      <description>Áherslur og eiginleikar stjórnenda í upplýsingatækni - Ragnar Már Magnússon 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45202</guid>
+    </item>
+    <item>
+      <title>Sjálfbærni í fataframleiðslu : hvað geta fyrirtæki gert?</title>
+      <link>https://skemman.is/handle/1946/45203</link>
+      <description>Sjálfbærni í fataframleiðslu : hvað geta fyrirtæki gert? - Bergþóra Karlsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45203</guid>
+    </item>
+    <item>
+      <title>Í upphafi skal endinn skoða : hvernig nýtist málefnastjórnun í fyrirtækjarekstri?</title>
+      <link>https://skemman.is/handle/1946/45204</link>
+      <description>Í upphafi skal endinn skoða : hvernig nýtist málefnastjórnun í fyrirtækjarekstri? - Viktoría Kr Guðbjartsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45204</guid>
     </item>
     <item>
       <title>Sala Icelandair Group á Iceland Travel til Nordic Visitor : gæði breytingastjórnunarferilsins og áhrif breytinganna á starfsánægju og vinnustaðamenningu</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/45176</link>
       <description>Eiginleikar leiðtoga : vægi þjónandi forystu - Eva María Larsen Bentsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45176</guid>
-    </item>
-    <item>
-      <title>Er þróun á nýju nikótínpúðamerki á ítölskum markaði arðbær fjárfesting?</title>
-      <link>https://skemman.is/handle/1946/45175</link>
-      <description>Er þróun á nýju nikótínpúðamerki á ítölskum markaði arðbær fjárfesting? - Einar Húnfjörð Kárason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45175</guid>
-    </item>
-    <item>
-      <title>Áhrif þjálfunar á þykkt hásinar í meðferð hásinameins: Forrannsókn á skammtasvörun hásinar hjá einstaklingum með hásinamein og áhrif hennar á þykkt hásinar mæld með ómun</title>
-      <link>https://skemman.is/handle/1946/45173</link>
-      <description>Áhrif þjálfunar á þykkt hásinar í meðferð hásinameins: Forrannsókn á skammtasvörun hásinar hjá einstaklingum með hásinamein og áhrif hennar á þykkt hásinar mæld með ómun - Daði Fannar Sverrisson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45173</guid>
-    </item>
-    <item>
-      <title>Framkvæmd markaðsþreifinga</title>
-      <link>https://skemman.is/handle/1946/45174</link>
-      <description>Framkvæmd markaðsþreifinga - Páll Orri Pálsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45174</guid>
-    </item>
-    <item>
-      <title>Hvernig standa dreifingaraðilar sig í að uppfylla þjónustuvæntingar viðskiptavina sinna þegar kemur að pakka afhendingum? Hversu ánægðir eru viðskiptavinir með afhendingar í sjálfsafgreiðslupakkaskápum?</title>
-      <link>https://skemman.is/handle/1946/45192</link>
-      <description>Hvernig standa dreifingaraðilar sig í að uppfylla þjónustuvæntingar viðskiptavina sinna þegar kemur að pakka afhendingum? Hversu ánægðir eru viðskiptavinir með afhendingar í sjálfsafgreiðslupakkaskápum? - Svava Sigurðardóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45192</guid>
-    </item>
-    <item>
-      <title>Straumlínustjórnun í félagsmiðstöðvastarfi</title>
-      <link>https://skemman.is/handle/1946/45190</link>
-      <description>Straumlínustjórnun í félagsmiðstöðvastarfi - Sunna Rut Garðarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45190</guid>
     </item>
   </channel>
 </rss>
