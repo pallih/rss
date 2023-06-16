@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Jun 2023 14:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2023 15:00:25 +0000</lastBuildDate>
     <item>
       <title>The phenotypic effect of endothelial cells on pancreatic cancer spheroids</title>
       <link>https://skemman.is/handle/1946/45197</link>
@@ -101,8 +101,14 @@
     <item>
       <title>Characterisation of Microphysical and Optical Properties of Atmospheric Aerosols in a High Arctic environment: Villum Research Station, NE Greenland</title>
       <link>https://skemman.is/handle/1946/45209</link>
-      <description>Characterisation of Microphysical and Optical Properties of Atmospheric Aerosols in a High Arctic environment: Villum Research Station, NE Greenland - Ellie Fisher</description>
+      <description>Characterisation of Microphysical and Optical Properties of Atmospheric Aerosols in a High Arctic environment: Villum Research Station, NE Greenland - Ellie Fisher 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45209</guid>
+    </item>
+    <item>
+      <title>Áskoranir í uppbyggingu kvennastarfs í íþróttum: Sjónarhorn lykilfólks Stjörnunnar</title>
+      <link>https://skemman.is/handle/1946/45210</link>
+      <description>Áskoranir í uppbyggingu kvennastarfs í íþróttum: Sjónarhorn lykilfólks Stjörnunnar - Stefanía Ósk Ólafsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45210</guid>
     </item>
     <item>
       <title>Sala Icelandair Group á Iceland Travel til Nordic Visitor : gæði breytingastjórnunarferilsins og áhrif breytinganna á starfsánægju og vinnustaðamenningu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45183</link>
       <description>Spjallmenni og notendur : könnun á viðhorfi notenda á þjónustu spjallmenna í íslenskum fyrirtækjum - Karen Mist Matthíasdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45183</guid>
-    </item>
-    <item>
-      <title>Tryggð, ánægja og meðmælaskor á  íslenskum fjarskiptamarkaði</title>
-      <link>https://skemman.is/handle/1946/45179</link>
-      <description>Tryggð, ánægja og meðmælaskor á  íslenskum fjarskiptamarkaði - Jenný Rósa Baldursdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45179</guid>
     </item>
   </channel>
 </rss>
