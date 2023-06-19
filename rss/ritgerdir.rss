@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 Jun 2023 13:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2023 14:00:33 +0000</lastBuildDate>
     <item>
       <title>How are Walter Benjamin's ideas of reproduction relative to our usage of social media? : How do our social media streams impact our sense of self?</title>
       <link>https://skemman.is/handle/1946/45214</link>
@@ -87,12 +87,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45220</guid>
     </item>
     <item>
-      <title>Storage of iced salmon in insulated reusable food containers and EPS boxes - impact on quality and yield.</title>
-      <link>https://skemman.is/handle/1946/45213</link>
-      <description>Storage of iced salmon in insulated reusable food containers and EPS boxes - impact on quality and yield. - Muhammad Mir Showkat 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45213</guid>
-    </item>
-    <item>
       <title>Framtíð friðunar bygginga á Íslandi : hvernig skal heiðra minningu eldri bygginga?</title>
       <link>https://skemman.is/handle/1946/45229</link>
       <description>Framtíð friðunar bygginga á Íslandi : hvernig skal heiðra minningu eldri bygginga? - Hekla Björg Kormáksdóttir 2000-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/45240</link>
       <description>Geta allir samið tónlist? - Haraldur Ægir Guðmundsson 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45240</guid>
+    </item>
+    <item>
+      <title>Vatnshóll : ævintýri íbúana</title>
+      <link>https://skemman.is/handle/1946/45234</link>
+      <description>Vatnshóll : ævintýri íbúana - Kolfinna Eyþórsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45234</guid>
     </item>
   </channel>
 </rss>
