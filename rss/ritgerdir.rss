@@ -7,7 +7,85 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Jun 2023 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 09:00:33 +0000</lastBuildDate>
+    <item>
+      <title>Af fólki og fiskum</title>
+      <link>https://skemman.is/handle/1946/45372</link>
+      <description>Af fólki og fiskum - Katrín María Káradóttir 1972-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45372</guid>
+    </item>
+    <item>
+      <title>Stelpugleði og draumferðir : ferðalag ofan í kanínuholuna</title>
+      <link>https://skemman.is/handle/1946/45373</link>
+      <description>Stelpugleði og draumferðir : ferðalag ofan í kanínuholuna - Auður Mist Eydal Halldórsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45373</guid>
+    </item>
+    <item>
+      <title>Horfast í augu framtíðar listar og tækni</title>
+      <link>https://skemman.is/handle/1946/45375</link>
+      <description>Horfast í augu framtíðar listar og tækni - Daníel Guðni Runólfsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45375</guid>
+    </item>
+    <item>
+      <title>Í hjarta mínu rís hús</title>
+      <link>https://skemman.is/handle/1946/45377</link>
+      <description>Í hjarta mínu rís hús - Ynja Blær Johnsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45377</guid>
+    </item>
+    <item>
+      <title>Ekki tala um það!</title>
+      <link>https://skemman.is/handle/1946/45374</link>
+      <description>Ekki tala um það! - Aðalheiður Maack Lárusdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45374</guid>
+    </item>
+    <item>
+      <title>The Tragic Painting</title>
+      <link>https://skemman.is/handle/1946/45378</link>
+      <description>The Tragic Painting - Jón Múli 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45378</guid>
+    </item>
+    <item>
+      <title>Íslenskur leir : tenging við umhverfið, að skapa með leir úr náttúrunni</title>
+      <link>https://skemman.is/handle/1946/45369</link>
+      <description>Íslenskur leir : tenging við umhverfið, að skapa með leir úr náttúrunni - Gunnhildur Rán Gunnarsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45369</guid>
+    </item>
+    <item>
+      <title>„Við erum öll búin til úr stjörnuryki“ : starfendarannsókn á skapandi smiðjum á Listasafni Íslands</title>
+      <link>https://skemman.is/handle/1946/45366</link>
+      <description>„Við erum öll búin til úr stjörnuryki“ : starfendarannsókn á skapandi smiðjum á Listasafni Íslands - Ariana Katrín Katrínardóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45366</guid>
+    </item>
+    <item>
+      <title>Becoming Plant : how to understand the vegetal world through animism and sensors.</title>
+      <link>https://skemman.is/handle/1946/45371</link>
+      <description>Becoming Plant : how to understand the vegetal world through animism and sensors. - Quentin Benelfoul 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45371</guid>
+    </item>
+    <item>
+      <title>New materials in Iceland : exploring ecological and sustainable material development</title>
+      <link>https://skemman.is/handle/1946/45367</link>
+      <description>New materials in Iceland : exploring ecological and sustainable material development - Sóley Sara Eiríksdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45367</guid>
+    </item>
+    <item>
+      <title>Ég, um mig, frá mér, til þín</title>
+      <link>https://skemman.is/handle/1946/45370</link>
+      <description>Ég, um mig, frá mér, til þín - Guðný Margrét Eyjólfsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45370</guid>
+    </item>
+    <item>
+      <title>Fegurðin í ófullkomleikanum</title>
+      <link>https://skemman.is/handle/1946/45368</link>
+      <description>Fegurðin í ófullkomleikanum - Sonja B. Guttesen Ágústsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45368</guid>
+    </item>
+    <item>
+      <title>Áhorfandinn og listaverkið</title>
+      <link>https://skemman.is/handle/1946/45365</link>
+      <description>Áhorfandinn og listaverkið - Dagur Benedikt Reynisson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45365</guid>
+    </item>
     <item>
       <title>Frelsi til menntunar : sjálfstætt nám í gegnum listkennslumyndbönd</title>
       <link>https://skemman.is/handle/1946/45363</link>
@@ -63,100 +141,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45357</guid>
     </item>
     <item>
-      <title>Áhorfandinn og listaverkið</title>
-      <link>https://skemman.is/handle/1946/45365</link>
-      <description>Áhorfandinn og listaverkið - Dagur Benedikt Reynisson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45365</guid>
+      <title>Gengið umhverfis Snæfellsjökul : heima</title>
+      <link>https://skemman.is/handle/1946/45379</link>
+      <description>Gengið umhverfis Snæfellsjökul : heima - Elva J. Thomsen Hreiðarsdóttir 1964-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45379</guid>
     </item>
     <item>
-      <title>„Við erum öll búin til úr stjörnuryki“ : starfendarannsókn á skapandi smiðjum á Listasafni Íslands</title>
-      <link>https://skemman.is/handle/1946/45366</link>
-      <description>„Við erum öll búin til úr stjörnuryki“ : starfendarannsókn á skapandi smiðjum á Listasafni Íslands - Ariana Katrín Katrínardóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45366</guid>
+      <title>Hið heilaga djók; smæð skaparans</title>
+      <link>https://skemman.is/handle/1946/45385</link>
+      <description>Hið heilaga djók; smæð skaparans - Regn Sólmundur Evudóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45385</guid>
     </item>
     <item>
-      <title>New materials in Iceland : exploring ecological and sustainable material development</title>
-      <link>https://skemman.is/handle/1946/45367</link>
-      <description>New materials in Iceland : exploring ecological and sustainable material development - Sóley Sara Eiríksdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45367</guid>
-    </item>
-    <item>
-      <title>Fegurðin í ófullkomleikanum</title>
-      <link>https://skemman.is/handle/1946/45368</link>
-      <description>Fegurðin í ófullkomleikanum - Sonja B. Guttesen Ágústsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45368</guid>
-    </item>
-    <item>
-      <title>Íslenskur leir : tenging við umhverfið, að skapa með leir úr náttúrunni</title>
-      <link>https://skemman.is/handle/1946/45369</link>
-      <description>Íslenskur leir : tenging við umhverfið, að skapa með leir úr náttúrunni - Gunnhildur Rán Gunnarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45369</guid>
-    </item>
-    <item>
-      <title>How are Walter Benjamin's ideas of reproduction relative to our usage of social media? : How do our social media streams impact our sense of self?</title>
-      <link>https://skemman.is/handle/1946/45214</link>
-      <description>How are Walter Benjamin's ideas of reproduction relative to our usage of social media? : How do our social media streams impact our sense of self? - Hannah Hjördís McVeety 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45214</guid>
-    </item>
-    <item>
-      <title>Bling Bling : Pen &amp; Pixel og þróun efnishyggju og ímyndar í rapptónlist.</title>
-      <link>https://skemman.is/handle/1946/45216</link>
-      <description>Bling Bling : Pen &amp; Pixel og þróun efnishyggju og ímyndar í rapptónlist. - Lúkas Björn Bogason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45216</guid>
-    </item>
-    <item>
-      <title>Að Labba : labb sem verkfæri til rannsókna og sköpunnar</title>
-      <link>https://skemman.is/handle/1946/45217</link>
-      <description>Að Labba : labb sem verkfæri til rannsókna og sköpunnar - Þorsteinn Muni Jakobsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45217</guid>
-    </item>
-    <item>
-      <title>Erlendir hornleikarar í Sinfóníuhljómsveit Íslands og áhrif þeirra á íslenskt tónlistarlíf</title>
-      <link>https://skemman.is/handle/1946/45218</link>
-      <description>Erlendir hornleikarar í Sinfóníuhljómsveit Íslands og áhrif þeirra á íslenskt tónlistarlíf - Atli Sigurðsson 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45218</guid>
-    </item>
-    <item>
-      <title>Svikaraheilkennið</title>
-      <link>https://skemman.is/handle/1946/45215</link>
-      <description>Svikaraheilkennið - Móna Lea Óttarsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45215</guid>
-    </item>
-    <item>
-      <title>Húsið á röngunni : rannsókn á verki Hreins Friðfinnssonar</title>
-      <link>https://skemman.is/handle/1946/45224</link>
-      <description>Húsið á röngunni : rannsókn á verki Hreins Friðfinnssonar - Mjöll Sigurdís Magnúsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45224</guid>
-    </item>
-    <item>
-      <title>Blátt almenningsrými : eiginleikar sundlauga á Íslandi sem almenningsrýmis</title>
-      <link>https://skemman.is/handle/1946/45222</link>
-      <description>Blátt almenningsrými : eiginleikar sundlauga á Íslandi sem almenningsrýmis - Úlfur Bæringur Skjöld Magnússon 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45222</guid>
-    </item>
-    <item>
-      <title>Gítarhetja óskast, áhrif fyrirmynda á unga tónlistarnemendur</title>
-      <link>https://skemman.is/handle/1946/45221</link>
-      <description>Gítarhetja óskast, áhrif fyrirmynda á unga tónlistarnemendur - Þröstur Jóhannsson 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45221</guid>
-    </item>
-    <item>
-      <title>Yfirborð sem frásögn</title>
-      <link>https://skemman.is/handle/1946/45226</link>
-      <description>Yfirborð sem frásögn - Eyrún Una Aradóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45226</guid>
-    </item>
-    <item>
-      <title>List og saga í iðnaðarbyggingum</title>
-      <link>https://skemman.is/handle/1946/45223</link>
-      <description>List og saga í iðnaðarbyggingum - Eðvald Sævarsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45223</guid>
-    </item>
-    <item>
-      <title>sam/ræða</title>
-      <link>https://skemman.is/handle/1946/45219</link>
-      <description>sam/ræða - Lena Margrét Jónsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45219</guid>
+      <title>15 nautical miles : collaborative and process-oriented exhibition-making</title>
+      <link>https://skemman.is/handle/1946/45381</link>
+      <description>15 nautical miles : collaborative and process-oriented exhibition-making - Iona Jasija Poldervaart 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45381</guid>
     </item>
   </channel>
 </rss>
