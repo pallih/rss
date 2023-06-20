@@ -7,7 +7,91 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 Jun 2023 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 08:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Frelsi til menntunar : sjálfstætt nám í gegnum listkennslumyndbönd</title>
+      <link>https://skemman.is/handle/1946/45363</link>
+      <description>Frelsi til menntunar : sjálfstætt nám í gegnum listkennslumyndbönd - Anton Logi Ólafsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45363</guid>
+    </item>
+    <item>
+      <title>Yfirskilvitlegt Hugarástand Sálarinnar</title>
+      <link>https://skemman.is/handle/1946/45358</link>
+      <description>Yfirskilvitlegt Hugarástand Sálarinnar - Ingibjörg Lárusdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45358</guid>
+    </item>
+    <item>
+      <title>Sjálfsmynd sem Venus</title>
+      <link>https://skemman.is/handle/1946/45360</link>
+      <description>Sjálfsmynd sem Venus - Herdís Hlíf Þorvaldsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45360</guid>
+    </item>
+    <item>
+      <title>VOCATION OF EXUBERANCE</title>
+      <link>https://skemman.is/handle/1946/45356</link>
+      <description>VOCATION OF EXUBERANCE - Svend Holmboe Pedersen 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45356</guid>
+    </item>
+    <item>
+      <title>As Seen on CNN</title>
+      <link>https://skemman.is/handle/1946/45359</link>
+      <description>As Seen on CNN - Oddur Eysteinn Friðriksson (ODEE) 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45359</guid>
+    </item>
+    <item>
+      <title>Mind the Gaps</title>
+      <link>https://skemman.is/handle/1946/45362</link>
+      <description>Mind the Gaps - Deepa Radhakrishna Iyengar 1972-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45362</guid>
+    </item>
+    <item>
+      <title>What the fuck do I know?</title>
+      <link>https://skemman.is/handle/1946/45364</link>
+      <description>What the fuck do I know? - Sara Hjördís Blöndal 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45364</guid>
+    </item>
+    <item>
+      <title>Everything is a Collage</title>
+      <link>https://skemman.is/handle/1946/45361</link>
+      <description>Everything is a Collage - Mirjam Maeekalle 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45361</guid>
+    </item>
+    <item>
+      <title>Barnið sprettur fram</title>
+      <link>https://skemman.is/handle/1946/45357</link>
+      <description>Barnið sprettur fram - Iðunn Gígja Kristjánsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45357</guid>
+    </item>
+    <item>
+      <title>Áhorfandinn og listaverkið</title>
+      <link>https://skemman.is/handle/1946/45365</link>
+      <description>Áhorfandinn og listaverkið - Dagur Benedikt Reynisson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45365</guid>
+    </item>
+    <item>
+      <title>„Við erum öll búin til úr stjörnuryki“ : starfendarannsókn á skapandi smiðjum á Listasafni Íslands</title>
+      <link>https://skemman.is/handle/1946/45366</link>
+      <description>„Við erum öll búin til úr stjörnuryki“ : starfendarannsókn á skapandi smiðjum á Listasafni Íslands - Ariana Katrín Katrínardóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45366</guid>
+    </item>
+    <item>
+      <title>New materials in Iceland : exploring ecological and sustainable material development</title>
+      <link>https://skemman.is/handle/1946/45367</link>
+      <description>New materials in Iceland : exploring ecological and sustainable material development - Sóley Sara Eiríksdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45367</guid>
+    </item>
+    <item>
+      <title>Fegurðin í ófullkomleikanum</title>
+      <link>https://skemman.is/handle/1946/45368</link>
+      <description>Fegurðin í ófullkomleikanum - Sonja B. Guttesen Ágústsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45368</guid>
+    </item>
+    <item>
+      <title>Íslenskur leir : tenging við umhverfið, að skapa með leir úr náttúrunni</title>
+      <link>https://skemman.is/handle/1946/45369</link>
+      <description>Íslenskur leir : tenging við umhverfið, að skapa með leir úr náttúrunni - Gunnhildur Rán Gunnarsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45369</guid>
+    </item>
     <item>
       <title>How are Walter Benjamin's ideas of reproduction relative to our usage of social media? : How do our social media streams impact our sense of self?</title>
       <link>https://skemman.is/handle/1946/45214</link>
@@ -73,90 +157,6 @@
       <link>https://skemman.is/handle/1946/45219</link>
       <description>sam/ræða - Lena Margrét Jónsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45219</guid>
-    </item>
-    <item>
-      <title>Arfleifð okkar</title>
-      <link>https://skemman.is/handle/1946/45225</link>
-      <description>Arfleifð okkar - Gísli Hrafn Magnússon 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45225</guid>
-    </item>
-    <item>
-      <title>MOVE!</title>
-      <link>https://skemman.is/handle/1946/45220</link>
-      <description>MOVE! - Þorsteinn Muni Jakobsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45220</guid>
-    </item>
-    <item>
-      <title>Framtíð friðunar bygginga á Íslandi : hvernig skal heiðra minningu eldri bygginga?</title>
-      <link>https://skemman.is/handle/1946/45229</link>
-      <description>Framtíð friðunar bygginga á Íslandi : hvernig skal heiðra minningu eldri bygginga? - Hekla Björg Kormáksdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45229</guid>
-    </item>
-    <item>
-      <title>Guðjón og Aalto í Vatnsmýrinni : Íslenskt háskólaþorp</title>
-      <link>https://skemman.is/handle/1946/45227</link>
-      <description>Guðjón og Aalto í Vatnsmýrinni : Íslenskt háskólaþorp - Dofri Fannar Guðnason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45227</guid>
-    </item>
-    <item>
-      <title>Er þetta menningararfur? : vangaveltur um skilgreiningu á arkitektónískum menningararfi</title>
-      <link>https://skemman.is/handle/1946/45233</link>
-      <description>Er þetta menningararfur? : vangaveltur um skilgreiningu á arkitektónískum menningararfi - Hanna Lind Rosenkjær Sigurjónsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45233</guid>
-    </item>
-    <item>
-      <title>Það er leikur að læra : um Suzuki tónlistarkennsluaðferðina á Íslandi</title>
-      <link>https://skemman.is/handle/1946/45243</link>
-      <description>Það er leikur að læra : um Suzuki tónlistarkennsluaðferðina á Íslandi - Hrefna Berg Pétursdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45243</guid>
-    </item>
-    <item>
-      <title>Klassísk tónlist færð nær almenningi : samanburður á flautu- og klarínettusónötum Poulenc</title>
-      <link>https://skemman.is/handle/1946/45239</link>
-      <description>Klassísk tónlist færð nær almenningi : samanburður á flautu- og klarínettusónötum Poulenc - Ásdís Birta Guðnadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45239</guid>
-    </item>
-    <item>
-      <title>Bensínstöðin í borgarlandslaginu</title>
-      <link>https://skemman.is/handle/1946/45237</link>
-      <description>Bensínstöðin í borgarlandslaginu - Tómas Viðar Árnason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45237</guid>
-    </item>
-    <item>
-      <title>Sýndarveruleiki í arkitektúr : huglægt viðhorf</title>
-      <link>https://skemman.is/handle/1946/45230</link>
-      <description>Sýndarveruleiki í arkitektúr : huglægt viðhorf - Pétur Karl Eyfeld 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45230</guid>
-    </item>
-    <item>
-      <title>Að eldast í borg</title>
-      <link>https://skemman.is/handle/1946/45231</link>
-      <description>Að eldast í borg - Sigurbergur Hákonarson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45231</guid>
-    </item>
-    <item>
-      <title>Klassískt form í nýjum búningi</title>
-      <link>https://skemman.is/handle/1946/45228</link>
-      <description>Klassískt form í nýjum búningi - Soffía Jónsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45228</guid>
-    </item>
-    <item>
-      <title>The Mysterious Disappearance of the Fountain: An exploration of changing pseudo-public spaces through the lens of fountains</title>
-      <link>https://skemman.is/handle/1946/45232</link>
-      <description>The Mysterious Disappearance of the Fountain: An exploration of changing pseudo-public spaces through the lens of fountains - Tinna Martinsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45232</guid>
-    </item>
-    <item>
-      <title>Geta allir samið tónlist?</title>
-      <link>https://skemman.is/handle/1946/45240</link>
-      <description>Geta allir samið tónlist? - Haraldur Ægir Guðmundsson 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45240</guid>
-    </item>
-    <item>
-      <title>Vatnshóll : ævintýri íbúana</title>
-      <link>https://skemman.is/handle/1946/45234</link>
-      <description>Vatnshóll : ævintýri íbúana - Kolfinna Eyþórsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45234</guid>
     </item>
   </channel>
 </rss>
