@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 21 Jun 2023 08:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 09:00:37 +0000</lastBuildDate>
+    <item>
+      <title>Associations between socioeconomic factors, residence, physical activity, dietary trends and nutrition: Results from the 2019-2021 Icelandic National Dietary Survey</title>
+      <link>https://skemman.is/handle/1946/45426</link>
+      <description>Associations between socioeconomic factors, residence, physical activity, dietary trends and nutrition: Results from the 2019-2021 Icelandic National Dietary Survey - Margrét Jóhannsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45426</guid>
+    </item>
     <item>
       <title>Af fólki og fiskum</title>
       <link>https://skemman.is/handle/1946/45372</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45399</link>
       <description>ENERGY TRANSITION: Hydrogen production plant in Helguvík, Iceland. An architectural approach to green industry - Davíð Snær Sveinsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45399</guid>
-    </item>
-    <item>
-      <title>History Shapes : Finding Ways in Curator Artist Creator</title>
-      <link>https://skemman.is/handle/1946/45397</link>
-      <description>History Shapes : Finding Ways in Curator Artist Creator - Emilie Mørkeberg Dalum 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45397</guid>
     </item>
   </channel>
 </rss>
