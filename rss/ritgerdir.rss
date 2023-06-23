@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 Jun 2023 14:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 15:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Þjálfun á landi og í vatni: afreks- og yngriflokka þjálfun í sundi</title>
+      <link>https://skemman.is/handle/1946/45429</link>
+      <description>Þjálfun á landi og í vatni: afreks- og yngriflokka þjálfun í sundi - Snær Jóhannsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45429</guid>
+    </item>
     <item>
       <title>Verkefnasafn í hönnun og smíði fyrir miðstig grunnskóla með vísun í sjálfbærni og nýtingu náttúruafurða</title>
       <link>https://skemman.is/handle/1946/45428</link>
@@ -15,10 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45428</guid>
     </item>
     <item>
-      <title>Þjálfun á landi og í vatni: afreks- og yngriflokka þjálfun í sundi</title>
-      <link>https://skemman.is/handle/1946/45429</link>
-      <description>Þjálfun á landi og í vatni: afreks- og yngriflokka þjálfun í sundi - Snær Jóhannsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45429</guid>
+      <title>The Association Between Adverse Childhood Experiences and Body Mass Index &amp; Obesity in Adulthood: A Cross-Sectional Study based on the SAGA cohort of Icelandic Women</title>
+      <link>https://skemman.is/handle/1946/45430</link>
+      <description>The Association Between Adverse Childhood Experiences and Body Mass Index &amp; Obesity in Adulthood: A Cross-Sectional Study based on the SAGA cohort of Icelandic Women - Sigrún Lóa Kristjánsdóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45430</guid>
     </item>
     <item>
       <title>Associations between socioeconomic factors, residence, physical activity, dietary trends and nutrition: Results from the 2019-2021 Icelandic National Dietary Survey</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45411</link>
       <description>Body and sculpture intergration in the form of clothing - Karítas D. Spanó 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45411</guid>
-    </item>
-    <item>
-      <title>Manga og anime list : skammastu þín</title>
-      <link>https://skemman.is/handle/1946/45407</link>
-      <description>Manga og anime list : skammastu þín - Aðalheiður Maack Lárusdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45407</guid>
     </item>
   </channel>
 </rss>
