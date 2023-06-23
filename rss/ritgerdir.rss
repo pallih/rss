@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 Jun 2023 11:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 12:00:35 +0000</lastBuildDate>
+    <item>
+      <title>Verkefnasafn í hönnun og smíði fyrir miðstig grunnskóla með vísun í sjálfbærni og nýtingu náttúruafurða</title>
+      <link>https://skemman.is/handle/1946/45428</link>
+      <description>Verkefnasafn í hönnun og smíði fyrir miðstig grunnskóla með vísun í sjálfbærni og nýtingu náttúruafurða - Haraldur Anton Haraldsson 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45428</guid>
+    </item>
     <item>
       <title>Associations between socioeconomic factors, residence, physical activity, dietary trends and nutrition: Results from the 2019-2021 Icelandic National Dietary Survey</title>
       <link>https://skemman.is/handle/1946/45426</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45410</link>
       <description>The Tabernacle : ferðalag inn í dýpri hlustun - Thomas Davíð Stankiewicz 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45410</guid>
-    </item>
-    <item>
-      <title>TOI700d</title>
-      <link>https://skemman.is/handle/1946/45412</link>
-      <description>TOI700d - Lúkas Björn Bogason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45412</guid>
     </item>
   </channel>
 </rss>
