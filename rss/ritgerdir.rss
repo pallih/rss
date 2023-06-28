@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 28 Jun 2023 08:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 09:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Designing a Multifunctional Sensor Board for Teaching IoT and Microcontroller Fundamentals</title>
+      <link>https://skemman.is/handle/1946/45434</link>
+      <description>Designing a Multifunctional Sensor Board for Teaching IoT and Microcontroller Fundamentals - Unnar Elías Björnsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45434</guid>
+    </item>
     <item>
       <title>Agile aðferðafræði og vendinám : yfirsýn og samábyrgð kennara á verkefnaskilum nemenda</title>
       <link>https://skemman.is/handle/1946/45431</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45405</link>
       <description>Hljóðstyrkur og heyrnarvernd : er þörf á formlegri fræðslu um heyrnarvernd innan tónlistarskólakerfisins? - Ómar Örn Arnarson 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45405</guid>
-    </item>
-    <item>
-      <title>Lumera Beach Festival Founding : curating and working a three day electronic music festival on the island of Phu-Quoc, Vietnam</title>
-      <link>https://skemman.is/handle/1946/45409</link>
-      <description>Lumera Beach Festival Founding : curating and working a three day electronic music festival on the island of Phu-Quoc, Vietnam - Samúel André Barthelemy 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45409</guid>
     </item>
   </channel>
 </rss>
