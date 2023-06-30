@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 30 Jun 2023 11:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 12:00:32 +0000</lastBuildDate>
+    <item>
+      <title>„Eitt leiðir af öðru og … “ : hvernig framhaldsskólanemar vinna með samþykki í kynferðislegum aðstæðum</title>
+      <link>https://skemman.is/handle/1946/45435</link>
+      <description>„Eitt leiðir af öðru og … “ : hvernig framhaldsskólanemar vinna með samþykki í kynferðislegum aðstæðum - Ágústa Björg Kristjánsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45435</guid>
+    </item>
     <item>
       <title>Designing a Multifunctional Sensor Board for Teaching IoT and Microcontroller Fundamentals</title>
       <link>https://skemman.is/handle/1946/45434</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45394</link>
       <description>Our Haunting Bodies: Making Intangible Knowns Tangibly Material - Sarah Finkle 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45394</guid>
-    </item>
-    <item>
-      <title>Hljóðstyrkur og heyrnarvernd : er þörf á formlegri fræðslu um heyrnarvernd innan tónlistarskólakerfisins?</title>
-      <link>https://skemman.is/handle/1946/45405</link>
-      <description>Hljóðstyrkur og heyrnarvernd : er þörf á formlegri fræðslu um heyrnarvernd innan tónlistarskólakerfisins? - Ómar Örn Arnarson 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45405</guid>
     </item>
   </channel>
 </rss>
