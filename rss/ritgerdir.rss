@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 30 Jun 2023 15:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 16:00:28 +0000</lastBuildDate>
     <item>
       <title>„Eitt leiðir af öðru og … “ : hvernig framhaldsskólanemar vinna með samþykki í kynferðislegum aðstæðum</title>
       <link>https://skemman.is/handle/1946/45435</link>
@@ -49,6 +49,30 @@
       <link>https://skemman.is/handle/1946/45441</link>
       <description>Skapandi tjáning : greinargerð um námsefni fyrir nemendur með málþroskavanda - Hanna Lilja Egilsdóttir 1991-; Sylvía Rós Dagsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45441</guid>
+    </item>
+    <item>
+      <title>Talað um tölur : má bæta kennsluhætti í stærðfræði á Íslandi með kennsluaðferðinni Talað um tölur?</title>
+      <link>https://skemman.is/handle/1946/45443</link>
+      <description>Talað um tölur : má bæta kennsluhætti í stærðfræði á Íslandi með kennsluaðferðinni Talað um tölur? - Dagbjört Erla Kjartansdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45443</guid>
+    </item>
+    <item>
+      <title>Kynlegar sögur í skólastarfi : kennsluleiðbeiningar með bókunum KynVera og Daði</title>
+      <link>https://skemman.is/handle/1946/45444</link>
+      <description>Kynlegar sögur í skólastarfi : kennsluleiðbeiningar með bókunum KynVera og Daði - Rannveig Klara Guðmundsdóttir 2000-; Edda Rún Guðmundsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45444</guid>
+    </item>
+    <item>
+      <title>Sjónrænt skipulag : greinargerð ásamt heimasíðu</title>
+      <link>https://skemman.is/handle/1946/45442</link>
+      <description>Sjónrænt skipulag : greinargerð ásamt heimasíðu - Lára Hanna Halldórsdóttir 1999-; Bára Kristín Þórisdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45442</guid>
+    </item>
+    <item>
+      <title>Kvíði : námsgengi og félagatengsl ungs fólks með kvíða</title>
+      <link>https://skemman.is/handle/1946/45445</link>
+      <description>Kvíði : námsgengi og félagatengsl ungs fólks með kvíða - Fanney Lára Guðmundsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45445</guid>
     </item>
     <item>
       <title>Designing a Multifunctional Sensor Board for Teaching IoT and Microcontroller Fundamentals</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/45377</link>
       <description>Í hjarta mínu rís hús - Ynja Blær Johnsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45377</guid>
-    </item>
-    <item>
-      <title>Ekki tala um það!</title>
-      <link>https://skemman.is/handle/1946/45374</link>
-      <description>Ekki tala um það! - Aðalheiður Maack Lárusdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45374</guid>
-    </item>
-    <item>
-      <title>The Tragic Painting</title>
-      <link>https://skemman.is/handle/1946/45378</link>
-      <description>The Tragic Painting - Jón Múli 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45378</guid>
-    </item>
-    <item>
-      <title>„Þú ert að tjá tónlist, þetta er vulnerable dæmi“ : áhrif valdastrúktúra í einkakennslu í tónlist á háskólastigi</title>
-      <link>https://skemman.is/handle/1946/45390</link>
-      <description>„Þú ert að tjá tónlist, þetta er vulnerable dæmi“ : áhrif valdastrúktúra í einkakennslu í tónlist á háskólastigi - Erna Vala Arnardóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45390</guid>
-    </item>
-    <item>
-      <title>„Mig langar svo bara að þú verðir eins og fiskur í vatni!" : endurskoðun aðalnámskrár tónlistarskóla og framtíðarsýn um þróun tónlistarnáms í hafsjó möguleika</title>
-      <link>https://skemman.is/handle/1946/45391</link>
-      <description>„Mig langar svo bara að þú verðir eins og fiskur í vatni!" : endurskoðun aðalnámskrár tónlistarskóla og framtíðarsýn um þróun tónlistarnáms í hafsjó möguleika - Dagný Arnalds 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45391</guid>
     </item>
   </channel>
 </rss>
