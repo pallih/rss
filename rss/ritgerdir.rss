@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 03 Jul 2023 12:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 13:06:29 +0000</lastBuildDate>
     <item>
       <title>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða</title>
       <link>https://skemman.is/handle/1946/45457</link>
@@ -73,6 +73,12 @@
       <link>https://skemman.is/handle/1946/45460</link>
       <description>Stuðningur við börn : að styðja öll börn til þroska í leikskóla - Tanja Rán Einarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45460</guid>
+    </item>
+    <item>
+      <title>Gagnsemi styrktarþjálfunar fyrir spretthlaupara : áhrif styrktarþjálfunar á hraða spretthlaupara og forvarnargildi gagnvart meiðslum</title>
+      <link>https://skemman.is/handle/1946/45466</link>
+      <description>Gagnsemi styrktarþjálfunar fyrir spretthlaupara : áhrif styrktarþjálfunar á hraða spretthlaupara og forvarnargildi gagnvart meiðslum - Bjarni Páll Pálsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45466</guid>
     </item>
     <item>
       <title>Sýn leikskólakennara og starfsfólks leikskóla á aukinn tíma og rými fyrir leik barna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45436</link>
       <description>Málörvun og málþroski barna : hvernig er hægt að nýta útiveru barna í málörvunarstarf í leikskóla? - Aðalheiður Helga Kristinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45436</guid>
-    </item>
-    <item>
-      <title>Áhrif svefns á andlega heilsu og frammistöðu í íþróttum : hefur svefn áhrif á andlega heilsu og frammistöðu íþróttafólks?</title>
-      <link>https://skemman.is/handle/1946/45437</link>
-      <description>Áhrif svefns á andlega heilsu og frammistöðu í íþróttum : hefur svefn áhrif á andlega heilsu og frammistöðu íþróttafólks? - Adna Mesetovic 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45437</guid>
     </item>
   </channel>
 </rss>
