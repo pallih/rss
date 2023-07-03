@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 03 Jul 2023 10:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 11:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Svanga köngulóin : málörvunarspil með áherslu á hreyfingu og leikræna tjáningu</title>
+      <link>https://skemman.is/handle/1946/45455</link>
+      <description>Svanga köngulóin : málörvunarspil með áherslu á hreyfingu og leikræna tjáningu - Guðrún Þorgerður Jónsdóttir 1990-; Oddrún Lára Friðgeirsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45455</guid>
+    </item>
+    <item>
+      <title>Hugarfar í stærðfræðinámi : mikilvægi hugarfars þegar kemur að námi í stærðfræði</title>
+      <link>https://skemman.is/handle/1946/45456</link>
+      <description>Hugarfar í stærðfræðinámi : mikilvægi hugarfars þegar kemur að námi í stærðfræði - Ólafía Kristín Sæmundsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45456</guid>
+    </item>
     <item>
       <title>„Eitt leiðir af öðru og … “ : hvernig framhaldsskólanemar vinna með samþykki í kynferðislegum aðstæðum</title>
       <link>https://skemman.is/handle/1946/45435</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45431</link>
       <description>Agile aðferðafræði og vendinám : yfirsýn og samábyrgð kennara á verkefnaskilum nemenda - Margrét Sturlaugsdóttir 1968-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45431</guid>
-    </item>
-    <item>
-      <title>Technical, economic, social, and environmental assessment of geothermal resources in Chile</title>
-      <link>https://skemman.is/handle/1946/45432</link>
-      <description>Technical, economic, social, and environmental assessment of geothermal resources in Chile - Alfonso Ignacio Mohor Alarcón 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45432</guid>
-    </item>
-    <item>
-      <title>The Association Between Adverse Childhood Experiences and Body Mass Index &amp; Obesity in Adulthood: A Cross-Sectional Study based on the SAGA cohort of Icelandic Women</title>
-      <link>https://skemman.is/handle/1946/45430</link>
-      <description>The Association Between Adverse Childhood Experiences and Body Mass Index &amp; Obesity in Adulthood: A Cross-Sectional Study based on the SAGA cohort of Icelandic Women - Sigrún Lóa Kristjánsdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45430</guid>
     </item>
   </channel>
 </rss>
