@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 03 Jul 2023 17:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 08:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Hinn sívaxandi heimur hlaðvarpa: Hvað stýrir viðhorfi til auglýsinga í hlaðvörpum?</title>
+      <link>https://skemman.is/handle/1946/45472</link>
+      <description>Hinn sívaxandi heimur hlaðvarpa: Hvað stýrir viðhorfi til auglýsinga í hlaðvörpum? - Eydís Sigrún Jónsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45472</guid>
+    </item>
     <item>
       <title>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða</title>
       <link>https://skemman.is/handle/1946/45457</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45448</link>
       <description>Málþroskaröskun og snemmtæk íhlutun - Inga Bjarney Óladóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45448</guid>
-    </item>
-    <item>
-      <title>Sinnum fimm : greinargerð með kennsluaðferð</title>
-      <link>https://skemman.is/handle/1946/45451</link>
-      <description>Sinnum fimm : greinargerð með kennsluaðferð - Karen Ösp Randversdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45451</guid>
     </item>
   </channel>
 </rss>
