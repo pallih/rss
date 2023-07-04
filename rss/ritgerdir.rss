@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 04 Jul 2023 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 15:00:27 +0000</lastBuildDate>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
       <link>https://skemman.is/handle/1946/45482</link>
@@ -63,22 +63,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45474</guid>
     </item>
     <item>
-      <title>Hinn sívaxandi heimur hlaðvarpa: Hvað stýrir viðhorfi til auglýsinga í hlaðvörpum?</title>
-      <link>https://skemman.is/handle/1946/45472</link>
-      <description>Hinn sívaxandi heimur hlaðvarpa: Hvað stýrir viðhorfi til auglýsinga í hlaðvörpum? - Eydís Sigrún Jónsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45472</guid>
-    </item>
-    <item>
-      <title>Impact of leisure activities on aging adults : benefits of and barriers to leisure involvement among older adults in Reykjavík</title>
-      <link>https://skemman.is/handle/1946/45473</link>
-      <description>Impact of leisure activities on aging adults : benefits of and barriers to leisure involvement among older adults in Reykjavík - Allen Mikaela Gail Tambaoan 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45473</guid>
-    </item>
-    <item>
-      <title>Skólaforðun grunnskólabarna : vaxandi áskorun</title>
-      <link>https://skemman.is/handle/1946/45483</link>
-      <description>Skólaforðun grunnskólabarna : vaxandi áskorun - Steinunn Ólafsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45483</guid>
+      <title>Námsorðaforði íslenskra grunnskólanema</title>
+      <link>https://skemman.is/handle/1946/45489</link>
+      <description>Námsorðaforði íslenskra grunnskólanema - Edda Björk Vatnsdal 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45489</guid>
     </item>
     <item>
       <title>Sleep variability and physical activity of 17-year-old Icelandic upper secondary students</title>
@@ -93,16 +81,52 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45485</guid>
     </item>
     <item>
-      <title>Kvíði barna og ungmenna</title>
-      <link>https://skemman.is/handle/1946/45486</link>
-      <description>Kvíði barna og ungmenna - Elísabet Guðmundsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45486</guid>
+      <title>Skólaforðun grunnskólabarna : vaxandi áskorun</title>
+      <link>https://skemman.is/handle/1946/45483</link>
+      <description>Skólaforðun grunnskólabarna : vaxandi áskorun - Steinunn Ólafsdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45483</guid>
     </item>
     <item>
       <title>Lestrarkennsluaðferðir og sérstaða þeirra</title>
       <link>https://skemman.is/handle/1946/45487</link>
       <description>Lestrarkennsluaðferðir og sérstaða þeirra - Ellý Rut Halldórsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45487</guid>
+    </item>
+    <item>
+      <title>Kvíði barna og ungmenna</title>
+      <link>https://skemman.is/handle/1946/45486</link>
+      <description>Kvíði barna og ungmenna - Elísabet Guðmundsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45486</guid>
+    </item>
+    <item>
+      <title>The Academy : kennsluleiðbeiningar og verkefnabók.</title>
+      <link>https://skemman.is/handle/1946/45488</link>
+      <description>The Academy : kennsluleiðbeiningar og verkefnabók. - Sindri Lars Ómarsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45488</guid>
+    </item>
+    <item>
+      <title>Hinn sívaxandi heimur hlaðvarpa: Hvað stýrir viðhorfi til auglýsinga í hlaðvörpum?</title>
+      <link>https://skemman.is/handle/1946/45472</link>
+      <description>Hinn sívaxandi heimur hlaðvarpa: Hvað stýrir viðhorfi til auglýsinga í hlaðvörpum? - Eydís Sigrún Jónsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45472</guid>
+    </item>
+    <item>
+      <title>Impact of leisure activities on aging adults : benefits of and barriers to leisure involvement among older adults in Reykjavík</title>
+      <link>https://skemman.is/handle/1946/45473</link>
+      <description>Impact of leisure activities on aging adults : benefits of and barriers to leisure involvement among older adults in Reykjavík - Allen Mikaela Gail Tambaoan 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45473</guid>
+    </item>
+    <item>
+      <title>Fagmennska í frístundaheimilum : bera viðhorf starfsfólks vott um fagmennsku?</title>
+      <link>https://skemman.is/handle/1946/45490</link>
+      <description>Fagmennska í frístundaheimilum : bera viðhorf starfsfólks vott um fagmennsku? - Bjarni Gautur Eydal Tómasson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45490</guid>
+    </item>
+    <item>
+      <title>Hvernig getur jaðarpersónuleikaröskun mæðra haft áhrif á tengslamyndun við ungbörn þeirra : hvers vegna skiptir meðferð máli?</title>
+      <link>https://skemman.is/handle/1946/45491</link>
+      <description>Hvernig getur jaðarpersónuleikaröskun mæðra haft áhrif á tengslamyndun við ungbörn þeirra : hvers vegna skiptir meðferð máli? - Helena Fanney Sölvadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45491</guid>
     </item>
     <item>
       <title>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/45465</link>
       <description>Við tölum við fólk, ekki um fólk : mótun samskiptamenningar í leikskóla - Þorgerður Kristín Guðmundsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45465</guid>
-    </item>
-    <item>
-      <title>Þráðurinn í textílkennslu : vinnuferlið um vef textílsins þannig að öll hæfniviðmiðin fléttist saman</title>
-      <link>https://skemman.is/handle/1946/45461</link>
-      <description>Þráðurinn í textílkennslu : vinnuferlið um vef textílsins þannig að öll hæfniviðmiðin fléttist saman - Unnur Gígja Ingimundardóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45461</guid>
-    </item>
-    <item>
-      <title>Hugsandi kennslurými í stærðfræði : á kennslunálgunin hugsandi kennslurými við Aðalnámskrá grunnskóla?</title>
-      <link>https://skemman.is/handle/1946/45463</link>
-      <description>Hugsandi kennslurými í stærðfræði : á kennslunálgunin hugsandi kennslurými við Aðalnámskrá grunnskóla? - Vala Jónsdóttir Thoroddsen 1996-; Heiðdís Ósk Gunnarsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45463</guid>
-    </item>
-    <item>
-      <title>Áskoranir í samstarfi : sjónarhorn foreldra af erlendum uppruna og grunnskólakennara á Íslandi</title>
-      <link>https://skemman.is/handle/1946/45464</link>
-      <description>Áskoranir í samstarfi : sjónarhorn foreldra af erlendum uppruna og grunnskólakennara á Íslandi - Weronika Alejnikow 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45464</guid>
-    </item>
-    <item>
-      <title>Skapandi nálgun í samfélagsgreinakennslu : leikir, leiklist og samþætting</title>
-      <link>https://skemman.is/handle/1946/45459</link>
-      <description>Skapandi nálgun í samfélagsgreinakennslu : leikir, leiklist og samþætting - Saga Tíbrá Bergmann 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45459</guid>
     </item>
   </channel>
 </rss>
