@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 04 Jul 2023 16:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 17:00:35 +0000</lastBuildDate>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
       <link>https://skemman.is/handle/1946/45482</link>
@@ -129,6 +129,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45491</guid>
     </item>
     <item>
+      <title>A postcolonial critical discourse analysis : the “Dear Mrs. Kennedy” episode of the Netflix series The Crown.</title>
+      <link>https://skemman.is/handle/1946/45492</link>
+      <description>A postcolonial critical discourse analysis : the “Dear Mrs. Kennedy” episode of the Netflix series The Crown. - Winfred Kofi Darko 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45492</guid>
+    </item>
+    <item>
       <title>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða</title>
       <link>https://skemman.is/handle/1946/45457</link>
       <description>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða - Silja Líf Einvarðsdóttir 1995-; Patrycja Rutkowska 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45458</link>
       <description>Mikilvægi tómstunda fyrir unglinga - Rafn Orri Örvarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45458</guid>
-    </item>
-    <item>
-      <title>Við tölum við fólk, ekki um fólk : mótun samskiptamenningar í leikskóla</title>
-      <link>https://skemman.is/handle/1946/45465</link>
-      <description>Við tölum við fólk, ekki um fólk : mótun samskiptamenningar í leikskóla - Þorgerður Kristín Guðmundsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45465</guid>
     </item>
   </channel>
 </rss>
