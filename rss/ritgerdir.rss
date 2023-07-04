@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 04 Jul 2023 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 13:05:54 +0000</lastBuildDate>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
       <link>https://skemman.is/handle/1946/45482</link>
@@ -73,6 +73,18 @@
       <link>https://skemman.is/handle/1946/45473</link>
       <description>Impact of leisure activities on aging adults : benefits of and barriers to leisure involvement among older adults in Reykjavík - Allen Mikaela Gail Tambaoan 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45473</guid>
+    </item>
+    <item>
+      <title>Skólaforðun grunnskólabarna : vaxandi áskorun</title>
+      <link>https://skemman.is/handle/1946/45483</link>
+      <description>Skólaforðun grunnskólabarna : vaxandi áskorun - Steinunn Ólafsdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45483</guid>
+    </item>
+    <item>
+      <title>Sleep variability and physical activity of 17-year-old Icelandic upper secondary students</title>
+      <link>https://skemman.is/handle/1946/45484</link>
+      <description>Sleep variability and physical activity of 17-year-old Icelandic upper secondary students - Björn Jóhannes Hjálmarsson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45484</guid>
     </item>
     <item>
       <title>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45469</link>
       <description>Skapandi hugsun, tjáning og umhverfi : getur umhverfið stutt við skapandi hugsun og tjáningu? - Oliver Bergmann 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45469</guid>
-    </item>
-    <item>
-      <title>Birtingarmyndir kynjaðra viðmiða og kynlífshegðunar í framhaldsskólablöðum</title>
-      <link>https://skemman.is/handle/1946/45468</link>
-      <description>Birtingarmyndir kynjaðra viðmiða og kynlífshegðunar í framhaldsskólablöðum - Nanna Lísa Schweitz 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45468</guid>
-    </item>
-    <item>
-      <title>Skapandi stærðfræði í kennslu yngri barna ásamt verkefnabanka</title>
-      <link>https://skemman.is/handle/1946/45467</link>
-      <description>Skapandi stærðfræði í kennslu yngri barna ásamt verkefnabanka - Þórunn Kristín Erlingsdóttir 1999-; Natalía Mist Rúnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45467</guid>
     </item>
   </channel>
 </rss>
