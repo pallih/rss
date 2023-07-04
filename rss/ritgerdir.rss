@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 04 Jul 2023 13:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 14:00:25 +0000</lastBuildDate>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
       <link>https://skemman.is/handle/1946/45482</link>
@@ -87,6 +87,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45484</guid>
     </item>
     <item>
+      <title>Gagnvirka hreyfigólfið Active floor : hreyfileikir í stærðfræðikennslu</title>
+      <link>https://skemman.is/handle/1946/45485</link>
+      <description>Gagnvirka hreyfigólfið Active floor : hreyfileikir í stærðfræðikennslu - Sigríður Heiða Sigurðardóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45485</guid>
+    </item>
+    <item>
+      <title>Kvíði barna og ungmenna</title>
+      <link>https://skemman.is/handle/1946/45486</link>
+      <description>Kvíði barna og ungmenna - Elísabet Guðmundsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45486</guid>
+    </item>
+    <item>
+      <title>Lestrarkennsluaðferðir og sérstaða þeirra</title>
+      <link>https://skemman.is/handle/1946/45487</link>
+      <description>Lestrarkennsluaðferðir og sérstaða þeirra - Ellý Rut Halldórsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45487</guid>
+    </item>
+    <item>
       <title>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða</title>
       <link>https://skemman.is/handle/1946/45457</link>
       <description>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða - Silja Líf Einvarðsdóttir 1995-; Patrycja Rutkowska 1998-</description>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45459</link>
       <description>Skapandi nálgun í samfélagsgreinakennslu : leikir, leiklist og samþætting - Saga Tíbrá Bergmann 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45459</guid>
-    </item>
-    <item>
-      <title>Jafn grundvöllur fyrir okkur öll : brekkan er misbrött : staða og möguleikar tómstundamála fatlaðra í Mosfellsbæ</title>
-      <link>https://skemman.is/handle/1946/45462</link>
-      <description>Jafn grundvöllur fyrir okkur öll : brekkan er misbrött : staða og möguleikar tómstundamála fatlaðra í Mosfellsbæ - Úlfar Darri Lúthersson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45462</guid>
-    </item>
-    <item>
-      <title>Gagnsemi styrktarþjálfunar fyrir spretthlaupara : áhrif styrktarþjálfunar á hraða spretthlaupara og forvarnargildi gagnvart meiðslum</title>
-      <link>https://skemman.is/handle/1946/45466</link>
-      <description>Gagnsemi styrktarþjálfunar fyrir spretthlaupara : áhrif styrktarþjálfunar á hraða spretthlaupara og forvarnargildi gagnvart meiðslum - Bjarni Páll Pálsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45466</guid>
-    </item>
-    <item>
-      <title>Skapandi hugsun, tjáning og umhverfi : getur umhverfið stutt við skapandi hugsun og tjáningu?</title>
-      <link>https://skemman.is/handle/1946/45469</link>
-      <description>Skapandi hugsun, tjáning og umhverfi : getur umhverfið stutt við skapandi hugsun og tjáningu? - Oliver Bergmann 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45469</guid>
     </item>
   </channel>
 </rss>
