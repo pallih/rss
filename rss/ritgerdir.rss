@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 05 Jul 2023 12:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 13:07:30 +0000</lastBuildDate>
     <item>
       <title>Ritunarfærni nemenda kennara sem sátu námskeiðið : Byggjum á forvitni og áhuga nemenda : aukin tækifæri til virkrar málnotkunar</title>
       <link>https://skemman.is/handle/1946/45495</link>
@@ -27,22 +27,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45494</guid>
     </item>
     <item>
-      <title>Gerð kennslumyndskeiða í stafrænu námi : greinargerð með námsefni</title>
-      <link>https://skemman.is/handle/1946/45496</link>
-      <description>Gerð kennslumyndskeiða í stafrænu námi : greinargerð með námsefni - Ingibjörg Emilsdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45496</guid>
-    </item>
-    <item>
-      <title>Áhrif seiglu á geðheilsu : tengsl seiglu við geðheilsu starfsfólks</title>
-      <link>https://skemman.is/handle/1946/45497</link>
-      <description>Áhrif seiglu á geðheilsu : tengsl seiglu við geðheilsu starfsfólks - Gunnar Árnason 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45497</guid>
-    </item>
-    <item>
-      <title>Reynsla lágtekjumæðra af pólskum uppruna af foreldrastarfi í grunnskólum á höfuðborgarsvæðinu : stétt, félags- og þverþjóðlegur auður</title>
-      <link>https://skemman.is/handle/1946/45498</link>
-      <description>Reynsla lágtekjumæðra af pólskum uppruna af foreldrastarfi í grunnskólum á höfuðborgarsvæðinu : stétt, félags- og þverþjóðlegur auður - Joanna Ewa Dominiczak 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45498</guid>
+      <title>"Það að vera meðvitaður um exemið sitt er að vera meðvitaður um hollt og gott líferni" : rannsókn á þörfum fólks með exem á stuðningi við hefðbundna meðferð</title>
+      <link>https://skemman.is/handle/1946/45502</link>
+      <description>"Það að vera meðvitaður um exemið sitt er að vera meðvitaður um hollt og gott líferni" : rannsókn á þörfum fólks með exem á stuðningi við hefðbundna meðferð - Ásdís Ragna Einarsdóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45502</guid>
     </item>
     <item>
       <title>Við þurfum að vera saman í liði : sýn umsjónarkennara á unglingastigi á þörf fyrir foreldrafræðslu</title>
@@ -51,10 +39,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45499</guid>
     </item>
     <item>
-      <title>Rafræna safnið : hugmynd að heimasíðu um kynningu á sjónlistum fyrir grunnskólakennara</title>
-      <link>https://skemman.is/handle/1946/45500</link>
-      <description>Rafræna safnið : hugmynd að heimasíðu um kynningu á sjónlistum fyrir grunnskólakennara - Jens Thinus Clausen Pétursson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45500</guid>
+      <title>Reynsla lágtekjumæðra af pólskum uppruna af foreldrastarfi í grunnskólum á höfuðborgarsvæðinu : stétt, félags- og þverþjóðlegur auður</title>
+      <link>https://skemman.is/handle/1946/45498</link>
+      <description>Reynsla lágtekjumæðra af pólskum uppruna af foreldrastarfi í grunnskólum á höfuðborgarsvæðinu : stétt, félags- og þverþjóðlegur auður - Joanna Ewa Dominiczak 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45498</guid>
+    </item>
+    <item>
+      <title>Farsælt leikskólastarf án aðgreiningar : mikilvægi þess að styðja við fullgildi barna</title>
+      <link>https://skemman.is/handle/1946/45504</link>
+      <description>Farsælt leikskólastarf án aðgreiningar : mikilvægi þess að styðja við fullgildi barna - Guðrún Jóna Þrastardóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45504</guid>
+    </item>
+    <item>
+      <title>Gerð kennslumyndskeiða í stafrænu námi : greinargerð með námsefni</title>
+      <link>https://skemman.is/handle/1946/45496</link>
+      <description>Gerð kennslumyndskeiða í stafrænu námi : greinargerð með námsefni - Ingibjörg Emilsdóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45496</guid>
+    </item>
+    <item>
+      <title>Stafræn fræðsla í fyrirtækjum : myndskeið sem hluti af fræðsluefni</title>
+      <link>https://skemman.is/handle/1946/45503</link>
+      <description>Stafræn fræðsla í fyrirtækjum : myndskeið sem hluti af fræðsluefni - Elín Yngvadóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45503</guid>
     </item>
     <item>
       <title>„Að þjálfa þjálfann“ : hvernig færist þekking og færni á milli starfsfólks?</title>
@@ -63,10 +69,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45501</guid>
     </item>
     <item>
-      <title>"Það að vera meðvitaður um exemið sitt er að vera meðvitaður um hollt og gott líferni" : rannsókn á þörfum fólks með exem á stuðningi við hefðbundna meðferð</title>
-      <link>https://skemman.is/handle/1946/45502</link>
-      <description>"Það að vera meðvitaður um exemið sitt er að vera meðvitaður um hollt og gott líferni" : rannsókn á þörfum fólks með exem á stuðningi við hefðbundna meðferð - Ásdís Ragna Einarsdóttir 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45502</guid>
+      <title>Áhrif seiglu á geðheilsu : tengsl seiglu við geðheilsu starfsfólks</title>
+      <link>https://skemman.is/handle/1946/45497</link>
+      <description>Áhrif seiglu á geðheilsu : tengsl seiglu við geðheilsu starfsfólks - Gunnar Árnason 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45497</guid>
+    </item>
+    <item>
+      <title>Rafræna safnið : hugmynd að heimasíðu um kynningu á sjónlistum fyrir grunnskólakennara</title>
+      <link>https://skemman.is/handle/1946/45500</link>
+      <description>Rafræna safnið : hugmynd að heimasíðu um kynningu á sjónlistum fyrir grunnskólakennara - Jens Thinus Clausen Pétursson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45500</guid>
+    </item>
+    <item>
+      <title>,,Viðhorfin voru það sem leiddi til útilokunar" : samvinnurannsóknin um Bíbí í Berlín</title>
+      <link>https://skemman.is/handle/1946/45505</link>
+      <description>,,Viðhorfin voru það sem leiddi til útilokunar" : samvinnurannsóknin um Bíbí í Berlín - Helena Gunnarsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45505</guid>
     </item>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45492</link>
       <description>A postcolonial critical discourse analysis : the “Dear Mrs. Kennedy” episode of the Netflix series The Crown. - Winfred Kofi Darko 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45492</guid>
-    </item>
-    <item>
-      <title>Hvernig getur jaðarpersónuleikaröskun mæðra haft áhrif á tengslamyndun við ungbörn þeirra : hvers vegna skiptir meðferð máli?</title>
-      <link>https://skemman.is/handle/1946/45491</link>
-      <description>Hvernig getur jaðarpersónuleikaröskun mæðra haft áhrif á tengslamyndun við ungbörn þeirra : hvers vegna skiptir meðferð máli? - Helena Fanney Sölvadóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45491</guid>
-    </item>
-    <item>
-      <title>Námsorðaforði íslenskra grunnskólanema</title>
-      <link>https://skemman.is/handle/1946/45489</link>
-      <description>Námsorðaforði íslenskra grunnskólanema - Edda Björk Vatnsdal 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45489</guid>
-    </item>
-    <item>
-      <title>Sleep variability and physical activity of 17-year-old Icelandic upper secondary students</title>
-      <link>https://skemman.is/handle/1946/45484</link>
-      <description>Sleep variability and physical activity of 17-year-old Icelandic upper secondary students - Björn Jóhannes Hjálmarsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45484</guid>
     </item>
   </channel>
 </rss>
