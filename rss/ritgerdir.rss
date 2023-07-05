@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 05 Jul 2023 08:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 09:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Heilahristingur hjá íþóttakonum.  Áhrif hans á hreyfistjórn í hálsi</title>
+      <link>https://skemman.is/handle/1946/45493</link>
+      <description>Heilahristingur hjá íþóttakonum.  Áhrif hans á hreyfistjórn í hálsi - Silja Rós Theodórsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45493</guid>
+    </item>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
       <link>https://skemman.is/handle/1946/45482</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45456</link>
       <description>Hugarfar í stærðfræðinámi : mikilvægi hugarfars þegar kemur að námi í stærðfræði - Ólafía Kristín Sæmundsdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45456</guid>
-    </item>
-    <item>
-      <title>Mikilvægi tómstunda fyrir unglinga</title>
-      <link>https://skemman.is/handle/1946/45458</link>
-      <description>Mikilvægi tómstunda fyrir unglinga - Rafn Orri Örvarsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45458</guid>
     </item>
   </channel>
 </rss>
