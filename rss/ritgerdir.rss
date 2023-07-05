@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 05 Jul 2023 09:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 10:00:34 +0000</lastBuildDate>
     <item>
       <title>Heilahristingur hjá íþóttakonum.  Áhrif hans á hreyfistjórn í hálsi</title>
       <link>https://skemman.is/handle/1946/45493</link>
       <description>Heilahristingur hjá íþóttakonum.  Áhrif hans á hreyfistjórn í hálsi - Silja Rós Theodórsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45493</guid>
+    </item>
+    <item>
+      <title>Access to knowing : competence to Bernstein in a higher learning context</title>
+      <link>https://skemman.is/handle/1946/45494</link>
+      <description>Access to knowing : competence to Bernstein in a higher learning context - Kimberly Ann Adams 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45494</guid>
+    </item>
+    <item>
+      <title>Ritunarfærni nemenda kennara sem sátu námskeiðið : Byggjum á forvitni og áhuga nemenda : aukin tækifæri til virkrar málnotkunar</title>
+      <link>https://skemman.is/handle/1946/45495</link>
+      <description>Ritunarfærni nemenda kennara sem sátu námskeiðið : Byggjum á forvitni og áhuga nemenda : aukin tækifæri til virkrar málnotkunar - Berglind Hulda Theodórsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45495</guid>
     </item>
     <item>
       <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á líðan, skólasókn og verkefnaskil nemenda með skólaforðun</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45457</link>
       <description>Kynáhugi : fræðsluefni fyrir starfsmenn og þjónustunotendur skammtímaúrræða - Silja Líf Einvarðsdóttir 1995-; Patrycja Rutkowska 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45457</guid>
-    </item>
-    <item>
-      <title>Svanga köngulóin : málörvunarspil með áherslu á hreyfingu og leikræna tjáningu</title>
-      <link>https://skemman.is/handle/1946/45455</link>
-      <description>Svanga köngulóin : málörvunarspil með áherslu á hreyfingu og leikræna tjáningu - Guðrún Þorgerður Jónsdóttir 1990-; Oddrún Lára Friðgeirsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45455</guid>
-    </item>
-    <item>
-      <title>Hugarfar í stærðfræðinámi : mikilvægi hugarfars þegar kemur að námi í stærðfræði</title>
-      <link>https://skemman.is/handle/1946/45456</link>
-      <description>Hugarfar í stærðfræðinámi : mikilvægi hugarfars þegar kemur að námi í stærðfræði - Ólafía Kristín Sæmundsdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45456</guid>
     </item>
   </channel>
 </rss>
