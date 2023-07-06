@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 06 Jul 2023 09:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 10:00:35 +0000</lastBuildDate>
     <item>
       <title>Að verða 18 ára, hvað þarf að hafa í huga? : upplýsingasíða og bæklingur fyrir ungt fatlað fólk með langvarandi stuðningsþarfir og aðstandendur þeirra</title>
       <link>https://skemman.is/handle/1946/45522</link>
@@ -31,6 +31,24 @@
       <link>https://skemman.is/handle/1946/45523</link>
       <description>Fjölskyldur margbreytileikans : álag í fjölskyldum fatlaðra barna - Auður Hanna Grímsdóttir 1992-; Elín Helga Gunnarsdóttir 1980-; Harpa Dís Haraldsdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45523</guid>
+    </item>
+    <item>
+      <title>Hvað með konurnar? : hlutverk kvenna í sögu 20. aldar</title>
+      <link>https://skemman.is/handle/1946/45524</link>
+      <description>Hvað með konurnar? : hlutverk kvenna í sögu 20. aldar - Ásta Kristín Lúðvíksdóttir 1999-; Birgitta Ýr Sigurðardóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45524</guid>
+    </item>
+    <item>
+      <title>Að verða foreldri : foreldrafræðsla</title>
+      <link>https://skemman.is/handle/1946/45525</link>
+      <description>Að verða foreldri : foreldrafræðsla - Ástrós Kristjánsdóttir 1993-; Helga María Helgadóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45525</guid>
+    </item>
+    <item>
+      <title>Byltur meðal eldri aldurshópa : hlutverk þjálfunar í byltuvörnum</title>
+      <link>https://skemman.is/handle/1946/45526</link>
+      <description>Byltur meðal eldri aldurshópa : hlutverk þjálfunar í byltuvörnum - Birgitta Þóra Birgisdóttir 2000-; Steinunn Bára Birgisdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45526</guid>
     </item>
     <item>
       <title>Ritunarfærni nemenda kennara sem sátu námskeiðið : Byggjum á forvitni og áhuga nemenda : aukin tækifæri til virkrar málnotkunar</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45508</link>
       <description>Fyrstu árin í kennslu í skugga heimsfaraldurs : reynslusögur byrjenda í stærðfræðikennslu - Jóna Þórdís Eggertsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45508</guid>
-    </item>
-    <item>
-      <title>Skipta forystuhættir stjórnenda máli í mótun hlutverks leiðsagnarkennara?</title>
-      <link>https://skemman.is/handle/1946/45512</link>
-      <description>Skipta forystuhættir stjórnenda máli í mótun hlutverks leiðsagnarkennara? - María Jóhanna Hrafnsdóttir 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45512</guid>
-    </item>
-    <item>
-      <title>Textíll í mynd : kennslumyndbönd og greinargerð</title>
-      <link>https://skemman.is/handle/1946/45509</link>
-      <description>Textíll í mynd : kennslumyndbönd og greinargerð - Judith Amalía Jóhannsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45509</guid>
-    </item>
-    <item>
-      <title>G-PALS verkefni í heimalestri : framkvæmd foreldra og áhrif á gæði lestrarþjálfunar og lestrarfærni barna í lestrarvanda</title>
-      <link>https://skemman.is/handle/1946/45517</link>
-      <description>G-PALS verkefni í heimalestri : framkvæmd foreldra og áhrif á gæði lestrarþjálfunar og lestrarfærni barna í lestrarvanda - Elísabet Sigríður Guðnadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45517</guid>
     </item>
   </channel>
 </rss>
