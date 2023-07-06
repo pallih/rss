@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 06 Jul 2023 10:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 11:00:31 +0000</lastBuildDate>
     <item>
       <title>Að verða 18 ára, hvað þarf að hafa í huga? : upplýsingasíða og bæklingur fyrir ungt fatlað fólk með langvarandi stuðningsþarfir og aðstandendur þeirra</title>
       <link>https://skemman.is/handle/1946/45522</link>
@@ -49,6 +49,24 @@
       <link>https://skemman.is/handle/1946/45526</link>
       <description>Byltur meðal eldri aldurshópa : hlutverk þjálfunar í byltuvörnum - Birgitta Þóra Birgisdóttir 2000-; Steinunn Bára Birgisdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45526</guid>
+    </item>
+    <item>
+      <title>Ofbeldi þjónustunotenda í garð starfsfólks á íbúðakjörnum í þjónustuflokki IV : mat á viðbrögðum Reykjavíkurborgar</title>
+      <link>https://skemman.is/handle/1946/45527</link>
+      <description>Ofbeldi þjónustunotenda í garð starfsfólks á íbúðakjörnum í þjónustuflokki IV : mat á viðbrögðum Reykjavíkurborgar - Bjarki Gíslason 1990-; Halldór Guðsteinn Guðsteinsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45527</guid>
+    </item>
+    <item>
+      <title>Vaxtarhugarfar í tungumálakennslu</title>
+      <link>https://skemman.is/handle/1946/45528</link>
+      <description>Vaxtarhugarfar í tungumálakennslu - María Árelía Guðmundsdóttir 1995-; Bryndís Sunna Guðmundsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45528</guid>
+    </item>
+    <item>
+      <title>Samvinna kennara og þroskaþjálfa : hvernig fer samvinna kennara og þroskaþjálfa fram í skólum án aðgreiningar?</title>
+      <link>https://skemman.is/handle/1946/45529</link>
+      <description>Samvinna kennara og þroskaþjálfa : hvernig fer samvinna kennara og þroskaþjálfa fram í skólum án aðgreiningar? - Darri Hrannar Björnsson 1995-; Kristófer Andri Ólafsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45529</guid>
     </item>
     <item>
       <title>Ritunarfærni nemenda kennara sem sátu námskeiðið : Byggjum á forvitni og áhuga nemenda : aukin tækifæri til virkrar málnotkunar</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45506</link>
       <description>Reynsla og viðhorf kennara og barna til útiveru og útináms í leikskólastarfi - Helga Dögg Kristjönudóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45506</guid>
-    </item>
-    <item>
-      <title>,,Viðhorfin voru það sem leiddi til útilokunar" : samvinnurannsóknin um Bíbí í Berlín</title>
-      <link>https://skemman.is/handle/1946/45505</link>
-      <description>,,Viðhorfin voru það sem leiddi til útilokunar" : samvinnurannsóknin um Bíbí í Berlín - Helena Gunnarsdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45505</guid>
-    </item>
-    <item>
-      <title>"Þú gast þetta alveg sjálfur" : áhrif HighScope-námskrárinnar á orðræðu og námsumhverfi leikskóla</title>
-      <link>https://skemman.is/handle/1946/45507</link>
-      <description>"Þú gast þetta alveg sjálfur" : áhrif HighScope-námskrárinnar á orðræðu og námsumhverfi leikskóla - Ingibjörg Ósk Ólafsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45507</guid>
-    </item>
-    <item>
-      <title>Fyrstu árin í kennslu í skugga heimsfaraldurs : reynslusögur byrjenda í stærðfræðikennslu</title>
-      <link>https://skemman.is/handle/1946/45508</link>
-      <description>Fyrstu árin í kennslu í skugga heimsfaraldurs : reynslusögur byrjenda í stærðfræðikennslu - Jóna Þórdís Eggertsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45508</guid>
     </item>
   </channel>
 </rss>
