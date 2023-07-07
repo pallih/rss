@@ -7,12 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 07 Jul 2023 09:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2023 10:00:32 +0000</lastBuildDate>
     <item>
       <title>Gullkistan : greinargerð um spil sem hefur það markmið að öll börn geti spilað saman, óháð tjáningu</title>
       <link>https://skemman.is/handle/1946/45535</link>
       <description>Gullkistan : greinargerð um spil sem hefur það markmið að öll börn geti spilað saman, óháð tjáningu - Snædís Helma Harðardóttir 2001-; Elísa Marey Sverrisdóttir 1993-; Sara Hlín Liljudóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45535</guid>
+    </item>
+    <item>
+      <title>"Það má öllum langa að stunda kynlíf" : kynfræðsla fyrir alla í almennum grunnskólum</title>
+      <link>https://skemman.is/handle/1946/45536</link>
+      <description>"Það má öllum langa að stunda kynlíf" : kynfræðsla fyrir alla í almennum grunnskólum - Rakel Ketilsdóttir 1993-; Elva Líf Norðfjörð Baldursdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45536</guid>
+    </item>
+    <item>
+      <title>Áskoranir erlendra foreldra barna með fatlanir á íslandi : vefsíða með fræðslu og verkfærum</title>
+      <link>https://skemman.is/handle/1946/45537</link>
+      <description>Áskoranir erlendra foreldra barna með fatlanir á íslandi : vefsíða með fræðslu og verkfærum - Emma Jóhanna Vaz da Silva 1997-; Eva Kristín Sigurðardóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45537</guid>
+    </item>
+    <item>
+      <title>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara</title>
+      <link>https://skemman.is/handle/1946/45538</link>
+      <description>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara - Eyrún Ingþórsdóttir 1999-; Harpa Dögg Jóhannsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45538</guid>
     </item>
     <item>
       <title>Ofbeldi þjónustunotenda í garð starfsfólks á íbúðakjörnum í þjónustuflokki IV : mat á viðbrögðum Reykjavíkurborgar</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45498</link>
       <description>Reynsla lágtekjumæðra af pólskum uppruna af foreldrastarfi í grunnskólum á höfuðborgarsvæðinu : stétt, félags- og þverþjóðlegur auður - Joanna Ewa Dominiczak 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45498</guid>
-    </item>
-    <item>
-      <title>Farsælt leikskólastarf án aðgreiningar : mikilvægi þess að styðja við fullgildi barna</title>
-      <link>https://skemman.is/handle/1946/45504</link>
-      <description>Farsælt leikskólastarf án aðgreiningar : mikilvægi þess að styðja við fullgildi barna - Guðrún Jóna Þrastardóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45504</guid>
-    </item>
-    <item>
-      <title>Gerð kennslumyndskeiða í stafrænu námi : greinargerð með námsefni</title>
-      <link>https://skemman.is/handle/1946/45496</link>
-      <description>Gerð kennslumyndskeiða í stafrænu námi : greinargerð með námsefni - Ingibjörg Emilsdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45496</guid>
-    </item>
-    <item>
-      <title>Stafræn fræðsla í fyrirtækjum : myndskeið sem hluti af fræðsluefni</title>
-      <link>https://skemman.is/handle/1946/45503</link>
-      <description>Stafræn fræðsla í fyrirtækjum : myndskeið sem hluti af fræðsluefni - Elín Yngvadóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45503</guid>
     </item>
   </channel>
 </rss>
