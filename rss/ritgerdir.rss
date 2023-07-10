@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 10 Jul 2023 11:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 12:00:34 +0000</lastBuildDate>
     <item>
       <title>Gullkistan : greinargerð um spil sem hefur það markmið að öll börn geti spilað saman, óháð tjáningu</title>
       <link>https://skemman.is/handle/1946/45535</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/45538</link>
       <description>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara - Eyrún Ingþórsdóttir 1999-; Harpa Dögg Jóhannsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45538</guid>
+    </item>
+    <item>
+      <title>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla</title>
+      <link>https://skemman.is/handle/1946/45547</link>
+      <description>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla - Ísak Kárason 1996-; Stefanía Þorsteinsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45547</guid>
+    </item>
+    <item>
+      <title>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf</title>
+      <link>https://skemman.is/handle/1946/45548</link>
+      <description>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf - Þórunn Einarsdóttir 1988-; Katrín Kristjónsdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45548</guid>
     </item>
     <item>
       <title>Kunna öll börn stafahljóðin í upphafi 2. bekkjar? : áhrif sumarfrís, móðurmáls, kyns og upphaflegrar stafaþekkingar</title>
@@ -79,18 +91,6 @@
       <link>https://skemman.is/handle/1946/45544</link>
       <description>Tækni og tónlistarstarf : samþætting snjall- og vefforrita við tónlistarstarf með leikskólabörnum - Sylvía Hera Skúladóttir 1988-; Hildur Ósk Pétursdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45544</guid>
-    </item>
-    <item>
-      <title>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla</title>
-      <link>https://skemman.is/handle/1946/45547</link>
-      <description>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla - Ísak Kárason 1996-; Stefanía Þorsteinsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45547</guid>
-    </item>
-    <item>
-      <title>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf</title>
-      <link>https://skemman.is/handle/1946/45548</link>
-      <description>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf - Þórunn Einarsdóttir 1988-; Katrín Kristjónsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45548</guid>
     </item>
     <item>
       <title>Ofbeldi þjónustunotenda í garð starfsfólks á íbúðakjörnum í þjónustuflokki IV : mat á viðbrögðum Reykjavíkurborgar</title>
