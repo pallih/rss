@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 08 Aug 2023 11:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2023 12:00:25 +0000</lastBuildDate>
     <item>
       <title>Modeling the effect of the energy crisis on air quality in the Po Valley, Italy.</title>
       <link>https://skemman.is/handle/1946/45549</link>
       <description>Modeling the effect of the energy crisis on air quality in the Po Valley, Italy. - Manuel Bettineschi 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45549</guid>
+    </item>
+    <item>
+      <title>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla</title>
+      <link>https://skemman.is/handle/1946/45547</link>
+      <description>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla - Ísak Kárason 1996-; Stefanía Þorsteinsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45547</guid>
+    </item>
+    <item>
+      <title>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf</title>
+      <link>https://skemman.is/handle/1946/45548</link>
+      <description>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf - Þórunn Einarsdóttir 1988-; Katrín Kristjónsdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45548</guid>
     </item>
     <item>
       <title>Gullkistan : greinargerð um spil sem hefur það markmið að öll börn geti spilað saman, óháð tjáningu</title>
@@ -37,18 +49,6 @@
       <link>https://skemman.is/handle/1946/45538</link>
       <description>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara - Eyrún Ingþórsdóttir 1999-; Harpa Dögg Jóhannsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45538</guid>
-    </item>
-    <item>
-      <title>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla</title>
-      <link>https://skemman.is/handle/1946/45547</link>
-      <description>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla - Ísak Kárason 1996-; Stefanía Þorsteinsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45547</guid>
-    </item>
-    <item>
-      <title>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf</title>
-      <link>https://skemman.is/handle/1946/45548</link>
-      <description>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf - Þórunn Einarsdóttir 1988-; Katrín Kristjónsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45548</guid>
     </item>
     <item>
       <title>Kunna öll börn stafahljóðin í upphafi 2. bekkjar? : áhrif sumarfrís, móðurmáls, kyns og upphaflegrar stafaþekkingar</title>
@@ -99,6 +99,30 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45544</guid>
     </item>
     <item>
+      <title>Skjánotkun yngri barna : áhrif aukinnar skjánotkunar á líf og heilsu yngri barna</title>
+      <link>https://skemman.is/handle/1946/45530</link>
+      <description>Skjánotkun yngri barna : áhrif aukinnar skjánotkunar á líf og heilsu yngri barna - Þórdís Helga Másdóttir 1997-; Jóhanna Ósk Kristjánsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45530</guid>
+    </item>
+    <item>
+      <title>Gríptu boltann! : greinargerð og handbók fyrir leikskólakennara til að styrkja grófhreyfingar barna í gegnum nám og leik</title>
+      <link>https://skemman.is/handle/1946/45531</link>
+      <description>Gríptu boltann! : greinargerð og handbók fyrir leikskólakennara til að styrkja grófhreyfingar barna í gegnum nám og leik - Diljá Björk Atladóttir 2000-; Margrét Sif Atladóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45531</guid>
+    </item>
+    <item>
+      <title>Viltu vera vinur : greinargerð um námsefni í félagsfærni fyrir einhverf börn</title>
+      <link>https://skemman.is/handle/1946/45532</link>
+      <description>Viltu vera vinur : greinargerð um námsefni í félagsfærni fyrir einhverf börn - Margrét Sæmundsdóttir 1997-; Katrín Ósk Þorsteinsdóttir 1986-; Eggert Þorbjörn Böðvarsson 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45532</guid>
+    </item>
+    <item>
+      <title>Hreyfing í leikskólum : tengsl hreyfingar við málörvun, stærðfræði og umhverfið</title>
+      <link>https://skemman.is/handle/1946/45533</link>
+      <description>Hreyfing í leikskólum : tengsl hreyfingar við málörvun, stærðfræði og umhverfið - Elín Ósk Traustadóttir 1997-; Guðbjörg Bjarkadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45533</guid>
+    </item>
+    <item>
       <title>Ofbeldi þjónustunotenda í garð starfsfólks á íbúðakjörnum í þjónustuflokki IV : mat á viðbrögðum Reykjavíkurborgar</title>
       <link>https://skemman.is/handle/1946/45527</link>
       <description>Ofbeldi þjónustunotenda í garð starfsfólks á íbúðakjörnum í þjónustuflokki IV : mat á viðbrögðum Reykjavíkurborgar - Bjarki Gíslason 1990-; Halldór Guðsteinn Guðsteinsson 1991-</description>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/45525</link>
       <description>Að verða foreldri : foreldrafræðsla - Ástrós Kristjánsdóttir 1993-; Helga María Helgadóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45525</guid>
-    </item>
-    <item>
-      <title>Hvað með konurnar? : hlutverk kvenna í sögu 20. aldar</title>
-      <link>https://skemman.is/handle/1946/45524</link>
-      <description>Hvað með konurnar? : hlutverk kvenna í sögu 20. aldar - Ásta Kristín Lúðvíksdóttir 1999-; Birgitta Ýr Sigurðardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45524</guid>
-    </item>
-    <item>
-      <title>Lets talk about sex... : kennsluefni í kynfræðslu fyrir nemendur í 10. bekk.</title>
-      <link>https://skemman.is/handle/1946/45534</link>
-      <description>Lets talk about sex... : kennsluefni í kynfræðslu fyrir nemendur í 10. bekk. - Elísa Sif Rannveigardóttir 2001-; Thelma Hrund Sigurbergsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45534</guid>
-    </item>
-    <item>
-      <title>Skjánotkun yngri barna : áhrif aukinnar skjánotkunar á líf og heilsu yngri barna</title>
-      <link>https://skemman.is/handle/1946/45530</link>
-      <description>Skjánotkun yngri barna : áhrif aukinnar skjánotkunar á líf og heilsu yngri barna - Þórdís Helga Másdóttir 1997-; Jóhanna Ósk Kristjánsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45530</guid>
-    </item>
-    <item>
-      <title>Gríptu boltann! : greinargerð og handbók fyrir leikskólakennara til að styrkja grófhreyfingar barna í gegnum nám og leik</title>
-      <link>https://skemman.is/handle/1946/45531</link>
-      <description>Gríptu boltann! : greinargerð og handbók fyrir leikskólakennara til að styrkja grófhreyfingar barna í gegnum nám og leik - Diljá Björk Atladóttir 2000-; Margrét Sif Atladóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45531</guid>
     </item>
   </channel>
 </rss>
