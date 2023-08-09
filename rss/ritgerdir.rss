@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Aug 2023 13:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 14:00:36 +0000</lastBuildDate>
     <item>
       <title>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar</title>
       <link>https://skemman.is/handle/1946/45550</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/45551</link>
       <description>Málörvun fyrir börn með mikla hreyfiþörf : greinargerð með hreyfispili til að efla málþroska ungra barna - Agnes Birtna Jóhannesdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45551</guid>
+    </item>
+    <item>
+      <title>Ritunarkennsla og ChatGPT : breyttar áherslur í ritunarkennslu í íslensku á elsta stigi grunnskólans með tilkomu ChatGPT</title>
+      <link>https://skemman.is/handle/1946/45552</link>
+      <description>Ritunarkennsla og ChatGPT : breyttar áherslur í ritunarkennslu í íslensku á elsta stigi grunnskólans með tilkomu ChatGPT - Aldís Anna Jónsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45552</guid>
     </item>
     <item>
       <title>Modeling the effect of the energy crisis on air quality in the Po Valley, Italy.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45523</link>
       <description>Fjölskyldur margbreytileikans : álag í fjölskyldum fatlaðra barna - Auður Hanna Grímsdóttir 1992-; Elín Helga Gunnarsdóttir 1980-; Harpa Dís Haraldsdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45523</guid>
-    </item>
-    <item>
-      <title>Samvinna kennara og þroskaþjálfa : hvernig fer samvinna kennara og þroskaþjálfa fram í skólum án aðgreiningar?</title>
-      <link>https://skemman.is/handle/1946/45529</link>
-      <description>Samvinna kennara og þroskaþjálfa : hvernig fer samvinna kennara og þroskaþjálfa fram í skólum án aðgreiningar? - Darri Hrannar Björnsson 1995-; Kristófer Andri Ólafsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45529</guid>
     </item>
   </channel>
 </rss>
