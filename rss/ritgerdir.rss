@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Aug 2023 11:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 12:00:33 +0000</lastBuildDate>
     <item>
       <title>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar</title>
       <link>https://skemman.is/handle/1946/45550</link>
       <description>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar - Rut Sigurðardóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45550</guid>
+    </item>
+    <item>
+      <title>Málörvun fyrir börn með mikla hreyfiþörf : greinargerð með hreyfispili til að efla málþroska ungra barna</title>
+      <link>https://skemman.is/handle/1946/45551</link>
+      <description>Málörvun fyrir börn með mikla hreyfiþörf : greinargerð með hreyfispili til að efla málþroska ungra barna - Agnes Birtna Jóhannesdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45551</guid>
     </item>
     <item>
       <title>Modeling the effect of the energy crisis on air quality in the Po Valley, Italy.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45529</link>
       <description>Samvinna kennara og þroskaþjálfa : hvernig fer samvinna kennara og þroskaþjálfa fram í skólum án aðgreiningar? - Darri Hrannar Björnsson 1995-; Kristófer Andri Ólafsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45529</guid>
-    </item>
-    <item>
-      <title>Byltur meðal eldri aldurshópa : hlutverk þjálfunar í byltuvörnum</title>
-      <link>https://skemman.is/handle/1946/45526</link>
-      <description>Byltur meðal eldri aldurshópa : hlutverk þjálfunar í byltuvörnum - Birgitta Þóra Birgisdóttir 2000-; Steinunn Bára Birgisdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45526</guid>
     </item>
   </channel>
 </rss>
