@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Aug 2023 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 13:03:45 +0000</lastBuildDate>
     <item>
       <title>Kvenréttindabaráttan á Íslandi um aldamótin 1900 : greinagerð og námslota fyrir unglingastig í grunnskóla</title>
       <link>https://skemman.is/handle/1946/45556</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45566</guid>
     </item>
     <item>
+      <title>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri?</title>
+      <link>https://skemman.is/handle/1946/45568</link>
+      <description>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri? - Ásta Dís Helgadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45568</guid>
+    </item>
+    <item>
       <title>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi</title>
       <link>https://skemman.is/handle/1946/45567</link>
       <description>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi - Ásdís Sigurðardóttir 1994-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45536</link>
       <description>"Það má öllum langa að stunda kynlíf" : kynfræðsla fyrir alla í almennum grunnskólum - Rakel Ketilsdóttir 1993-; Elva Líf Norðfjörð Baldursdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45536</guid>
-    </item>
-    <item>
-      <title>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara</title>
-      <link>https://skemman.is/handle/1946/45538</link>
-      <description>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara - Eyrún Ingþórsdóttir 1999-; Harpa Dögg Jóhannsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45538</guid>
     </item>
   </channel>
 </rss>
