@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Aug 2023 14:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 15:00:28 +0000</lastBuildDate>
     <item>
       <title>Kvenréttindabaráttan á Íslandi um aldamótin 1900 : greinagerð og námslota fyrir unglingastig í grunnskóla</title>
       <link>https://skemman.is/handle/1946/45556</link>
@@ -31,6 +31,60 @@
       <link>https://skemman.is/handle/1946/45554</link>
       <description>Frístundaheimili og vellíðan barna - Alexander Leósson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45554</guid>
+    </item>
+    <item>
+      <title>Lesskilningur drengja : hvernig má efla drengi sem mælst hafa með lakari lesskilning en stúlkur á grunnskólastigi?</title>
+      <link>https://skemman.is/handle/1946/45566</link>
+      <description>Lesskilningur drengja : hvernig má efla drengi sem mælst hafa með lakari lesskilning en stúlkur á grunnskólastigi? - Ásdís Jóhannesdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45566</guid>
+    </item>
+    <item>
+      <title>Þjónandi forysta og félagsmiðstöðvar : hvernig getur þjónandi forysta nýst leiðtogum innan félagsmiðstöðva til að ná markmiðum starfsins?</title>
+      <link>https://skemman.is/handle/1946/45572</link>
+      <description>Þjónandi forysta og félagsmiðstöðvar : hvernig getur þjónandi forysta nýst leiðtogum innan félagsmiðstöðva til að ná markmiðum starfsins? - Birna Björg Davíðsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45572</guid>
+    </item>
+    <item>
+      <title>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi</title>
+      <link>https://skemman.is/handle/1946/45567</link>
+      <description>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi - Ásdís Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45567</guid>
+    </item>
+    <item>
+      <title>„Við sem þjóð höfum ákveðið að halda tungunni sem mest óbreyttri“ : greining á námsefni í ópersónulegum sögnum</title>
+      <link>https://skemman.is/handle/1946/45569</link>
+      <description>„Við sem þjóð höfum ákveðið að halda tungunni sem mest óbreyttri“ : greining á námsefni í ópersónulegum sögnum - Bergdís Bergsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45569</guid>
+    </item>
+    <item>
+      <title>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri?</title>
+      <link>https://skemman.is/handle/1946/45568</link>
+      <description>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri? - Ásta Dís Helgadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45568</guid>
+    </item>
+    <item>
+      <title>Staða þroskahamlaðs fólks á almennum atvinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/45571</link>
+      <description>Staða þroskahamlaðs fólks á almennum atvinnumarkaði - Bergþóra Anna Stefánsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45571</guid>
+    </item>
+    <item>
+      <title>Áhrif skjánotkunar á þroska 3-8 ára barna</title>
+      <link>https://skemman.is/handle/1946/45573</link>
+      <description>Áhrif skjánotkunar á þroska 3-8 ára barna - Birta Ósk Laursen Óladóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45573</guid>
+    </item>
+    <item>
+      <title>Leyfðu mér að endurvekja lífsneistann þinn : unnið með tómstundir í tengslum við heilabilun aldraðra</title>
+      <link>https://skemman.is/handle/1946/45570</link>
+      <description>Leyfðu mér að endurvekja lífsneistann þinn : unnið með tómstundir í tengslum við heilabilun aldraðra - Berglind Dana Maríasdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45570</guid>
+    </item>
+    <item>
+      <title>Áhrif kvíða á frammistöðu í íþróttum</title>
+      <link>https://skemman.is/handle/1946/45565</link>
+      <description>Áhrif kvíða á frammistöðu í íþróttum - Ágúst Unnar Kristinsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45565</guid>
     </item>
     <item>
       <title>,,Þetta úrræði var svona uppáhalds hjá mér“ : ávinningur samstarfs félagsmiðstöðvar og barnaverndar</title>
@@ -81,82 +135,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45564</guid>
     </item>
     <item>
-      <title>Áhrif kvíða á frammistöðu í íþróttum</title>
-      <link>https://skemman.is/handle/1946/45565</link>
-      <description>Áhrif kvíða á frammistöðu í íþróttum - Ágúst Unnar Kristinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45565</guid>
+      <title>,,Hey, eigum við ekki að byggja saman?" : félagslegt nám í leik með einingakubba : vettvangsathugun í leikskóla</title>
+      <link>https://skemman.is/handle/1946/45574</link>
+      <description>,,Hey, eigum við ekki að byggja saman?" : félagslegt nám í leik með einingakubba : vettvangsathugun í leikskóla - Bryndís Jóna Gunnarsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45574</guid>
     </item>
     <item>
-      <title>Lesskilningur drengja : hvernig má efla drengi sem mælst hafa með lakari lesskilning en stúlkur á grunnskólastigi?</title>
-      <link>https://skemman.is/handle/1946/45566</link>
-      <description>Lesskilningur drengja : hvernig má efla drengi sem mælst hafa með lakari lesskilning en stúlkur á grunnskólastigi? - Ásdís Jóhannesdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45566</guid>
+      <title>Leikum úti í náttúrunni  : útivera fjölskyldunnar</title>
+      <link>https://skemman.is/handle/1946/45575</link>
+      <description>Leikum úti í náttúrunni  : útivera fjölskyldunnar - Bryndís Jenný Kjærbo 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45575</guid>
     </item>
     <item>
-      <title>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri?</title>
-      <link>https://skemman.is/handle/1946/45568</link>
-      <description>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri? - Ásta Dís Helgadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45568</guid>
+      <title>Mikilvægi varnarleiks í handknattleik</title>
+      <link>https://skemman.is/handle/1946/45576</link>
+      <description>Mikilvægi varnarleiks í handknattleik - Davíð Elí Heimisson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45576</guid>
     </item>
     <item>
-      <title>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi</title>
-      <link>https://skemman.is/handle/1946/45567</link>
-      <description>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi - Ásdís Sigurðardóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45567</guid>
-    </item>
-    <item>
-      <title>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar</title>
-      <link>https://skemman.is/handle/1946/45550</link>
-      <description>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar - Rut Sigurðardóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45550</guid>
-    </item>
-    <item>
-      <title>Ritunarkennsla og ChatGPT : breyttar áherslur í ritunarkennslu í íslensku á elsta stigi grunnskólans með tilkomu ChatGPT</title>
-      <link>https://skemman.is/handle/1946/45552</link>
-      <description>Ritunarkennsla og ChatGPT : breyttar áherslur í ritunarkennslu í íslensku á elsta stigi grunnskólans með tilkomu ChatGPT - Aldís Anna Jónsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45552</guid>
-    </item>
-    <item>
-      <title>Málörvun fyrir börn með mikla hreyfiþörf : greinargerð með hreyfispili til að efla málþroska ungra barna</title>
-      <link>https://skemman.is/handle/1946/45551</link>
-      <description>Málörvun fyrir börn með mikla hreyfiþörf : greinargerð með hreyfispili til að efla málþroska ungra barna - Agnes Birtna Jóhannesdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45551</guid>
-    </item>
-    <item>
-      <title>Modeling the effect of the energy crisis on air quality in the Po Valley, Italy.</title>
-      <link>https://skemman.is/handle/1946/45549</link>
-      <description>Modeling the effect of the energy crisis on air quality in the Po Valley, Italy. - Manuel Bettineschi 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45549</guid>
-    </item>
-    <item>
-      <title>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla</title>
-      <link>https://skemman.is/handle/1946/45547</link>
-      <description>Samband andlegrar heilsu og íþróttameiðsla : áhrif sálfræðilegra inngripa á bataferli íþróttameiðsla - Ísak Kárason 1996-; Stefanía Þorsteinsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45547</guid>
-    </item>
-    <item>
-      <title>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf</title>
-      <link>https://skemman.is/handle/1946/45548</link>
-      <description>Tjáning á allra færi : málörvun fjöltyngdra barna í gegnum daglegt starf - Þórunn Einarsdóttir 1988-; Katrín Kristjónsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45548</guid>
-    </item>
-    <item>
-      <title>Gullkistan : greinargerð um spil sem hefur það markmið að öll börn geti spilað saman, óháð tjáningu</title>
-      <link>https://skemman.is/handle/1946/45535</link>
-      <description>Gullkistan : greinargerð um spil sem hefur það markmið að öll börn geti spilað saman, óháð tjáningu - Snædís Helma Harðardóttir 2001-; Elísa Marey Sverrisdóttir 1993-; Sara Hlín Liljudóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45535</guid>
-    </item>
-    <item>
-      <title>Áskoranir erlendra foreldra barna með fatlanir á íslandi : vefsíða með fræðslu og verkfærum</title>
-      <link>https://skemman.is/handle/1946/45537</link>
-      <description>Áskoranir erlendra foreldra barna með fatlanir á íslandi : vefsíða með fræðslu og verkfærum - Emma Jóhanna Vaz da Silva 1997-; Eva Kristín Sigurðardóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45537</guid>
-    </item>
-    <item>
-      <title>"Það má öllum langa að stunda kynlíf" : kynfræðsla fyrir alla í almennum grunnskólum</title>
-      <link>https://skemman.is/handle/1946/45536</link>
-      <description>"Það má öllum langa að stunda kynlíf" : kynfræðsla fyrir alla í almennum grunnskólum - Rakel Ketilsdóttir 1993-; Elva Líf Norðfjörð Baldursdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45536</guid>
+      <title>Áhrif leiðandi uppeldis á samskiptahæfni unglinga</title>
+      <link>https://skemman.is/handle/1946/45577</link>
+      <description>Áhrif leiðandi uppeldis á samskiptahæfni unglinga - Diljá Birna Gunnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45577</guid>
     </item>
   </channel>
 </rss>
