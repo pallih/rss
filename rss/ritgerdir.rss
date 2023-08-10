@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Aug 2023 11:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 12:00:36 +0000</lastBuildDate>
     <item>
       <title>Kvenréttindabaráttan á Íslandi um aldamótin 1900 : greinagerð og námslota fyrir unglingastig í grunnskóla</title>
       <link>https://skemman.is/handle/1946/45556</link>
@@ -33,10 +33,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45554</guid>
     </item>
     <item>
-      <title>Tengsl kennara við náttúrutengsl leikskólabarna</title>
-      <link>https://skemman.is/handle/1946/45557</link>
-      <description>Tengsl kennara við náttúrutengsl leikskólabarna - Anna Sigrún Guðmundsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45557</guid>
+      <title>,,Þetta úrræði var svona uppáhalds hjá mér“ : ávinningur samstarfs félagsmiðstöðvar og barnaverndar</title>
+      <link>https://skemman.is/handle/1946/45562</link>
+      <description>,,Þetta úrræði var svona uppáhalds hjá mér“ : ávinningur samstarfs félagsmiðstöðvar og barnaverndar - Arnar Helgi Magnússon 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45562</guid>
     </item>
     <item>
       <title>„Þetta er bara crash course í lifeskills 101“ : reynsla ungra kvenna af námi í Hússtjórnarskólanum í Reykjavík á árunum 2017–2019</title>
@@ -45,16 +45,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45558</guid>
     </item>
     <item>
+      <title>Tengsl kennara við náttúrutengsl leikskólabarna</title>
+      <link>https://skemman.is/handle/1946/45557</link>
+      <description>Tengsl kennara við náttúrutengsl leikskólabarna - Anna Sigrún Guðmundsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45557</guid>
+    </item>
+    <item>
       <title>Tjáskipti í tungumálanámi ungra nemenda : notkun tjáskiptaaðferða í enskukennslu í íslenskum grunnskólum</title>
       <link>https://skemman.is/handle/1946/45559</link>
       <description>Tjáskipti í tungumálanámi ungra nemenda : notkun tjáskiptaaðferða í enskukennslu í íslenskum grunnskólum - Anna Sigríður Jónsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45559</guid>
     </item>
     <item>
+      <title>Hlutverk og ábyrgð foreldra í íþróttum barna : ávinningur og tilgangur íþrótta fyrir börn og foreldra</title>
+      <link>https://skemman.is/handle/1946/45561</link>
+      <description>Hlutverk og ábyrgð foreldra í íþróttum barna : ávinningur og tilgangur íþrótta fyrir börn og foreldra - Arnar Bragi Magnússon 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45561</guid>
+    </item>
+    <item>
       <title>Vinátta leikskólabarna : samskipti og áskoranir í leik og daglegu starfi</title>
       <link>https://skemman.is/handle/1946/45560</link>
       <description>Vinátta leikskólabarna : samskipti og áskoranir í leik og daglegu starfi - Anna Guðrún Sigurðardóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45560</guid>
+    </item>
+    <item>
+      <title>Algebrunám í grunnskólum á Íslandi : verkefni í algebru</title>
+      <link>https://skemman.is/handle/1946/45563</link>
+      <description>Algebrunám í grunnskólum á Íslandi : verkefni í algebru - Aron Fannar Sindrason 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45563</guid>
+    </item>
+    <item>
+      <title>„Orðin frjáls fugl“ : eru breytingar á tómstundaiðkun eftir skilnað hjá konum?</title>
+      <link>https://skemman.is/handle/1946/45564</link>
+      <description>„Orðin frjáls fugl“ : eru breytingar á tómstundaiðkun eftir skilnað hjá konum? - Auður Eir Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45564</guid>
+    </item>
+    <item>
+      <title>Áhrif kvíða á frammistöðu í íþróttum</title>
+      <link>https://skemman.is/handle/1946/45565</link>
+      <description>Áhrif kvíða á frammistöðu í íþróttum - Ágúst Unnar Kristinsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45565</guid>
+    </item>
+    <item>
+      <title>Lesskilningur drengja : hvernig má efla drengi sem mælst hafa með lakari lesskilning en stúlkur á grunnskólastigi?</title>
+      <link>https://skemman.is/handle/1946/45566</link>
+      <description>Lesskilningur drengja : hvernig má efla drengi sem mælst hafa með lakari lesskilning en stúlkur á grunnskólastigi? - Ásdís Jóhannesdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45566</guid>
+    </item>
+    <item>
+      <title>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi</title>
+      <link>https://skemman.is/handle/1946/45567</link>
+      <description>Hvað geta kennarar gert til að efla tvítyngd börn á elsta stigi leikskóla : árangursríkt leikskólastarf fyrir farsæld í komandi námi - Ásdís Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45567</guid>
     </item>
     <item>
       <title>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar</title>
@@ -115,48 +157,6 @@
       <link>https://skemman.is/handle/1946/45538</link>
       <description>Bekkjarstjórnun og hegðunarvandi nemenda : reynsla kennara - Eyrún Ingþórsdóttir 1999-; Harpa Dögg Jóhannsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45538</guid>
-    </item>
-    <item>
-      <title>Kunna öll börn stafahljóðin í upphafi 2. bekkjar? : áhrif sumarfrís, móðurmáls, kyns og upphaflegrar stafaþekkingar</title>
-      <link>https://skemman.is/handle/1946/45541</link>
-      <description>Kunna öll börn stafahljóðin í upphafi 2. bekkjar? : áhrif sumarfrís, móðurmáls, kyns og upphaflegrar stafaþekkingar - Guðrún Lilja Kristófersdóttir 1999-; Jóhanna María Bjarnadóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45541</guid>
-    </item>
-    <item>
-      <title>Þroskaþjálfun í formi hreyfiþjálfunar : snemmtæk og markviss hreyfiþjálfun barna með þroskafrávik</title>
-      <link>https://skemman.is/handle/1946/45542</link>
-      <description>Þroskaþjálfun í formi hreyfiþjálfunar : snemmtæk og markviss hreyfiþjálfun barna með þroskafrávik - Petra Hjartardóttir 2001-; Halldóra Rún Sófusdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45542</guid>
-    </item>
-    <item>
-      <title>Seinfærir foreldrar og fordómar gegn foreldrahlutverkinu : áskoranir og hindranir í samfélaginu</title>
-      <link>https://skemman.is/handle/1946/45546</link>
-      <description>Seinfærir foreldrar og fordómar gegn foreldrahlutverkinu : áskoranir og hindranir í samfélaginu - Sandra Stefánsdóttir 1989-; Inga Lára Valdimarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45546</guid>
-    </item>
-    <item>
-      <title>Að efla hljóðkerfisvitund barna : rýnt í eigin störf</title>
-      <link>https://skemman.is/handle/1946/45540</link>
-      <description>Að efla hljóðkerfisvitund barna : rýnt í eigin störf - Guðrún Guðjónsdóttir 1981-; Sara Kristjánsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45540</guid>
-    </item>
-    <item>
-      <title>Samverustundir í leikskólum : málörvun í gegnum tónlist, hreyfingu og vísur</title>
-      <link>https://skemman.is/handle/1946/45545</link>
-      <description>Samverustundir í leikskólum : málörvun í gegnum tónlist, hreyfingu og vísur - Hrafnhildur Hugborg Jónsdóttir 1998-; Valborg Sigurlín Konráðsdóttir 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45545</guid>
-    </item>
-    <item>
-      <title>Áhrifaþættir málþroskaröskunar á félagsfærni og líðan barna</title>
-      <link>https://skemman.is/handle/1946/45539</link>
-      <description>Áhrifaþættir málþroskaröskunar á félagsfærni og líðan barna - Guðríður Emma Steinþórsdóttir 1997-; Katrín Georgsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45539</guid>
-    </item>
-    <item>
-      <title>Skjánotkun barna : tækifæri, áskoranir og hlutverk foreldra</title>
-      <link>https://skemman.is/handle/1946/45543</link>
-      <description>Skjánotkun barna : tækifæri, áskoranir og hlutverk foreldra - Heiðrún Anna Sigurðardóttir 1994-; Steindóra Huld Gunnlaugsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45543</guid>
     </item>
   </channel>
 </rss>
