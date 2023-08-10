@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Aug 2023 10:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 11:00:31 +0000</lastBuildDate>
     <item>
       <title>Kvenréttindabaráttan á Íslandi um aldamótin 1900 : greinagerð og námslota fyrir unglingastig í grunnskóla</title>
       <link>https://skemman.is/handle/1946/45556</link>
@@ -37,6 +37,24 @@
       <link>https://skemman.is/handle/1946/45557</link>
       <description>Tengsl kennara við náttúrutengsl leikskólabarna - Anna Sigrún Guðmundsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45557</guid>
+    </item>
+    <item>
+      <title>„Þetta er bara crash course í lifeskills 101“ : reynsla ungra kvenna af námi í Hússtjórnarskólanum í Reykjavík á árunum 2017–2019</title>
+      <link>https://skemman.is/handle/1946/45558</link>
+      <description>„Þetta er bara crash course í lifeskills 101“ : reynsla ungra kvenna af námi í Hússtjórnarskólanum í Reykjavík á árunum 2017–2019 - Anna Margrét Hafþórsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45558</guid>
+    </item>
+    <item>
+      <title>Tjáskipti í tungumálanámi ungra nemenda : notkun tjáskiptaaðferða í enskukennslu í íslenskum grunnskólum</title>
+      <link>https://skemman.is/handle/1946/45559</link>
+      <description>Tjáskipti í tungumálanámi ungra nemenda : notkun tjáskiptaaðferða í enskukennslu í íslenskum grunnskólum - Anna Sigríður Jónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45559</guid>
+    </item>
+    <item>
+      <title>Vinátta leikskólabarna : samskipti og áskoranir í leik og daglegu starfi</title>
+      <link>https://skemman.is/handle/1946/45560</link>
+      <description>Vinátta leikskólabarna : samskipti og áskoranir í leik og daglegu starfi - Anna Guðrún Sigurðardóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45560</guid>
     </item>
     <item>
       <title>Lengi býr að fyrstu gerð - Fjölskyldumeðferð og ættleiðingar</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45543</link>
       <description>Skjánotkun barna : tækifæri, áskoranir og hlutverk foreldra - Heiðrún Anna Sigurðardóttir 1994-; Steindóra Huld Gunnlaugsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45543</guid>
-    </item>
-    <item>
-      <title>Tækni og tónlistarstarf : samþætting snjall- og vefforrita við tónlistarstarf með leikskólabörnum</title>
-      <link>https://skemman.is/handle/1946/45544</link>
-      <description>Tækni og tónlistarstarf : samþætting snjall- og vefforrita við tónlistarstarf með leikskólabörnum - Sylvía Hera Skúladóttir 1988-; Hildur Ósk Pétursdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45544</guid>
-    </item>
-    <item>
-      <title>Skjánotkun yngri barna : áhrif aukinnar skjánotkunar á líf og heilsu yngri barna</title>
-      <link>https://skemman.is/handle/1946/45530</link>
-      <description>Skjánotkun yngri barna : áhrif aukinnar skjánotkunar á líf og heilsu yngri barna - Þórdís Helga Másdóttir 1997-; Jóhanna Ósk Kristjánsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45530</guid>
-    </item>
-    <item>
-      <title>Gríptu boltann! : greinargerð og handbók fyrir leikskólakennara til að styrkja grófhreyfingar barna í gegnum nám og leik</title>
-      <link>https://skemman.is/handle/1946/45531</link>
-      <description>Gríptu boltann! : greinargerð og handbók fyrir leikskólakennara til að styrkja grófhreyfingar barna í gegnum nám og leik - Diljá Björk Atladóttir 2000-; Margrét Sif Atladóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45531</guid>
     </item>
   </channel>
 </rss>
