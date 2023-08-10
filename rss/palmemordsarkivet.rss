@@ -7,7 +7,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Aug 2023 15:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 16:00:29 +0000</lastBuildDate>
+    <item>
+      <description>Transkribering av delar av ljudfiler (LAC-band) förteckning nr 4, 135, A-4456, Spår 7, 1986-02-28</description>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1AFkLsk3yTQ6Dyo661vVOrUxrO2e2cK74/view?usp=drive_link</link>
       <description>Åklagarmyndigheten - beslut att inte inleda förundersökning avseende förtal av avliden</description>
@@ -252,11 +255,6 @@
       <link>https://drive.google.com/file/d/12NtZSFAiRGwiHbanJexXagBn54BXgkt4/view?usp=drive_link</link>
       <description>Juristkomissionen Per Arnström 1986-09-22</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/12NtZSFAiRGwiHbanJexXagBn54BXgkt4/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1EqKxfC67V6ruRBIFwE4OrgcMrEjKzlG8/view?usp=drive_link</link>
-      <description>en man 35-40 år har berättat för två personer att han köpt ett vapen</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1EqKxfC67V6ruRBIFwE4OrgcMrEjKzlG8/view?usp=drive_link</guid>
     </item>
   </channel>
 </rss>
