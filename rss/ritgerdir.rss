@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Aug 2023 13:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2023 14:00:29 +0000</lastBuildDate>
     <item>
       <title>Enginn getur allt - allir geta eitthvað : hugmyndabanki að orðaforðaverkefnum á íslensku fyrir fjöltyngda nemendur</title>
       <link>https://skemman.is/handle/1946/45589</link>
@@ -93,6 +93,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45594</guid>
     </item>
     <item>
+      <title>Sjálfræði og velferð í þjónustu við einstaklinga með miklar stuðningsþarfir</title>
+      <link>https://skemman.is/handle/1946/45595</link>
+      <description>Sjálfræði og velferð í þjónustu við einstaklinga með miklar stuðningsþarfir - Gísli Björn Þráinsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45595</guid>
+    </item>
+    <item>
+      <title>Ég má hafa gaman! : námskeið fyrir börn og ungmenni sem búa við eða hafa búið við heimilisofbeldi</title>
+      <link>https://skemman.is/handle/1946/45596</link>
+      <description>Ég má hafa gaman! : námskeið fyrir börn og ungmenni sem búa við eða hafa búið við heimilisofbeldi - Guðbjörg Halldórsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45596</guid>
+    </item>
+    <item>
+      <title>Notkun stærðfræðistígs í kennslu stærðfræði í 10. bekk grunnskóla : greinargerð um stærðfræðiverkefni sem hönnuð voru fyrir útikennslu með aðstoð hugbúnaðarins MathCityMap</title>
+      <link>https://skemman.is/handle/1946/45597</link>
+      <description>Notkun stærðfræðistígs í kennslu stærðfræði í 10. bekk grunnskóla : greinargerð um stærðfræðiverkefni sem hönnuð voru fyrir útikennslu með aðstoð hugbúnaðarins MathCityMap - Guðmundur Ingi Bjarnason 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45597</guid>
+    </item>
+    <item>
       <title>Kvenréttindabaráttan á Íslandi um aldamótin 1900 : greinagerð og námslota fyrir unglingastig í grunnskóla</title>
       <link>https://skemman.is/handle/1946/45556</link>
       <description>Kvenréttindabaráttan á Íslandi um aldamótin 1900 : greinagerð og námslota fyrir unglingastig í grunnskóla - Anna Día Baldvinsdóttir 2001-</description>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45569</link>
       <description>„Við sem þjóð höfum ákveðið að halda tungunni sem mest óbreyttri“ : greining á námsefni í ópersónulegum sögnum - Bergdís Bergsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45569</guid>
-    </item>
-    <item>
-      <title>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri?</title>
-      <link>https://skemman.is/handle/1946/45568</link>
-      <description>Farsæl vegferð í námi og kennslu : hvernig getur leiðsagnarnám stuðlað að jákvæðum námsárangri? - Ásta Dís Helgadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45568</guid>
-    </item>
-    <item>
-      <title>Staða þroskahamlaðs fólks á almennum atvinnumarkaði</title>
-      <link>https://skemman.is/handle/1946/45571</link>
-      <description>Staða þroskahamlaðs fólks á almennum atvinnumarkaði - Bergþóra Anna Stefánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45571</guid>
-    </item>
-    <item>
-      <title>Áhrif skjánotkunar á þroska 3-8 ára barna</title>
-      <link>https://skemman.is/handle/1946/45573</link>
-      <description>Áhrif skjánotkunar á þroska 3-8 ára barna - Birta Ósk Laursen Óladóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45573</guid>
     </item>
   </channel>
 </rss>
