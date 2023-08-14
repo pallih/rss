@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 14 Aug 2023 09:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2023 10:00:29 +0000</lastBuildDate>
+    <item>
+      <title>MINING OF SPACE RESOURCES AND THE EQUITABLE SHARING OF SUCH BENEFITS</title>
+      <link>https://skemman.is/handle/1946/45614</link>
+      <description>MINING OF SPACE RESOURCES AND THE EQUITABLE SHARING OF SUCH BENEFITS - Jeffrey De Roy Wheeler 1963-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45614</guid>
+    </item>
     <item>
       <title>Enginn getur allt - allir geta eitthvað : hugmyndabanki að orðaforðaverkefnum á íslensku fyrir fjöltyngda nemendur</title>
       <link>https://skemman.is/handle/1946/45589</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45609</link>
       <description>Kalli kynnist tómstundum : hvernig er hægt að fræða börn um mikilvægi tómstunda? - Hólmfríður Svala Ingibjargardóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45609</guid>
-    </item>
-    <item>
-      <title>Kartaflan í forgrunni : með sjálfbærni og minni matarsóun að leiðarljósi</title>
-      <link>https://skemman.is/handle/1946/45602</link>
-      <description>Kartaflan í forgrunni : með sjálfbærni og minni matarsóun að leiðarljósi - Harpa Mjöll Kjartansdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45602</guid>
     </item>
   </channel>
 </rss>
