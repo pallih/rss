@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 15 Aug 2023 11:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 12:00:40 +0000</lastBuildDate>
+    <item>
+      <title>Samningar og hjúskapur: Hvað einkennir samninga á milli hjóna?</title>
+      <link>https://skemman.is/handle/1946/45615</link>
+      <description>Samningar og hjúskapur: Hvað einkennir samninga á milli hjóna? - Arngrímur Stefánsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45615</guid>
+    </item>
+    <item>
+      <title>Af túristadrápum og kviðristumorðum: Rýnt í tvær íslenskar raðmorðingjafrásagnir</title>
+      <link>https://skemman.is/handle/1946/45616</link>
+      <description>Af túristadrápum og kviðristumorðum: Rýnt í tvær íslenskar raðmorðingjafrásagnir - Marteinn Knaran Ómarsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45616</guid>
+    </item>
     <item>
       <title>MINING OF SPACE RESOURCES AND THE EQUITABLE SHARING OF SUCH BENEFITS</title>
       <link>https://skemman.is/handle/1946/45614</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45608</link>
       <description>Hafa breyttar aðferðir haft áhrif á tengslamyndun og samskipti við foreldra? : rannsóknarskýrsla frá aðlögun - Hjördís Jónsdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45608</guid>
-    </item>
-    <item>
-      <title>Færni til framtíðar : að útbúa nesti heima</title>
-      <link>https://skemman.is/handle/1946/45601</link>
-      <description>Færni til framtíðar : að útbúa nesti heima - Hanna Tryggvadóttir 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45601</guid>
-    </item>
-    <item>
-      <title>Kalli kynnist tómstundum : hvernig er hægt að fræða börn um mikilvægi tómstunda?</title>
-      <link>https://skemman.is/handle/1946/45609</link>
-      <description>Kalli kynnist tómstundum : hvernig er hægt að fræða börn um mikilvægi tómstunda? - Hólmfríður Svala Ingibjargardóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45609</guid>
     </item>
   </channel>
 </rss>
