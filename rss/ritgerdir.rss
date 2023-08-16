@@ -7,18 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 16 Aug 2023 08:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 09:00:42 +0000</lastBuildDate>
     <item>
-      <title>Samningar og hjúskapur: Hvað einkennir samninga á milli hjóna?</title>
-      <link>https://skemman.is/handle/1946/45615</link>
-      <description>Samningar og hjúskapur: Hvað einkennir samninga á milli hjóna? - Arngrímur Stefánsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45615</guid>
+      <title>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum</title>
+      <link>https://skemman.is/handle/1946/45617</link>
+      <description>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum - Marín Ösp Ómarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45617</guid>
+    </item>
+    <item>
+      <title>Konur á flótta: Áskoranir og stuðningur kvenna á flótta</title>
+      <link>https://skemman.is/handle/1946/45618</link>
+      <description>Konur á flótta: Áskoranir og stuðningur kvenna á flótta - Guðrún Mira Ragnarsdóttir Kojic 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45618</guid>
+    </item>
+    <item>
+      <title>Heimildir framkvæmdarvaldsins til að hafa afskipti af launakjörum dómara</title>
+      <link>https://skemman.is/handle/1946/45619</link>
+      <description>Heimildir framkvæmdarvaldsins til að hafa afskipti af launakjörum dómara - Jón Bragi Gíslason 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45619</guid>
     </item>
     <item>
       <title>Af túristadrápum og kviðristumorðum: Rýnt í tvær íslenskar raðmorðingjafrásagnir</title>
       <link>https://skemman.is/handle/1946/45616</link>
       <description>Af túristadrápum og kviðristumorðum: Rýnt í tvær íslenskar raðmorðingjafrásagnir - Marteinn Knaran Ómarsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45616</guid>
+    </item>
+    <item>
+      <title>Samningar og hjúskapur: Hvað einkennir samninga á milli hjóna?</title>
+      <link>https://skemman.is/handle/1946/45615</link>
+      <description>Samningar og hjúskapur: Hvað einkennir samninga á milli hjóna? - Arngrímur Stefánsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45615</guid>
     </item>
     <item>
       <title>MINING OF SPACE RESOURCES AND THE EQUITABLE SHARING OF SUCH BENEFITS</title>
@@ -135,28 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45596</guid>
     </item>
     <item>
-      <title>Brighton-kampur og hernámið : námsvefur og grenndarkennsla á Álftanesi</title>
-      <link>https://skemman.is/handle/1946/45582</link>
-      <description>Brighton-kampur og hernámið : námsvefur og grenndarkennsla á Álftanesi - Elías Kristinn Kristinsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45582</guid>
-    </item>
-    <item>
-      <title>Tónlistarnám í menntasamfélagi inngildingar</title>
-      <link>https://skemman.is/handle/1946/45581</link>
-      <description>Tónlistarnám í menntasamfélagi inngildingar - Egill Örn Eiríksson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45581</guid>
-    </item>
-    <item>
-      <title>"Þetta er það besta sem ég hef séð og upplifað í stærðfræðikennslu" : viðhorf og reynsla kennara af innleiðingu kennslunálgunarinnar hugsandi skólastofa</title>
-      <link>https://skemman.is/handle/1946/45607</link>
-      <description>"Þetta er það besta sem ég hef séð og upplifað í stærðfræðikennslu" : viðhorf og reynsla kennara af innleiðingu kennslunálgunarinnar hugsandi skólastofa - Hera Gautadóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45607</guid>
-    </item>
-    <item>
-      <title>Hafa breyttar aðferðir haft áhrif á tengslamyndun og samskipti við foreldra? : rannsóknarskýrsla frá aðlögun</title>
-      <link>https://skemman.is/handle/1946/45608</link>
-      <description>Hafa breyttar aðferðir haft áhrif á tengslamyndun og samskipti við foreldra? : rannsóknarskýrsla frá aðlögun - Hjördís Jónsdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45608</guid>
+      <title>Fyrstu skrefin í grunnskóla : þáttaskil í lífi barna á mótum leik- og grunnskóla</title>
+      <link>https://skemman.is/handle/1946/45610</link>
+      <description>Fyrstu skrefin í grunnskóla : þáttaskil í lífi barna á mótum leik- og grunnskóla - Hrönn Erludóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45610</guid>
     </item>
   </channel>
 </rss>
