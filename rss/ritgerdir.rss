@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 17 Aug 2023 14:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 15:00:27 +0000</lastBuildDate>
     <item>
       <title>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska</title>
       <link>https://skemman.is/handle/1946/45620</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/45621</link>
       <description>Eðli máls. Sérgreindur tilgangur laga sem grundvallarsjónarmið við beitingu eðli máls sem sjálfstæðrar réttarheimildar - Einar Baldvin Brimar Þórðarson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45621</guid>
+    </item>
+    <item>
+      <title>Kennsla álitamála og erfiðrar sögu : hafa kennarar ástæðu til að forðast að kenna um álitamál og erfiða sögu?</title>
+      <link>https://skemman.is/handle/1946/45622</link>
+      <description>Kennsla álitamála og erfiðrar sögu : hafa kennarar ástæðu til að forðast að kenna um álitamál og erfiða sögu? - Karl Sölvi Sigurðsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45622</guid>
     </item>
     <item>
       <title>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45598</link>
       <description>Velferð foreldra og barna : tengslamyndun, uppeldishættir og stuðningur við foreldra - Guðrún Stella S. Þórisdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45598</guid>
-    </item>
-    <item>
-      <title>Er málfræðikennsla skapandi? : greining á sköpun í málfræðinámsefni á miðstigi</title>
-      <link>https://skemman.is/handle/1946/45592</link>
-      <description>Er málfræðikennsla skapandi? : greining á sköpun í málfræðinámsefni á miðstigi - Freydís Erna Guðmundsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45592</guid>
     </item>
   </channel>
 </rss>
