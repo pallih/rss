@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 18 Aug 2023 11:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 12:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Tímalína Íslandssögu : námsspil til kennslu í sögu á miðstigi grunnskóla</title>
+      <link>https://skemman.is/handle/1946/45623</link>
+      <description>Tímalína Íslandssögu : námsspil til kennslu í sögu á miðstigi grunnskóla - Karlotta Kristjánsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45623</guid>
+    </item>
+    <item>
+      <title>Áhrif snjalltækja á máltöku barna : aukið framboð á erlendu efni</title>
+      <link>https://skemman.is/handle/1946/45624</link>
+      <description>Áhrif snjalltækja á máltöku barna : aukið framboð á erlendu efni - Katrín Ósk Þorsteinsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45624</guid>
+    </item>
+    <item>
+      <title>Grunnskóli í mótun : þróun skólahalds á Íslandi</title>
+      <link>https://skemman.is/handle/1946/45625</link>
+      <description>Grunnskóli í mótun : þróun skólahalds á Íslandi - Kolbrún Hulda Edvardsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45625</guid>
+    </item>
+    <item>
+      <title>"Skilningsleysi á eðli fötlunar og hræðsla við fatlað fólk" : mat starfsfólks í búsetuúrræðum á framkomu heilbrigðiskerfisins til fatlaðs fólks</title>
+      <link>https://skemman.is/handle/1946/45626</link>
+      <description>"Skilningsleysi á eðli fötlunar og hræðsla við fatlað fólk" : mat starfsfólks í búsetuúrræðum á framkomu heilbrigðiskerfisins til fatlaðs fólks - Kolbrún Kara Pálmadóttir 2000-; Rebekka Ýr Ólafsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45626</guid>
+    </item>
+    <item>
+      <title>Lestur og samræður til eflingar orðaforða ungra barna : spil með íslensku húsdýrunum</title>
+      <link>https://skemman.is/handle/1946/45627</link>
+      <description>Lestur og samræður til eflingar orðaforða ungra barna : spil með íslensku húsdýrunum - Kolbrún Eva Sigurðardóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45627</guid>
+    </item>
     <item>
       <title>Eðli máls. Sérgreindur tilgangur laga sem grundvallarsjónarmið við beitingu eðli máls sem sjálfstæðrar réttarheimildar</title>
       <link>https://skemman.is/handle/1946/45621</link>
@@ -21,12 +51,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45622</guid>
     </item>
     <item>
-      <title>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum</title>
-      <link>https://skemman.is/handle/1946/45617</link>
-      <description>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum - Marín Ösp Ómarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45617</guid>
-    </item>
-    <item>
       <title>Konur á flótta: Áskoranir og stuðningur kvenna á flótta</title>
       <link>https://skemman.is/handle/1946/45618</link>
       <description>Konur á flótta: Áskoranir og stuðningur kvenna á flótta - Guðrún Mira Ragnarsdóttir Kojic 1996-</description>
@@ -37,6 +61,12 @@
       <link>https://skemman.is/handle/1946/45619</link>
       <description>Heimildir framkvæmdarvaldsins til að hafa afskipti af launakjörum dómara - Jón Bragi Gíslason 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45619</guid>
+    </item>
+    <item>
+      <title>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum</title>
+      <link>https://skemman.is/handle/1946/45617</link>
+      <description>Áhrif áfalla og ofbeldis í æsku á áfengis- og vímuefnavanda á fullorðinsárum - Marín Ösp Ómarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45617</guid>
     </item>
     <item>
       <title>Af túristadrápum og kviðristumorðum: Rýnt í tvær íslenskar raðmorðingjafrásagnir</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/45595</link>
       <description>Sjálfræði og velferð í þjónustu við einstaklinga með miklar stuðningsþarfir - Gísli Björn Þráinsson 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45595</guid>
-    </item>
-    <item>
-      <title>Notkun stærðfræðistígs í kennslu stærðfræði í 10. bekk grunnskóla : greinargerð um stærðfræðiverkefni sem hönnuð voru fyrir útikennslu með aðstoð hugbúnaðarins MathCityMap</title>
-      <link>https://skemman.is/handle/1946/45597</link>
-      <description>Notkun stærðfræðistígs í kennslu stærðfræði í 10. bekk grunnskóla : greinargerð um stærðfræðiverkefni sem hönnuð voru fyrir útikennslu með aðstoð hugbúnaðarins MathCityMap - Guðmundur Ingi Bjarnason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45597</guid>
-    </item>
-    <item>
-      <title>Öll velkomin? : upplifun hinsegin kennara af hinsegin inngildingu í íslensku skólakerfi</title>
-      <link>https://skemman.is/handle/1946/45600</link>
-      <description>Öll velkomin? : upplifun hinsegin kennara af hinsegin inngildingu í íslensku skólakerfi - Gunnlaugur Hans Stephensen 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45600</guid>
-    </item>
-    <item>
-      <title>Áhrif tíðahrings á frammistöðu kvenna í íþróttum : samantekt rannsókna með áherslu á knattspyrnu</title>
-      <link>https://skemman.is/handle/1946/45593</link>
-      <description>Áhrif tíðahrings á frammistöðu kvenna í íþróttum : samantekt rannsókna með áherslu á knattspyrnu - Freyja Friðþjófsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45593</guid>
-    </item>
-    <item>
-      <title>Velferð foreldra og barna : tengslamyndun, uppeldishættir og stuðningur við foreldra</title>
-      <link>https://skemman.is/handle/1946/45598</link>
-      <description>Velferð foreldra og barna : tengslamyndun, uppeldishættir og stuðningur við foreldra - Guðrún Stella S. Þórisdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45598</guid>
-    </item>
-    <item>
-      <title>Er málfræðikennsla skapandi? : greining á sköpun í málfræðinámsefni á miðstigi</title>
-      <link>https://skemman.is/handle/1946/45592</link>
-      <description>Er málfræðikennsla skapandi? : greining á sköpun í málfræðinámsefni á miðstigi - Freydís Erna Guðmundsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45592</guid>
     </item>
   </channel>
 </rss>
