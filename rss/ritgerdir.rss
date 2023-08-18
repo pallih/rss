@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 18 Aug 2023 09:00:30 +0000</lastBuildDate>
-    <item>
-      <title>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska</title>
-      <link>https://skemman.is/handle/1946/45620</link>
-      <description>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska - Inga Valgerður Henriksen 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45620</guid>
-    </item>
+    <lastBuildDate>Fri, 18 Aug 2023 10:00:37 +0000</lastBuildDate>
     <item>
       <title>Eðli máls. Sérgreindur tilgangur laga sem grundvallarsjónarmið við beitingu eðli máls sem sjálfstæðrar réttarheimildar</title>
       <link>https://skemman.is/handle/1946/45621</link>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/45598</link>
       <description>Velferð foreldra og barna : tengslamyndun, uppeldishættir og stuðningur við foreldra - Guðrún Stella S. Þórisdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45598</guid>
+    </item>
+    <item>
+      <title>Er málfræðikennsla skapandi? : greining á sköpun í málfræðinámsefni á miðstigi</title>
+      <link>https://skemman.is/handle/1946/45592</link>
+      <description>Er málfræðikennsla skapandi? : greining á sköpun í málfræðinámsefni á miðstigi - Freydís Erna Guðmundsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45592</guid>
     </item>
   </channel>
 </rss>
