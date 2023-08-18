@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 18 Aug 2023 14:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 15:00:35 +0000</lastBuildDate>
     <item>
       <title>Tímalína Íslandssögu : námsspil til kennslu í sögu á miðstigi grunnskóla</title>
       <link>https://skemman.is/handle/1946/45623</link>
@@ -93,6 +93,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45636</guid>
     </item>
     <item>
+      <title>Eignaréttur á vindorku. Samanburður á uppbyggingu vindorkuvera á landi og hafi</title>
+      <link>https://skemman.is/handle/1946/45637</link>
+      <description>Eignaréttur á vindorku. Samanburður á uppbyggingu vindorkuvera á landi og hafi - Guðfinnur Geirdal 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45637</guid>
+    </item>
+    <item>
+      <title>Hvernig stuðla kennarar að gagnrýninni hugsun nemenda í samfélagsgreinakennslu?</title>
+      <link>https://skemman.is/handle/1946/45638</link>
+      <description>Hvernig stuðla kennarar að gagnrýninni hugsun nemenda í samfélagsgreinakennslu? - Kristófer Davíð Traustason 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45638</guid>
+    </item>
+    <item>
       <title>Eðli máls. Sérgreindur tilgangur laga sem grundvallarsjónarmið við beitingu eðli máls sem sjálfstæðrar réttarheimildar</title>
       <link>https://skemman.is/handle/1946/45621</link>
       <description>Eðli máls. Sérgreindur tilgangur laga sem grundvallarsjónarmið við beitingu eðli máls sem sjálfstæðrar réttarheimildar - Einar Baldvin Brimar Þórðarson 1998-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45589</link>
       <description>Enginn getur allt - allir geta eitthvað : hugmyndabanki að orðaforðaverkefnum á íslensku fyrir fjöltyngda nemendur - Emma Viktorsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45589</guid>
-    </item>
-    <item>
-      <title>Barnabækur í leikskólum : bókakostur, aðgengi að barnabókum og lestrarstundir í leikskólum</title>
-      <link>https://skemman.is/handle/1946/45585</link>
-      <description>Barnabækur í leikskólum : bókakostur, aðgengi að barnabókum og lestrarstundir í leikskólum - Elísa Birkisdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45585</guid>
-    </item>
-    <item>
-      <title>Tökum höndum saman um inngildandi tómstundir : hvernig geta sveitarfélög eflt þátttöku fatlaðs fólks í tómstundum?</title>
-      <link>https://skemman.is/handle/1946/45591</link>
-      <description>Tökum höndum saman um inngildandi tómstundir : hvernig geta sveitarfélög eflt þátttöku fatlaðs fólks í tómstundum? - Erna Guðjónsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45591</guid>
     </item>
   </channel>
 </rss>
