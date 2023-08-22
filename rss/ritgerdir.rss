@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 21 Aug 2023 17:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 08:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska</title>
+      <link>https://skemman.is/handle/1946/45662</link>
+      <description>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska - Inga Valgerður Henriksen 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45662</guid>
+    </item>
     <item>
       <title>Sterkari til framtíðar : hugmynd að kennsluverkefni um styrkleika og drauma</title>
       <link>https://skemman.is/handle/1946/45656</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45623</link>
       <description>Tímalína Íslandssögu : námsspil til kennslu í sögu á miðstigi grunnskóla - Karlotta Kristjánsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45623</guid>
-    </item>
-    <item>
-      <title>Áhrif snjalltækja á máltöku barna : aukið framboð á erlendu efni</title>
-      <link>https://skemman.is/handle/1946/45624</link>
-      <description>Áhrif snjalltækja á máltöku barna : aukið framboð á erlendu efni - Katrín Ósk Þorsteinsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45624</guid>
     </item>
   </channel>
 </rss>
