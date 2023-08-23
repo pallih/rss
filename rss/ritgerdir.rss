@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 23 Aug 2023 09:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 10:00:25 +0000</lastBuildDate>
     <item>
       <title>Fjárfesting í framtíð barna : þörf fyrir innleiðingu farsældarlaganna miðað við stöðu barna í dag</title>
       <link>https://skemman.is/handle/1946/45664</link>
       <description>Fjárfesting í framtíð barna : þörf fyrir innleiðingu farsældarlaganna miðað við stöðu barna í dag - Þórey Birta Sigurjónsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45664</guid>
-    </item>
-    <item>
-      <title>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni</title>
-      <link>https://skemman.is/handle/1946/45665</link>
-      <description>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni - Þóra Dögg Scheel Guðmundsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45665</guid>
     </item>
     <item>
       <title>Áhættuhegðun ungmenna : mikilvægi verndandi þátta í umhverfi unglinga</title>
@@ -27,28 +21,82 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45666</guid>
     </item>
     <item>
-      <title>Hreyfifærni leikskólabarna : áhrif „YAP“ á hreyfifærni leikskólabarna</title>
-      <link>https://skemman.is/handle/1946/45667</link>
-      <description>Hreyfifærni leikskólabarna : áhrif „YAP“ á hreyfifærni leikskólabarna - Viktoría Sól Sævarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45667</guid>
-    </item>
-    <item>
       <title>Ávinningur útiveru fyrir ungmenni : hugmyndir fyrir fagfólk og foreldra til að auka útiveru ungmenna</title>
       <link>https://skemman.is/handle/1946/45668</link>
       <description>Ávinningur útiveru fyrir ungmenni : hugmyndir fyrir fagfólk og foreldra til að auka útiveru ungmenna - Viktoría Ásgeirsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45668</guid>
     </item>
     <item>
-      <title>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska</title>
-      <link>https://skemman.is/handle/1946/45662</link>
-      <description>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska - Inga Valgerður Henriksen 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45662</guid>
+      <title>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni</title>
+      <link>https://skemman.is/handle/1946/45665</link>
+      <description>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni - Þóra Dögg Scheel Guðmundsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45665</guid>
+    </item>
+    <item>
+      <title>Hreyfifærni leikskólabarna : áhrif „YAP“ á hreyfifærni leikskólabarna</title>
+      <link>https://skemman.is/handle/1946/45667</link>
+      <description>Hreyfifærni leikskólabarna : áhrif „YAP“ á hreyfifærni leikskólabarna - Viktoría Sól Sævarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45667</guid>
+    </item>
+    <item>
+      <title>Skapandi stærðfræði : gagnabanki með stærðfræðiverkefnum út frá Sprota 4</title>
+      <link>https://skemman.is/handle/1946/45669</link>
+      <description>Skapandi stærðfræði : gagnabanki með stærðfræðiverkefnum út frá Sprota 4 - Vigdís Þóra Baldursdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45669</guid>
+    </item>
+    <item>
+      <title>Hvernig nýtist tómstunda- og félagsmálafræðingur sem úrræði í geðheilbrigðisþjónustu? : hugmyndir og nálgun</title>
+      <link>https://skemman.is/handle/1946/45670</link>
+      <description>Hvernig nýtist tómstunda- og félagsmálafræðingur sem úrræði í geðheilbrigðisþjónustu? : hugmyndir og nálgun - Valgerður Erlingsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45670</guid>
+    </item>
+    <item>
+      <title>„Þörfin fyrir betri kynfræðslu hefur aldrei verið meiri“ : greining á íslensku námsefni til kynfræðslu</title>
+      <link>https://skemman.is/handle/1946/45671</link>
+      <description>„Þörfin fyrir betri kynfræðslu hefur aldrei verið meiri“ : greining á íslensku námsefni til kynfræðslu - Tinna Líf Davíðsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45671</guid>
+    </item>
+    <item>
+      <title>Brotasnillingar : greinargerð með stærðfræðispili</title>
+      <link>https://skemman.is/handle/1946/45672</link>
+      <description>Brotasnillingar : greinargerð með stærðfræðispili - Thelma Rúnarsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45672</guid>
+    </item>
+    <item>
+      <title>Hvenær eru jöfnurnar sannar? : leiðsagnarmatsverkefni um lausn línulegra jafna af einni breytistærð þýtt og prófað með nemendum í 10. bekk</title>
+      <link>https://skemman.is/handle/1946/45673</link>
+      <description>Hvenær eru jöfnurnar sannar? : leiðsagnarmatsverkefni um lausn línulegra jafna af einni breytistærð þýtt og prófað með nemendum í 10. bekk - Sveinn Ægir Birgisson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45673</guid>
+    </item>
+    <item>
+      <title>Nýting og þróun stafrænnar tækni í námi og kennslu : viðhorf og reynsla íslenskra og norskra kennara</title>
+      <link>https://skemman.is/handle/1946/45674</link>
+      <description>Nýting og þróun stafrænnar tækni í námi og kennslu : viðhorf og reynsla íslenskra og norskra kennara - Svavar Már Ólafsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45674</guid>
+    </item>
+    <item>
+      <title>Stærðfræði í umhverfinu : notkun kennara á útikennslu í stærðfræði</title>
+      <link>https://skemman.is/handle/1946/45675</link>
+      <description>Stærðfræði í umhverfinu : notkun kennara á útikennslu í stærðfræði - Sunneva Lind Ólafsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45675</guid>
+    </item>
+    <item>
+      <title>Leiðir til að auka skilning nemenda á stærðfræði : skapandi og fjölbreytt stærðfræðinám</title>
+      <link>https://skemman.is/handle/1946/45676</link>
+      <description>Leiðir til að auka skilning nemenda á stærðfræði : skapandi og fjölbreytt stærðfræðinám - Sunneva Fríða Böðvarsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45676</guid>
     </item>
     <item>
       <title>Viðhorf kennara til lífsleiknikennslu : við verðum að kenna nemendum að lífið er ekki eitthvað sem „kemur fyrir“ þá</title>
       <link>https://skemman.is/handle/1946/45663</link>
       <description>Viðhorf kennara til lífsleiknikennslu : við verðum að kenna nemendum að lífið er ekki eitthvað sem „kemur fyrir“ þá - Salóme Svandís Þórhildardóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45663</guid>
+    </item>
+    <item>
+      <title>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska</title>
+      <link>https://skemman.is/handle/1946/45662</link>
+      <description>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska - Inga Valgerður Henriksen 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45662</guid>
     </item>
     <item>
       <title>Sterkari til framtíðar : hugmynd að kennsluverkefni um styrkleika og drauma</title>
@@ -109,54 +157,6 @@
       <link>https://skemman.is/handle/1946/45649</link>
       <description>Lofthelgi skýjalausnanna : áhrif persónuverndarlaganna á notkun upplýsingatækni í skólastarfi - Marteinn Einarsson 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45649</guid>
-    </item>
-    <item>
-      <title>Félagsleg tengsl við jafningja og áhrif þeirra á nám og skólagöngu nemenda með fjölbreyttan tungumála- og menningarbakgrunn</title>
-      <link>https://skemman.is/handle/1946/45648</link>
-      <description>Félagsleg tengsl við jafningja og áhrif þeirra á nám og skólagöngu nemenda með fjölbreyttan tungumála- og menningarbakgrunn - María Pálsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45648</guid>
-    </item>
-    <item>
-      <title>"Ég get allt sem ég vil..." : barnabók og greinargerð um mikilvægi fræðslu um fjölbreytileika og fötlun</title>
-      <link>https://skemman.is/handle/1946/45651</link>
-      <description>"Ég get allt sem ég vil..." : barnabók og greinargerð um mikilvægi fræðslu um fjölbreytileika og fötlun - Melkorka Rós Hjartardóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45651</guid>
-    </item>
-    <item>
-      <title>Sjálfstyrking og aukin liðsheild : námskeið fyrir lið í skipulögðu íþróttastarfi</title>
-      <link>https://skemman.is/handle/1946/45646</link>
-      <description>Sjálfstyrking og aukin liðsheild : námskeið fyrir lið í skipulögðu íþróttastarfi - Margrét Kristinsdóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45646</guid>
-    </item>
-    <item>
-      <title>Félagsmiðstöð í plastkössum : aðstöðumunur félagsmiðstöðva</title>
-      <link>https://skemman.is/handle/1946/45645</link>
-      <description>Félagsmiðstöð í plastkössum : aðstöðumunur félagsmiðstöðva - Ljósbrá Loftsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45645</guid>
-    </item>
-    <item>
-      <title>Félagsfærni leikskólabarna : leiðir til að efla félagsfærni barna á leikskólaaldri</title>
-      <link>https://skemman.is/handle/1946/45644</link>
-      <description>Félagsfærni leikskólabarna : leiðir til að efla félagsfærni barna á leikskólaaldri - Lísa Lind Ólafsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45644</guid>
-    </item>
-    <item>
-      <title>Leiðabók fyrir starfsfólk ungmennahúsa : faglegt starf í ungmennahúsum</title>
-      <link>https://skemman.is/handle/1946/45650</link>
-      <description>Leiðabók fyrir starfsfólk ungmennahúsa : faglegt starf í ungmennahúsum - Melkorka Assa Arnardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45650</guid>
-    </item>
-    <item>
-      <title>Það er leikur að lesa : um áhrif leikbóka á hvatningu barna til bóklesturs</title>
-      <link>https://skemman.is/handle/1946/45643</link>
-      <description>Það er leikur að lesa : um áhrif leikbóka á hvatningu barna til bóklesturs - Lísa Björk Hannesdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45643</guid>
-    </item>
-    <item>
-      <title>Styrkleikaflokkun og beinþroski</title>
-      <link>https://skemman.is/handle/1946/45647</link>
-      <description>Styrkleikaflokkun og beinþroski - María Dögg Jóhannesdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45647</guid>
     </item>
   </channel>
 </rss>
