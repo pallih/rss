@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 23 Aug 2023 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 09:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Fjárfesting í framtíð barna : þörf fyrir innleiðingu farsældarlaganna miðað við stöðu barna í dag</title>
+      <link>https://skemman.is/handle/1946/45664</link>
+      <description>Fjárfesting í framtíð barna : þörf fyrir innleiðingu farsældarlaganna miðað við stöðu barna í dag - Þórey Birta Sigurjónsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45664</guid>
+    </item>
+    <item>
+      <title>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni</title>
+      <link>https://skemman.is/handle/1946/45665</link>
+      <description>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni - Þóra Dögg Scheel Guðmundsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45665</guid>
+    </item>
+    <item>
+      <title>Áhættuhegðun ungmenna : mikilvægi verndandi þátta í umhverfi unglinga</title>
+      <link>https://skemman.is/handle/1946/45666</link>
+      <description>Áhættuhegðun ungmenna : mikilvægi verndandi þátta í umhverfi unglinga - Þorgerður Þóranna Ævarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45666</guid>
+    </item>
+    <item>
+      <title>Hreyfifærni leikskólabarna : áhrif „YAP“ á hreyfifærni leikskólabarna</title>
+      <link>https://skemman.is/handle/1946/45667</link>
+      <description>Hreyfifærni leikskólabarna : áhrif „YAP“ á hreyfifærni leikskólabarna - Viktoría Sól Sævarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45667</guid>
+    </item>
+    <item>
+      <title>Ávinningur útiveru fyrir ungmenni : hugmyndir fyrir fagfólk og foreldra til að auka útiveru ungmenna</title>
+      <link>https://skemman.is/handle/1946/45668</link>
+      <description>Ávinningur útiveru fyrir ungmenni : hugmyndir fyrir fagfólk og foreldra til að auka útiveru ungmenna - Viktoría Ásgeirsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45668</guid>
+    </item>
     <item>
       <title>Mæður og börn sem verða fyrir heimilisofbeldi: Langtímaáhrif ofbeldis á heilsu og þroska</title>
       <link>https://skemman.is/handle/1946/45662</link>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/45647</link>
       <description>Styrkleikaflokkun og beinþroski - María Dögg Jóhannesdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45647</guid>
-    </item>
-    <item>
-      <title>Leikur sem námsaðferð fyrir fjöltyngd börn í leikskóla : málskilningsteningurinn</title>
-      <link>https://skemman.is/handle/1946/45641</link>
-      <description>Leikur sem námsaðferð fyrir fjöltyngd börn í leikskóla : málskilningsteningurinn - Liliam Yisel Gutierrez Ortega 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45641</guid>
-    </item>
-    <item>
-      <title>Það geta allir lært stærðfræði : greinargerð</title>
-      <link>https://skemman.is/handle/1946/45640</link>
-      <description>Það geta allir lært stærðfræði : greinargerð - Ólöf Gunnarsdóttir 2000-; Lena Mjöll Ámundadóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45640</guid>
-    </item>
-    <item>
-      <title>Viðhorf unglinga og foreldra til starfsemi félagsmiðstöðva í Mosfellsbæ</title>
-      <link>https://skemman.is/handle/1946/45639</link>
-      <description>Viðhorf unglinga og foreldra til starfsemi félagsmiðstöðva í Mosfellsbæ - Leifur Ingi Eysteinsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45639</guid>
-    </item>
-    <item>
-      <title>Börnin og náttúran okkar : handbók um útikennslu</title>
-      <link>https://skemman.is/handle/1946/45642</link>
-      <description>Börnin og náttúran okkar : handbók um útikennslu - Linda María Ingólfsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45642</guid>
-    </item>
-    <item>
-      <title>Greining á stöðu leikskólabarna með tal- og málþroskaröskun á Íslandi</title>
-      <link>https://skemman.is/handle/1946/45661</link>
-      <description>Greining á stöðu leikskólabarna með tal- og málþroskaröskun á Íslandi - Rósa María Bjarnadóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45661</guid>
     </item>
   </channel>
 </rss>
