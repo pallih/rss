@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 01 Sep 2023 13:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 14:00:30 +0000</lastBuildDate>
+    <item>
+      <title>Estimating deformation source parameters using a 3D elastic finite element model including topography and crustal heterogeneity at Askja, Iceland.</title>
+      <link>https://skemman.is/handle/1946/45701</link>
+      <description>Estimating deformation source parameters using a 3D elastic finite element model including topography and crustal heterogeneity at Askja, Iceland. - Catherine O'Hara 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45701</guid>
+    </item>
     <item>
       <title>Hvað þurfa nemendur í framhaldsskóla að verja miklum tíma í lestur með tilliti til lesfimi nemenda</title>
       <link>https://skemman.is/handle/1946/45696</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45668</link>
       <description>Ávinningur útiveru fyrir ungmenni : hugmyndir fyrir fagfólk og foreldra til að auka útiveru ungmenna - Viktoría Ásgeirsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45668</guid>
-    </item>
-    <item>
-      <title>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni</title>
-      <link>https://skemman.is/handle/1946/45665</link>
-      <description>Töfrasteinninn : lærum á okkur sjálf : námsefni byggt á söguaðferðinni - Þóra Dögg Scheel Guðmundsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45665</guid>
     </item>
   </channel>
 </rss>
