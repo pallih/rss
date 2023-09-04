@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 04 Sep 2023 16:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2023 17:00:32 +0000</lastBuildDate>
     <item>
       <title>Ný landskjörstjórn 2022 - Tilurð, stjórnsýsluleg staða og ábyrgð</title>
       <link>https://skemman.is/handle/1946/45702</link>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/45708</link>
       <description>"Ég hef alltaf verið mikið fyrir mannlega kennara": Reynsla nemenda sem hlotið hafa stuðning í námi - Iris Myriam Waitz 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45708</guid>
+    </item>
+    <item>
+      <title>"Get a car, you loser!" : The roots of car-dependency in Reykjavík (and how to break free from it).</title>
+      <link>https://skemman.is/handle/1946/45709</link>
+      <description>"Get a car, you loser!" : The roots of car-dependency in Reykjavík (and how to break free from it). - Björn Teitsson 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45709</guid>
     </item>
     <item>
       <title>Estimating deformation source parameters using a 3D elastic finite element model including topography and crustal heterogeneity at Askja, Iceland.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45687</link>
       <description>Menntun án aðgreiningar : réttindi og tækifæri leikskólabarna til þátttöku í námi - Sara Ósk Duffield 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45687</guid>
-    </item>
-    <item>
-      <title>Menntun til sjálfbærni : er menntun réttur eða skylda?</title>
-      <link>https://skemman.is/handle/1946/45681</link>
-      <description>Menntun til sjálfbærni : er menntun réttur eða skylda? - Soffía Þorsteinsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45681</guid>
     </item>
   </channel>
 </rss>
