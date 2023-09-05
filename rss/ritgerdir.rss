@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 05 Sep 2023 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 13:02:12 +0000</lastBuildDate>
     <item>
       <title>„Þetta skiptir mjög miklu máli, þetta varðar þjóðaröryggi“: Hvernig íslenskir fjölmiðlar og stjórnvöld hafa rammað inn þjóðaröryggi 2008–2023 og af hverju það skiptir máli</title>
       <link>https://skemman.is/handle/1946/45710</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/45718</link>
       <description>Orsakir svefntruflana á gjörgæslu og aðferðir til að bæta svefn sjúklinga: Samþætt fræðileg samantekt - Eyrún Catherine Franzdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45718</guid>
+    </item>
+    <item>
+      <title>Að spara dýrmætan tíma allra: Jafnréttismat á stafvæðingu opinberrar þjónustu</title>
+      <link>https://skemman.is/handle/1946/45719</link>
+      <description>Að spara dýrmætan tíma allra: Jafnréttismat á stafvæðingu opinberrar þjónustu - Hrefna Rós Matthíasdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45719</guid>
     </item>
     <item>
       <title>Ný landskjörstjórn 2022 - Tilurð, stjórnsýsluleg staða og ábyrgð</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45694</link>
       <description>,,Fólk er ekki alltaf meðvitað um í hvaða umhverfi við vinnum": Um notendafræðslu hjá afhendingarskyldum aðilum - Hlín Hjartar Magnúsdóttir 1969-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45694</guid>
-    </item>
-    <item>
-      <title>Hvað einkennir stjórnsýslulega stöðu fatlaðs fólks í rafrænum heimi á Íslandi?</title>
-      <link>https://skemman.is/handle/1946/45695</link>
-      <description>Hvað einkennir stjórnsýslulega stöðu fatlaðs fólks í rafrænum heimi á Íslandi? - Björnfríður S Björnsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45695</guid>
     </item>
   </channel>
 </rss>
