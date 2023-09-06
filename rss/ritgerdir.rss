@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 06 Sep 2023 16:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 17:00:28 +0000</lastBuildDate>
     <item>
       <title>Handan hitaeininga og hlýnunar jarðar: smættarhyggja og forræði hnattrænna næringarráðlegginga</title>
       <link>https://skemman.is/handle/1946/45720</link>
@@ -67,6 +67,18 @@
       <link>https://skemman.is/handle/1946/45723</link>
       <description>Menningarkimi í Nexus: Heterótópía nörda í Reykjavík - Ægir Ragnar Ægisson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45723</guid>
+    </item>
+    <item>
+      <title>Að njóta eða neyta: Menningarnám í valdaskiptu samfélagi</title>
+      <link>https://skemman.is/handle/1946/45730</link>
+      <description>Að njóta eða neyta: Menningarnám í valdaskiptu samfélagi - Sólveig Guðrún Geirsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45730</guid>
+    </item>
+    <item>
+      <title>Áhrif innleiðingar upplýsingakerfa á líðan starfsfólks</title>
+      <link>https://skemman.is/handle/1946/45731</link>
+      <description>Áhrif innleiðingar upplýsingakerfa á líðan starfsfólks - Anna Einarsdóttir 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45731</guid>
     </item>
     <item>
       <title>Orsakir svefntruflana á gjörgæslu og aðferðir til að bæta svefn sjúklinga: Samþætt fræðileg samantekt</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45704</link>
       <description>Geðheilsuvernd á meðgöngu - þversniðsrannsókn á skimun, viðhorfum og áskorunum ljósmæðra - Arndís Mogensen 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45704</guid>
-    </item>
-    <item>
-      <title>"Ég hef alltaf verið mikið fyrir mannlega kennara": Reynsla nemenda sem hlotið hafa stuðning í námi</title>
-      <link>https://skemman.is/handle/1946/45708</link>
-      <description>"Ég hef alltaf verið mikið fyrir mannlega kennara": Reynsla nemenda sem hlotið hafa stuðning í námi - Iris Myriam Waitz 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45708</guid>
-    </item>
-    <item>
-      <title>„Eins og maður sé bara geimvera eða eitthvað“</title>
-      <link>https://skemman.is/handle/1946/45705</link>
-      <description>„Eins og maður sé bara geimvera eða eitthvað“ - Jónína Riedel 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45705</guid>
     </item>
   </channel>
 </rss>
