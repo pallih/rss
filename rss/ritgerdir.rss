@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 06 Sep 2023 10:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 11:00:25 +0000</lastBuildDate>
     <item>
       <title>Handan hitaeininga og hlýnunar jarðar: smættarhyggja og forræði hnattrænna næringarráðlegginga</title>
       <link>https://skemman.is/handle/1946/45720</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/45725</link>
       <description>Resilientes y empoderadas: Representación de la mujer en la literatura colombiana testimonial durante el conflicto armado - Nelly Carolina Millan Hoyos 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45725</guid>
+    </item>
+    <item>
+      <title>Rödd fólksins. Að vera markaðsleiðtogi er ekki tilviljun og ekki heppni heldur,  það er bara mikil vinna.</title>
+      <link>https://skemman.is/handle/1946/45726</link>
+      <description>Rödd fólksins. Að vera markaðsleiðtogi er ekki tilviljun og ekki heppni heldur,  það er bara mikil vinna. - Aníka Rós Pálsdóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45726</guid>
     </item>
     <item>
       <title>Orsakir svefntruflana á gjörgæslu og aðferðir til að bæta svefn sjúklinga: Samþætt fræðileg samantekt</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45709</link>
       <description>"Get a car, you loser!" : The roots of car-dependency in Reykjavík (and how to break free from it). - Björn Teitsson 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45709</guid>
-    </item>
-    <item>
-      <title>Estimating deformation source parameters using a 3D elastic finite element model including topography and crustal heterogeneity at Askja, Iceland.</title>
-      <link>https://skemman.is/handle/1946/45701</link>
-      <description>Estimating deformation source parameters using a 3D elastic finite element model including topography and crustal heterogeneity at Askja, Iceland. - Catherine O'Hara 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45701</guid>
     </item>
   </channel>
 </rss>
