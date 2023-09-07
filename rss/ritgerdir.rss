@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 07 Sep 2023 14:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 15:00:33 +0000</lastBuildDate>
     <item>
       <title>You Know English, But Which English Do You Speak American English vs International English</title>
       <link>https://skemman.is/handle/1946/45741</link>
@@ -99,6 +99,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45746</guid>
     </item>
     <item>
+      <title>„Maður gleymir stundum að staldra við og njóta hvað við erum að gera vel“ Græn mannauðsstjórnun hjá íslenskum fyrirtækjum</title>
+      <link>https://skemman.is/handle/1946/45747</link>
+      <description>„Maður gleymir stundum að staldra við og njóta hvað við erum að gera vel“ Græn mannauðsstjórnun hjá íslenskum fyrirtækjum - Fjóla Lind Sigurlaugardóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45747</guid>
+    </item>
+    <item>
       <title>Handan hitaeininga og hlýnunar jarðar: smættarhyggja og forræði hnattrænna næringarráðlegginga</title>
       <link>https://skemman.is/handle/1946/45720</link>
       <description>Handan hitaeininga og hlýnunar jarðar: smættarhyggja og forræði hnattrænna næringarráðlegginga - Hugrún Jónsdóttir 1989-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45727</link>
       <description>Loftslagsbreytingar og frumbyggjasamfélög: Hlutverk mannfræðinar í rannsóknum á loftslagsbreytingum - Bergdís Arna Hermannsdóttir 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45727</guid>
-    </item>
-    <item>
-      <title>Indigenous peoples and their connection to the land: An opportunity to protect the environment</title>
-      <link>https://skemman.is/handle/1946/45729</link>
-      <description>Indigenous peoples and their connection to the land: An opportunity to protect the environment - Judit Rodriguez Rodriguez 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45729</guid>
     </item>
   </channel>
 </rss>
