@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 06 Sep 2023 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 08:00:31 +0000</lastBuildDate>
+    <item>
+      <title>„Maður notar alltaf allt sem maður hefur“: Sjálfstætt starfandi náms- og starfsráðgjafar</title>
+      <link>https://skemman.is/handle/1946/45732</link>
+      <description>„Maður notar alltaf allt sem maður hefur“: Sjálfstætt starfandi náms- og starfsráðgjafar - Sandra Marín Kristínardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45732</guid>
+    </item>
     <item>
       <title>Handan hitaeininga og hlýnunar jarðar: smættarhyggja og forræði hnattrænna næringarráðlegginga</title>
       <link>https://skemman.is/handle/1946/45720</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45703</link>
       <description>Ákvörðunartaka sjúklinga byggð á samráði við hjúkrunarfræðinga - Guðrún Árnadóttir 1972-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45703</guid>
-    </item>
-    <item>
-      <title>Geðheilsuvernd á meðgöngu - þversniðsrannsókn á skimun, viðhorfum og áskorunum ljósmæðra</title>
-      <link>https://skemman.is/handle/1946/45704</link>
-      <description>Geðheilsuvernd á meðgöngu - þversniðsrannsókn á skimun, viðhorfum og áskorunum ljósmæðra - Arndís Mogensen 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45704</guid>
     </item>
   </channel>
 </rss>
