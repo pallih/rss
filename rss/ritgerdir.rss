@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 11 Sep 2023 13:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 14:00:35 +0000</lastBuildDate>
     <item>
       <title>Ráð hef ég kennd í kvæði: Spakmæli, sálmar og fljúgandi furðuhlutir í handritinu AM 427 12mo</title>
       <link>https://skemman.is/handle/1946/45762</link>
@@ -81,16 +81,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45760</guid>
     </item>
     <item>
-      <title>Hvernig dæmir maður döff persónur? Fræðilegt sjónarhorn á gerð kvikmyndalæsisprófs fyrir döff og heyrnarlausar persónur</title>
-      <link>https://skemman.is/handle/1946/45771</link>
-      <description>Hvernig dæmir maður döff persónur? Fræðilegt sjónarhorn á gerð kvikmyndalæsisprófs fyrir döff og heyrnarlausar persónur - Íris Árnadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45771</guid>
-    </item>
-    <item>
-      <title>The role of International and European Union Law in protecting biodiversity with an emphasis on species protection in the European Union</title>
-      <link>https://skemman.is/handle/1946/45772</link>
-      <description>The role of International and European Union Law in protecting biodiversity with an emphasis on species protection in the European Union - Slávka Volanska 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45772</guid>
+      <title>Towards Automated Icelandic Skill Level Evaluation: A Deep Dive into L2 Error Corpus patterns and Classification</title>
+      <link>https://skemman.is/handle/1946/45776</link>
+      <description>Towards Automated Icelandic Skill Level Evaluation: A Deep Dive into L2 Error Corpus patterns and Classification - Isidora Glišić 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45776</guid>
     </item>
     <item>
       <title>Jul i Islændingesagaerne</title>
@@ -99,28 +93,46 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45773</guid>
     </item>
     <item>
-      <title>Eigur vinnuhjúa í Skagafirði um miðja 19. öld</title>
-      <link>https://skemman.is/handle/1946/45774</link>
-      <description>Eigur vinnuhjúa í Skagafirði um miðja 19. öld - Kolbeinn Sturla G. Heiðuson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45774</guid>
-    </item>
-    <item>
       <title>"Góð samskipti eru bara lykilatriði". Upplifun grunnskólakennara af samskiptum og vinnustaðamenningu í grunnskólum</title>
       <link>https://skemman.is/handle/1946/45775</link>
       <description>"Góð samskipti eru bara lykilatriði". Upplifun grunnskólakennara af samskiptum og vinnustaðamenningu í grunnskólum - Inga Dóra Ragnarsdóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45775</guid>
     </item>
     <item>
-      <title>Towards Automated Icelandic Skill Level Evaluation: A Deep Dive into L2 Error Corpus patterns and Classification</title>
-      <link>https://skemman.is/handle/1946/45776</link>
-      <description>Towards Automated Icelandic Skill Level Evaluation: A Deep Dive into L2 Error Corpus patterns and Classification - Isidora Glišić 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45776</guid>
+      <title>Hvernig dæmir maður döff persónur? Fræðilegt sjónarhorn á gerð kvikmyndalæsisprófs fyrir döff og heyrnarlausar persónur</title>
+      <link>https://skemman.is/handle/1946/45771</link>
+      <description>Hvernig dæmir maður döff persónur? Fræðilegt sjónarhorn á gerð kvikmyndalæsisprófs fyrir döff og heyrnarlausar persónur - Íris Árnadóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45771</guid>
     </item>
     <item>
       <title>„Hvað ertu annars að gera þegar þú vinnur heima?“: Upplifun stjórnenda af fjarvinnu starfsfólks síns</title>
       <link>https://skemman.is/handle/1946/45777</link>
       <description>„Hvað ertu annars að gera þegar þú vinnur heima?“: Upplifun stjórnenda af fjarvinnu starfsfólks síns - Nína Rannveig Daðadóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45777</guid>
+    </item>
+    <item>
+      <title>The role of International and European Union Law in protecting biodiversity with an emphasis on species protection in the European Union</title>
+      <link>https://skemman.is/handle/1946/45772</link>
+      <description>The role of International and European Union Law in protecting biodiversity with an emphasis on species protection in the European Union - Slávka Volanska 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45772</guid>
+    </item>
+    <item>
+      <title>Ótti jötna og lundur læva: Rannsókn á kenningum um guðina Þór og Loka</title>
+      <link>https://skemman.is/handle/1946/45778</link>
+      <description>Ótti jötna og lundur læva: Rannsókn á kenningum um guðina Þór og Loka - Marc Lazaro I Azkarate 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45778</guid>
+    </item>
+    <item>
+      <title>Eigur vinnuhjúa í Skagafirði um miðja 19. öld</title>
+      <link>https://skemman.is/handle/1946/45774</link>
+      <description>Eigur vinnuhjúa í Skagafirði um miðja 19. öld - Kolbeinn Sturla G. Heiðuson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45774</guid>
+    </item>
+    <item>
+      <title>Áætlun um meðferðarmarkmið hjá sjúklingum með lífsógnandi sjúkdóma: Kerfisbundin fræðileg samantekt af eigindlegum rannsóknum með áherslu á þætti tengdt vinnuumhverfinu, hjúkrunarfræðingnum og viðkomandi stofnun.</title>
+      <link>https://skemman.is/handle/1946/45779</link>
+      <description>Áætlun um meðferðarmarkmið hjá sjúklingum með lífsógnandi sjúkdóma: Kerfisbundin fræðileg samantekt af eigindlegum rannsóknum með áherslu á þætti tengdt vinnuumhverfinu, hjúkrunarfræðingnum og viðkomandi stofnun. - Kristbjörg Hólmfríður Sigurgísladóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45779</guid>
     </item>
     <item>
       <title>Networks and University Outcomes in Unprecedented Times</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45752</link>
       <description>Tímarými einstaklingsins: Rannsókn á tímarýmum í þremur skáldsögum Virginiu Woolf - Dagur Reykdal Halldórsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45752</guid>
-    </item>
-    <item>
-      <title>Understanding the Sensitivity of Compensative Income Variation to Income</title>
-      <link>https://skemman.is/handle/1946/45750</link>
-      <description>Understanding the Sensitivity of Compensative Income Variation to Income - Viktor Andri Kárason 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45750</guid>
-    </item>
-    <item>
-      <title>Il romanzo come mezzo di indagine scientifica</title>
-      <link>https://skemman.is/handle/1946/45755</link>
-      <description>Il romanzo come mezzo di indagine scientifica - Jalal Sadeqi 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45755</guid>
     </item>
   </channel>
 </rss>
