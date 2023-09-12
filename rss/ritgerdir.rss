@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 12 Sep 2023 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 12:00:26 +0000</lastBuildDate>
     <item>
       <title>Strange Storytellers and Queer Characters: On Writing The Frozen Flame</title>
       <link>https://skemman.is/handle/1946/45785</link>
@@ -43,12 +43,6 @@
       <link>https://skemman.is/handle/1946/45788</link>
       <description>In-Between Magic: An Analysis of Ambiguity and Uncertainty in Magical Scenes of the Íslendingasögur - Jacob Ray Dodd 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45788</guid>
-    </item>
-    <item>
-      <title>Hugmyndin um kjarnorkuvopnalaus Norðurlönd í íslenskri stjórnmálaumræðu 1981–1991</title>
-      <link>https://skemman.is/handle/1946/45790</link>
-      <description>Hugmyndin um kjarnorkuvopnalaus Norðurlönd í íslenskri stjórnmálaumræðu 1981–1991 - Hjörtur Breki Egilsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45790</guid>
     </item>
     <item>
       <title>Missemd: Stirner með Adorno</title>
@@ -91,6 +85,18 @@
       <link>https://skemman.is/handle/1946/45798</link>
       <description>2021 Geldingadalir eruption:  Lava fountaining dynamics on 4 May - Jóna Sigurlína Pálmadóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45798</guid>
+    </item>
+    <item>
+      <title>Lífsgæði í Venesúela og Síle. Samanburður á lífsgæðum í best og verst stadda ríki Suður Ameríku.</title>
+      <link>https://skemman.is/handle/1946/45799</link>
+      <description>Lífsgæði í Venesúela og Síle. Samanburður á lífsgæðum í best og verst stadda ríki Suður Ameríku. - Matthías Már Marteinsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45799</guid>
+    </item>
+    <item>
+      <title>Hugmyndin um kjarnorkuvopnalaus Norðurlönd í íslenskri stjórnmálaumræðu 1981–1991</title>
+      <link>https://skemman.is/handle/1946/45790</link>
+      <description>Hugmyndin um kjarnorkuvopnalaus Norðurlönd í íslenskri stjórnmálaumræðu 1981–1991 - Hjörtur Breki Egilsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45790</guid>
     </item>
     <item>
       <title>Ráð hef ég kennd í kvæði: Spakmæli, sálmar og fljúgandi furðuhlutir í handritinu AM 427 12mo</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45761</link>
       <description>Vendipunktur í íslenskri netverslun. Áhrif samkomutakmarkana í heimsfaraldrinum á netverslun  Íslendinga - Andri Steinn Harðarson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45761</guid>
-    </item>
-    <item>
-      <title>Verðmatsgreining Haga: Er markaðurinn að verðmeta Haga rétt?</title>
-      <link>https://skemman.is/handle/1946/45759</link>
-      <description>Verðmatsgreining Haga: Er markaðurinn að verðmeta Haga rétt? - Patrekur Gísli Guðmundsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45759</guid>
     </item>
   </channel>
 </rss>
