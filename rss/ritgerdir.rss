@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 11 Sep 2023 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 08:00:28 +0000</lastBuildDate>
     <item>
       <title>Ráð hef ég kennd í kvæði: Spakmæli, sálmar og fljúgandi furðuhlutir í handritinu AM 427 12mo</title>
       <link>https://skemman.is/handle/1946/45762</link>
@@ -129,22 +129,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45774</guid>
     </item>
     <item>
-      <title>Vinnukona, ómagi, stúlka og frú. Rannsókn á því hvaða konur skrifuðu undir áskorun Hins íslenska kvenfélags 1895</title>
-      <link>https://skemman.is/handle/1946/45783</link>
-      <description>Vinnukona, ómagi, stúlka og frú. Rannsókn á því hvaða konur skrifuðu undir áskorun Hins íslenska kvenfélags 1895 - Atli Björn Jóhannesson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45783</guid>
-    </item>
-    <item>
       <title>Áætlun um meðferðarmarkmið hjá sjúklingum með lífsógnandi sjúkdóma: Kerfisbundin fræðileg samantekt af eigindlegum rannsóknum með áherslu á þætti tengdt vinnuumhverfinu, hjúkrunarfræðingnum og viðkomandi stofnun.</title>
       <link>https://skemman.is/handle/1946/45779</link>
       <description>Áætlun um meðferðarmarkmið hjá sjúklingum með lífsógnandi sjúkdóma: Kerfisbundin fræðileg samantekt af eigindlegum rannsóknum með áherslu á þætti tengdt vinnuumhverfinu, hjúkrunarfræðingnum og viðkomandi stofnun. - Kristbjörg Hólmfríður Sigurgísladóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45779</guid>
     </item>
     <item>
-      <title>„Eins og að nota sama hamarinn á öll vandamálin“: Upplifun stjórnenda Landspítala af straumlínustjórnun</title>
-      <link>https://skemman.is/handle/1946/45782</link>
-      <description>„Eins og að nota sama hamarinn á öll vandamálin“: Upplifun stjórnenda Landspítala af straumlínustjórnun - Kristjana Guðjónsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45782</guid>
+      <title>Frumkvöðull framtíðarinnar: Vögguvísa sem ungmennabók</title>
+      <link>https://skemman.is/handle/1946/45780</link>
+      <description>Frumkvöðull framtíðarinnar: Vögguvísa sem ungmennabók - Oddur Örn Ólafsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45780</guid>
     </item>
     <item>
       <title>Exploring Brand Success and Progress Measurement Strategies in Icelandic Companies</title>
@@ -153,10 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45781</guid>
     </item>
     <item>
-      <title>Lygi - málfræðirannsóknir á blekkingum</title>
-      <link>https://skemman.is/handle/1946/45784</link>
-      <description>Lygi - málfræðirannsóknir á blekkingum - Heiðbjört Ragna Axelsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45784</guid>
+      <title>„Eins og að nota sama hamarinn á öll vandamálin“: Upplifun stjórnenda Landspítala af straumlínustjórnun</title>
+      <link>https://skemman.is/handle/1946/45782</link>
+      <description>„Eins og að nota sama hamarinn á öll vandamálin“: Upplifun stjórnenda Landspítala af straumlínustjórnun - Kristjana Guðjónsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45782</guid>
+    </item>
+    <item>
+      <title>Vinnukona, ómagi, stúlka og frú. Rannsókn á því hvaða konur skrifuðu undir áskorun Hins íslenska kvenfélags 1895</title>
+      <link>https://skemman.is/handle/1946/45783</link>
+      <description>Vinnukona, ómagi, stúlka og frú. Rannsókn á því hvaða konur skrifuðu undir áskorun Hins íslenska kvenfélags 1895 - Atli Björn Jóhannesson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45783</guid>
     </item>
   </channel>
 </rss>
