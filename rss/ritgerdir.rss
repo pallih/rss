@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 12 Sep 2023 12:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 13:02:01 +0000</lastBuildDate>
     <item>
       <title>Strange Storytellers and Queer Characters: On Writing The Frozen Flame</title>
       <link>https://skemman.is/handle/1946/45785</link>
@@ -99,6 +99,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45790</guid>
     </item>
     <item>
+      <title>„Ég held að allir séu bara að gera sitt besta alls staðar“: Reynsla einstaklinga sem starfa með flóttafólki og umsækjendum um alþjóðlega vernd á Íslandi</title>
+      <link>https://skemman.is/handle/1946/45800</link>
+      <description>„Ég held að allir séu bara að gera sitt besta alls staðar“: Reynsla einstaklinga sem starfa með flóttafólki og umsækjendum um alþjóðlega vernd á Íslandi - Gyða Margrét Kristjánsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45800</guid>
+    </item>
+    <item>
       <title>Ráð hef ég kennd í kvæði: Spakmæli, sálmar og fljúgandi furðuhlutir í handritinu AM 427 12mo</title>
       <link>https://skemman.is/handle/1946/45762</link>
       <description>Ráð hef ég kennd í kvæði: Spakmæli, sálmar og fljúgandi furðuhlutir í handritinu AM 427 12mo - Guðrún Brjánsdóttir 1995-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45767</link>
       <description>Er þetta frétt? Sex þátta gamansería - Hrafnhildur Rafnsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45767</guid>
-    </item>
-    <item>
-      <title>Vendipunktur í íslenskri netverslun. Áhrif samkomutakmarkana í heimsfaraldrinum á netverslun  Íslendinga</title>
-      <link>https://skemman.is/handle/1946/45761</link>
-      <description>Vendipunktur í íslenskri netverslun. Áhrif samkomutakmarkana í heimsfaraldrinum á netverslun  Íslendinga - Andri Steinn Harðarson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45761</guid>
     </item>
   </channel>
 </rss>
