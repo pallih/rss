@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 13 Sep 2023 10:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 11:00:23 +0000</lastBuildDate>
     <item>
       <title>Óbundin hlutfallskosning til sveitarstjórna. Pólitískar eða samfélagslegar áherslur?</title>
       <link>https://skemman.is/handle/1946/45804</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/45807</link>
       <description>"Beikonpakkinn í vegankælinum" Hvatar og upplifanir grænkera í daglegu lífi - Margrét Adolfsdóttir 1966-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45807</guid>
+    </item>
+    <item>
+      <title>Tengsl milli hvatvísrar kauphegðunar og persónuleika neytenda</title>
+      <link>https://skemman.is/handle/1946/45808</link>
+      <description>Tengsl milli hvatvísrar kauphegðunar og persónuleika neytenda - Hanna Lára Jóhannsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45808</guid>
     </item>
     <item>
       <title>„Ég held að allir séu bara að gera sitt besta alls staðar“: Reynsla einstaklinga sem starfa með flóttafólki og umsækjendum um alþjóðlega vernd á Íslandi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45762</link>
       <description>Ráð hef ég kennd í kvæði: Spakmæli, sálmar og fljúgandi furðuhlutir í handritinu AM 427 12mo - Guðrún Brjánsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45762</guid>
-    </item>
-    <item>
-      <title>Sýn miðaldakonunganna í norðri</title>
-      <link>https://skemman.is/handle/1946/45766</link>
-      <description>Sýn miðaldakonunganna í norðri - Guðrún Erla Sigurðardóttir 1957-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45766</guid>
     </item>
   </channel>
 </rss>
