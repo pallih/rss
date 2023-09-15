@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 15 Sep 2023 12:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 13:01:38 +0000</lastBuildDate>
     <item>
       <title>Eftirspurnardrifnar almenningssamgöngur á höfuðborgarsvæðinu. Þróun á pöntunarþjónustu í Gufunesi og Grafarvogi</title>
       <link>https://skemman.is/handle/1946/45813</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/45815</link>
       <description>“Empowerment Is Not Just a Phrase – It Is Lived” Introducing Kaizen to Software Development Teams: An LS Retail Case Study - Jónatan Þór Halldórsson 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45815</guid>
+    </item>
+    <item>
+      <title>Vinnustaðamenning Kletts</title>
+      <link>https://skemman.is/handle/1946/45816</link>
+      <description>Vinnustaðamenning Kletts - Karen Knútsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45816</guid>
     </item>
     <item>
       <title>Assessing the Validity of the Food Frequency Questionnaire Used in the SAGA Cohort Study with a Special focus on Fish Consumption</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45791</link>
       <description>Fylgispekt neytenda í nútímasamfélagi. Forspárgildi og samband félagslegra tengsla, máttar rafræns umtals, félagslegs samanburðar og fylgispektar neytenda. - Erla Mjöll Tómasdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45791</guid>
-    </item>
-    <item>
-      <title>Project Mindset of Icelandic Entrepreneurs. “You make a plan… to deviate from it”</title>
-      <link>https://skemman.is/handle/1946/45793</link>
-      <description>Project Mindset of Icelandic Entrepreneurs. “You make a plan… to deviate from it” - Íris Dögg Jónsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45793</guid>
     </item>
   </channel>
 </rss>
