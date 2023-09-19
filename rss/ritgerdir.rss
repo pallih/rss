@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 19 Sep 2023 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 09:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Viðskiptaþvinganir og útflutningsverðmæti</title>
+      <link>https://skemman.is/handle/1946/45819</link>
+      <description>Viðskiptaþvinganir og útflutningsverðmæti - Bjarni Steinar Ottósson 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45819</guid>
+    </item>
     <item>
       <title>Greining á kassakerfisgögnum við Hagstofu Íslands. Er hægt að draga úr sóun í ferli kassakerfisgagna við útreikning á vísitölu neysluverðs?</title>
       <link>https://skemman.is/handle/1946/45817</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45801</link>
       <description>,,Þetta lendir oft á konunni''. Upplifun kvenkyns fjármálastjórnenda á íslenskum atvinnumarkaði. - Hildur Svava Sveinsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45801</guid>
-    </item>
-    <item>
-      <title>Strange Storytellers and Queer Characters: On Writing The Frozen Flame</title>
-      <link>https://skemman.is/handle/1946/45785</link>
-      <description>Strange Storytellers and Queer Characters: On Writing The Frozen Flame - Snorri Sigurðsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45785</guid>
     </item>
   </channel>
 </rss>
