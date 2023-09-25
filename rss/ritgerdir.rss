@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 24 Sep 2023 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2023 08:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Class Act - Engaging English Language Learners with Dramatic Techniques</title>
+      <link>https://skemman.is/handle/1946/45823</link>
+      <description>Class Act - Engaging English Language Learners with Dramatic Techniques - Ingibjörg Ásta Tómasdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45823</guid>
+    </item>
     <item>
       <title>Climate literacy: A Critical Factor in Promoting Pro-Climate Behavior.</title>
       <link>https://skemman.is/handle/1946/45822</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45798</link>
       <description>2021 Geldingadalir eruption:  Lava fountaining dynamics on 4 May - Jóna Sigurlína Pálmadóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45798</guid>
-    </item>
-    <item>
-      <title>„Þekking sem þarf að koma með inn í skólann, svona markaðsþekking“. Viðhorf skólameistara framhaldsskóla til markaðssetningar</title>
-      <link>https://skemman.is/handle/1946/45797</link>
-      <description>„Þekking sem þarf að koma með inn í skólann, svona markaðsþekking“. Viðhorf skólameistara framhaldsskóla til markaðssetningar - Ída M. Smáradóttir Berg 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45797</guid>
     </item>
   </channel>
 </rss>
