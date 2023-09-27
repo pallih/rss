@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 27 Sep 2023 08:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 09:00:37 +0000</lastBuildDate>
+    <item>
+      <title>Legacy effects of temperature alterations on microbial resistance and resilience to drying and rewetting</title>
+      <link>https://skemman.is/handle/1946/45827</link>
+      <description>Legacy effects of temperature alterations on microbial resistance and resilience to drying and rewetting - Franklin Harris 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45827</guid>
+    </item>
     <item>
       <title>Nutritional status of patients with Idiopathic pulmonary fibrosis (IPF)</title>
       <link>https://skemman.is/handle/1946/45825</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45793</link>
       <description>Project Mindset of Icelandic Entrepreneurs. “You make a plan… to deviate from it” - Íris Dögg Jónsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45793</guid>
-    </item>
-    <item>
-      <title>„Ég held að allir séu bara að gera sitt besta alls staðar“: Reynsla einstaklinga sem starfa með flóttafólki og umsækjendum um alþjóðlega vernd á Íslandi</title>
-      <link>https://skemman.is/handle/1946/45800</link>
-      <description>„Ég held að allir séu bara að gera sitt besta alls staðar“: Reynsla einstaklinga sem starfa með flóttafólki og umsækjendum um alþjóðlega vernd á Íslandi - Gyða Margrét Kristjánsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45800</guid>
     </item>
   </channel>
 </rss>
