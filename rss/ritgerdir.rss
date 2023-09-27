@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 27 Sep 2023 10:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 11:00:29 +0000</lastBuildDate>
     <item>
       <title>Legacy effects of temperature alterations on microbial resistance and resilience to drying and rewetting</title>
       <link>https://skemman.is/handle/1946/45827</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/45828</link>
       <description>Generation of Húsavík-Flatey Fault Rupture Models and Simulations of a Subsequent Tsunami - Jessica Morgan Wilder 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45828</guid>
+    </item>
+    <item>
+      <title>Corrosion testing of Casing Material in Simulated Super-Hot Deep Geothermal Well Environment</title>
+      <link>https://skemman.is/handle/1946/45829</link>
+      <description>Corrosion testing of Casing Material in Simulated Super-Hot Deep Geothermal Well Environment - María Ýr Þráinsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45829</guid>
+    </item>
+    <item>
+      <title>Common Lyapunov Functions for Switched Linear Systems: Computations and comparisons of numerical approaches</title>
+      <link>https://skemman.is/handle/1946/45830</link>
+      <description>Common Lyapunov Functions for Switched Linear Systems: Computations and comparisons of numerical approaches - Stefanía Andersen Aradóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45830</guid>
     </item>
     <item>
       <title>Nutritional status of patients with Idiopathic pulmonary fibrosis (IPF)</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45807</link>
       <description>"Beikonpakkinn í vegankælinum" Hvatar og upplifanir grænkera í daglegu lífi - Margrét Adolfsdóttir 1966-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45807</guid>
-    </item>
-    <item>
-      <title>Gender, Power, and Queerness in The Quiet American: History, Homosocial Bonding, and Voiceless Women</title>
-      <link>https://skemman.is/handle/1946/45809</link>
-      <description>Gender, Power, and Queerness in The Quiet American: History, Homosocial Bonding, and Voiceless Women - Andrés Andrésson 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45809</guid>
-    </item>
-    <item>
-      <title>Homeward Bound An Interdisciplinary Approach to The Development of Viking Age Identities</title>
-      <link>https://skemman.is/handle/1946/45806</link>
-      <description>Homeward Bound An Interdisciplinary Approach to The Development of Viking Age Identities - Honor Catherine Silvius 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45806</guid>
     </item>
   </channel>
 </rss>
