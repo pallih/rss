@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 28 Sep 2023 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 09:00:33 +0000</lastBuildDate>
     <item>
       <title>The state of cybersecurity vulnerability reporting in Iceland</title>
       <link>https://skemman.is/handle/1946/45832</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/45833</link>
       <description>Convergence of power series in several complex variables - Arngunnur Einarsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45833</guid>
+    </item>
+    <item>
+      <title>The Promise of Other Effective area-based Conservation Measures (OECM) to advance biodiversity conservation in Iceland</title>
+      <link>https://skemman.is/handle/1946/45834</link>
+      <description>The Promise of Other Effective area-based Conservation Measures (OECM) to advance biodiversity conservation in Iceland - Helga Hvanndal Björnsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45834</guid>
     </item>
     <item>
       <title>Slope processes inventory around the Torfajökull central volcano, South Iceland, using aerial photographs from 1958 to 2022</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45810</link>
       <description>How do we connect? The creation and maintenance of social capital in voluntary association of sports club in Iceland - Yu Xiang Zeng 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45810</guid>
-    </item>
-    <item>
-      <title>Hefur skipulagning verkefna áhrif á innleiðingu stefna? Í upphafi skal endinn skoða</title>
-      <link>https://skemman.is/handle/1946/45805</link>
-      <description>Hefur skipulagning verkefna áhrif á innleiðingu stefna? Í upphafi skal endinn skoða - Bryndís Pjetursdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45805</guid>
     </item>
   </channel>
 </rss>
