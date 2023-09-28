@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 28 Sep 2023 15:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 16:00:32 +0000</lastBuildDate>
     <item>
       <title>The state of cybersecurity vulnerability reporting in Iceland</title>
       <link>https://skemman.is/handle/1946/45832</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/45834</link>
       <description>The Promise of Other Effective area-based Conservation Measures (OECM) to advance biodiversity conservation in Iceland - Helga Hvanndal Björnsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45834</guid>
+    </item>
+    <item>
+      <title>Notkun tauganeta til að greina tvífara í textalýsingum hugbúnaðarþróunarvillna</title>
+      <link>https://skemman.is/handle/1946/45835</link>
+      <description>Notkun tauganeta til að greina tvífara í textalýsingum hugbúnaðarþróunarvillna - Kristófer Ásgeirsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45835</guid>
     </item>
     <item>
       <title>Slope processes inventory around the Torfajökull central volcano, South Iceland, using aerial photographs from 1958 to 2022</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45812</link>
       <description>Eitt sinn Íslendingur: Heimildamynd um átthagaþrá í lífi brottflutts Íslendings - Sylvía Lind J. Birkiland 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45812</guid>
-    </item>
-    <item>
-      <title>How do we connect? The creation and maintenance of social capital in voluntary association of sports club in Iceland</title>
-      <link>https://skemman.is/handle/1946/45810</link>
-      <description>How do we connect? The creation and maintenance of social capital in voluntary association of sports club in Iceland - Yu Xiang Zeng 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45810</guid>
     </item>
   </channel>
 </rss>
