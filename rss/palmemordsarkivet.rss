@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 04 Oct 2023 11:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2023 12:00:25 +0000</lastBuildDate>
+    <item>
+      <link>https://drive.google.com/file/d/17yuWPr-31_Vn3Hm3HeC9qKO8T_Lyz_mW/view?usp=drive_link</link>
+      <description>Tips till kvinnlig journalist på SVT Rapport om Grandbesökare och pistol</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/17yuWPr-31_Vn3Hm3HeC9qKO8T_Lyz_mW/view?usp=drive_link</guid>
+    </item>
+    <item>
+      <link>https://drive.google.com/file/d/1zXG10FLwCbw9tpsApRIcBFGpVSCujPzj/view?usp=drive_link</link>
+      <description>Förhör med person som förnekar inblandning i Mockfjärdsrånet</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1zXG10FLwCbw9tpsApRIcBFGpVSCujPzj/view?usp=drive_link</guid>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1dVBgw0JwQdBPRlbeCzdw2OMPobr0XTKd/view?usp=drive_link</link>
       <description>Livvakt Björn Söderbergs PM om Palmes aktiviteter på morgonen</description>
@@ -243,16 +253,6 @@
       <link>https://drive.google.com/file/d/1297as3eQQqlyaZi8zms4pB390WQg9WPJ/view?usp=drive_link</link>
       <description>Grandbesökare</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1297as3eQQqlyaZi8zms4pB390WQg9WPJ/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1fN4sUrqJw1Bxzk7nLv2vk_YaObcocYui/view?usp=drive_link</link>
-      <description>Grandvittne parkerade på Luntmakargatan och passerade mordplatsen och såg polisbil</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1fN4sUrqJw1Bxzk7nLv2vk_YaObcocYui/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/18pUYAwM3MSPcaOi9cz0vkqEMMKuy6GL2/view?usp=drive_link</link>
-      <description>Grandvittne</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/18pUYAwM3MSPcaOi9cz0vkqEMMKuy6GL2/view?usp=drive_link</guid>
     </item>
   </channel>
 </rss>
