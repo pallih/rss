@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Oct 2023 13:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 14:00:39 +0000</lastBuildDate>
     <item>
       <title>Variation in shoaling behavior in lake Mývatn threespine stickleback in relation to temperature and origin</title>
       <link>https://skemman.is/handle/1946/45851</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45866</guid>
     </item>
     <item>
+      <title>Missing data and multiple imputation: A sampling study with the SAGA cohort</title>
+      <link>https://skemman.is/handle/1946/45867</link>
+      <description>Missing data and multiple imputation: A sampling study with the SAGA cohort - Marín Dögg Bjarnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45867</guid>
+    </item>
+    <item>
       <title>Próffræðilegir eiginleikar íslenskrar þýðingar Bergen vinnufíknikvarðans (BWAS)</title>
       <link>https://skemman.is/handle/1946/45850</link>
       <description>Próffræðilegir eiginleikar íslenskrar þýðingar Bergen vinnufíknikvarðans (BWAS) - Snædís Gígja Snorradóttir 1992-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45836</link>
       <description>Bayesian spatial modeling of carbon content in Icelandic soil using R-INLA - Gylfi Snær Sigurðsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45836</guid>
-    </item>
-    <item>
-      <title>House of Care : a gate for integration and inclusion</title>
-      <link>https://skemman.is/handle/1946/45838</link>
-      <description>House of Care : a gate for integration and inclusion - Rami A. S. Mussa 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45838</guid>
     </item>
   </channel>
 </rss>
