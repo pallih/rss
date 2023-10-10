@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Oct 2023 16:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 17:00:31 +0000</lastBuildDate>
     <item>
       <title>Variation in shoaling behavior in lake Mývatn threespine stickleback in relation to temperature and origin</title>
       <link>https://skemman.is/handle/1946/45851</link>
@@ -111,6 +111,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45867</guid>
     </item>
     <item>
+      <title>The effects of water quality on the growth of lumpfish (Cyclopterus lumpus)</title>
+      <link>https://skemman.is/handle/1946/45868</link>
+      <description>The effects of water quality on the growth of lumpfish (Cyclopterus lumpus) - Amber Christina Monroe 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45868</guid>
+    </item>
+    <item>
       <title>Próffræðilegir eiginleikar íslenskrar þýðingar Bergen vinnufíknikvarðans (BWAS)</title>
       <link>https://skemman.is/handle/1946/45850</link>
       <description>Próffræðilegir eiginleikar íslenskrar þýðingar Bergen vinnufíknikvarðans (BWAS) - Snædís Gígja Snorradóttir 1992-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45837</link>
       <description>„Ég held þú getir ekki lifað án þess að vera skapandi“ : mikilvægi sköpunar í kennslustofunni og lífinu sjálfu - Ásthildur Ákadóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45837</guid>
-    </item>
-    <item>
-      <title>Bayesian spatial modeling of carbon content in Icelandic soil using R-INLA</title>
-      <link>https://skemman.is/handle/1946/45836</link>
-      <description>Bayesian spatial modeling of carbon content in Icelandic soil using R-INLA - Gylfi Snær Sigurðsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45836</guid>
     </item>
   </channel>
 </rss>
