@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Oct 2023 17:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 08:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Prognosis of whiplash-associated disorders following a car collision - A systematic review of prognostic factors</title>
+      <link>https://skemman.is/handle/1946/45869</link>
+      <description>Prognosis of whiplash-associated disorders following a car collision - A systematic review of prognostic factors - Védís Gissurardóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45869</guid>
+    </item>
     <item>
       <title>Variation in shoaling behavior in lake Mývatn threespine stickleback in relation to temperature and origin</title>
       <link>https://skemman.is/handle/1946/45851</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45846</link>
       <description>Mat á landgræðslu í Hítardal með Sentinel-2 gervitunglamyndum - Emil Snorri Árnason 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45846</guid>
-    </item>
-    <item>
-      <title>„Ég held þú getir ekki lifað án þess að vera skapandi“ : mikilvægi sköpunar í kennslustofunni og lífinu sjálfu</title>
-      <link>https://skemman.is/handle/1946/45837</link>
-      <description>„Ég held þú getir ekki lifað án þess að vera skapandi“ : mikilvægi sköpunar í kennslustofunni og lífinu sjálfu - Ásthildur Ákadóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45837</guid>
     </item>
   </channel>
 </rss>
