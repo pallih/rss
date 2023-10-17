@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 17 Oct 2023 11:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 12:01:01 +0000</lastBuildDate>
     <item>
       <title>Fundargerð 25. janúar 2022 - 1. fundur - Landskjörstjórn</title>
       <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
@@ -169,6 +169,18 @@
       <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
       <description>Fundargerð 27. apríl 2023 - 27. fundur</description>
       <guid isPermaLink="false">Fundargerð 27. apríl 2023 - 27. fundur</guid>
+    </item>
+    <item>
+      <title>Fundargerð 15. júní 2023 - 28. fundur - Landskjörstjórn</title>
+      <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
+      <description>Fundargerð 15. júní 2023 - 28. fundur</description>
+      <guid isPermaLink="false">Fundargerð 15. júní 2023 - 28. fundur</guid>
+    </item>
+    <item>
+      <title>Fundargerð 16. ágúst 2023 - 29. fundur - Landskjörstjórn</title>
+      <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
+      <description>Fundargerð 16. ágúst 2023 - 29. fundur</description>
+      <guid isPermaLink="false">Fundargerð 16. ágúst 2023 - 29. fundur</guid>
     </item>
   </channel>
 </rss>
