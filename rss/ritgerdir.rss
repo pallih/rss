@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 23 Oct 2023 08:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 09:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Túlkun staðlaðra samningsskilmála með hliðsjón af andskýringarreglu samningaréttar</title>
+      <link>https://skemman.is/handle/1946/45875</link>
+      <description>Túlkun staðlaðra samningsskilmála með hliðsjón af andskýringarreglu samningaréttar - Árni Svavar Johnsen 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45875</guid>
+    </item>
     <item>
       <title>Association Analysis of Significant Life Stressors and BMI with Frequentist and Bayesian Methodology, Approaches for Interaction Analysis Evaluated with Simulations</title>
       <link>https://skemman.is/handle/1946/45874</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45867</link>
       <description>Missing data and multiple imputation: A sampling study with the SAGA cohort - Marín Dögg Bjarnadóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45867</guid>
-    </item>
-    <item>
-      <title>Próffræðilegir eiginleikar íslenskrar þýðingar Bergen vinnufíknikvarðans (BWAS)</title>
-      <link>https://skemman.is/handle/1946/45850</link>
-      <description>Próffræðilegir eiginleikar íslenskrar þýðingar Bergen vinnufíknikvarðans (BWAS) - Snædís Gígja Snorradóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45850</guid>
     </item>
   </channel>
 </rss>
