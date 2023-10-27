@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Oct 2023 10:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2023 11:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Enhancing coastal migratory shorebird conservation through the Shorebird Stopover and Staging Habitat Quality Index (SSSHQI) : A proof of concept and pre-feasibility study</title>
+      <link>https://skemman.is/handle/1946/45876</link>
+      <description>Enhancing coastal migratory shorebird conservation through the Shorebird Stopover and Staging Habitat Quality Index (SSSHQI) : A proof of concept and pre-feasibility study - Luke Cuyler Miller 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45876</guid>
+    </item>
+    <item>
+      <title>Assessing community attitudes towards aquaculture and perceptions of equity : a case study from Seyðisfjörður, East Iceland</title>
+      <link>https://skemman.is/handle/1946/45877</link>
+      <description>Assessing community attitudes towards aquaculture and perceptions of equity : a case study from Seyðisfjörður, East Iceland - Kayla-Marie Kulczycki 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45877</guid>
+    </item>
     <item>
       <title>Túlkun staðlaðra samningsskilmála með hliðsjón af andskýringarreglu samningaréttar</title>
       <link>https://skemman.is/handle/1946/45875</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45864</link>
       <description>Improving the effectiveness of the marine protected area network in the Bay of Biscay - Angelica Bas Gomez 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45864</guid>
-    </item>
-    <item>
-      <title>The effects of water quality on the growth of lumpfish (Cyclopterus lumpus)</title>
-      <link>https://skemman.is/handle/1946/45868</link>
-      <description>The effects of water quality on the growth of lumpfish (Cyclopterus lumpus) - Amber Christina Monroe 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45868</guid>
-    </item>
-    <item>
-      <title>Missing data and multiple imputation: A sampling study with the SAGA cohort</title>
-      <link>https://skemman.is/handle/1946/45867</link>
-      <description>Missing data and multiple imputation: A sampling study with the SAGA cohort - Marín Dögg Bjarnadóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45867</guid>
     </item>
   </channel>
 </rss>
