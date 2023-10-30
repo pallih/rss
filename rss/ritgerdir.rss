@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 30 Oct 2023 13:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 14:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Study of horizontal geothermal heat pump systems for urban greenhouses in Quebec</title>
+      <link>https://skemman.is/handle/1946/45879</link>
+      <description>Study of horizontal geothermal heat pump systems for urban greenhouses in Quebec - Xavier Léveillée-Dallaire 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45879</guid>
+    </item>
     <item>
       <title>Innleiðing blágrænna ofanvatnslausna í miðbæ Reykjavíkur</title>
       <link>https://skemman.is/handle/1946/45878</link>
@@ -15,10 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45878</guid>
     </item>
     <item>
-      <title>Study of horizontal geothermal heat pump systems for urban greenhouses in Quebec</title>
-      <link>https://skemman.is/handle/1946/45879</link>
-      <description>Study of horizontal geothermal heat pump systems for urban greenhouses in Quebec - Xavier Léveillée-Dallaire 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45879</guid>
+      <title>Réttarheimildir Alþjóðavinnumálastofnunar : skuldbindingar aðildarríkja og framkvæmd á Íslandi</title>
+      <link>https://skemman.is/handle/1946/45880</link>
+      <description>Réttarheimildir Alþjóðavinnumálastofnunar : skuldbindingar aðildarríkja og framkvæmd á Íslandi - Sandra Heimisdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45880</guid>
     </item>
     <item>
       <title>Enhancing coastal migratory shorebird conservation through the Shorebird Stopover and Staging Habitat Quality Index (SSSHQI) : A proof of concept and pre-feasibility study</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45862</link>
       <description>"Change everything"? : the economy for the common good’s impacts on companies and communities and the potentials for regional development - Sophia Roland 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45862</guid>
-    </item>
-    <item>
-      <title>Marine operators’ perception towards the new proposed environmental regulation : a case study of Svalbard, Norway</title>
-      <link>https://skemman.is/handle/1946/45861</link>
-      <description>Marine operators’ perception towards the new proposed environmental regulation : a case study of Svalbard, Norway - Carol Lopez 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45861</guid>
     </item>
   </channel>
 </rss>
