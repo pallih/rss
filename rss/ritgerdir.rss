@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 31 Oct 2023 11:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 12:00:25 +0000</lastBuildDate>
     <item>
       <title>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara</title>
       <link>https://skemman.is/handle/1946/45897</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/45900</link>
       <description>„You are the one we seek“ : utilizing fantasy literature to engage teen readers in immersive reading - Auður Kristín Gunnarsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45900</guid>
+    </item>
+    <item>
+      <title>Self-compassion and mental health among Icelandic team sport athletes: A cross-sectional and longitudinal analysis</title>
+      <link>https://skemman.is/handle/1946/45901</link>
+      <description>Self-compassion and mental health among Icelandic team sport athletes: A cross-sectional and longitudinal analysis - Fríða Rún Einarsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45901</guid>
+    </item>
+    <item>
+      <title>Exploring gambling behavior and attitudes among college students in Iceland : gender perspective : does alcohol have an effect on gambling behavior?</title>
+      <link>https://skemman.is/handle/1946/45902</link>
+      <description>Exploring gambling behavior and attitudes among college students in Iceland : gender perspective : does alcohol have an effect on gambling behavior? - Ágúst Ármann 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45902</guid>
     </item>
     <item>
       <title>„Við viljum alltaf að barnið sé besta útgáfan af sjálfu sér“ : sérkennslustarf í leikskólum</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45884</link>
       <description>Snakker du dansk? : virkjum markmálið í tungumálakennslu - Helga Hrafnsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45884</guid>
-    </item>
-    <item>
-      <title>Enhancing coastal migratory shorebird conservation through the Shorebird Stopover and Staging Habitat Quality Index (SSSHQI) : A proof of concept and pre-feasibility study</title>
-      <link>https://skemman.is/handle/1946/45876</link>
-      <description>Enhancing coastal migratory shorebird conservation through the Shorebird Stopover and Staging Habitat Quality Index (SSSHQI) : A proof of concept and pre-feasibility study - Luke Cuyler Miller 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45876</guid>
-    </item>
-    <item>
-      <title>Assessing community attitudes towards aquaculture and perceptions of equity : a case study from Seyðisfjörður, East Iceland</title>
-      <link>https://skemman.is/handle/1946/45877</link>
-      <description>Assessing community attitudes towards aquaculture and perceptions of equity : a case study from Seyðisfjörður, East Iceland - Kayla-Marie Kulczycki 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45877</guid>
     </item>
   </channel>
 </rss>
