@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 31 Oct 2023 15:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 16:00:29 +0000</lastBuildDate>
     <item>
       <title>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara</title>
       <link>https://skemman.is/handle/1946/45897</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45912</guid>
     </item>
     <item>
+      <title>What are the factors affecting consumer purchase decision in Chinese social media from an Elaboration Likelihood Model perspective : a case study of "Little Red Book" with virtual community features</title>
+      <link>https://skemman.is/handle/1946/45913</link>
+      <description>What are the factors affecting consumer purchase decision in Chinese social media from an Elaboration Likelihood Model perspective : a case study of "Little Red Book" with virtual community features - Zhouyan Ni 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45913</guid>
+    </item>
+    <item>
       <title>„Við viljum alltaf að barnið sé besta útgáfan af sjálfu sér“ : sérkennslustarf í leikskólum</title>
       <link>https://skemman.is/handle/1946/45896</link>
       <description>„Við viljum alltaf að barnið sé besta útgáfan af sjálfu sér“ : sérkennslustarf í leikskólum - Unnur Elva Traustadóttir 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45889</link>
       <description>Leisure gamers : a course designed to help teenagers struggling with excessive video game usage - Þráinn Skagfjörð Héðinsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45889</guid>
-    </item>
-    <item>
-      <title>Study of horizontal geothermal heat pump systems for urban greenhouses in Quebec</title>
-      <link>https://skemman.is/handle/1946/45879</link>
-      <description>Study of horizontal geothermal heat pump systems for urban greenhouses in Quebec - Xavier Léveillée-Dallaire 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45879</guid>
     </item>
   </channel>
 </rss>
