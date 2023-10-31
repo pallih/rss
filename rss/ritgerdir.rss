@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 31 Oct 2023 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 13:01:32 +0000</lastBuildDate>
     <item>
       <title>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara</title>
       <link>https://skemman.is/handle/1946/45897</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/45902</link>
       <description>Exploring gambling behavior and attitudes among college students in Iceland : gender perspective : does alcohol have an effect on gambling behavior? - Ágúst Ármann 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45902</guid>
+    </item>
+    <item>
+      <title>The impact of artificial intelligence on HRM : from icelandic HR perspectives</title>
+      <link>https://skemman.is/handle/1946/45903</link>
+      <description>The impact of artificial intelligence on HRM : from icelandic HR perspectives - Elín Guðrún Þorleifsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45903</guid>
     </item>
     <item>
       <title>„Við viljum alltaf að barnið sé besta útgáfan af sjálfu sér“ : sérkennslustarf í leikskólum</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45882</link>
       <description>Treatment of fear of medical procedures in children with intellectual disabilities and autism - Viky Seguin-Deneault 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45882</guid>
-    </item>
-    <item>
-      <title>Snakker du dansk? : virkjum markmálið í tungumálakennslu</title>
-      <link>https://skemman.is/handle/1946/45884</link>
-      <description>Snakker du dansk? : virkjum markmálið í tungumálakennslu - Helga Hrafnsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45884</guid>
     </item>
   </channel>
 </rss>
