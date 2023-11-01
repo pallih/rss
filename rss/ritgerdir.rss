@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 01 Nov 2023 13:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 14:01:00 +0000</lastBuildDate>
     <item>
       <title>The relationship between ESG performance and stock price crashes : evidence from the United States energy industry</title>
       <link>https://skemman.is/handle/1946/45914</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/45915</link>
       <description>The impact of ESG ratings on financial distress : a study of the aviation industry - Friðrik Magnússon 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45915</guid>
+    </item>
+    <item>
+      <title>Lærum saman á umhverfið : er útikennsla mikilvæg í leikskólum?</title>
+      <link>https://skemman.is/handle/1946/45916</link>
+      <description>Lærum saman á umhverfið : er útikennsla mikilvæg í leikskólum? - Berglind Guðmundsdóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45916</guid>
     </item>
     <item>
       <title>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45893</link>
       <description>Student satisfaction in a HyFlex course in higher education - Robert Tasker 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45893</guid>
-    </item>
-    <item>
-      <title>Markaðslegar aðgerðir í loftslagsmálum</title>
-      <link>https://skemman.is/handle/1946/45894</link>
-      <description>Markaðslegar aðgerðir í loftslagsmálum - Birkir Már Þrastarson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45894</guid>
     </item>
   </channel>
 </rss>
