@@ -7,11 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 01 Nov 2023 09:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 10:00:27 +0000</lastBuildDate>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2874-2023-117</link>
+      <description>Verðlagsstofa skiptaverðs 2023-117 - 1995-2021</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2874-2023-117</guid>
+    </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2875-0001-014</link>
       <description>Bifreiða- og raftækjaeinkasala ríkisins 1-014 - 1930-1951</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2875-0001-014</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1584-2023-120</link>
+      <description>Landspítali 2023-120 - 1989-2008</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-1584-2023-120</guid>
     </item>
   </channel>
 </rss>
