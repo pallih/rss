@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 01 Nov 2023 14:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 15:00:32 +0000</lastBuildDate>
     <item>
       <title>The relationship between ESG performance and stock price crashes : evidence from the United States energy industry</title>
       <link>https://skemman.is/handle/1946/45914</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/45916</link>
       <description>Lærum saman á umhverfið : er útikennsla mikilvæg í leikskólum? - Berglind Guðmundsdóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45916</guid>
+    </item>
+    <item>
+      <title>Structural design of waste-thermoplastic wind turbine blade</title>
+      <link>https://skemman.is/handle/1946/45917</link>
+      <description>Structural design of waste-thermoplastic wind turbine blade - Akpoviroro Akpoghor 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45917</guid>
+    </item>
+    <item>
+      <title>Experimental analysis of vertical axis wind turbine fouling in dusty environments</title>
+      <link>https://skemman.is/handle/1946/45918</link>
+      <description>Experimental analysis of vertical axis wind turbine fouling in dusty environments - Maxon Montstream Quas 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45918</guid>
     </item>
     <item>
       <title>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45892</link>
       <description>Að styðja við börnin mín í veikindum föður þeirra : sjálfs-etnógrafía móður - Inga Helga Sveinsdóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45892</guid>
-    </item>
-    <item>
-      <title>Hópefli í kennslu sem forvörn gegn einelti : kennsluefni fyrir hópefli</title>
-      <link>https://skemman.is/handle/1946/45895</link>
-      <description>Hópefli í kennslu sem forvörn gegn einelti : kennsluefni fyrir hópefli - Sunneva Mist Ingvarsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45895</guid>
-    </item>
-    <item>
-      <title>Student satisfaction in a HyFlex course in higher education</title>
-      <link>https://skemman.is/handle/1946/45893</link>
-      <description>Student satisfaction in a HyFlex course in higher education - Robert Tasker 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45893</guid>
     </item>
   </channel>
 </rss>
