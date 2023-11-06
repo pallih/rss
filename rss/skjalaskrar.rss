@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 06 Nov 2023 14:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 15:00:29 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2874-2023-117</link>
       <description>Verðlagsstofa skiptaverðs 2023-117 - 1995-2021</description>
@@ -57,6 +57,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2910-2004-035</link>
       <description>Jónmundur Ólafsson (1906-1989) kjötmatsformaður 2004-035 - 1917-1983</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2910-2004-035</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2911-1992-041</link>
+      <description>Rafn Jónsson (1911-1994) tannlæknir 1992-041 - 1942-1990</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2911-1992-041</guid>
     </item>
   </channel>
 </rss>
