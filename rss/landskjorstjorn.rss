@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 09 Nov 2023 14:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 15:00:57 +0000</lastBuildDate>
     <item>
       <title>Fundargerð 25. janúar 2022 - 1. fundur - Landskjörstjórn</title>
       <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
@@ -187,6 +187,30 @@
       <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
       <description>Fundargerð 24. ágúst - 30. fundur</description>
       <guid isPermaLink="false">Fundargerð 24. ágúst - 30. fundur</guid>
+    </item>
+    <item>
+      <title>Fundargerð 28. september - 31. fundur - Landskjörstjórn</title>
+      <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
+      <description>Fundargerð 28. september - 31. fundur</description>
+      <guid isPermaLink="false">Fundargerð 28. september - 31. fundur</guid>
+    </item>
+    <item>
+      <title>Fundargerð 17. október - 32. fundur - Landskjörstjórn</title>
+      <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
+      <description>Fundargerð 17. október - 32. fundur</description>
+      <guid isPermaLink="false">Fundargerð 17. október - 32. fundur</guid>
+    </item>
+    <item>
+      <title>Fundur 19. október - 33. fundur - Landskjörstjórn</title>
+      <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
+      <description>Fundur 19. október - 33. fundur</description>
+      <guid isPermaLink="false">Fundur 19. október - 33. fundur</guid>
+    </item>
+    <item>
+      <title>Fundur 26. október - 34. fundur - Landskjörstjórn</title>
+      <link>https://island.is/s/landskjorstjorn/fundargerdir-landskjorstjornar</link>
+      <description>Fundur 26. október - 34. fundur</description>
+      <guid isPermaLink="false">Fundur 26. október - 34. fundur</guid>
     </item>
   </channel>
 </rss>
