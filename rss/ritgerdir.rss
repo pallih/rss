@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 10 Nov 2023 13:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 14:00:35 +0000</lastBuildDate>
+    <item>
+      <title>Upplýsingaskylda vegna innherjaupplýsinga á heildsöluorkumarkaði</title>
+      <link>https://skemman.is/handle/1946/45938</link>
+      <description>Upplýsingaskylda vegna innherjaupplýsinga á heildsöluorkumarkaði - Ninna Ýr Sigurðardóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45938</guid>
+    </item>
     <item>
       <title>Sami people´s fishing rights at the international, regional and national level : institutional and legislative framework</title>
       <link>https://skemman.is/handle/1946/45937</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45916</link>
       <description>Lærum saman á umhverfið : er útikennsla mikilvæg í leikskólum? - Berglind Guðmundsdóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45916</guid>
-    </item>
-    <item>
-      <title>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara</title>
-      <link>https://skemman.is/handle/1946/45897</link>
-      <description>Að vinna með eigið hugvit á skapandi hátt : starfendarannsókn smíða- og nýsköpunarkennara - Kristín Erla Ingimarsdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45897</guid>
     </item>
   </channel>
 </rss>
