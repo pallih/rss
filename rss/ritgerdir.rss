@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Nov 2023 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 15:00:25 +0000</lastBuildDate>
     <item>
       <title>Ungar flóttakonur frá Mið-Austurlöndum og komandi fullorðinsár: Kögunaryfirlit yfir stöðu þekkingar</title>
       <link>https://skemman.is/handle/1946/45941</link>
       <description>Ungar flóttakonur frá Mið-Austurlöndum og komandi fullorðinsár: Kögunaryfirlit yfir stöðu þekkingar - Stella Beekman 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45941</guid>
+    </item>
+    <item>
+      <title>Hafnarsvæði á Íslandi. Þróun, hnignun og uppbygging</title>
+      <link>https://skemman.is/handle/1946/45942</link>
+      <description>Hafnarsvæði á Íslandi. Þróun, hnignun og uppbygging - Guðlaugur Darri Pétursson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45942</guid>
+    </item>
+    <item>
+      <title>Fjölmenning og kirkjugarðar Forsendur fyrir hönnun og skipulag kirkjugarða</title>
+      <link>https://skemman.is/handle/1946/45943</link>
+      <description>Fjölmenning og kirkjugarðar Forsendur fyrir hönnun og skipulag kirkjugarða - Margrét Valdimarsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45943</guid>
     </item>
     <item>
       <title>„Við vitum að þörfin er til staðar“ Þarfagreining á kvennaathvarfi fyrir konur með alvarlegan vímuefnavanda</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45932</link>
       <description>ÍR frístund : meiri hreyfing og betri næring - Sandra Ösp Andrésdóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45932</guid>
-    </item>
-    <item>
-      <title>The relationship between ESG performance and stock price crashes : evidence from the United States energy industry</title>
-      <link>https://skemman.is/handle/1946/45914</link>
-      <description>The relationship between ESG performance and stock price crashes : evidence from the United States energy industry - María Rós Magnúsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45914</guid>
-    </item>
-    <item>
-      <title>Structural design of waste-thermoplastic wind turbine blade</title>
-      <link>https://skemman.is/handle/1946/45917</link>
-      <description>Structural design of waste-thermoplastic wind turbine blade - Akpoviroro Akpoghor 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45917</guid>
     </item>
   </channel>
 </rss>
