@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Nov 2023 17:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2023 08:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Ungar flóttakonur frá Mið-Austurlöndum og komandi fullorðinsár: Kögunaryfirlit yfir stöðu þekkingar</title>
+      <link>https://skemman.is/handle/1946/45941</link>
+      <description>Ungar flóttakonur frá Mið-Austurlöndum og komandi fullorðinsár: Kögunaryfirlit yfir stöðu þekkingar - Stella Beekman 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45941</guid>
+    </item>
     <item>
       <title>„Við vitum að þörfin er til staðar“ Þarfagreining á kvennaathvarfi fyrir konur með alvarlegan vímuefnavanda</title>
       <link>https://skemman.is/handle/1946/45940</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45917</link>
       <description>Structural design of waste-thermoplastic wind turbine blade - Akpoviroro Akpoghor 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45917</guid>
-    </item>
-    <item>
-      <title>Experimental analysis of vertical axis wind turbine fouling in dusty environments</title>
-      <link>https://skemman.is/handle/1946/45918</link>
-      <description>Experimental analysis of vertical axis wind turbine fouling in dusty environments - Maxon Montstream Quas 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45918</guid>
     </item>
   </channel>
 </rss>
