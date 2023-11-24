@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Nov 2023 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 08:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Samkenndarþreyta og samkenndarsátt meðal félagsráðgjafa</title>
+      <link>https://skemman.is/handle/1946/45944</link>
+      <description>Samkenndarþreyta og samkenndarsátt meðal félagsráðgjafa - Jette Magnea Jónsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45944</guid>
+    </item>
+    <item>
+      <title>Tilraunaverkefni í fjarheilbrigðisþjónustu: Áhrif og mögulegur ávinningur að mati notenda og starfsfólks</title>
+      <link>https://skemman.is/handle/1946/45945</link>
+      <description>Tilraunaverkefni í fjarheilbrigðisþjónustu: Áhrif og mögulegur ávinningur að mati notenda og starfsfólks - Lára Guðrún Leifsdóttir Bachmann 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45945</guid>
+    </item>
     <item>
       <title>Ungar flóttakonur frá Mið-Austurlöndum og komandi fullorðinsár: Kögunaryfirlit yfir stöðu þekkingar</title>
       <link>https://skemman.is/handle/1946/45941</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45934</link>
       <description>"Suma daga nær maður ekki höfðinu upp úr vatninu" : reynsla hjúkrunarfræðinga af starfi teymisstjóra í heimahjúkrun - Sunna Kristinsdóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45934</guid>
-    </item>
-    <item>
-      <title>Heilsulæsi eldri einstaklinga og áhrifaþættir</title>
-      <link>https://skemman.is/handle/1946/45931</link>
-      <description>Heilsulæsi eldri einstaklinga og áhrifaþættir - Ólöf Birna Sveinsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45931</guid>
-    </item>
-    <item>
-      <title>ÍR frístund : meiri hreyfing og betri næring</title>
-      <link>https://skemman.is/handle/1946/45932</link>
-      <description>ÍR frístund : meiri hreyfing og betri næring - Sandra Ösp Andrésdóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45932</guid>
     </item>
   </channel>
 </rss>
