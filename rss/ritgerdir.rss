@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 28 Nov 2023 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 12:00:24 +0000</lastBuildDate>
     <item>
       <title>„Sorgin á eftir að fylgja þeim um ókomna tíð“ Reynsla eftirlifandi foreldra af stuðningi frá grunnskóla barns  í kjölfar foreldramissis</title>
       <link>https://skemman.is/handle/1946/45965</link>
@@ -81,6 +81,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45975</guid>
     </item>
     <item>
+      <title>Reynsla af fóstri: Aðdragandi fósturráðstöfunar og upplifun fyrrum fósturbarna af afskiptum barnaverndaryfirvalda</title>
+      <link>https://skemman.is/handle/1946/45976</link>
+      <description>Reynsla af fóstri: Aðdragandi fósturráðstöfunar og upplifun fyrrum fósturbarna af afskiptum barnaverndaryfirvalda - Heiður Sævarsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45976</guid>
+    </item>
+    <item>
       <title>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings.</title>
       <link>https://skemman.is/handle/1946/45952</link>
       <description>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings. - Nína Eck 1995-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45961</link>
       <description>Lífsgæði einstaklinga sem fá viðhaldsmeðferð í læknisfræðilegum tilgangi - skaðaminnkandi lyfjameðferð - Aníta Runólfsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45961</guid>
-    </item>
-    <item>
-      <title>,,Við lifum í dag en á morgun hver veit“. Upplifun og reynsla aðstandenda eftir skyndilegt andlát ástvinar</title>
-      <link>https://skemman.is/handle/1946/45956</link>
-      <description>,,Við lifum í dag en á morgun hver veit“. Upplifun og reynsla aðstandenda eftir skyndilegt andlát ástvinar - Bergþóra Ingþórsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45956</guid>
     </item>
   </channel>
 </rss>
