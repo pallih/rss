@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 28 Nov 2023 13:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 14:00:25 +0000</lastBuildDate>
     <item>
       <title>„Sorgin á eftir að fylgja þeim um ókomna tíð“ Reynsla eftirlifandi foreldra af stuðningi frá grunnskóla barns  í kjölfar foreldramissis</title>
       <link>https://skemman.is/handle/1946/45965</link>
@@ -87,6 +87,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45976</guid>
     </item>
     <item>
+      <title>Starf umsjónarkennara í grunnskólum „Maður er náttúrulega með erfiða einstaklinga og maður getur líka verið með alveg ótrúlega erfiða foreldra“</title>
+      <link>https://skemman.is/handle/1946/45977</link>
+      <description>Starf umsjónarkennara í grunnskólum „Maður er náttúrulega með erfiða einstaklinga og maður getur líka verið með alveg ótrúlega erfiða foreldra“ - Laufey Rún Harðardóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45977</guid>
+    </item>
+    <item>
       <title>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings.</title>
       <link>https://skemman.is/handle/1946/45952</link>
       <description>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings. - Nína Eck 1995-</description>
@@ -123,12 +129,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45954</guid>
     </item>
     <item>
-      <title>„Þetta var alvarlegt áfall fyrir marga“: Efnahagsleg og sálfélagsleg áhrif samkomutakmarkana á einhleypa foreldra í kórónuveirufaraldrinum</title>
-      <link>https://skemman.is/handle/1946/45957</link>
-      <description>„Þetta var alvarlegt áfall fyrir marga“: Efnahagsleg og sálfélagsleg áhrif samkomutakmarkana á einhleypa foreldra í kórónuveirufaraldrinum - Rebekka Ýr Sigurþórsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45957</guid>
-    </item>
-    <item>
       <title>„Barnabörnin eru bara skemmtilegasta fólk sem ég þekki“: Aðkoma afa að umönnunarbilinu</title>
       <link>https://skemman.is/handle/1946/45962</link>
       <description>„Barnabörnin eru bara skemmtilegasta fólk sem ég þekki“: Aðkoma afa að umönnunarbilinu - Einar Aron Fjalarsson Fossberg 1996-</description>
@@ -141,12 +141,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45963</guid>
     </item>
     <item>
-      <title>„Samráð á góðan hátt“ Aðdragandi og undirbúningur að lögum um samþætta þjónustu í þágu farsældar barna</title>
-      <link>https://skemman.is/handle/1946/45958</link>
-      <description>„Samráð á góðan hátt“ Aðdragandi og undirbúningur að lögum um samþætta þjónustu í þágu farsældar barna - Ásthildur Kristín Björnsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45958</guid>
-    </item>
-    <item>
       <title>Frá skólaforðun til farsældar: Þverfagleg teymisvinna við úrlausn mála innan skólakerfa</title>
       <link>https://skemman.is/handle/1946/45960</link>
       <description>Frá skólaforðun til farsældar: Þverfagleg teymisvinna við úrlausn mála innan skólakerfa - Birta Rún Ingimundardóttir 1999-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/45961</link>
       <description>Lífsgæði einstaklinga sem fá viðhaldsmeðferð í læknisfræðilegum tilgangi - skaðaminnkandi lyfjameðferð - Aníta Runólfsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45961</guid>
+    </item>
+    <item>
+      <title>,,Við lifum í dag en á morgun hver veit“. Upplifun og reynsla aðstandenda eftir skyndilegt andlát ástvinar</title>
+      <link>https://skemman.is/handle/1946/45956</link>
+      <description>,,Við lifum í dag en á morgun hver veit“. Upplifun og reynsla aðstandenda eftir skyndilegt andlát ástvinar - Bergþóra Ingþórsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45956</guid>
     </item>
   </channel>
 </rss>
