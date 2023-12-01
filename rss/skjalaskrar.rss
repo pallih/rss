@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 01 Dec 2023 13:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 14:00:29 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2906-2004-021</link>
       <description>Slippfélagið í Reykjavík hf 2004-021 - 1917-1982</description>
@@ -102,6 +102,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2511-2021-081</link>
       <description>Heilsugæslustöðin á Dalvík 2021-081 - 1945-2018</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2511-2021-081</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2923-2011-081</link>
+      <description>Svæðisskrifstofa málefna fatlaðra Reykjanesi 2011-081 - 1963-2011</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2923-2011-081</guid>
     </item>
   </channel>
 </rss>
