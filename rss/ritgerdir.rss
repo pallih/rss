@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 07 Dec 2023 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 12:00:23 +0000</lastBuildDate>
     <item>
       <title>Stafræn stjórnsýsla við framkvæmd landbúnaðarstefnu. Mat á áhrifum stafrænnar umbreytingar á framkvæmd búvörusamninga</title>
       <link>https://skemman.is/handle/1946/45982</link>
       <description>Stafræn stjórnsýsla við framkvæmd landbúnaðarstefnu. Mat á áhrifum stafrænnar umbreytingar á framkvæmd búvörusamninga - Jón Baldur Lorange 1964-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45982</guid>
+    </item>
+    <item>
+      <title>Hugtakið allsherjarregla og beiting þess við brottvísun EES borgara</title>
+      <link>https://skemman.is/handle/1946/45983</link>
+      <description>Hugtakið allsherjarregla og beiting þess við brottvísun EES borgara - Karen Inga Einarsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45983</guid>
     </item>
     <item>
       <title>Kynslóðaarfur kvenna „Ég bara vildi vera eins og þú - en þú veist ekkert hvers þú ert að óska þér“</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45954</link>
       <description>Áfallamiðuð nálgun í starfi með börnum: Frá sjónarhól kennara - Ásthildur Ósk Ragnarsdóttir 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45954</guid>
-    </item>
-    <item>
-      <title>„Barnabörnin eru bara skemmtilegasta fólk sem ég þekki“: Aðkoma afa að umönnunarbilinu</title>
-      <link>https://skemman.is/handle/1946/45962</link>
-      <description>„Barnabörnin eru bara skemmtilegasta fólk sem ég þekki“: Aðkoma afa að umönnunarbilinu - Einar Aron Fjalarsson Fossberg 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45962</guid>
     </item>
   </channel>
 </rss>
