@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 06 Dec 2023 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 08:00:33 +0000</lastBuildDate>
+    <item>
+      <title>Stafræn stjórnsýsla við framkvæmd landbúnaðarstefnu. Mat á áhrifum stafrænnar umbreytingar á framkvæmd búvörusamninga</title>
+      <link>https://skemman.is/handle/1946/45982</link>
+      <description>Stafræn stjórnsýsla við framkvæmd landbúnaðarstefnu. Mat á áhrifum stafrænnar umbreytingar á framkvæmd búvörusamninga - Jón Baldur Lorange 1964-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45982</guid>
+    </item>
     <item>
       <title>Kynslóðaarfur kvenna „Ég bara vildi vera eins og þú - en þú veist ekkert hvers þú ert að óska þér“</title>
       <link>https://skemman.is/handle/1946/45981</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45962</link>
       <description>„Barnabörnin eru bara skemmtilegasta fólk sem ég þekki“: Aðkoma afa að umönnunarbilinu - Einar Aron Fjalarsson Fossberg 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45962</guid>
-    </item>
-    <item>
-      <title>Með lífsánægju í lúkunum? Samspil lífsánægju, samfélagsmiðla og félagslegs umhverfis unglinga</title>
-      <link>https://skemman.is/handle/1946/45963</link>
-      <description>Með lífsánægju í lúkunum? Samspil lífsánægju, samfélagsmiðla og félagslegs umhverfis unglinga - Erna Lea Bergsteinsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45963</guid>
     </item>
   </channel>
 </rss>
