@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 11 Dec 2023 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 15:00:36 +0000</lastBuildDate>
+    <item>
+      <title>Húmor í Snorra-Eddu. Hlegið að ásum</title>
+      <link>https://skemman.is/handle/1946/45984</link>
+      <description>Húmor í Snorra-Eddu. Hlegið að ásum - Ihor Stakh 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45984</guid>
+    </item>
     <item>
       <title>Stafræn stjórnsýsla við framkvæmd landbúnaðarstefnu. Mat á áhrifum stafrænnar umbreytingar á framkvæmd búvörusamninga</title>
       <link>https://skemman.is/handle/1946/45982</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45950</link>
       <description>„Það er bara einhvern veginn eins og það sé ekkert verið að pæla í okkur“: Upplifun einstaklinga af því að eignast fóstursystkini á barnsaldri - Vigdís Lea Kjartansdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45950</guid>
-    </item>
-    <item>
-      <title>Áfallamiðuð nálgun í starfi með börnum: Frá sjónarhól kennara</title>
-      <link>https://skemman.is/handle/1946/45954</link>
-      <description>Áfallamiðuð nálgun í starfi með börnum: Frá sjónarhól kennara - Ásthildur Ósk Ragnarsdóttir 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45954</guid>
     </item>
   </channel>
 </rss>
