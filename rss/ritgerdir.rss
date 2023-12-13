@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 13 Dec 2023 10:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 11:00:24 +0000</lastBuildDate>
     <item>
       <title>Húmor í Snorra-Eddu. Hlegið að ásum</title>
       <link>https://skemman.is/handle/1946/45984</link>
@@ -63,12 +63,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45969</guid>
     </item>
     <item>
-      <title>„Öll þessi fósturbörn bera bakpoka með grjótum" Upplifun fósturforeldra sem hafa tekið að sér fósturbörn í tímabunda fósturvistun</title>
-      <link>https://skemman.is/handle/1946/45972</link>
-      <description>„Öll þessi fósturbörn bera bakpoka með grjótum" Upplifun fósturforeldra sem hafa tekið að sér fósturbörn í tímabunda fósturvistun - Hrönn Kristín Angantýsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45972</guid>
-    </item>
-    <item>
       <title>„Barn á bara að fá það sem það þarf": Reynsla fagfólks af þverfaglegri teymisvinnu þegar veita þarf snemmtækan stuðning</title>
       <link>https://skemman.is/handle/1946/45971</link>
       <description>„Barn á bara að fá það sem það þarf": Reynsla fagfólks af þverfaglegri teymisvinnu þegar veita þarf snemmtækan stuðning - Katrín Alda Bjarnadóttir 1996-</description>
@@ -99,12 +93,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45967</guid>
     </item>
     <item>
-      <title>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga.</title>
-      <link>https://skemman.is/handle/1946/45970</link>
-      <description>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga. - Helga Sólveig Jensdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45970</guid>
-    </item>
-    <item>
       <title>„Þau hurfu bara svolítið inn í sig sjálf“ Upplifun og reynsla eftirlifandi systkina</title>
       <link>https://skemman.is/handle/1946/45964</link>
       <description>„Þau hurfu bara svolítið inn í sig sjálf“ Upplifun og reynsla eftirlifandi systkina - Karen Elva Jónsdóttir 1993-</description>
@@ -117,12 +105,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45977</guid>
     </item>
     <item>
-      <title>Þvingaðir fólksflutningar. "Áfallastreitan sefur enn í mér"</title>
-      <link>https://skemman.is/handle/1946/45974</link>
-      <description>Þvingaðir fólksflutningar. "Áfallastreitan sefur enn í mér" - Katarina Sara Stojadinovic 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45974</guid>
-    </item>
-    <item>
       <title>„Þegar kemur að börnum sem hallar undan fæti hjá þarf samfélag.“ Hlutverk tengiliða í grunnskólum út frá lögum um samþættingu þjónustu í þágu farsældar barna nr. 86/2021</title>
       <link>https://skemman.is/handle/1946/45975</link>
       <description>„Þegar kemur að börnum sem hallar undan fæti hjá þarf samfélag.“ Hlutverk tengiliða í grunnskólum út frá lögum um samþættingu þjónustu í þágu farsældar barna nr. 86/2021 - Unnur Friðriksdóttir 1992-</description>
@@ -133,6 +115,24 @@
       <link>https://skemman.is/handle/1946/45976</link>
       <description>Reynsla af fóstri: Aðdragandi fósturráðstöfunar og upplifun fyrrum fósturbarna af afskiptum barnaverndaryfirvalda - Heiður Sævarsdóttir 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45976</guid>
+    </item>
+    <item>
+      <title>„Öll þessi fósturbörn bera bakpoka með grjótum": Upplifun fósturforeldra sem hafa tekið að sér fósturbörn í tímabunda fósturvistun</title>
+      <link>https://skemman.is/handle/1946/45972</link>
+      <description>„Öll þessi fósturbörn bera bakpoka með grjótum": Upplifun fósturforeldra sem hafa tekið að sér fósturbörn í tímabunda fósturvistun - Hrönn Kristín Angantýsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45972</guid>
+    </item>
+    <item>
+      <title>Þvingaðir fólksflutningar: "Áfallastreitan sefur enn í mér"</title>
+      <link>https://skemman.is/handle/1946/45974</link>
+      <description>Þvingaðir fólksflutningar: "Áfallastreitan sefur enn í mér" - Katarina Sara Stojadinovic 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45974</guid>
+    </item>
+    <item>
+      <title>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga.</title>
+      <link>https://skemman.is/handle/1946/45970</link>
+      <description>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga. - Helga Sólveig Jensdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45970</guid>
     </item>
     <item>
       <title>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings.</title>
