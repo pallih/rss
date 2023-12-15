@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 14 Dec 2023 17:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 08:00:30 +0000</lastBuildDate>
+    <item>
+      <title>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna</title>
+      <link>https://skemman.is/handle/1946/45987</link>
+      <description>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna - Þórunn Eva Sigurðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45987</guid>
+    </item>
+    <item>
+      <title>Hvenær stofnast skaðabótaskylda vegna vanræktrar upplýsingaskyldu seljanda í fasteignakaupum skv. 26. gr. laga nr. 40/2002?</title>
+      <link>https://skemman.is/handle/1946/45988</link>
+      <description>Hvenær stofnast skaðabótaskylda vegna vanræktrar upplýsingaskyldu seljanda í fasteignakaupum skv. 26. gr. laga nr. 40/2002? - Sólrún Lára Tryggvad. Flóvenz 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45988</guid>
+    </item>
     <item>
       <title>Restoring soils with organic soil amendments; A case study in Geitasandur, South Iceland.</title>
       <link>https://skemman.is/handle/1946/45985</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45970</link>
       <description>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga. - Helga Sólveig Jensdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45970</guid>
-    </item>
-    <item>
-      <title>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings.</title>
-      <link>https://skemman.is/handle/1946/45952</link>
-      <description>„Mér finnst við stundum einblína of mikið á að við vitum hvað er þeim fyrir bestu.“: Upplifun starfsfólks af innleiðingu jafningjastuðnings. - Nína Eck 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45952</guid>
-    </item>
-    <item>
-      <title>„Það var svo sem ekkert vandamál en þetta er eitthvað sem gagnkynhneigt fólk þarf ekki að ganga í gegnum“: Upplifun samkynja foreldra á fæðingar- og foreldraorlofi</title>
-      <link>https://skemman.is/handle/1946/45951</link>
-      <description>„Það var svo sem ekkert vandamál en þetta er eitthvað sem gagnkynhneigt fólk þarf ekki að ganga í gegnum“: Upplifun samkynja foreldra á fæðingar- og foreldraorlofi - Freyja Hrönn Friðriksdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45951</guid>
     </item>
   </channel>
 </rss>
