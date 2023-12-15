@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 15 Dec 2023 11:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 12:00:25 +0000</lastBuildDate>
     <item>
       <title>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna</title>
       <link>https://skemman.is/handle/1946/45987</link>
@@ -87,12 +87,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45978</guid>
     </item>
     <item>
-      <title>„Sorgin á eftir að fylgja þeim um ókomna tíð“ Reynsla eftirlifandi foreldra af stuðningi frá grunnskóla barns  í kjölfar foreldramissis</title>
-      <link>https://skemman.is/handle/1946/45965</link>
-      <description>„Sorgin á eftir að fylgja þeim um ókomna tíð“ Reynsla eftirlifandi foreldra af stuðningi frá grunnskóla barns  í kjölfar foreldramissis - Guðbjörg Elsa Björgvinsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45965</guid>
-    </item>
-    <item>
       <title>Einu stundirnar sem ég hef ekki áhyggjur er þegar hann situr inni eða er í meðferð: Upplifun og reynsla kvenna af því að eiga systkini með vímuefnaröskun</title>
       <link>https://skemman.is/handle/1946/45969</link>
       <description>Einu stundirnar sem ég hef ekki áhyggjur er þegar hann situr inni eða er í meðferð: Upplifun og reynsla kvenna af því að eiga systkini með vímuefnaröskun - Elsabet Ósk Harðardóttir 1994-</description>
@@ -129,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45967</guid>
     </item>
     <item>
-      <title>„Þau hurfu bara svolítið inn í sig sjálf“ Upplifun og reynsla eftirlifandi systkina</title>
-      <link>https://skemman.is/handle/1946/45964</link>
-      <description>„Þau hurfu bara svolítið inn í sig sjálf“ Upplifun og reynsla eftirlifandi systkina - Karen Elva Jónsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45964</guid>
-    </item>
-    <item>
       <title>Starf umsjónarkennara í grunnskólum „Maður er náttúrulega með erfiða einstaklinga og maður getur líka verið með alveg ótrúlega erfiða foreldra“</title>
       <link>https://skemman.is/handle/1946/45977</link>
       <description>Starf umsjónarkennara í grunnskólum „Maður er náttúrulega með erfiða einstaklinga og maður getur líka verið með alveg ótrúlega erfiða foreldra“ - Laufey Rún Harðardóttir 1997-</description>
@@ -157,6 +145,18 @@
       <link>https://skemman.is/handle/1946/45972</link>
       <description>„Öll þessi fósturbörn bera bakpoka með grjótum": Upplifun fósturforeldra sem hafa tekið að sér fósturbörn í tímabunda fósturvistun - Hrönn Kristín Angantýsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45972</guid>
+    </item>
+    <item>
+      <title>Þvingaðir fólksflutningar: "Áfallastreitan sefur enn í mér"</title>
+      <link>https://skemman.is/handle/1946/45974</link>
+      <description>Þvingaðir fólksflutningar: "Áfallastreitan sefur enn í mér" - Katarina Sara Stojadinovic 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45974</guid>
+    </item>
+    <item>
+      <title>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga.</title>
+      <link>https://skemman.is/handle/1946/45970</link>
+      <description>„Það er auðveldara að byggja upp og hjálpa fjölskyldum heldur en að laga þær“: Upplifun og væntingar barnaverndarstarfsmanna til farsældarlaga. - Helga Sólveig Jensdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45970</guid>
     </item>
   </channel>
 </rss>
