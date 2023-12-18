@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 18 Dec 2023 12:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 13:02:26 +0000</lastBuildDate>
     <item>
       <title>Eignaréttur á vindorku og takmarkanir á hagnýtingarrétti vegna hagsmuna nágranna</title>
       <link>https://skemman.is/handle/1946/45994</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/45996</link>
       <description>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð? - Bryndís Inga Árnadóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45996</guid>
+    </item>
+    <item>
+      <title>Réttarhöldin gegn Karli I</title>
+      <link>https://skemman.is/handle/1946/45997</link>
+      <description>Réttarhöldin gegn Karli I - Gunnar Óli Guðmundsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45997</guid>
     </item>
     <item>
       <title>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45965</link>
       <description>„Sorgin á eftir að fylgja þeim um ókomna tíð“ Reynsla eftirlifandi foreldra af stuðningi frá grunnskóla barns  í kjölfar foreldramissis - Guðbjörg Elsa Björgvinsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45965</guid>
-    </item>
-    <item>
-      <title>„Þau hurfu bara svolítið inn í sig sjálf“: Upplifun og reynsla eftirlifandi systkina</title>
-      <link>https://skemman.is/handle/1946/45964</link>
-      <description>„Þau hurfu bara svolítið inn í sig sjálf“: Upplifun og reynsla eftirlifandi systkina - Karen Elva Jónsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45964</guid>
     </item>
   </channel>
 </rss>
