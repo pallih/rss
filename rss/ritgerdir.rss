@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 20 Dec 2023 12:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 13:00:26 +0000</lastBuildDate>
     <item>
       <title>Áhrif barneigna á stöðu kynjanna á vinnumarkaði. Nægja fæðingarorlofslög til að tryggja jafnrétti á vinnumarkaði eftir barneignir?</title>
       <link>https://skemman.is/handle/1946/46000</link>
       <description>Áhrif barneigna á stöðu kynjanna á vinnumarkaði. Nægja fæðingarorlofslög til að tryggja jafnrétti á vinnumarkaði eftir barneignir? - Katrín Magnúsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46000</guid>
+    </item>
+    <item>
+      <title>Umdæmi barnaverndarþjónustu á Íslandi</title>
+      <link>https://skemman.is/handle/1946/46001</link>
+      <description>Umdæmi barnaverndarþjónustu á Íslandi - María Gunnarsdóttir 1970-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46001</guid>
     </item>
     <item>
       <title>„Það var svo sem ekkert vandamál en þetta er eitthvað sem gagnkynhneigt fólk þarf ekki að ganga í gegnum“: Upplifun samkynja foreldra á fæðingar- og foreldraorlofi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45969</link>
       <description>Einu stundirnar sem ég hef ekki áhyggjur er þegar hann situr inni eða er í meðferð: Upplifun og reynsla kvenna af því að eiga systkini með vímuefnaröskun - Elsabet Ósk Harðardóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45969</guid>
-    </item>
-    <item>
-      <title>„Það er mér mikill styrkur þegar ég hef félagsráðgjafann mér við hlið“: Reynsla kennara af störfum skólafélagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/45966</link>
-      <description>„Það er mér mikill styrkur þegar ég hef félagsráðgjafann mér við hlið“: Reynsla kennara af störfum skólafélagsráðgjafa - Sara Karen Hlynsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45966</guid>
     </item>
   </channel>
 </rss>
