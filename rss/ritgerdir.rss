@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 27 Dec 2023 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 12:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Studies in the Manuscript Transmission of Hrana saga hrings</title>
+      <link>https://skemman.is/handle/1946/46002</link>
+      <description>Studies in the Manuscript Transmission of Hrana saga hrings - Samara Evelyn Osburn 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46002</guid>
+    </item>
+    <item>
+      <title>System identification and finite element model updating of a neoclassical masonry structure in damaged and retrofitted states</title>
+      <link>https://skemman.is/handle/1946/46003</link>
+      <description>System identification and finite element model updating of a neoclassical masonry structure in damaged and retrofitted states - Dipendra Gautam 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46003</guid>
+    </item>
     <item>
       <title>Áhrif barneigna á stöðu kynjanna á vinnumarkaði. Nægja fæðingarorlofslög til að tryggja jafnrétti á vinnumarkaði eftir barneignir?</title>
       <link>https://skemman.is/handle/1946/46000</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45978</link>
       <description>Clean energy advocacy in Pennsylvania: Strategy insights from selected nonprofits - Caroline Anne Weiss 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45978</guid>
-    </item>
-    <item>
-      <title>Upplifun kvenna í frumkvöðlastörfum á vinnustofu Kjarvals: ,,...hver manneskja þar er tækifæri...‘‘</title>
-      <link>https://skemman.is/handle/1946/45979</link>
-      <description>Upplifun kvenna í frumkvöðlastörfum á vinnustofu Kjarvals: ,,...hver manneskja þar er tækifæri...‘‘ - Anna Björk Björgvinsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45979</guid>
-    </item>
-    <item>
-      <title>Einu stundirnar sem ég hef ekki áhyggjur er þegar hann situr inni eða er í meðferð: Upplifun og reynsla kvenna af því að eiga systkini með vímuefnaröskun</title>
-      <link>https://skemman.is/handle/1946/45969</link>
-      <description>Einu stundirnar sem ég hef ekki áhyggjur er þegar hann situr inni eða er í meðferð: Upplifun og reynsla kvenna af því að eiga systkini með vímuefnaröskun - Elsabet Ósk Harðardóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45969</guid>
     </item>
   </channel>
 </rss>
