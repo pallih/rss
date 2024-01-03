@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 Jan 2024 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 09:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Málsvörn siðfræðilegrar hughyggju</title>
+      <link>https://skemman.is/handle/1946/46011</link>
+      <description>Málsvörn siðfræðilegrar hughyggju - Helgi Freyr Ólafsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46011</guid>
+    </item>
+    <item>
+      <title>I hvor høj grad bruges kommunikative metoder i danskundervisningen? En undersøgelse af den kommunikative undervisning i dansk i islandske gymnasier</title>
+      <link>https://skemman.is/handle/1946/46012</link>
+      <description>I hvor høj grad bruges kommunikative metoder i danskundervisningen? En undersøgelse af den kommunikative undervisning i dansk i islandske gymnasier - Rósa Árnadóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46012</guid>
+    </item>
     <item>
       <title>Anion and Functional Group Induced Structural Modification of Lead(II) Complexes of Two Aza-Crown Ether Variants</title>
       <link>https://skemman.is/handle/1946/46006</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/45987</link>
       <description>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna - Þórunn Eva Sigurðardóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45987</guid>
-    </item>
-    <item>
-      <title>Hvenær stofnast skaðabótaskylda vegna vanræktrar upplýsingaskyldu seljanda í fasteignakaupum skv. 26. gr. laga nr. 40/2002?</title>
-      <link>https://skemman.is/handle/1946/45988</link>
-      <description>Hvenær stofnast skaðabótaskylda vegna vanræktrar upplýsingaskyldu seljanda í fasteignakaupum skv. 26. gr. laga nr. 40/2002? - Sólrún Lára Tryggvad. Flóvenz 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45988</guid>
-    </item>
-    <item>
-      <title>Restoring soils with organic soil amendments; A case study in Geitasandur, South Iceland.</title>
-      <link>https://skemman.is/handle/1946/45985</link>
-      <description>Restoring soils with organic soil amendments; A case study in Geitasandur, South Iceland. - Parnika Gupta 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45985</guid>
     </item>
   </channel>
 </rss>
