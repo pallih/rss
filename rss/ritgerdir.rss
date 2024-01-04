@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 Jan 2024 13:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 14:00:27 +0000</lastBuildDate>
     <item>
       <title>Rígurinn: Frá brothættum byggðum til borga</title>
       <link>https://skemman.is/handle/1946/46013</link>
@@ -25,6 +25,24 @@
       <link>https://skemman.is/handle/1946/46015</link>
       <description>„Við vitum öll að þessi unga kona lýgur“: Um gerendameðvirkni í skáldsögunni Brestir eftir Fredrik Backman - Hrafnhildur Emma Björnsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46015</guid>
+    </item>
+    <item>
+      <title>Sofðu Unga Ástin Mín: The Archaeology of Emotion in Child Burials at Skriðuklaustur Monastery</title>
+      <link>https://skemman.is/handle/1946/46016</link>
+      <description>Sofðu Unga Ástin Mín: The Archaeology of Emotion in Child Burials at Skriðuklaustur Monastery - Daníel Freyr Ívarsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46016</guid>
+    </item>
+    <item>
+      <title>Einn prestur og matráður: Kynhlutleysi, fjölvísanir og dýralíkingar í Stóra bróður</title>
+      <link>https://skemman.is/handle/1946/46017</link>
+      <description>Einn prestur og matráður: Kynhlutleysi, fjölvísanir og dýralíkingar í Stóra bróður - Auður Siemsen 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46017</guid>
+    </item>
+    <item>
+      <title>Pride and Prejudice and Personal Improvement: Jane Austen’s Moral Advocacy on Growing and Condemnation of Stagnating</title>
+      <link>https://skemman.is/handle/1946/46018</link>
+      <description>Pride and Prejudice and Personal Improvement: Jane Austen’s Moral Advocacy on Growing and Condemnation of Stagnating - Telma Björk Guðmundsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46018</guid>
     </item>
     <item>
       <title>I hvor høj grad bruges kommunikative metoder i danskundervisningen? En undersøgelse af den kommunikative undervisning i dansk i islandske gymnasier</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/45991</link>
       <description>Misneyting í skilningi 253. gr. almennra hegningarlaga nr. 19/1940. Með áherslu á bágindi - Gerður Ævarsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45991</guid>
-    </item>
-    <item>
-      <title>Kærunefnd útlendingamála: Gagnrýnin athugun á röksemdum fyrir sjálfstæði stjórnvaldsins með áherslu á hælismál</title>
-      <link>https://skemman.is/handle/1946/45992</link>
-      <description>Kærunefnd útlendingamála: Gagnrýnin athugun á röksemdum fyrir sjálfstæði stjórnvaldsins með áherslu á hælismál - Sara Mansour 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45992</guid>
-    </item>
-    <item>
-      <title>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð?</title>
-      <link>https://skemman.is/handle/1946/45996</link>
-      <description>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð? - Bryndís Inga Árnadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45996</guid>
-    </item>
-    <item>
-      <title>Réttarhöldin gegn Karli I</title>
-      <link>https://skemman.is/handle/1946/45997</link>
-      <description>Réttarhöldin gegn Karli I - Gunnar Óli Guðmundsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45997</guid>
     </item>
   </channel>
 </rss>
