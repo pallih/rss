@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 Jan 2024 08:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 09:00:24 +0000</lastBuildDate>
     <item>
-      <title>Málsvörn siðfræðilegrar hughyggju</title>
-      <link>https://skemman.is/handle/1946/46011</link>
-      <description>Málsvörn siðfræðilegrar hughyggju - Helgi Freyr Ólafsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46011</guid>
+      <title>Rígurinn: Frá brothættum byggðum til borga</title>
+      <link>https://skemman.is/handle/1946/46013</link>
+      <description>Rígurinn: Frá brothættum byggðum til borga - Hilda Jana Gísladóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46013</guid>
+    </item>
+    <item>
+      <title>Gamlar og nýjar götur á Reykjanesskaga</title>
+      <link>https://skemman.is/handle/1946/46014</link>
+      <description>Gamlar og nýjar götur á Reykjanesskaga - Helgi Valdimar Viðarsson Biering 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46014</guid>
+    </item>
+    <item>
+      <title>„Við vitum öll að þessi unga kona lýgur“: Um gerendameðvirkni í skáldsögunni Brestir eftir Fredrik Backman</title>
+      <link>https://skemman.is/handle/1946/46015</link>
+      <description>„Við vitum öll að þessi unga kona lýgur“: Um gerendameðvirkni í skáldsögunni Brestir eftir Fredrik Backman - Hrafnhildur Emma Björnsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46015</guid>
     </item>
     <item>
       <title>I hvor høj grad bruges kommunikative metoder i danskundervisningen? En undersøgelse af den kommunikative undervisning i dansk i islandske gymnasier</title>
@@ -21,10 +33,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46012</guid>
     </item>
     <item>
+      <title>Málsvörn siðfræðilegrar hughyggju</title>
+      <link>https://skemman.is/handle/1946/46011</link>
+      <description>Málsvörn siðfræðilegrar hughyggju - Helgi Freyr Ólafsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46011</guid>
+    </item>
+    <item>
+      <title>“Eso era lo que había”: Mujeres españolas en general y andaluzas en particular durante la dictadura franquista.</title>
+      <link>https://skemman.is/handle/1946/46009</link>
+      <description>“Eso era lo que había”: Mujeres españolas en general y andaluzas en particular durante la dictadura franquista. - Paula Vargas Álvarez 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46009</guid>
+    </item>
+    <item>
       <title>Anion and Functional Group Induced Structural Modification of Lead(II) Complexes of Two Aza-Crown Ether Variants</title>
       <link>https://skemman.is/handle/1946/46006</link>
       <description>Anion and Functional Group Induced Structural Modification of Lead(II) Complexes of Two Aza-Crown Ether Variants - Bjartur Brynjarsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46006</guid>
+    </item>
+    <item>
+      <title>Þróun í altaristöflugerð á Íslandi í upphafi 20. aldar með sérstöku tilliti til eftirmynda listmálarans Brynjólfs Þórðarsonar</title>
+      <link>https://skemman.is/handle/1946/46010</link>
+      <description>Þróun í altaristöflugerð á Íslandi í upphafi 20. aldar með sérstöku tilliti til eftirmynda listmálarans Brynjólfs Þórðarsonar - Hreinn Hákonarson 1952-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46010</guid>
     </item>
     <item>
       <title>Fisheries in Norway and Iceland: A comparative study</title>
@@ -37,18 +67,6 @@
       <link>https://skemman.is/handle/1946/46008</link>
       <description>Er það veikleiki að efast?  Trú, efi og sjálfsmynd mannsins í guðfræði Pauls Tillich - Egill Vignir Reynisson 1967-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46008</guid>
-    </item>
-    <item>
-      <title>“Eso era lo que había”: Mujeres españolas en general y andaluzas en particular durante la dictadura franquista.</title>
-      <link>https://skemman.is/handle/1946/46009</link>
-      <description>“Eso era lo que había”: Mujeres españolas en general y andaluzas en particular durante la dictadura franquista. - Paula Vargas Álvarez 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46009</guid>
-    </item>
-    <item>
-      <title>Þróun í altaristöflugerð á Íslandi í upphafi 20. aldar með sérstöku tilliti til eftirmynda listmálarans Brynjólfs Þórðarsonar</title>
-      <link>https://skemman.is/handle/1946/46010</link>
-      <description>Þróun í altaristöflugerð á Íslandi í upphafi 20. aldar með sérstöku tilliti til eftirmynda listmálarans Brynjólfs Þórðarsonar - Hreinn Hákonarson 1952-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46010</guid>
     </item>
     <item>
       <title>Þegar samfélaginu var raskað. Átök við útlendinga í íslenskum sögnum</title>
@@ -99,18 +117,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45999</guid>
     </item>
     <item>
-      <title>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð?</title>
-      <link>https://skemman.is/handle/1946/45996</link>
-      <description>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð? - Bryndís Inga Árnadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45996</guid>
-    </item>
-    <item>
-      <title>Réttarhöldin gegn Karli I</title>
-      <link>https://skemman.is/handle/1946/45997</link>
-      <description>Réttarhöldin gegn Karli I - Gunnar Óli Guðmundsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45997</guid>
-    </item>
-    <item>
       <title>Eignaréttur á vindorku og takmarkanir á hagnýtingarrétti vegna hagsmuna nágranna</title>
       <link>https://skemman.is/handle/1946/45994</link>
       <description>Eignaréttur á vindorku og takmarkanir á hagnýtingarrétti vegna hagsmuna nágranna - Stefnir Guðmundsson 1997-</description>
@@ -141,22 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/45992</guid>
     </item>
     <item>
-      <title>Skaðabætur innan samninga: Sönnun fasteignagalla á grundvelli ljósmynda</title>
-      <link>https://skemman.is/handle/1946/45989</link>
-      <description>Skaðabætur innan samninga: Sönnun fasteignagalla á grundvelli ljósmynda - Margrét Þ. Jónsdóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45989</guid>
+      <title>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð?</title>
+      <link>https://skemman.is/handle/1946/45996</link>
+      <description>Hvernig eru ráðherrar dregnir til ábyrgðar fyrir embættisfærslur sínar? Er nauðsynlegt að hafa sérstök lög um ráðherraábyrgð? - Bryndís Inga Árnadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45996</guid>
     </item>
     <item>
-      <title>Andskýringarreglan með áherslu á vátryggingasamninga</title>
-      <link>https://skemman.is/handle/1946/45990</link>
-      <description>Andskýringarreglan með áherslu á vátryggingasamninga - Dilara Rós Meyer 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45990</guid>
-    </item>
-    <item>
-      <title>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna</title>
-      <link>https://skemman.is/handle/1946/45987</link>
-      <description>Eðlileg leið til og frá vinnu. Álitaefni um slysatryggingar starfsmanna - Þórunn Eva Sigurðardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45987</guid>
+      <title>Réttarhöldin gegn Karli I</title>
+      <link>https://skemman.is/handle/1946/45997</link>
+      <description>Réttarhöldin gegn Karli I - Gunnar Óli Guðmundsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/45997</guid>
     </item>
   </channel>
 </rss>
