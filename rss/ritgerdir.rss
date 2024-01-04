@@ -7,30 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 Jan 2024 14:00:27 +0000</lastBuildDate>
-    <item>
-      <title>Rígurinn: Frá brothættum byggðum til borga</title>
-      <link>https://skemman.is/handle/1946/46013</link>
-      <description>Rígurinn: Frá brothættum byggðum til borga - Hilda Jana Gísladóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46013</guid>
-    </item>
-    <item>
-      <title>Gamlar og nýjar götur á Reykjanesskaga</title>
-      <link>https://skemman.is/handle/1946/46014</link>
-      <description>Gamlar og nýjar götur á Reykjanesskaga - Helgi Valdimar Viðarsson Biering 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46014</guid>
-    </item>
+    <lastBuildDate>Thu, 04 Jan 2024 15:00:43 +0000</lastBuildDate>
     <item>
       <title>„Við vitum öll að þessi unga kona lýgur“: Um gerendameðvirkni í skáldsögunni Brestir eftir Fredrik Backman</title>
       <link>https://skemman.is/handle/1946/46015</link>
       <description>„Við vitum öll að þessi unga kona lýgur“: Um gerendameðvirkni í skáldsögunni Brestir eftir Fredrik Backman - Hrafnhildur Emma Björnsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46015</guid>
-    </item>
-    <item>
-      <title>Sofðu Unga Ástin Mín: The Archaeology of Emotion in Child Burials at Skriðuklaustur Monastery</title>
-      <link>https://skemman.is/handle/1946/46016</link>
-      <description>Sofðu Unga Ástin Mín: The Archaeology of Emotion in Child Burials at Skriðuklaustur Monastery - Daníel Freyr Ívarsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46016</guid>
     </item>
     <item>
       <title>Einn prestur og matráður: Kynhlutleysi, fjölvísanir og dýralíkingar í Stóra bróður</title>
@@ -43,6 +25,30 @@
       <link>https://skemman.is/handle/1946/46018</link>
       <description>Pride and Prejudice and Personal Improvement: Jane Austen’s Moral Advocacy on Growing and Condemnation of Stagnating - Telma Björk Guðmundsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46018</guid>
+    </item>
+    <item>
+      <title>Improving Machine Translation for Faroese using ChatGPT-Generated Parallel Data</title>
+      <link>https://skemman.is/handle/1946/46019</link>
+      <description>Improving Machine Translation for Faroese using ChatGPT-Generated Parallel Data - Annika Simonsen 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46019</guid>
+    </item>
+    <item>
+      <title>Rígurinn: Frá brothættum byggðum til borga</title>
+      <link>https://skemman.is/handle/1946/46013</link>
+      <description>Rígurinn: Frá brothættum byggðum til borga - Hilda Jana Gísladóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46013</guid>
+    </item>
+    <item>
+      <title>Sofðu Unga Ástin Mín: The Archaeology of Emotion in Child Burials at Skriðuklaustur Monastery</title>
+      <link>https://skemman.is/handle/1946/46016</link>
+      <description>Sofðu Unga Ástin Mín: The Archaeology of Emotion in Child Burials at Skriðuklaustur Monastery - Daníel Freyr Ívarsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46016</guid>
+    </item>
+    <item>
+      <title>Gamlar og nýjar götur á Reykjanesskaga</title>
+      <link>https://skemman.is/handle/1946/46014</link>
+      <description>Gamlar og nýjar götur á Reykjanesskaga - Helgi Valdimar Viðarsson Biering 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46014</guid>
     </item>
     <item>
       <title>I hvor høj grad bruges kommunikative metoder i danskundervisningen? En undersøgelse af den kommunikative undervisning i dansk i islandske gymnasier</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/45995</link>
       <description>Sakarefni: Takmarkanir að lögum á því að sakarefni verði borið undir dómstóla, með sérstakri hliðsjón af 1. mgr. 24. gr. laga um meðferð einkamála nr. 91/1991 - Sigurbjörg Nanna Vignisdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/45995</guid>
-    </item>
-    <item>
-      <title>Misneyting í skilningi 253. gr. almennra hegningarlaga nr. 19/1940. Með áherslu á bágindi</title>
-      <link>https://skemman.is/handle/1946/45991</link>
-      <description>Misneyting í skilningi 253. gr. almennra hegningarlaga nr. 19/1940. Með áherslu á bágindi - Gerður Ævarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/45991</guid>
     </item>
   </channel>
 </rss>
