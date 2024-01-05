@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 05 Jan 2024 09:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 10:00:24 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0097-2000-065</link>
       <description>Borgardómur 2000-065 - 1968-1994</description>
@@ -127,6 +127,26 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0136-2021-083</link>
       <description>Þjóðleikhúsið 2021-083 - 1931-2019</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0136-2021-083</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2939-2023-156</link>
+      <description>Vísindaráð 2023-156 - 1987-1994</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2939-2023-156</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0353-2023-155</link>
+      <description>Orkustofnun 2023-155 - 1975-1997</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0353-2023-155</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2940-2023-154</link>
+      <description>Háskólinn á Akureyri 2023-154 - 1992-2023</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2940-2023-154</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2941-2023-153</link>
+      <description>Axel Björnsson (1942-2023) jarðeðlisfræðingur 2023-153 - 1996-2007</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2941-2023-153</guid>
     </item>
   </channel>
 </rss>
