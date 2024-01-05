@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 05 Jan 2024 11:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 12:00:27 +0000</lastBuildDate>
     <item>
       <title>Hart kynlíf - frelsi eða fjötrar? Erótík, klám og kynlíf kvenna undir áhrifum póstfemínismans</title>
       <link>https://skemman.is/handle/1946/46020</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/46025</link>
       <description>„Ég vil ekki að hún meiði þig“ Um birtingarmyndir ástarinnar í skáldsögunni Z ástarsaga eftir Vigdísi Grímsdóttur - Helga Björg Heiðdal 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46025</guid>
+    </item>
+    <item>
+      <title>„Ef ritstörf eru glæpsamleg iðja, þá eigum við heima bak við lás og slá…“: Endurspeglun Sovétríkjanna í Friðlandi Sergej Dovlatovs</title>
+      <link>https://skemman.is/handle/1946/46026</link>
+      <description>„Ef ritstörf eru glæpsamleg iðja, þá eigum við heima bak við lás og slá…“: Endurspeglun Sovétríkjanna í Friðlandi Sergej Dovlatovs - Matthildur Lillý Valdimarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46026</guid>
+    </item>
+    <item>
+      <title>„Blað skilur bakka og egg“ Rannsókn á notkunargildi hnífa frá Skriðuklaustri</title>
+      <link>https://skemman.is/handle/1946/46027</link>
+      <description>„Blað skilur bakka og egg“ Rannsókn á notkunargildi hnífa frá Skriðuklaustri - Steinunn Edda Einarsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46027</guid>
     </item>
     <item>
       <title>„Við vitum öll að þessi unga kona lýgur“: Um gerendameðvirkni í skáldsögunni Brestir eftir Fredrik Backman</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46003</link>
       <description>System identification and finite element model updating of a neoclassical masonry structure in damaged and retrofitted states - Dipendra Gautam 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46003</guid>
-    </item>
-    <item>
-      <title>Studies in the Manuscript Transmission of Hrana saga hrings</title>
-      <link>https://skemman.is/handle/1946/46002</link>
-      <description>Studies in the Manuscript Transmission of Hrana saga hrings - Samara Evelyn Osburn 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46002</guid>
-    </item>
-    <item>
-      <title>Áhrif barneigna á stöðu kynjanna á vinnumarkaði. Nægja fæðingarorlofslög til að tryggja jafnrétti á vinnumarkaði eftir barneignir?</title>
-      <link>https://skemman.is/handle/1946/46000</link>
-      <description>Áhrif barneigna á stöðu kynjanna á vinnumarkaði. Nægja fæðingarorlofslög til að tryggja jafnrétti á vinnumarkaði eftir barneignir? - Katrín Magnúsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46000</guid>
     </item>
   </channel>
 </rss>
