@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 08 Jan 2024 10:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 11:00:21 +0000</lastBuildDate>
     <item>
       <title>Könnunarsamantekt um verklag við fótamein sykursjúkra: Áhersla á aðkomu hjúkrunarfræðinga</title>
       <link>https://skemman.is/handle/1946/46039</link>
@@ -129,6 +129,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46053</guid>
     </item>
     <item>
+      <title>Gerendur í kynferðisbrotamálum gegn börnum: Viðhorf gagnvart þeim og endurkoma þeirra aftur í samfélagið</title>
+      <link>https://skemman.is/handle/1946/46054</link>
+      <description>Gerendur í kynferðisbrotamálum gegn börnum: Viðhorf gagnvart þeim og endurkoma þeirra aftur í samfélagið - Dagmar Björk Hörpudóttir Edwald 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46054</guid>
+    </item>
+    <item>
       <title>Oft var þörf en er nauðsyn? Skylduaðild að félögum á sviði eignaréttar í ljósi fyrirmæla 2. málsl. 2. mgr. 74. gr. og 1. mgr. 72. gr. stjórnarskrár</title>
       <link>https://skemman.is/handle/1946/46032</link>
       <description>Oft var þörf en er nauðsyn? Skylduaðild að félögum á sviði eignaréttar í ljósi fyrirmæla 2. málsl. 2. mgr. 74. gr. og 1. mgr. 72. gr. stjórnarskrár - Finnur Marteinn Sigurðsson 1993-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46031</link>
       <description>Gæðaréttur til lífs og griðaréttur til friðar: Er sanngirni brúin þar á milli? - Súsan Ósk Sch. Thorsteinsson 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46031</guid>
-    </item>
-    <item>
-      <title>Setting the Stage: An Exploration of the Use of Inner and Outer Evil in the Works of  Stephen King, Mary Shelley, and Bram Stoker</title>
-      <link>https://skemman.is/handle/1946/46033</link>
-      <description>Setting the Stage: An Exploration of the Use of Inner and Outer Evil in the Works of  Stephen King, Mary Shelley, and Bram Stoker - Benjamín Gígja 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46033</guid>
     </item>
   </channel>
 </rss>
