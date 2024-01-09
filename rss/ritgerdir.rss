@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 Jan 2024 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 10:00:36 +0000</lastBuildDate>
     <item>
       <title>Hindranir kvenna á leið sinni upp metorðastigann</title>
       <link>https://skemman.is/handle/1946/46064</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/46068</link>
       <description>Cinderella Perseveres: Classic Fairy Tale in Adaptation - Perla Rut Aðalsteinsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46068</guid>
+    </item>
+    <item>
+      <title>„Ævintýri sem svamla inni í mér án endis:“ Um birtingarmyndir hugmyndafræði C.G. Jungs í Sjö ævintýrum um skömm eftir Tyrfing Tyrfingsson</title>
+      <link>https://skemman.is/handle/1946/46069</link>
+      <description>„Ævintýri sem svamla inni í mér án endis:“ Um birtingarmyndir hugmyndafræði C.G. Jungs í Sjö ævintýrum um skömm eftir Tyrfing Tyrfingsson - Rafnhildur Rósa Atladóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46069</guid>
     </item>
     <item>
       <title>Könnunarsamantekt um verklag við fótamein sykursjúkra: Áhersla á aðkomu hjúkrunarfræðinga</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46060</link>
       <description>,,Látið orð Krists búa með ykkur" Starfendarannsókn á 10-12 ára starfi í söfnuði - Steinunn Anna Baldvinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46060</guid>
-    </item>
-    <item>
-      <title>Stúlkur í stórborginni: „Nýja konan“ í skáldsögunum Das kunstseidene Mädchen og Gilgi eine von uns eftir Irmgard Keun</title>
-      <link>https://skemman.is/handle/1946/46062</link>
-      <description>Stúlkur í stórborginni: „Nýja konan“ í skáldsögunum Das kunstseidene Mädchen og Gilgi eine von uns eftir Irmgard Keun - Júlía Kristín Kamilludóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46062</guid>
     </item>
   </channel>
 </rss>
