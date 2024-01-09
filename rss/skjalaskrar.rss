@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 Jan 2024 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 12:00:31 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2925-2009-041</link>
       <description>Þjóðvarnafélag Reykjavíkur 2009-041 - 1936-1961</description>
@@ -157,6 +157,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0003-2002-093</link>
       <description>Dóms- og kirkjumálaráðuneytið 2002-093 - 1892-1963</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0003-2002-093</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0795-2011-052</link>
+      <description>Sýslumaðurinn í Árnessýslu 2011-052 - 1985-2000</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0795-2011-052</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0795-2012-020</link>
+      <description>Sýslumaðurinn í Árnessýslu 2012-020 - 1990-2002</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0795-2012-020</guid>
     </item>
   </channel>
 </rss>
