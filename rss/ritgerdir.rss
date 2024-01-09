@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 Jan 2024 12:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 14:00:27 +0000</lastBuildDate>
     <item>
       <title>Hindranir kvenna á leið sinni upp metorðastigann</title>
       <link>https://skemman.is/handle/1946/46064</link>
@@ -81,6 +81,30 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46074</guid>
     </item>
     <item>
+      <title>Skólpdælubrunnur við Korngarða</title>
+      <link>https://skemman.is/handle/1946/46075</link>
+      <description>Skólpdælubrunnur við Korngarða - Kári Birgir Angantýsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46075</guid>
+    </item>
+    <item>
+      <title>Endurvirkjun borholu</title>
+      <link>https://skemman.is/handle/1946/46076</link>
+      <description>Endurvirkjun borholu - Símon Þór Hansen 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46076</guid>
+    </item>
+    <item>
+      <title>Hönnun og smíði á fjöðrunarkerfi undir torfærubifreið</title>
+      <link>https://skemman.is/handle/1946/46077</link>
+      <description>Hönnun og smíði á fjöðrunarkerfi undir torfærubifreið - Stefán Ottó Kristinsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46077</guid>
+    </item>
+    <item>
+      <title>Upphitun ferskvatns með jarðsjó í gashitara</title>
+      <link>https://skemman.is/handle/1946/46078</link>
+      <description>Upphitun ferskvatns með jarðsjó í gashitara - Linda Petrea Georgsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46078</guid>
+    </item>
+    <item>
       <title>Samskiptaþátturinn í starfi skólameistara: Rannsókn á upplifun og reynslu skólameistara framhaldsskóla af samskiptaþættinum í tengslum við gott starfsumhverfi, krefjandi starfsmannamál og eigin færniþróun</title>
       <link>https://skemman.is/handle/1946/46037</link>
       <description>Samskiptaþátturinn í starfi skólameistara: Rannsókn á upplifun og reynslu skólameistara framhaldsskóla af samskiptaþættinum í tengslum við gott starfsumhverfi, krefjandi starfsmannamál og eigin færniþróun - Birna Dís Bergsdóttir 1999-</description>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/46060</link>
       <description>,,Látið orð Krists búa með ykkur" Starfendarannsókn á 10-12 ára starfi í söfnuði - Steinunn Anna Baldvinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46060</guid>
-    </item>
-    <item>
-      <title>Stúlkur í stórborginni: „Nýja konan“ í skáldsögunum Das kunstseidene Mädchen og Gilgi eine von uns eftir Irmgard Keun</title>
-      <link>https://skemman.is/handle/1946/46062</link>
-      <description>Stúlkur í stórborginni: „Nýja konan“ í skáldsögunum Das kunstseidene Mädchen og Gilgi eine von uns eftir Irmgard Keun - Júlía Kristín Kamilludóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46062</guid>
-    </item>
-    <item>
-      <title>Þögn Milli Orða - Skáldsaga</title>
-      <link>https://skemman.is/handle/1946/46058</link>
-      <description>Þögn Milli Orða - Skáldsaga - Anton Sturla Antonsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46058</guid>
-    </item>
-    <item>
-      <title>Könnunarsamantekt um verklag við fótamein sykursjúkra: Áhersla á aðkomu hjúkrunarfræðinga</title>
-      <link>https://skemman.is/handle/1946/46039</link>
-      <description>Könnunarsamantekt um verklag við fótamein sykursjúkra: Áhersla á aðkomu hjúkrunarfræðinga - Margrét Malín Guðmundsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46039</guid>
-    </item>
-    <item>
-      <title>From the Implicit to the Explicit: An Embodied, Experiential Protocol for Reflection</title>
-      <link>https://skemman.is/handle/1946/46042</link>
-      <description>From the Implicit to the Explicit: An Embodied, Experiential Protocol for Reflection - Vignir Már Másson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46042</guid>
     </item>
   </channel>
 </rss>
