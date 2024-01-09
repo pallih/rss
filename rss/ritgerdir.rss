@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 Jan 2024 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 15:00:24 +0000</lastBuildDate>
     <item>
       <title>Hindranir kvenna á leið sinni upp metorðastigann</title>
       <link>https://skemman.is/handle/1946/46064</link>
       <description>Hindranir kvenna á leið sinni upp metorðastigann - Jóhanna Líf Sigurþórsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46064</guid>
-    </item>
-    <item>
-      <title>Ginnheilög goð: Útvarpsþættir um iðkendur ásatrúar í samtímanum</title>
-      <link>https://skemman.is/handle/1946/46063</link>
-      <description>Ginnheilög goð: Útvarpsþættir um iðkendur ásatrúar í samtímanum - Hrafnhildur Baldursdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46063</guid>
     </item>
     <item>
       <title>Gæði þjónustu á hjúkrunarheimilum: Mat starfsfólks á óframkvæmdri hjúkrun, starfsánægju og þjónandi forystu</title>
@@ -57,6 +51,42 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46067</guid>
     </item>
     <item>
+      <title>Markaðssókn Íslendinga til Víetnams 1993-2002</title>
+      <link>https://skemman.is/handle/1946/46074</link>
+      <description>Markaðssókn Íslendinga til Víetnams 1993-2002 - Orri Viðarsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46074</guid>
+    </item>
+    <item>
+      <title>Umsáturseinelti. Þróun og kenningar</title>
+      <link>https://skemman.is/handle/1946/46073</link>
+      <description>Umsáturseinelti. Þróun og kenningar - Kristín Birna Sigfúsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46073</guid>
+    </item>
+    <item>
+      <title>Upphitun ferskvatns með jarðsjó í gashitara</title>
+      <link>https://skemman.is/handle/1946/46078</link>
+      <description>Upphitun ferskvatns með jarðsjó í gashitara - Linda Petrea Georgsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46078</guid>
+    </item>
+    <item>
+      <title>Endurvirkjun borholu</title>
+      <link>https://skemman.is/handle/1946/46076</link>
+      <description>Endurvirkjun borholu - Símon Þór Hansen 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46076</guid>
+    </item>
+    <item>
+      <title>Skólpdælubrunnur við Korngarða</title>
+      <link>https://skemman.is/handle/1946/46075</link>
+      <description>Skólpdælubrunnur við Korngarða - Kári Birgir Angantýsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46075</guid>
+    </item>
+    <item>
+      <title>Hönnun og smíði á fjöðrunarkerfi undir torfærubifreið</title>
+      <link>https://skemman.is/handle/1946/46077</link>
+      <description>Hönnun og smíði á fjöðrunarkerfi undir torfærubifreið - Stefán Ottó Kristinsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46077</guid>
+    </item>
+    <item>
       <title>Dekkjavagn fyrir flugvélaviðhald</title>
       <link>https://skemman.is/handle/1946/46072</link>
       <description>Dekkjavagn fyrir flugvélaviðhald - Eðvald Ragnarsson 1977-</description>
@@ -69,40 +99,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46070</guid>
     </item>
     <item>
-      <title>Umsáturseinelti. Þróun og kenningar</title>
-      <link>https://skemman.is/handle/1946/46073</link>
-      <description>Umsáturseinelti. Þróun og kenningar - Kristín Birna Sigfúsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46073</guid>
+      <title>Ginnheilög goð: Útvarpsþættir um iðkendur ásatrúar í samtímanum</title>
+      <link>https://skemman.is/handle/1946/46063</link>
+      <description>Ginnheilög goð: Útvarpsþættir um iðkendur ásatrúar í samtímanum - Hrafnhildur Baldursdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46063</guid>
     </item>
     <item>
-      <title>Markaðssókn Íslendinga til Víetnams 1993-2002</title>
-      <link>https://skemman.is/handle/1946/46074</link>
-      <description>Markaðssókn Íslendinga til Víetnams 1993-2002 - Orri Viðarsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46074</guid>
-    </item>
-    <item>
-      <title>Skólpdælubrunnur við Korngarða</title>
-      <link>https://skemman.is/handle/1946/46075</link>
-      <description>Skólpdælubrunnur við Korngarða - Kári Birgir Angantýsson 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46075</guid>
-    </item>
-    <item>
-      <title>Endurvirkjun borholu</title>
-      <link>https://skemman.is/handle/1946/46076</link>
-      <description>Endurvirkjun borholu - Símon Þór Hansen 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46076</guid>
-    </item>
-    <item>
-      <title>Hönnun og smíði á fjöðrunarkerfi undir torfærubifreið</title>
-      <link>https://skemman.is/handle/1946/46077</link>
-      <description>Hönnun og smíði á fjöðrunarkerfi undir torfærubifreið - Stefán Ottó Kristinsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46077</guid>
-    </item>
-    <item>
-      <title>Upphitun ferskvatns með jarðsjó í gashitara</title>
-      <link>https://skemman.is/handle/1946/46078</link>
-      <description>Upphitun ferskvatns með jarðsjó í gashitara - Linda Petrea Georgsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46078</guid>
+      <title>Hvað dregur þig úr holu þinni? Um pinnaholur í jarðhýsum</title>
+      <link>https://skemman.is/handle/1946/46079</link>
+      <description>Hvað dregur þig úr holu þinni? Um pinnaholur í jarðhýsum - Atli Freyr Guðmundsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46079</guid>
     </item>
     <item>
       <title>Samskiptaþátturinn í starfi skólameistara: Rannsókn á upplifun og reynslu skólameistara framhaldsskóla af samskiptaþættinum í tengslum við gott starfsumhverfi, krefjandi starfsmannamál og eigin færniþróun</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46057</link>
       <description>Ertu að grínast? - Að læra á húmor í öðru tungumáli - Brynjólfur Skúlason 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46057</guid>
-    </item>
-    <item>
-      <title>,,Látið orð Krists búa með ykkur" Starfendarannsókn á 10-12 ára starfi í söfnuði</title>
-      <link>https://skemman.is/handle/1946/46060</link>
-      <description>,,Látið orð Krists búa með ykkur" Starfendarannsókn á 10-12 ára starfi í söfnuði - Steinunn Anna Baldvinsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46060</guid>
     </item>
   </channel>
 </rss>
