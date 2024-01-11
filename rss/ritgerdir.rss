@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Jan 2024 16:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 17:00:22 +0000</lastBuildDate>
     <item>
       <title>Kerfisbundinn rasismi og aðskilnaður í nútímasamfélagi Bandaríkjanna. Á hvaða hátt stuðlar söguleg arfleifð Jim Crow lagana og kerfisbundinn rasismi að núverandi ástandi í Bandaríkjunum?</title>
       <link>https://skemman.is/handle/1946/46156</link>
@@ -123,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46142</guid>
     </item>
     <item>
-      <title>Döllugata 5</title>
-      <link>https://skemman.is/handle/1946/46144</link>
-      <description>Döllugata 5 - Baldvin Ósmann Brynjólfsson 1982-; Elmar Ingi Hilmarsson 1997-; Stefán Árni Jónsson 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46144</guid>
-    </item>
-    <item>
       <title>Dysnesvegur - frumdrög</title>
       <link>https://skemman.is/handle/1946/46140</link>
       <description>Dysnesvegur - frumdrög - Henrý Guðmundsson 1992-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/46149</link>
       <description>Lagaumhverfi vátryggingafélaga með tilliti til vátryggingasvika : hvað er það í regluverkinu sem mætti gera betur og hvað er það sem gengur vel? - Karen Þórisdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46149</guid>
+    </item>
+    <item>
+      <title>Hagsmunaárekstrar fjármálafyrirtækja : er of mikil ábyrgð lögð á fjármálafyrirtæki með tilliti til regluverks sem er á markaðinum?</title>
+      <link>https://skemman.is/handle/1946/46152</link>
+      <description>Hagsmunaárekstrar fjármálafyrirtækja : er of mikil ábyrgð lögð á fjármálafyrirtæki með tilliti til regluverks sem er á markaðinum? - Ástrós Brynjarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46152</guid>
     </item>
   </channel>
 </rss>
