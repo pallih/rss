@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 10 Jan 2024 17:00:26 +0000</lastBuildDate>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2925-2009-041</link>
-      <description>Þjóðvarnafélag Reykjavíkur 2009-041 - 1936-1961</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2925-2009-041</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2926-1995-050</link>
-      <description>Þorvaldur Krabbe (1876-1953) verkfræðingur 1995-050 - 1892-1986</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2926-1995-050</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0421-2009-044</link>
-      <description>Æskulýðsfylkingin 2009-044 - 1952-1956</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0421-2009-044</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2662-2009-052</link>
-      <description>Æskulýðssamband Íslands 2009-052 - 1957-1958</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2662-2009-052</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0248-2009-011</link>
-      <description>Wolfgang Edelstein (1929) menntavísindamaður 2009-011 - 1918-1994</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0248-2009-011</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2927-2001-019</link>
-      <description>1. íslenska söguþingið 2001-019 - 1997-1997</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2927-2001-019</guid>
-    </item>
+    <lastBuildDate>Thu, 11 Jan 2024 08:00:26 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2928-2011-074</link>
       <description>Faxamjöl hf. / Síldar- og fiskimjölsverksmiðjan hf. 2011-074 - 1923-1999</description>
