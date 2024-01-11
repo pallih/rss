@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Jan 2024 10:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 11:00:26 +0000</lastBuildDate>
     <item>
       <title>Þróun á framleiðni í byggingargeiranum á Íslandi</title>
       <link>https://skemman.is/handle/1946/46141</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/46146</link>
       <description>Umgengni barna í fóstri : réttur þeirra til umgengni og tengsla við kynforeldra - Emma Íren Egilsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46146</guid>
+    </item>
+    <item>
+      <title>Reglur um hagsmunaárekstra : auknar kröfur til verðbréfafyrirtækja með tilkomu MiFID II</title>
+      <link>https://skemman.is/handle/1946/46147</link>
+      <description>Reglur um hagsmunaárekstra : auknar kröfur til verðbréfafyrirtækja með tilkomu MiFID II - Katla Dögg Sævaldsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46147</guid>
     </item>
     <item>
       <title>Ísfold og menning Miðríkisins: Menningarleg utanríkisstefna Kína á Íslandi árin 1971-1989</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46092</link>
       <description>Hjúkrunarheimili Höfn í Hornafirði - Halldór Einar Gunnarsson 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46092</guid>
-    </item>
-    <item>
-      <title>Navigating Indonesia‘s Marine Protected Area Expansion: Examining the Realities of MPA Governance in East Flores Regency, East Nusa Tenggara</title>
-      <link>https://skemman.is/handle/1946/46097</link>
-      <description>Navigating Indonesia‘s Marine Protected Area Expansion: Examining the Realities of MPA Governance in East Flores Regency, East Nusa Tenggara - Vidre Patria 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46097</guid>
     </item>
   </channel>
 </rss>
