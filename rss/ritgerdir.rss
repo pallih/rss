@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Jan 2024 11:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 12:00:27 +0000</lastBuildDate>
     <item>
       <title>Þróun á framleiðni í byggingargeiranum á Íslandi</title>
       <link>https://skemman.is/handle/1946/46141</link>
@@ -51,16 +51,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46139</guid>
     </item>
     <item>
-      <title>Umgengni barna í fóstri : réttur þeirra til umgengni og tengsla við kynforeldra</title>
-      <link>https://skemman.is/handle/1946/46146</link>
-      <description>Umgengni barna í fóstri : réttur þeirra til umgengni og tengsla við kynforeldra - Emma Íren Egilsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46146</guid>
+      <title>Innherjasvik og afleiðingar þeirra : hverjar eru afleiðingar innherjasvika samkvæmt lögum um aðgerðir gegn markaðssvikum nr. 60/2021 og hvaða áhrif geta svikin haft á verðbréfamarkað og hagkerfið?</title>
+      <link>https://skemman.is/handle/1946/46148</link>
+      <description>Innherjasvik og afleiðingar þeirra : hverjar eru afleiðingar innherjasvika samkvæmt lögum um aðgerðir gegn markaðssvikum nr. 60/2021 og hvaða áhrif geta svikin haft á verðbréfamarkað og hagkerfið? - Karen Lárusdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46148</guid>
+    </item>
+    <item>
+      <title>Saksókn hópmorðs, stríðsglæpa og glæpa gegn mannúð á Norðurlöndum : samanburður á dómaframkvæmd Norðurlandanna og réttarstaða á Íslandi</title>
+      <link>https://skemman.is/handle/1946/46151</link>
+      <description>Saksókn hópmorðs, stríðsglæpa og glæpa gegn mannúð á Norðurlöndum : samanburður á dómaframkvæmd Norðurlandanna og réttarstaða á Íslandi - Þórdís Eva Steinsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46151</guid>
+    </item>
+    <item>
+      <title>Lagaumhverfi vátryggingafélaga með tilliti til vátryggingasvika : hvað er það í regluverkinu sem mætti gera betur og hvað er það sem gengur vel?</title>
+      <link>https://skemman.is/handle/1946/46149</link>
+      <description>Lagaumhverfi vátryggingafélaga með tilliti til vátryggingasvika : hvað er það í regluverkinu sem mætti gera betur og hvað er það sem gengur vel? - Karen Þórisdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46149</guid>
+    </item>
+    <item>
+      <title>Hagsmunaárekstrar fjármálafyrirtækja : er of mikil ábyrgð lögð á fjármálafyrirtæki með tilliti til regluverks sem er á markaðinum?</title>
+      <link>https://skemman.is/handle/1946/46152</link>
+      <description>Hagsmunaárekstrar fjármálafyrirtækja : er of mikil ábyrgð lögð á fjármálafyrirtæki með tilliti til regluverks sem er á markaðinum? - Ástrós Brynjarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46152</guid>
+    </item>
+    <item>
+      <title>Riftun óvenjulegrar greiðslu skuldar á grundvelli 134. gr. laga nr. 21/1991 um gjaldþrotaskipti o.fl.</title>
+      <link>https://skemman.is/handle/1946/46153</link>
+      <description>Riftun óvenjulegrar greiðslu skuldar á grundvelli 134. gr. laga nr. 21/1991 um gjaldþrotaskipti o.fl. - Þórunn Eylands Harðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46153</guid>
     </item>
     <item>
       <title>Reglur um hagsmunaárekstra : auknar kröfur til verðbréfafyrirtækja með tilkomu MiFID II</title>
       <link>https://skemman.is/handle/1946/46147</link>
       <description>Reglur um hagsmunaárekstra : auknar kröfur til verðbréfafyrirtækja með tilkomu MiFID II - Katla Dögg Sævaldsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46147</guid>
+    </item>
+    <item>
+      <title>Ofbeldi sem forsenda lögskilnaðar</title>
+      <link>https://skemman.is/handle/1946/46150</link>
+      <description>Ofbeldi sem forsenda lögskilnaðar - Unnur Guðmundsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46150</guid>
+    </item>
+    <item>
+      <title>Umgengni barna í fóstri : réttur þeirra til umgengni og tengsla við kynforeldra</title>
+      <link>https://skemman.is/handle/1946/46146</link>
+      <description>Umgengni barna í fóstri : réttur þeirra til umgengni og tengsla við kynforeldra - Emma Íren Egilsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46146</guid>
+    </item>
+    <item>
+      <title>Málefni mæðra með geðhvörf. Hvaða áhrif hafa geðhvörf á mæður og þeirra foreldrafærni?</title>
+      <link>https://skemman.is/handle/1946/46154</link>
+      <description>Málefni mæðra með geðhvörf. Hvaða áhrif hafa geðhvörf á mæður og þeirra foreldrafærni? - Laura Núpdal Róbertsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46154</guid>
     </item>
     <item>
       <title>Ísfold og menning Miðríkisins: Menningarleg utanríkisstefna Kína á Íslandi árin 1971-1989</title>
@@ -115,48 +157,6 @@
       <link>https://skemman.is/handle/1946/46093</link>
       <description>Ambassador with a Niche: Exploring the Development and Effectiveness of a Niche in Diplomacy using the Practice Turn in International Relations - Sunna Gunnars Marteinsdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46093</guid>
-    </item>
-    <item>
-      <title>Smitáhrif peningastefnu Bandaríkjanna: Vaxtaleiðni og fjármálaleg samþætting</title>
-      <link>https://skemman.is/handle/1946/46090</link>
-      <description>Smitáhrif peningastefnu Bandaríkjanna: Vaxtaleiðni og fjármálaleg samþætting - Birkir Thor Björnsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46090</guid>
-    </item>
-    <item>
-      <title>“Maybe it was just how I perceived it, maybe it’s just me…” A qualitative study of migrant Polish women‘s experiences navigating the Icelandic maternity system</title>
-      <link>https://skemman.is/handle/1946/46086</link>
-      <description>“Maybe it was just how I perceived it, maybe it’s just me…” A qualitative study of migrant Polish women‘s experiences navigating the Icelandic maternity system - Anna Rose Gelfand 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46086</guid>
-    </item>
-    <item>
-      <title>Áhrif kyns framkvæmdastjóra á vanskil íslenskra fyrirtækja: Vanskilaþróun eftir kyni framkvæmdastjóra og stærð fyrirtækja</title>
-      <link>https://skemman.is/handle/1946/46091</link>
-      <description>Áhrif kyns framkvæmdastjóra á vanskil íslenskra fyrirtækja: Vanskilaþróun eftir kyni framkvæmdastjóra og stærð fyrirtækja - Alexander Kleinman 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46091</guid>
-    </item>
-    <item>
-      <title>Konur af erlendum uppruna í barneignarferlinu á Íslandi: Aðkoma félagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/46087</link>
-      <description>Konur af erlendum uppruna í barneignarferlinu á Íslandi: Aðkoma félagsráðgjafa - Halla Vigdís Jóhannsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46087</guid>
-    </item>
-    <item>
-      <title>Skólafélagsráðgjöf og farsæld barna</title>
-      <link>https://skemman.is/handle/1946/46088</link>
-      <description>Skólafélagsráðgjöf og farsæld barna - Ugla Þuríður Svölu Baldursd. 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46088</guid>
-    </item>
-    <item>
-      <title>Hjúkrunarheimili á Höfn í Hornafirði – viðbygging</title>
-      <link>https://skemman.is/handle/1946/46094</link>
-      <description>Hjúkrunarheimili á Höfn í Hornafirði – viðbygging - Hjalti Logason 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46094</guid>
-    </item>
-    <item>
-      <title>Hjúkrunarheimili Höfn í Hornafirði</title>
-      <link>https://skemman.is/handle/1946/46092</link>
-      <description>Hjúkrunarheimili Höfn í Hornafirði - Halldór Einar Gunnarsson 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46092</guid>
     </item>
   </channel>
 </rss>
