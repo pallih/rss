@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Jan 2024 10:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 11:00:22 +0000</lastBuildDate>
     <item>
       <title>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis</title>
       <link>https://skemman.is/handle/1946/46206</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/46208</link>
       <description>Þróun íslenskrar menntastefnu - Óskar Haukur Níelsson 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46208</guid>
+    </item>
+    <item>
+      <title>Er sú bjarta mynd sem dregin er upp af íslenska lífeyriskerfinu raunhæf?</title>
+      <link>https://skemman.is/handle/1946/46209</link>
+      <description>Er sú bjarta mynd sem dregin er upp af íslenska lífeyriskerfinu raunhæf? - Dalvin Smári Imsland 2000-; Viktoría Rós Bjarnþórsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46209</guid>
+    </item>
+    <item>
+      <title>Innleiðing kjarasamningalíkans að norrænni fyrirmynd á Íslandi : „Það þurfa allir að keyra hægra megin“</title>
+      <link>https://skemman.is/handle/1946/46210</link>
+      <description>Innleiðing kjarasamningalíkans að norrænni fyrirmynd á Íslandi : „Það þurfa allir að keyra hægra megin“ - Friðgeir Óli Bjarnason 1999-; Jón Tómas Kristjánsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46210</guid>
     </item>
     <item>
       <title>Er þróun upplýsingatækni í járnbúri? Fjórða iðnbyltingin og lögmæti íslenskra banka</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46175</link>
       <description>"Almenna reglan er að auglýsa" - Dagmar Þórhildur Lúðvíksdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46175</guid>
-    </item>
-    <item>
-      <title>Hjartsláttur friðar og réttlætis: Áhrif mannréttindayfirlýsingar Sameinuðu þjóðanna á félagsráðgjöf</title>
-      <link>https://skemman.is/handle/1946/46177</link>
-      <description>Hjartsláttur friðar og réttlætis: Áhrif mannréttindayfirlýsingar Sameinuðu þjóðanna á félagsráðgjöf - Arndís María Karlsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46177</guid>
-    </item>
-    <item>
-      <title>Barnaverndarþjónusta á Íslandi í samanburði við barnaverndarþjónustu í Noregi: Fjöldi tilkynninga til barnaverndarþjónustu</title>
-      <link>https://skemman.is/handle/1946/46174</link>
-      <description>Barnaverndarþjónusta á Íslandi í samanburði við barnaverndarþjónustu í Noregi: Fjöldi tilkynninga til barnaverndarþjónustu - Halla Steingrímsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46174</guid>
     </item>
   </channel>
 </rss>
