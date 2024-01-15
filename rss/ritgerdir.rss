@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Jan 2024 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 12:00:23 +0000</lastBuildDate>
     <item>
       <title>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis</title>
       <link>https://skemman.is/handle/1946/46206</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/46210</link>
       <description>Innleiðing kjarasamningalíkans að norrænni fyrirmynd á Íslandi : „Það þurfa allir að keyra hægra megin“ - Friðgeir Óli Bjarnason 1999-; Jón Tómas Kristjánsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46210</guid>
+    </item>
+    <item>
+      <title>Decision intelligence : transformational developments in  skin cancer screening using mobile applications</title>
+      <link>https://skemman.is/handle/1946/46211</link>
+      <description>Decision intelligence : transformational developments in  skin cancer screening using mobile applications - Shehani Lakmini Modaragama 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46211</guid>
     </item>
     <item>
       <title>Er þróun upplýsingatækni í járnbúri? Fjórða iðnbyltingin og lögmæti íslenskra banka</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46170</link>
       <description>Afskráning hlutabréfa af skipulegum markaði : reglur, framkvæmd og afleiðingar afskráningar með tilliti til hagsmuna fjárfesta og trúverðugleika markaðarins. - Hafþór Pétursson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46170</guid>
-    </item>
-    <item>
-      <title>"Almenna reglan er að auglýsa"</title>
-      <link>https://skemman.is/handle/1946/46175</link>
-      <description>"Almenna reglan er að auglýsa" - Dagmar Þórhildur Lúðvíksdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46175</guid>
     </item>
   </channel>
 </rss>
