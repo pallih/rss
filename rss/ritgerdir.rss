@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Jan 2024 08:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 09:00:28 +0000</lastBuildDate>
     <item>
       <title>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis</title>
       <link>https://skemman.is/handle/1946/46206</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/46207</link>
       <description>Þungunarrof: Félagsráðgjöf í fjarheilbrigðisþjónustu. Samanburður á Íslandi og Bretlandi - Birna Kristín Hilmarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46207</guid>
+    </item>
+    <item>
+      <title>Þróun íslenskrar menntastefnu</title>
+      <link>https://skemman.is/handle/1946/46208</link>
+      <description>Þróun íslenskrar menntastefnu - Óskar Haukur Níelsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46208</guid>
     </item>
     <item>
       <title>Er þróun upplýsingatækni í járnbúri? Fjórða iðnbyltingin og lögmæti íslenskra banka</title>
@@ -51,12 +57,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46201</guid>
     </item>
     <item>
-      <title>Stóriðja á Íslandi: Úti er ævintýri eða er ævintýrið rétt að byrja?</title>
-      <link>https://skemman.is/handle/1946/46203</link>
-      <description>Stóriðja á Íslandi: Úti er ævintýri eða er ævintýrið rétt að byrja? - Hekla Maren Jónasdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46203</guid>
-    </item>
-    <item>
       <title>Áhættuhegðun ungmenna: Ofbeldi, tíðni þess og birtingarmyndir</title>
       <link>https://skemman.is/handle/1946/46204</link>
       <description>Áhættuhegðun ungmenna: Ofbeldi, tíðni þess og birtingarmyndir - Lilja Rut Geirdal Jóhannsdóttir 1987-</description>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/46205</link>
       <description>Food as a trigger for Migraine - Hadda Margrét Haraldsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46205</guid>
+    </item>
+    <item>
+      <title>Stóriðja á Íslandi: Úti er ævintýri eða er ævintýrið rétt að byrja?</title>
+      <link>https://skemman.is/handle/1946/46203</link>
+      <description>Stóriðja á Íslandi: Úti er ævintýri eða er ævintýrið rétt að byrja? - Hekla Maren Jónasdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46203</guid>
     </item>
     <item>
       <title>Kerfisbundinn rasismi og aðskilnaður í nútímasamfélagi Bandaríkjanna. Á hvaða hátt stuðlar söguleg arfleifð Jim Crow lagana og kerfisbundinn rasismi að núverandi ástandi í Bandaríkjunum?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46174</link>
       <description>Barnaverndarþjónusta á Íslandi í samanburði við barnaverndarþjónustu í Noregi: Fjöldi tilkynninga til barnaverndarþjónustu - Halla Steingrímsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46174</guid>
-    </item>
-    <item>
-      <title>Yayoi Kusama: Kameljón listaheimsins</title>
-      <link>https://skemman.is/handle/1946/46173</link>
-      <description>Yayoi Kusama: Kameljón listaheimsins - Rakel María Róbertsdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46173</guid>
     </item>
   </channel>
 </rss>
