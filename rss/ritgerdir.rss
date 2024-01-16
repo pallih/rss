@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 16 Jan 2024 12:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 13:02:05 +0000</lastBuildDate>
     <item>
       <title>Eru húsnæðissamvinnufélög valkostur fyrir ungt fólk - Kostir og gallar búseturéttar</title>
       <link>https://skemman.is/handle/1946/46223</link>
@@ -81,6 +81,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46231</guid>
     </item>
     <item>
+      <title>Þræðir fortíðar. Söguleg mótun mannfræðinnar í skugga rasisma.</title>
+      <link>https://skemman.is/handle/1946/46232</link>
+      <description>Þræðir fortíðar. Söguleg mótun mannfræðinnar í skugga rasisma. - Heba Karín Sigþórsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46232</guid>
+    </item>
+    <item>
+      <title>Can nuclear energy act as transitionary energy between a fossil fuel-based energy system and a renewable-based energy system? : can innovations in nuclear technology help lead to the next golden age in sustainable energy?</title>
+      <link>https://skemman.is/handle/1946/46233</link>
+      <description>Can nuclear energy act as transitionary energy between a fossil fuel-based energy system and a renewable-based energy system? : can innovations in nuclear technology help lead to the next golden age in sustainable energy? - Finlay Ross Mann 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46233</guid>
+    </item>
+    <item>
       <title>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis</title>
       <link>https://skemman.is/handle/1946/46206</link>
       <description>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis - Díana Liz Franksdóttir 1964-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46217</link>
       <description>Exploring the intersection of socioeconomic status and victimization : a comparative analysis of abuse and distress among women - Stefanía Rafnsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46217</guid>
-    </item>
-    <item>
-      <title>Kulnun félagsráðgjafa og hvernig stjórnendur geta spornað gegn kulnun.</title>
-      <link>https://skemman.is/handle/1946/46218</link>
-      <description>Kulnun félagsráðgjafa og hvernig stjórnendur geta spornað gegn kulnun. - Victor Alexander Guðjónsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46218</guid>
-    </item>
-    <item>
-      <title>Assessing postpartum depression, anxiety, and stress in Icelandic fathers up to one year postpartum</title>
-      <link>https://skemman.is/handle/1946/46214</link>
-      <description>Assessing postpartum depression, anxiety, and stress in Icelandic fathers up to one year postpartum - Inga Birna Sigursteinsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46214</guid>
     </item>
   </channel>
 </rss>
