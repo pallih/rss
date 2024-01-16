@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 16 Jan 2024 10:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 11:00:31 +0000</lastBuildDate>
     <item>
       <title>Eru húsnæðissamvinnufélög valkostur fyrir ungt fólk - Kostir og gallar búseturéttar</title>
       <link>https://skemman.is/handle/1946/46223</link>
@@ -39,16 +39,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46222</guid>
     </item>
     <item>
-      <title>BCP Mobile - Syndis</title>
-      <link>https://skemman.is/handle/1946/46225</link>
-      <description>BCP Mobile - Syndis - Arnþór Árni Logason 2000-; Garðar Ingi Guðmundsson 1997-; Hanna Margrét Pétursdóttir 1994-; Sigurður Bjarnason 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46225</guid>
-    </item>
-    <item>
-      <title>Myrkur Games</title>
-      <link>https://skemman.is/handle/1946/46226</link>
-      <description>Myrkur Games - Rán Ægisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46226</guid>
+      <title>Upplýsingasöfnun í byggingariðnaði</title>
+      <link>https://skemman.is/handle/1946/46230</link>
+      <description>Upplýsingasöfnun í byggingariðnaði - Friðrik Þór Gestsson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46230</guid>
     </item>
     <item>
       <title>Dohop Partner Portal</title>
@@ -57,16 +51,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46227</guid>
     </item>
     <item>
-      <title>Bambaló</title>
-      <link>https://skemman.is/handle/1946/46228</link>
-      <description>Bambaló - Benedikt Bjarnason 1998-; Elísa Guðmarsdóttir 1994-; Thea Imani Sturludóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46228</guid>
+      <title>BCP Mobile - Syndis</title>
+      <link>https://skemman.is/handle/1946/46225</link>
+      <description>BCP Mobile - Syndis - Arnþór Árni Logason 2000-; Garðar Ingi Guðmundsson 1997-; Hanna Margrét Pétursdóttir 1994-; Sigurður Bjarnason 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46225</guid>
     </item>
     <item>
       <title>Developing a game from beginning to end</title>
       <link>https://skemman.is/handle/1946/46229</link>
       <description>Developing a game from beginning to end - Hjörleifur Guðnason 1988-; Karl Bachmann Eyrúnarson 1991-; Pálína Líf Ingadóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46229</guid>
+    </item>
+    <item>
+      <title>Bambaló</title>
+      <link>https://skemman.is/handle/1946/46228</link>
+      <description>Bambaló - Benedikt Bjarnason 1998-; Elísa Guðmarsdóttir 1994-; Thea Imani Sturludóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46228</guid>
+    </item>
+    <item>
+      <title>Myrkur Games</title>
+      <link>https://skemman.is/handle/1946/46226</link>
+      <description>Myrkur Games - Rán Ægisdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46226</guid>
+    </item>
+    <item>
+      <title>Skapandi kennsluaðferðir í bóknámi fyrir lesblinda : verkefnihefti</title>
+      <link>https://skemman.is/handle/1946/46231</link>
+      <description>Skapandi kennsluaðferðir í bóknámi fyrir lesblinda : verkefnihefti - Vala Hermannsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46231</guid>
     </item>
     <item>
       <title>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46214</link>
       <description>Assessing postpartum depression, anxiety, and stress in Icelandic fathers up to one year postpartum - Inga Birna Sigursteinsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46214</guid>
-    </item>
-    <item>
-      <title>Geothermal energy for high temperature hydrogen production with Solid Oxide Electrolysis: A thermodynamic analysis of SOE feed streams</title>
-      <link>https://skemman.is/handle/1946/46219</link>
-      <description>Geothermal energy for high temperature hydrogen production with Solid Oxide Electrolysis: A thermodynamic analysis of SOE feed streams - Aron Óttarsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46219</guid>
-    </item>
-    <item>
-      <title>Er þróun upplýsingatækni í járnbúri? Fjórða iðnbyltingin og lögmæti íslenskra banka</title>
-      <link>https://skemman.is/handle/1946/46202</link>
-      <description>Er þróun upplýsingatækni í járnbúri? Fjórða iðnbyltingin og lögmæti íslenskra banka - Rafnar Lárusson 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46202</guid>
     </item>
   </channel>
 </rss>
