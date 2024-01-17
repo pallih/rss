@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 16 Jan 2024 17:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 08:00:27 +0000</lastBuildDate>
+    <item>
+      <title>Samanburður á kaupum á búseturétti og fasteignakaupum: Hver eru efnahagsleg áhrif þess að kaupa búseturétt samanborið kaup á fasteign?</title>
+      <link>https://skemman.is/handle/1946/46234</link>
+      <description>Samanburður á kaupum á búseturétti og fasteignakaupum: Hver eru efnahagsleg áhrif þess að kaupa búseturétt samanborið kaup á fasteign? - Kári Kristinn Bjarnason 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46234</guid>
+    </item>
     <item>
       <title>Eru húsnæðissamvinnufélög valkostur fyrir ungt fólk - Kostir og gallar búseturéttar</title>
       <link>https://skemman.is/handle/1946/46223</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46208</link>
       <description>Þróun íslenskrar menntastefnu - Óskar Haukur Níelsson 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46208</guid>
-    </item>
-    <item>
-      <title>Exploring the intersection of socioeconomic status and victimization : a comparative analysis of abuse and distress among women</title>
-      <link>https://skemman.is/handle/1946/46217</link>
-      <description>Exploring the intersection of socioeconomic status and victimization : a comparative analysis of abuse and distress among women - Stefanía Rafnsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46217</guid>
     </item>
   </channel>
 </rss>
