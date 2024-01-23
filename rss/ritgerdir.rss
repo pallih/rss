@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 23 Jan 2024 14:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 15:00:23 +0000</lastBuildDate>
     <item>
       <title>Implementation of Battery measurement Jig: A Jig capable of reading BMS Parameters used to analyze Li-ion batteries from Össur LTD</title>
       <link>https://skemman.is/handle/1946/46239</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/46241</link>
       <description>Mitigation of allelopathic effects of Empetrum nigrum on grass species by Andosol soil in comparison with non-volcanic soils - Jóhanna Friðsemd Kristinsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46241</guid>
+    </item>
+    <item>
+      <title>Golf í gólf</title>
+      <link>https://skemman.is/handle/1946/46242</link>
+      <description>Golf í gólf - Valdís Vilmarsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46242</guid>
     </item>
     <item>
       <title>Solid Waste Management in Iceland- Discourse analysis of solid waste management in the Icelandic media</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46212</link>
       <description>Traust innflytjenda til lögreglu: Upplifun Albana af íslensku lögreglunni. - Bryndís Jónsdóttir 1968-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46212</guid>
-    </item>
-    <item>
-      <title>The different faces of athletes in Iceland : experiences and views of prejudice and discrimination among athletes with various ethnic backgrounds</title>
-      <link>https://skemman.is/handle/1946/46213</link>
-      <description>The different faces of athletes in Iceland : experiences and views of prejudice and discrimination among athletes with various ethnic backgrounds - Sigurður Jefferson Guarino 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46213</guid>
     </item>
   </channel>
 </rss>
