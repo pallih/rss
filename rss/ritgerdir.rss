@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 23 Jan 2024 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 12:00:24 +0000</lastBuildDate>
     <item>
       <title>Implementation of Battery measurement Jig: A Jig capable of reading BMS Parameters used to analyze Li-ion batteries from Össur LTD</title>
       <link>https://skemman.is/handle/1946/46239</link>
