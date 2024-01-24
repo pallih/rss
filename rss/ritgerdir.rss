@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Jan 2024 15:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 16:00:26 +0000</lastBuildDate>
     <item>
       <title>Precision measurement of water temperature in Elliðavatnsstífla: Prevention of Frazil ice formation</title>
       <link>https://skemman.is/handle/1946/46243</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/46245</link>
       <description>The Encoding Mechanisms of Serial Dependence: Exploring the Retinotopy of Visual Integration Using the Ternus–Pikler Display - Haukur Ingi Tómasson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46245</guid>
+    </item>
+    <item>
+      <title>Influence of muskox carcasses on soil nutrients and vegetation in a High Arctic ecosystem in northeast Greenland</title>
+      <link>https://skemman.is/handle/1946/46246</link>
+      <description>Influence of muskox carcasses on soil nutrients and vegetation in a High Arctic ecosystem in northeast Greenland - Brita Steger 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46246</guid>
+    </item>
+    <item>
+      <title>Evaluating Albania’s Nationally Determined Contribution commitment: A comparative LCA of passenger vehicles powered by conventional diesel, B7, and electricity</title>
+      <link>https://skemman.is/handle/1946/46247</link>
+      <description>Evaluating Albania’s Nationally Determined Contribution commitment: A comparative LCA of passenger vehicles powered by conventional diesel, B7, and electricity - Catherine Alyssa Rackley 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46247</guid>
     </item>
     <item>
       <title>Mitigation of allelopathic effects of Empetrum nigrum on grass species by Andosol soil in comparison with non-volcanic soils</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46231</link>
       <description>Skapandi kennsluaðferðir í bóknámi fyrir lesblinda : verkefnihefti - Vala Hermannsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46231</guid>
-    </item>
-    <item>
-      <title>Þræðir fortíðar. Söguleg mótun mannfræðinnar í skugga rasisma.</title>
-      <link>https://skemman.is/handle/1946/46232</link>
-      <description>Þræðir fortíðar. Söguleg mótun mannfræðinnar í skugga rasisma. - Heba Karín Sigþórsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46232</guid>
-    </item>
-    <item>
-      <title>Myrkur Games</title>
-      <link>https://skemman.is/handle/1946/46226</link>
-      <description>Myrkur Games - Rán Ægisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46226</guid>
     </item>
   </channel>
 </rss>
