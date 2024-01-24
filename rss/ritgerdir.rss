@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Jan 2024 09:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 10:00:25 +0000</lastBuildDate>
     <item>
       <title>Precision measurement of water temperature in Elliðavatnsstífla: Prevention of Frazil ice formation</title>
       <link>https://skemman.is/handle/1946/46243</link>
@@ -129,12 +129,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46228</guid>
     </item>
     <item>
-      <title>Myrkur Games</title>
-      <link>https://skemman.is/handle/1946/46226</link>
-      <description>Myrkur Games - Rán Ægisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46226</guid>
-    </item>
-    <item>
       <title>Can nuclear energy act as transitionary energy between a fossil fuel-based energy system and a renewable-based energy system? : can innovations in nuclear technology help lead to the next golden age in sustainable energy?</title>
       <link>https://skemman.is/handle/1946/46233</link>
       <description>Can nuclear energy act as transitionary energy between a fossil fuel-based energy system and a renewable-based energy system? : can innovations in nuclear technology help lead to the next golden age in sustainable energy? - Finlay Ross Mann 1998-</description>
@@ -151,6 +145,12 @@
       <link>https://skemman.is/handle/1946/46232</link>
       <description>Þræðir fortíðar. Söguleg mótun mannfræðinnar í skugga rasisma. - Heba Karín Sigþórsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46232</guid>
+    </item>
+    <item>
+      <title>Myrkur Games</title>
+      <link>https://skemman.is/handle/1946/46226</link>
+      <description>Myrkur Games - Rán Ægisdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46226</guid>
     </item>
     <item>
       <title>Alvarlegt þunglyndi: Áhrif meðferða á bakslag og endurkomu þunglyndis</title>
