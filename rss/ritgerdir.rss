@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Jan 2024 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 08:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Eru allir með?: Íbúasamráð við gerð hverfis- og deiliskipulags í Reykjavík</title>
+      <link>https://skemman.is/handle/1946/46248</link>
+      <description>Eru allir með?: Íbúasamráð við gerð hverfis- og deiliskipulags í Reykjavík - Birgitta Rut Skúladóttir Hjörvar 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46248</guid>
+    </item>
     <item>
       <title>Precision measurement of water temperature in Elliðavatnsstífla: Prevention of Frazil ice formation</title>
       <link>https://skemman.is/handle/1946/46243</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46233</link>
       <description>Can nuclear energy act as transitionary energy between a fossil fuel-based energy system and a renewable-based energy system? : can innovations in nuclear technology help lead to the next golden age in sustainable energy? - Finlay Ross Mann 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46233</guid>
-    </item>
-    <item>
-      <title>Skapandi kennsluaðferðir í bóknámi fyrir lesblinda : verkefnihefti</title>
-      <link>https://skemman.is/handle/1946/46231</link>
-      <description>Skapandi kennsluaðferðir í bóknámi fyrir lesblinda : verkefnihefti - Vala Hermannsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46231</guid>
     </item>
   </channel>
 </rss>
