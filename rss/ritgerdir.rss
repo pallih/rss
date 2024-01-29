@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 29 Jan 2024 08:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 09:00:23 +0000</lastBuildDate>
     <item>
       <title>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland</title>
       <link>https://skemman.is/handle/1946/46253</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/46254</link>
       <description>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt - Axel Ingi Einarsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46254</guid>
+    </item>
+    <item>
+      <title>Water quality of urban runoff in a small catchment area in Urriðaholt neighbourhood</title>
+      <link>https://skemman.is/handle/1946/46255</link>
+      <description>Water quality of urban runoff in a small catchment area in Urriðaholt neighbourhood - Stefanía Valdimarsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46255</guid>
     </item>
     <item>
       <title>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46220</link>
       <description>Fróðleiksfúsi - Anna Rósa Ásgeirsdóttir 1994-; Finnur Eiríksson 1978-; Kristín Þórðardóttir 1980-; Þórey Ósk Árnadóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46220</guid>
-    </item>
-    <item>
-      <title>Regn - Android App</title>
-      <link>https://skemman.is/handle/1946/46222</link>
-      <description>Regn - Android App - Andri Þór Tryggvason 2001-; Guðjón Guðjónsson 2000-; Jakob Óli Bergsveinsson 2000-; Sædís Björk Jónsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46222</guid>
     </item>
   </channel>
 </rss>
