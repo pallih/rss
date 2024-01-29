@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 29 Jan 2024 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 12:00:30 +0000</lastBuildDate>
     <item>
-      <title>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland</title>
-      <link>https://skemman.is/handle/1946/46253</link>
-      <description>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland - Karen Birta Kjartansdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46253</guid>
+      <title>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers</title>
+      <link>https://skemman.is/handle/1946/46256</link>
+      <description>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers - Hlynur Steinsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46256</guid>
     </item>
     <item>
       <title>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt</title>
@@ -21,16 +21,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46254</guid>
     </item>
     <item>
+      <title>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland</title>
+      <link>https://skemman.is/handle/1946/46253</link>
+      <description>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland - Karen Birta Kjartansdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46253</guid>
+    </item>
+    <item>
       <title>Water quality of urban runoff in a small catchment area in Urriðaholt neighbourhood</title>
       <link>https://skemman.is/handle/1946/46255</link>
       <description>Water quality of urban runoff in a small catchment area in Urriðaholt neighbourhood - Stefanía Valdimarsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46255</guid>
     </item>
     <item>
-      <title>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region</title>
-      <link>https://skemman.is/handle/1946/46249</link>
-      <description>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region - Eric Matthew Morud 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46249</guid>
+      <title>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019</title>
+      <link>https://skemman.is/handle/1946/46257</link>
+      <description>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019 - Sigrún Erna Kristinsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46257</guid>
+    </item>
+    <item>
+      <title>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables</title>
+      <link>https://skemman.is/handle/1946/46252</link>
+      <description>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables - Liam Neil Doucette 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46252</guid>
     </item>
     <item>
       <title>Effects of Symmetry on Visual Search Task Performance: Examining the effects of different levels of symmetry on performance on a visual search task</title>
@@ -45,10 +57,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46251</guid>
     </item>
     <item>
-      <title>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables</title>
-      <link>https://skemman.is/handle/1946/46252</link>
-      <description>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables - Liam Neil Doucette 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46252</guid>
+      <title>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region</title>
+      <link>https://skemman.is/handle/1946/46249</link>
+      <description>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region - Eric Matthew Morud 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46249</guid>
     </item>
     <item>
       <title>Eru allir með?: Íbúasamráð við gerð hverfis- og deiliskipulags í Reykjavík</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46221</link>
       <description>Hvert stefnir verkalýðshreyfingin? Samráðskerfi eða aukin átök - Ágúst Valves Jóhannesson 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46221</guid>
-    </item>
-    <item>
-      <title>Evaluating Icelandic sentiment analysis models trained on translated data</title>
-      <link>https://skemman.is/handle/1946/46224</link>
-      <description>Evaluating Icelandic sentiment analysis models trained on translated data - Birkir Finnbogi H Arndal 2001-; Eysteinn Örn Jónsson 2000-; Ólafur Aron Jóhannsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46224</guid>
-    </item>
-    <item>
-      <title>Fróðleiksfúsi</title>
-      <link>https://skemman.is/handle/1946/46220</link>
-      <description>Fróðleiksfúsi - Anna Rósa Ásgeirsdóttir 1994-; Finnur Eiríksson 1978-; Kristín Þórðardóttir 1980-; Þórey Ósk Árnadóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46220</guid>
     </item>
   </channel>
 </rss>
