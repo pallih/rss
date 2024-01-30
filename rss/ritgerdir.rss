@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Jan 2024 10:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 11:00:28 +0000</lastBuildDate>
     <item>
       <title>Stöðugar samsætur í óstöðugu umhverfi: Mynstur δ13C og δ15N í jarðvegi mýrlendis</title>
       <link>https://skemman.is/handle/1946/46258</link>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/46264</link>
       <description>Problem behavior in transitions between activities - Bára Sæmundsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46264</guid>
+    </item>
+    <item>
+      <title>Effects on an online sleep lecture on parents' knowledge and ability to treat their children's sleep interfering behaviors</title>
+      <link>https://skemman.is/handle/1946/46265</link>
+      <description>Effects on an online sleep lecture on parents' knowledge and ability to treat their children's sleep interfering behaviors - Jóhanna Ósk Kristinsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46265</guid>
     </item>
     <item>
       <title>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46242</link>
       <description>Golf í gólf - Valdís Vilmarsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46242</guid>
-    </item>
-    <item>
-      <title>Implementation of Battery measurement Jig: A Jig capable of reading BMS Parameters used to analyze Li-ion batteries from Össur LTD</title>
-      <link>https://skemman.is/handle/1946/46239</link>
-      <description>Implementation of Battery measurement Jig: A Jig capable of reading BMS Parameters used to analyze Li-ion batteries from Össur LTD - Börkur Hrafn Sigurbjörnsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46239</guid>
     </item>
   </channel>
 </rss>
