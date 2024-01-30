@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Jan 2024 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 15:00:35 +0000</lastBuildDate>
     <item>
       <title>Mapping allosteric inhibition of glucose-6-phosphate isomerase using high-throughput assays</title>
       <link>https://skemman.is/handle/1946/46262</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46272</guid>
     </item>
     <item>
-      <title>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers</title>
-      <link>https://skemman.is/handle/1946/46256</link>
-      <description>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers - Hlynur Steinsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46256</guid>
-    </item>
-    <item>
       <title>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt</title>
       <link>https://skemman.is/handle/1946/46254</link>
       <description>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt - Axel Ingi Einarsson 1999-</description>
@@ -127,6 +121,12 @@
       <link>https://skemman.is/handle/1946/46257</link>
       <description>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019 - Sigrún Erna Kristinsdóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46257</guid>
+    </item>
+    <item>
+      <title>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers</title>
+      <link>https://skemman.is/handle/1946/46256</link>
+      <description>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers - Hlynur Steinsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46256</guid>
     </item>
     <item>
       <title>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables</title>
