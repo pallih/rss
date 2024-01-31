@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 31 Jan 2024 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 16:00:26 +0000</lastBuildDate>
     <item>
       <title>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu</title>
       <link>https://skemman.is/handle/1946/46275</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/46276</link>
       <description>A case study on implementation of hybrid software development process - Berglind Kara Guðmundsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46276</guid>
+    </item>
+    <item>
+      <title>Effects of soil temperature on Sphagnum moss litter quality and decomposition in a  subarctic environment</title>
+      <link>https://skemman.is/handle/1946/46277</link>
+      <description>Effects of soil temperature on Sphagnum moss litter quality and decomposition in a  subarctic environment - Sahra K. I. Gibson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46277</guid>
     </item>
     <item>
       <title>The effect of microlite crystallization on melt  compositions and derived magma temperatures in  the 2021 and 2022 Fagradalsfjall eruptions</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46257</link>
       <description>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019 - Sigrún Erna Kristinsdóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46257</guid>
-    </item>
-    <item>
-      <title>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables</title>
-      <link>https://skemman.is/handle/1946/46252</link>
-      <description>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables - Liam Neil Doucette 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46252</guid>
     </item>
   </channel>
 </rss>
