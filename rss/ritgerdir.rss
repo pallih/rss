@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 31 Jan 2024 09:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 10:00:24 +0000</lastBuildDate>
     <item>
       <title>Protein stability assay: A method for determining the degradation pathway of  unstable proteins.</title>
       <link>https://skemman.is/handle/1946/46274</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/46275</link>
       <description>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu - Anton Bender 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46275</guid>
+    </item>
+    <item>
+      <title>A case study on implementation of hybrid software development process</title>
+      <link>https://skemman.is/handle/1946/46276</link>
+      <description>A case study on implementation of hybrid software development process - Berglind Kara Guðmundsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46276</guid>
     </item>
     <item>
       <title>The effect of microlite crystallization on melt  compositions and derived magma temperatures in  the 2021 and 2022 Fagradalsfjall eruptions</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46252</link>
       <description>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables - Liam Neil Doucette 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46252</guid>
-    </item>
-    <item>
-      <title>Effects of Symmetry on Visual Search Task Performance: Examining the effects of different levels of symmetry on performance on a visual search task</title>
-      <link>https://skemman.is/handle/1946/46250</link>
-      <description>Effects of Symmetry on Visual Search Task Performance: Examining the effects of different levels of symmetry on performance on a visual search task - Arnþór Birkir Sigurðsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46250</guid>
     </item>
   </channel>
 </rss>
