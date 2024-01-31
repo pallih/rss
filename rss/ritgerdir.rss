@@ -7,7 +7,61 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Jan 2024 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 08:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Protein stability assay: A method for determining the degradation pathway of  unstable proteins.</title>
+      <link>https://skemman.is/handle/1946/46274</link>
+      <description>Protein stability assay: A method for determining the degradation pathway of  unstable proteins. - Ármann Örn Snorrason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46274</guid>
+    </item>
+    <item>
+      <title>The effect of microlite crystallization on melt  compositions and derived magma temperatures in  the 2021 and 2022 Fagradalsfjall eruptions</title>
+      <link>https://skemman.is/handle/1946/46273</link>
+      <description>The effect of microlite crystallization on melt  compositions and derived magma temperatures in  the 2021 and 2022 Fagradalsfjall eruptions - Alexandra K. Hafsteinsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46273</guid>
+    </item>
+    <item>
+      <title>Fostering future CDIO talent in Icelandic engineers : a study of engineering education in Iceland</title>
+      <link>https://skemman.is/handle/1946/46271</link>
+      <description>Fostering future CDIO talent in Icelandic engineers : a study of engineering education in Iceland - Ágústa Margrét Ólafsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46271</guid>
+    </item>
+    <item>
+      <title>Development of a hardware management system interface for a wireless kine measurement unit</title>
+      <link>https://skemman.is/handle/1946/46269</link>
+      <description>Development of a hardware management system interface for a wireless kine measurement unit - Aisha Regína Ögmundsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46269</guid>
+    </item>
+    <item>
+      <title>Utilizing machine learning techniques in estimating ankle prosthesis power output using wearable IMU sensors</title>
+      <link>https://skemman.is/handle/1946/46270</link>
+      <description>Utilizing machine learning techniques in estimating ankle prosthesis power output using wearable IMU sensors - Halldór Reynisson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46270</guid>
+    </item>
+    <item>
+      <title>Noise resilience of proofs of quantumness</title>
+      <link>https://skemman.is/handle/1946/46268</link>
+      <description>Noise resilience of proofs of quantumness - Egill Torfason 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46268</guid>
+    </item>
+    <item>
+      <title>A foundation for autonomous conceptual engineering design</title>
+      <link>https://skemman.is/handle/1946/46267</link>
+      <description>A foundation for autonomous conceptual engineering design - Chloe Schaff 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46267</guid>
+    </item>
+    <item>
+      <title>Hver er helsta ástæðan fyrir notkun fæðubótarefna? :  samanburður á líkamsræktariðkendum og íþróttafólki</title>
+      <link>https://skemman.is/handle/1946/46272</link>
+      <description>Hver er helsta ástæðan fyrir notkun fæðubótarefna? :  samanburður á líkamsræktariðkendum og íþróttafólki - Dagný Lilja Orradóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46272</guid>
+    </item>
+    <item>
+      <title>Applying binary decision diagrams to learn hidden Markov models</title>
+      <link>https://skemman.is/handle/1946/46266</link>
+      <description>Applying binary decision diagrams to learn hidden Markov models - Eva Ósk Gunnarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46266</guid>
+    </item>
     <item>
       <title>Mapping allosteric inhibition of glucose-6-phosphate isomerase using high-throughput assays</title>
       <link>https://skemman.is/handle/1946/46262</link>
@@ -57,48 +111,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46264</guid>
     </item>
     <item>
-      <title>Applying binary decision diagrams to learn hidden Markov models</title>
-      <link>https://skemman.is/handle/1946/46266</link>
-      <description>Applying binary decision diagrams to learn hidden Markov models - Eva Ósk Gunnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46266</guid>
-    </item>
-    <item>
-      <title>A foundation for autonomous conceptual engineering design</title>
-      <link>https://skemman.is/handle/1946/46267</link>
-      <description>A foundation for autonomous conceptual engineering design - Chloe Schaff 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46267</guid>
-    </item>
-    <item>
-      <title>Noise resilience of proofs of quantumness</title>
-      <link>https://skemman.is/handle/1946/46268</link>
-      <description>Noise resilience of proofs of quantumness - Egill Torfason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46268</guid>
-    </item>
-    <item>
-      <title>Development of a hardware management system interface for a wireless kine measurement unit</title>
-      <link>https://skemman.is/handle/1946/46269</link>
-      <description>Development of a hardware management system interface for a wireless kine measurement unit - Aisha Regína Ögmundsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46269</guid>
-    </item>
-    <item>
-      <title>Utilizing machine learning techniques in estimating ankle prosthesis power output using wearable IMU sensors</title>
-      <link>https://skemman.is/handle/1946/46270</link>
-      <description>Utilizing machine learning techniques in estimating ankle prosthesis power output using wearable IMU sensors - Halldór Reynisson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46270</guid>
-    </item>
-    <item>
-      <title>Fostering future CDIO talent in Icelandic engineers : a study of engineering education in Iceland</title>
-      <link>https://skemman.is/handle/1946/46271</link>
-      <description>Fostering future CDIO talent in Icelandic engineers : a study of engineering education in Iceland - Ágústa Margrét Ólafsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46271</guid>
-    </item>
-    <item>
-      <title>Hver er helsta ástæðan fyrir notkun fæðubótarefna? :  samanburður á líkamsræktariðkendum og íþróttafólki</title>
-      <link>https://skemman.is/handle/1946/46272</link>
-      <description>Hver er helsta ástæðan fyrir notkun fæðubótarefna? :  samanburður á líkamsræktariðkendum og íþróttafólki - Dagný Lilja Orradóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46272</guid>
-    </item>
-    <item>
       <title>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt</title>
       <link>https://skemman.is/handle/1946/46254</link>
       <description>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt - Axel Ingi Einarsson 1999-</description>
@@ -117,16 +129,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46255</guid>
     </item>
     <item>
-      <title>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019</title>
-      <link>https://skemman.is/handle/1946/46257</link>
-      <description>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019 - Sigrún Erna Kristinsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46257</guid>
-    </item>
-    <item>
       <title>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers</title>
       <link>https://skemman.is/handle/1946/46256</link>
       <description>Initial plant and soil microbial communities on deglaciated land at four outlet glaciers - Hlynur Steinsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46256</guid>
+    </item>
+    <item>
+      <title>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019</title>
+      <link>https://skemman.is/handle/1946/46257</link>
+      <description>Lesskilningur í nútíð og þátíð. Breyting á lesskilningi nemenda á unglingastigi frá 2008 til 2019 - Sigrún Erna Kristinsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46257</guid>
     </item>
     <item>
       <title>Analyzing Local and Sustainable Food Options in Icelandic Communities: Locally Produced Fish and Vegetables</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46251</link>
       <description>Serial dependence: How past perception affects future perceptions and decisions - Birta Hinriksdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46251</guid>
-    </item>
-    <item>
-      <title>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region</title>
-      <link>https://skemman.is/handle/1946/46249</link>
-      <description>Scooting around: Scootersharing and sustainable mobility planning in the Reykjavík Capital Region - Eric Matthew Morud 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46249</guid>
-    </item>
-    <item>
-      <title>Eru allir með?: Íbúasamráð við gerð hverfis- og deiliskipulags í Reykjavík</title>
-      <link>https://skemman.is/handle/1946/46248</link>
-      <description>Eru allir með?: Íbúasamráð við gerð hverfis- og deiliskipulags í Reykjavík - Birgitta Rut Skúladóttir Hjörvar 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46248</guid>
     </item>
   </channel>
 </rss>
