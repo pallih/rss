@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 01 Feb 2024 10:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 11:00:19 +0000</lastBuildDate>
     <item>
       <title>Sharing the safe operating space by using different allocation principles for sheep meat in Iceland. Iceland's share of the safe operating space for sheep meat production for the Planetary Boundary of climate change</title>
       <link>https://skemman.is/handle/1946/46278</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/46279</link>
       <description>Relationship between Patch Size and Avifauna in Icelandic Wetlands - Aron Alexander Þorvarðarson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46279</guid>
+    </item>
+    <item>
+      <title>Production of solar-grade silicon from metallurgical silicon by precipitation from aluminum melt</title>
+      <link>https://skemman.is/handle/1946/46280</link>
+      <description>Production of solar-grade silicon from metallurgical silicon by precipitation from aluminum melt - Bochang Chen 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46280</guid>
+    </item>
+    <item>
+      <title>Euler angle approximation based on IMU sensor fusion</title>
+      <link>https://skemman.is/handle/1946/46281</link>
+      <description>Euler angle approximation based on IMU sensor fusion - Aron Ingi Sverrisson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46281</guid>
     </item>
     <item>
       <title>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46254</link>
       <description>Beitarfriðun hefur áhrif á eigindi lostætra plantna; Eigindi stönguls svara beitarfriðun en eigindi laufblaða haldast óbreytt - Axel Ingi Einarsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46254</guid>
-    </item>
-    <item>
-      <title>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland</title>
-      <link>https://skemman.is/handle/1946/46253</link>
-      <description>Afslöppun í ævintýralandi náttúrubarnsins: Innihalds- og orðæðugreining á birtingarmynd Íslands sem áfangarstaðar í markaðsherferðinni Inspired by Iceland - Karen Birta Kjartansdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46253</guid>
-    </item>
-    <item>
-      <title>Water quality of urban runoff in a small catchment area in Urriðaholt neighbourhood</title>
-      <link>https://skemman.is/handle/1946/46255</link>
-      <description>Water quality of urban runoff in a small catchment area in Urriðaholt neighbourhood - Stefanía Valdimarsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46255</guid>
     </item>
   </channel>
 </rss>
