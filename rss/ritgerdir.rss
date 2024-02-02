@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 02 Feb 2024 15:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 16:00:27 +0000</lastBuildDate>
     <item>
       <title>Ostracods from Hvalfjörður, western Iceland: diversity and biomonitoring experiment</title>
       <link>https://skemman.is/handle/1946/46288</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/46291</link>
       <description>Mass eruption rates in the explosive phase of the last five Hekla eruptions, comparison between observations and models. - Kristín Þorsteinsd. Sonnentag 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46291</guid>
+    </item>
+    <item>
+      <title>Examining The Relationship Between Urbanization and Food Security in China  Impacts on Accessibilty, Affordability, and Food Quality.</title>
+      <link>https://skemman.is/handle/1946/46295</link>
+      <description>Examining The Relationship Between Urbanization and Food Security in China  Impacts on Accessibilty, Affordability, and Food Quality. - Jiaqi Chen 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46295</guid>
     </item>
     <item>
       <title>Sharing the safe operating space by using different allocation principles for sheep meat in Iceland. Iceland's share of the safe operating space for sheep meat production for the Planetary Boundary of climate change</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46270</link>
       <description>Utilizing machine learning techniques in estimating ankle prosthesis power output using wearable IMU sensors - Halldór Reynisson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46270</guid>
-    </item>
-    <item>
-      <title>Noise resilience of proofs of quantumness</title>
-      <link>https://skemman.is/handle/1946/46268</link>
-      <description>Noise resilience of proofs of quantumness - Egill Torfason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46268</guid>
     </item>
   </channel>
 </rss>
