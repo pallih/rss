@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 05 Feb 2024 09:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 10:00:26 +0000</lastBuildDate>
     <item>
       <title>Öryggi barna í innkaupakerru - Minni kerra meira öryggi?</title>
       <link>https://skemman.is/handle/1946/46297</link>
@@ -129,12 +129,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46279</guid>
     </item>
     <item>
-      <title>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu</title>
-      <link>https://skemman.is/handle/1946/46275</link>
-      <description>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu - Anton Bender 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46275</guid>
-    </item>
-    <item>
       <title>Protein stability assay: A method for determining the degradation pathway of  unstable proteins.</title>
       <link>https://skemman.is/handle/1946/46274</link>
       <description>Protein stability assay: A method for determining the degradation pathway of  unstable proteins. - Ármann Örn Snorrason 2000-</description>
@@ -151,6 +145,12 @@
       <link>https://skemman.is/handle/1946/46277</link>
       <description>Effects of soil temperature on Sphagnum moss litter quality and decomposition in a  subarctic environment - Sahra K. I. Gibson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46277</guid>
+    </item>
+    <item>
+      <title>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu</title>
+      <link>https://skemman.is/handle/1946/46275</link>
+      <description>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu - Anton Bender 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46275</guid>
     </item>
     <item>
       <title>The effect of microlite crystallization on melt  compositions and derived magma temperatures in  the 2021 and 2022 Fagradalsfjall eruptions</title>
