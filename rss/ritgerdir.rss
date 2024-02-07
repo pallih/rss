@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 07 Feb 2024 11:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Að „höndla" áfengi og að höndla með áfengi</title>
+      <link>https://skemman.is/handle/1946/46300</link>
+      <description>Að „höndla" áfengi og að höndla með áfengi - Þormóður Þormóðsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46300</guid>
+    </item>
+    <item>
+      <title>Business plan for opening a surf camp in Iceland</title>
+      <link>https://skemman.is/handle/1946/46301</link>
+      <description>Business plan for opening a surf camp in Iceland - Einar Sveinn Pálsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46301</guid>
+    </item>
     <item>
       <title>Undireiningar próteasóma</title>
       <link>https://skemman.is/handle/1946/46299</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46276</link>
       <description>A case study on implementation of hybrid software development process - Berglind Kara Guðmundsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46276</guid>
-    </item>
-    <item>
-      <title>Effects of soil temperature on Sphagnum moss litter quality and decomposition in a  subarctic environment</title>
-      <link>https://skemman.is/handle/1946/46277</link>
-      <description>Effects of soil temperature on Sphagnum moss litter quality and decomposition in a  subarctic environment - Sahra K. I. Gibson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46277</guid>
-    </item>
-    <item>
-      <title>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu</title>
-      <link>https://skemman.is/handle/1946/46275</link>
-      <description>Heildstæð úttekt á gena og prótín tjáningu í brjóstastofnfumulínun D429 í tvívíðri og þrívíðri rækt og í myndun greinóttra formgerða og bandsvefsumbreytingu - Anton Bender 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46275</guid>
     </item>
   </channel>
 </rss>
