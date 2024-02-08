@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Feb 2024 13:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:00:30 +0000</lastBuildDate>
     <item>
       <title>Zebrafish model of ADHD : analysis of metabolomic and lipidomic pathways</title>
       <link>https://skemman.is/handle/1946/46302</link>
       <description>Zebrafish model of ADHD : analysis of metabolomic and lipidomic pathways - Brynja Rún Sævarsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46302</guid>
+    </item>
+    <item>
+      <title>Modelling the conductive characteristics of the human lower back using medical imaging and FEM modelling to optimize tSCS therapy</title>
+      <link>https://skemman.is/handle/1946/46303</link>
+      <description>Modelling the conductive characteristics of the human lower back using medical imaging and FEM modelling to optimize tSCS therapy - Jón Andri Árnason 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46303</guid>
     </item>
     <item>
       <title>Að „höndla" áfengi og að höndla með áfengi</title>
@@ -105,16 +111,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46287</guid>
     </item>
     <item>
-      <title>Examining The Relationship Between Urbanization and Food Security in China  Impacts on Accessibilty, Affordability, and Food Quality.</title>
-      <link>https://skemman.is/handle/1946/46295</link>
-      <description>Examining The Relationship Between Urbanization and Food Security in China  Impacts on Accessibilty, Affordability, and Food Quality. - Jiaqi Chen 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46295</guid>
-    </item>
-    <item>
       <title>Rannsókn á microRNA stýringu á KMT2D í Kabuki heilkenni 1</title>
       <link>https://skemman.is/handle/1946/46296</link>
       <description>Rannsókn á microRNA stýringu á KMT2D í Kabuki heilkenni 1 - Jóhann Örn Thorarensen 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46296</guid>
+    </item>
+    <item>
+      <title>Examining The Relationship Between Urbanization and Food Security in China  Impacts on Accessibilty, Affordability, and Food Quality.</title>
+      <link>https://skemman.is/handle/1946/46295</link>
+      <description>Examining The Relationship Between Urbanization and Food Security in China  Impacts on Accessibilty, Affordability, and Food Quality. - Jiaqi Chen 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46295</guid>
     </item>
     <item>
       <title>Sharing the safe operating space by using different allocation principles for sheep meat in Iceland. Iceland's share of the safe operating space for sheep meat production for the Planetary Boundary of climate change</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46279</link>
       <description>Relationship between Patch Size and Avifauna in Icelandic Wetlands - Aron Alexander Þorvarðarson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46279</guid>
-    </item>
-    <item>
-      <title>Protein stability assay: A method for determining the degradation pathway of  unstable proteins.</title>
-      <link>https://skemman.is/handle/1946/46274</link>
-      <description>Protein stability assay: A method for determining the degradation pathway of  unstable proteins. - Ármann Örn Snorrason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46274</guid>
     </item>
   </channel>
 </rss>
