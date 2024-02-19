@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 Feb 2024 09:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 10:00:20 +0000</lastBuildDate>
+    <item>
+      <title>Vopnvædd vanhæfni: Reynsla kvenna af vopnvæddri vanhæfni í sambúð með karlmönnum</title>
+      <link>https://skemman.is/handle/1946/46350</link>
+      <description>Vopnvædd vanhæfni: Reynsla kvenna af vopnvæddri vanhæfni í sambúð með karlmönnum - Marta María Harðardóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46350</guid>
+    </item>
     <item>
       <title>Framsækni og fegurð : aðdráttarafl íslenskra þjónustu framleiðslufyrirtækja fyrir erlend kvikmyndaframleiðslufyrirtæki</title>
       <link>https://skemman.is/handle/1946/46349</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46320</link>
       <description>Hver er framtíð þjónustustarfs í verslunum? Með tilkomu sjálfsafgreiðslu - Thelma Tara Jeannotsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46320</guid>
-    </item>
-    <item>
-      <title>Þróun vátrygginga : hvernig hefur íslenskur vátryggingmarkaður þróast og hver er líkleg framtíð vátrygginga á Íslandi.</title>
-      <link>https://skemman.is/handle/1946/46317</link>
-      <description>Þróun vátrygginga : hvernig hefur íslenskur vátryggingmarkaður þróast og hver er líkleg framtíð vátrygginga á Íslandi. - Óli Rafn Jónsson 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46317</guid>
     </item>
   </channel>
 </rss>
