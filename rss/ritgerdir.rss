@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Feb 2024 13:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 14:00:25 +0000</lastBuildDate>
     <item>
       <title>Söguleg viðfangsefni í textílmennt : kennsluefni í fléttusaumi fyrir grunnskóla</title>
       <link>https://skemman.is/handle/1946/46373</link>
@@ -27,28 +27,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46370</guid>
     </item>
     <item>
-      <title>Krossviður og bönd : greinagerð um verkefni í hönnun og smíði sem nýta orkugjafa</title>
-      <link>https://skemman.is/handle/1946/46369</link>
-      <description>Krossviður og bönd : greinagerð um verkefni í hönnun og smíði sem nýta orkugjafa - Jóhannes Anton Daníelsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46369</guid>
-    </item>
-    <item>
-      <title>Menntun í þágu samfélags : hlutverk félags- og tilfinninganáms í menntakerfi nútímans</title>
-      <link>https://skemman.is/handle/1946/46372</link>
-      <description>Menntun í þágu samfélags : hlutverk félags- og tilfinninganáms í menntakerfi nútímans - Arnór Heiðar Benónýsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46372</guid>
-    </item>
-    <item>
-      <title>Skapandi verkefni í bóknámi með áherslu á lesblinda : tillögur að verkefnum.</title>
-      <link>https://skemman.is/handle/1946/46374</link>
-      <description>Skapandi verkefni í bóknámi með áherslu á lesblinda : tillögur að verkefnum. - Vala Hermannsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46374</guid>
-    </item>
-    <item>
-      <title>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum</title>
-      <link>https://skemman.is/handle/1946/46375</link>
-      <description>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum - Rebekka Lind Guðmundsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46375</guid>
+      <title>Developing a capacity for lifelong learning : self-regulation and autonomous learning competencies within the European Framework</title>
+      <link>https://skemman.is/handle/1946/46378</link>
+      <description>Developing a capacity for lifelong learning : self-regulation and autonomous learning competencies within the European Framework - Julia Diana Morgan 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46378</guid>
     </item>
     <item>
       <title>Utan hins vestræna heims : greinargerð og verkefnasafn um mikilvægi fjölbreytni í sögukennslu grunnskóla</title>
@@ -57,16 +39,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46376</guid>
     </item>
     <item>
-      <title>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar</title>
-      <link>https://skemman.is/handle/1946/46377</link>
-      <description>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar - Hjörtur Þór Magnússon 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46377</guid>
+      <title>Finndu mig í fjöru : fjöruferðir leikskólabarna</title>
+      <link>https://skemman.is/handle/1946/46380</link>
+      <description>Finndu mig í fjöru : fjöruferðir leikskólabarna - Kristbjörg Unnur Sigurvinsdóttir 1966-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46380</guid>
     </item>
     <item>
-      <title>Developing a capacity for lifelong learning : self-regulation and autonomous learning competencies within the European Framework</title>
-      <link>https://skemman.is/handle/1946/46378</link>
-      <description>Developing a capacity for lifelong learning : self-regulation and autonomous learning competencies within the European Framework - Julia Diana Morgan 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46378</guid>
+      <title>Skapandi verkefni í bóknámi með áherslu á lesblinda : tillögur að verkefnum.</title>
+      <link>https://skemman.is/handle/1946/46374</link>
+      <description>Skapandi verkefni í bóknámi með áherslu á lesblinda : tillögur að verkefnum. - Vala Hermannsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46374</guid>
+    </item>
+    <item>
+      <title>Menntun í þágu samfélags : hlutverk félags- og tilfinninganáms í menntakerfi nútímans</title>
+      <link>https://skemman.is/handle/1946/46372</link>
+      <description>Menntun í þágu samfélags : hlutverk félags- og tilfinninganáms í menntakerfi nútímans - Arnór Heiðar Benónýsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46372</guid>
     </item>
     <item>
       <title>Vex viljinn þegar vel gengur : hlutverk kennara í velferð nemenda</title>
@@ -75,10 +63,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46379</guid>
     </item>
     <item>
-      <title>Finndu mig í fjöru : fjöruferðir leikskólabarna</title>
-      <link>https://skemman.is/handle/1946/46380</link>
-      <description>Finndu mig í fjöru : fjöruferðir leikskólabarna - Kristbjörg Unnur Sigurvinsdóttir 1966-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46380</guid>
+      <title>Krossviður og bönd : greinagerð um verkefni í hönnun og smíði sem nýta orkugjafa</title>
+      <link>https://skemman.is/handle/1946/46369</link>
+      <description>Krossviður og bönd : greinagerð um verkefni í hönnun og smíði sem nýta orkugjafa - Jóhannes Anton Daníelsson 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46369</guid>
+    </item>
+    <item>
+      <title>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar</title>
+      <link>https://skemman.is/handle/1946/46377</link>
+      <description>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar - Hjörtur Þór Magnússon 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46377</guid>
+    </item>
+    <item>
+      <title>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum</title>
+      <link>https://skemman.is/handle/1946/46375</link>
+      <description>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum - Rebekka Lind Guðmundsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46375</guid>
     </item>
     <item>
       <title>„Það ætluðu allir að vinna saman gegn þessum óvini“: reynsla hjúkrunardeildarstjóra af störfum sínum á tímum Covid-19.</title>
