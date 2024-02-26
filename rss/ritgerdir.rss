@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Feb 2024 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 13:00:23 +0000</lastBuildDate>
     <item>
       <title>Söguleg viðfangsefni í textílmennt : kennsluefni í fléttusaumi fyrir grunnskóla</title>
       <link>https://skemman.is/handle/1946/46373</link>
@@ -43,6 +43,42 @@
       <link>https://skemman.is/handle/1946/46374</link>
       <description>Skapandi verkefni í bóknámi með áherslu á lesblinda : tillögur að verkefnum. - Vala Hermannsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46374</guid>
+    </item>
+    <item>
+      <title>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum</title>
+      <link>https://skemman.is/handle/1946/46375</link>
+      <description>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum - Rebekka Lind Guðmundsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46375</guid>
+    </item>
+    <item>
+      <title>Utan hins vestræna heims : greinargerð og verkefnasafn um mikilvægi fjölbreytni í sögukennslu grunnskóla</title>
+      <link>https://skemman.is/handle/1946/46376</link>
+      <description>Utan hins vestræna heims : greinargerð og verkefnasafn um mikilvægi fjölbreytni í sögukennslu grunnskóla - Axel Guðmundur Arason 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46376</guid>
+    </item>
+    <item>
+      <title>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar</title>
+      <link>https://skemman.is/handle/1946/46377</link>
+      <description>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar - Hjörtur Þór Magnússon 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46377</guid>
+    </item>
+    <item>
+      <title>Developing a capacity for lifelong learning : self-regulation and autonomous learning competencies within the European Framework</title>
+      <link>https://skemman.is/handle/1946/46378</link>
+      <description>Developing a capacity for lifelong learning : self-regulation and autonomous learning competencies within the European Framework - Julia Diana Morgan 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46378</guid>
+    </item>
+    <item>
+      <title>Vex viljinn þegar vel gengur : hlutverk kennara í velferð nemenda</title>
+      <link>https://skemman.is/handle/1946/46379</link>
+      <description>Vex viljinn þegar vel gengur : hlutverk kennara í velferð nemenda - Berglind Guðný Kaaber 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46379</guid>
+    </item>
+    <item>
+      <title>Finndu mig í fjöru : fjöruferðir leikskólabarna</title>
+      <link>https://skemman.is/handle/1946/46380</link>
+      <description>Finndu mig í fjöru : fjöruferðir leikskólabarna - Kristbjörg Unnur Sigurvinsdóttir 1966-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46380</guid>
     </item>
     <item>
       <title>„Það ætluðu allir að vinna saman gegn þessum óvini“: reynsla hjúkrunardeildarstjóra af störfum sínum á tímum Covid-19.</title>
@@ -121,42 +157,6 @@
       <link>https://skemman.is/handle/1946/46361</link>
       <description>Kremgrunnur : þróunarferli og framkvæmd prófana til að meta gæði ýrulausnar - Aleksandra Borchert 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46361</guid>
-    </item>
-    <item>
-      <title>Destination : dual diagnosis how to protect and serve : mind the gap</title>
-      <link>https://skemman.is/handle/1946/46368</link>
-      <description>Destination : dual diagnosis how to protect and serve : mind the gap - Margrét Kjartansdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46368</guid>
-    </item>
-    <item>
-      <title>Sitja allir við sama borð í íslenskri knattspyrnu? : samanburður á rekstri knattspyrnudeilda á landsbyggðinni og höfuðborgarsvæðinu</title>
-      <link>https://skemman.is/handle/1946/46367</link>
-      <description>Sitja allir við sama borð í íslenskri knattspyrnu? : samanburður á rekstri knattspyrnudeilda á landsbyggðinni og höfuðborgarsvæðinu - Gylfi Már Þórðarson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46367</guid>
-    </item>
-    <item>
-      <title>Greining ársreikninga : samanburður á Tengi og Mílu</title>
-      <link>https://skemman.is/handle/1946/46366</link>
-      <description>Greining ársreikninga : samanburður á Tengi og Mílu - Birgitta Eva Hallsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46366</guid>
-    </item>
-    <item>
-      <title>Inspections in the Antarctic Treaty System - Instruments for Peace and Cooperation?</title>
-      <link>https://skemman.is/handle/1946/46364</link>
-      <description>Inspections in the Antarctic Treaty System - Instruments for Peace and Cooperation? - Angharad Beatrice Downes 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46364</guid>
-    </item>
-    <item>
-      <title>Útikennsla á yngsta stigi : með áherslu á grunnþætti menntunar</title>
-      <link>https://skemman.is/handle/1946/46362</link>
-      <description>Útikennsla á yngsta stigi : með áherslu á grunnþætti menntunar - Ágústa Kristinsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46362</guid>
-    </item>
-    <item>
-      <title>Vopnvædd vanhæfni: Reynsla kvenna af vopnvæddri vanhæfni í sambúð með karlmönnum</title>
-      <link>https://skemman.is/handle/1946/46350</link>
-      <description>Vopnvædd vanhæfni: Reynsla kvenna af vopnvæddri vanhæfni í sambúð með karlmönnum - Marta María Harðardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46350</guid>
     </item>
   </channel>
 </rss>
