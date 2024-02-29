@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 29 Feb 2024 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 16:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Abstraktmálverkið: Helgimynd íslenskrar menningar á 20. öld</title>
+      <link>https://skemman.is/handle/1946/46394</link>
+      <description>Abstraktmálverkið: Helgimynd íslenskrar menningar á 20. öld - Sigurjón Árni Eyjólfsson 1957-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46394</guid>
+    </item>
     <item>
       <title>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu</title>
       <link>https://skemman.is/handle/1946/46384</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46377</link>
       <description>Úr leik í keppni : leikur til þroska eða samkeppni til sundrunar - Hjörtur Þór Magnússon 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46377</guid>
-    </item>
-    <item>
-      <title>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum</title>
-      <link>https://skemman.is/handle/1946/46375</link>
-      <description>„Snillistund“ : áhrif nemendamiðaðrar og áhugadrifinnar kennslu í náttúrugreinum - Rebekka Lind Guðmundsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46375</guid>
     </item>
   </channel>
 </rss>
