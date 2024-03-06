@@ -7,48 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 06 Mar 2024 08:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 09:00:30 +0000</lastBuildDate>
     <item>
       <title>Abstraktmálverkið: Helgimynd íslenskrar menningar á 20. öld</title>
       <link>https://skemman.is/handle/1946/46394</link>
       <description>Abstraktmálverkið: Helgimynd íslenskrar menningar á 20. öld - Sigurjón Árni Eyjólfsson 1957-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46394</guid>
-    </item>
-    <item>
-      <title>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu</title>
-      <link>https://skemman.is/handle/1946/46384</link>
-      <description>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu - Arnar Logi Guðjónsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46384</guid>
-    </item>
-    <item>
-      <title>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri</title>
-      <link>https://skemman.is/handle/1946/46386</link>
-      <description>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri - Bergdís Fanney Einarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46386</guid>
-    </item>
-    <item>
-      <title>Notkun stafrænnar heilbrigðislausnar í formi smáforrits til að bæta lyfjameðferðarheldni hjá einstaklingum með hjartabilun</title>
-      <link>https://skemman.is/handle/1946/46385</link>
-      <description>Notkun stafrænnar heilbrigðislausnar í formi smáforrits til að bæta lyfjameðferðarheldni hjá einstaklingum með hjartabilun - Sonja Steinsson Þórsdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46385</guid>
-    </item>
-    <item>
-      <title>Einelti : áhrif eineltis á þolendur og gerendur í grunnskólum og forvarnir</title>
-      <link>https://skemman.is/handle/1946/46383</link>
-      <description>Einelti : áhrif eineltis á þolendur og gerendur í grunnskólum og forvarnir - Sunna Sigríður Sigurðardóttir 1995-; Sandra Dögg Bjarnadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46383</guid>
-    </item>
-    <item>
-      <title>Skóli fyrir alla : er flæði lausnin?</title>
-      <link>https://skemman.is/handle/1946/46382</link>
-      <description>Skóli fyrir alla : er flæði lausnin? - Anna Kristín Halldórsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46382</guid>
-    </item>
-    <item>
-      <title>Kynfræðsla í grunnskólum : greining kynfræðsluefnis í grunnskólum út frá hinsegin menntunarfræði</title>
-      <link>https://skemman.is/handle/1946/46387</link>
-      <description>Kynfræðsla í grunnskólum : greining kynfræðsluefnis í grunnskólum út frá hinsegin menntunarfræði - Björn Andri Baldursson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46387</guid>
     </item>
     <item>
       <title>Einmanaleiki veikburða aldraðra : tengsl félagslegra og heilsufarslegra þátta við mat aðstandenda á einmanaleika skjólstæðinga í öldrunarendurhæfingu á Landspítala Landakoti</title>
@@ -91,6 +55,42 @@
       <link>https://skemman.is/handle/1946/46389</link>
       <description>Uppbyggin endurhæfingar við fremra krossbandaslit - Jón Arnar Stefánsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46389</guid>
+    </item>
+    <item>
+      <title>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu</title>
+      <link>https://skemman.is/handle/1946/46384</link>
+      <description>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu - Arnar Logi Guðjónsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46384</guid>
+    </item>
+    <item>
+      <title>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri</title>
+      <link>https://skemman.is/handle/1946/46386</link>
+      <description>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri - Bergdís Fanney Einarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46386</guid>
+    </item>
+    <item>
+      <title>Notkun stafrænnar heilbrigðislausnar í formi smáforrits til að bæta lyfjameðferðarheldni hjá einstaklingum með hjartabilun</title>
+      <link>https://skemman.is/handle/1946/46385</link>
+      <description>Notkun stafrænnar heilbrigðislausnar í formi smáforrits til að bæta lyfjameðferðarheldni hjá einstaklingum með hjartabilun - Sonja Steinsson Þórsdóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46385</guid>
+    </item>
+    <item>
+      <title>Einelti : áhrif eineltis á þolendur og gerendur í grunnskólum og forvarnir</title>
+      <link>https://skemman.is/handle/1946/46383</link>
+      <description>Einelti : áhrif eineltis á þolendur og gerendur í grunnskólum og forvarnir - Sunna Sigríður Sigurðardóttir 1995-; Sandra Dögg Bjarnadóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46383</guid>
+    </item>
+    <item>
+      <title>Skóli fyrir alla : er flæði lausnin?</title>
+      <link>https://skemman.is/handle/1946/46382</link>
+      <description>Skóli fyrir alla : er flæði lausnin? - Anna Kristín Halldórsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46382</guid>
+    </item>
+    <item>
+      <title>Kynfræðsla í grunnskólum : greining kynfræðsluefnis í grunnskólum út frá hinsegin menntunarfræði</title>
+      <link>https://skemman.is/handle/1946/46387</link>
+      <description>Kynfræðsla í grunnskólum : greining kynfræðsluefnis í grunnskólum út frá hinsegin menntunarfræði - Björn Andri Baldursson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46387</guid>
     </item>
     <item>
       <title>Söguleg viðfangsefni í textílmennt : kennsluefni í fléttusaumi fyrir grunnskóla</title>
