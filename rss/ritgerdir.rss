@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 11 Mar 2024 10:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 11:00:20 +0000</lastBuildDate>
+    <item>
+      <title>The effects of physical exercise on kinanthropometry, physical fitness, and mental well-being in older adults in Iceland</title>
+      <link>https://skemman.is/handle/1946/46400</link>
+      <description>The effects of physical exercise on kinanthropometry, physical fitness, and mental well-being in older adults in Iceland - Kristján Valur Jóhannsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46400</guid>
+    </item>
     <item>
       <title>Innovative Practice in Conducting : Graphic Scores, Sonic Batons and Open Ensembles for New Performance Formats</title>
       <link>https://skemman.is/handle/1946/46397</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46376</link>
       <description>Utan hins vestræna heims : greinargerð og verkefnasafn um mikilvægi fjölbreytni í sögukennslu grunnskóla - Axel Guðmundur Arason 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46376</guid>
-    </item>
-    <item>
-      <title>Finndu mig í fjöru : fjöruferðir leikskólabarna</title>
-      <link>https://skemman.is/handle/1946/46380</link>
-      <description>Finndu mig í fjöru : fjöruferðir leikskólabarna - Kristbjörg Unnur Sigurvinsdóttir 1966-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46380</guid>
     </item>
   </channel>
 </rss>
