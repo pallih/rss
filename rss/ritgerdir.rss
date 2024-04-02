@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 02 Apr 2024 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 09:00:19 +0000</lastBuildDate>
+    <item>
+      <title>Smáa letrið: Túlkun staðlaðra samningsskilmála í vátryggingarsamningum</title>
+      <link>https://skemman.is/handle/1946/46404</link>
+      <description>Smáa letrið: Túlkun staðlaðra samningsskilmála í vátryggingarsamningum - Ýr Guðjohnsen Erlingsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46404</guid>
+    </item>
     <item>
       <title>Dagskammtar</title>
       <link>https://skemman.is/handle/1946/46403</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46373</link>
       <description>Söguleg viðfangsefni í textílmennt : kennsluefni í fléttusaumi fyrir grunnskóla - Bryndís Scheving 1959-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46373</guid>
-    </item>
-    <item>
-      <title>Hlutverk grunnskóla í kynfræðslu á 21. öldinni : umbætur, áskoranir og ávinningur</title>
-      <link>https://skemman.is/handle/1946/46371</link>
-      <description>Hlutverk grunnskóla í kynfræðslu á 21. öldinni : umbætur, áskoranir og ávinningur - Íris Valsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46371</guid>
     </item>
   </channel>
 </rss>
