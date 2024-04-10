@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 10 Apr 2024 09:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 10:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Legal Case Studies on Land and Natural Resource Grabbing in Iceland and Germany</title>
+      <link>https://skemman.is/handle/1946/46409</link>
+      <description>Legal Case Studies on Land and Natural Resource Grabbing in Iceland and Germany - Alexa Abraham 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46409</guid>
+    </item>
     <item>
       <title>Stuðningur við fósturbörn út frá nýjum farsældarlögum. Aðkoma skólafélagsráðgjafa</title>
       <link>https://skemman.is/handle/1946/46408</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46386</link>
       <description>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri - Bergdís Fanney Einarsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46386</guid>
-    </item>
-    <item>
-      <title>Notkun stafrænnar heilbrigðislausnar í formi smáforrits til að bæta lyfjameðferðarheldni hjá einstaklingum með hjartabilun</title>
-      <link>https://skemman.is/handle/1946/46385</link>
-      <description>Notkun stafrænnar heilbrigðislausnar í formi smáforrits til að bæta lyfjameðferðarheldni hjá einstaklingum með hjartabilun - Sonja Steinsson Þórsdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46385</guid>
     </item>
   </channel>
 </rss>
