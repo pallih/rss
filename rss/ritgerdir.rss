@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Apr 2024 15:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 16:00:25 +0000</lastBuildDate>
     <item>
       <title>Endurskoðun á gjaldtöku og skattaumhverfi öflunar, umráða og notkunar ökutækja. Hver verða möguleg áhrif á jafnrétti kynjanna?</title>
       <link>https://skemman.is/handle/1946/46410</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/46415</link>
       <description>Enhanced Cell Adhesion to 3D Printed PEGDA 700 Hydrogel Membranes for Bronchial Epithelial Models - Hafsteinn Esjar Baldursson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46415</guid>
+    </item>
+    <item>
+      <title>ADHD og aldraðir: Áhrif ADHD á aldraða</title>
+      <link>https://skemman.is/handle/1946/46416</link>
+      <description>ADHD og aldraðir: Áhrif ADHD á aldraða - Dögg Guðjohnsen Ásgeirsdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46416</guid>
     </item>
     <item>
       <title>Legal Case Studies on Land and Natural Resource Grabbing in Iceland and Germany</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46390</link>
       <description>Tómstundaiðkun barna á einhverfurófi : upplifun og reynsla foreldra - Magnús Gunnarsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46390</guid>
-    </item>
-    <item>
-      <title>Leikið og lært : samþætting námsgreina í námsspili</title>
-      <link>https://skemman.is/handle/1946/46392</link>
-      <description>Leikið og lært : samþætting námsgreina í námsspili - Vigdís Elva Þorgeirsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46392</guid>
     </item>
   </channel>
 </rss>
