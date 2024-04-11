@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Apr 2024 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 13:00:37 +0000</lastBuildDate>
     <item>
       <title>Endurskoðun á gjaldtöku og skattaumhverfi öflunar, umráða og notkunar ökutækja. Hver verða möguleg áhrif á jafnrétti kynjanna?</title>
       <link>https://skemman.is/handle/1946/46410</link>
       <description>Endurskoðun á gjaldtöku og skattaumhverfi öflunar, umráða og notkunar ökutækja. Hver verða möguleg áhrif á jafnrétti kynjanna? - Eyrún Inga Jóhannsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46410</guid>
+    </item>
+    <item>
+      <title>Réttarstaða stjúpbarna skv. erfðalögum. Hvernig er börnum í blönduðum fjölskyldum tryggður réttur til arfs</title>
+      <link>https://skemman.is/handle/1946/46411</link>
+      <description>Réttarstaða stjúpbarna skv. erfðalögum. Hvernig er börnum í blönduðum fjölskyldum tryggður réttur til arfs - Nanna Birgisdóttir Hafberg 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46411</guid>
+    </item>
+    <item>
+      <title>Eftirlit Alþingis með framkvæmdarvaldinu. Hvert er hlutverk rannsóknarnefndar í þingeftirlitinu?</title>
+      <link>https://skemman.is/handle/1946/46412</link>
+      <description>Eftirlit Alþingis með framkvæmdarvaldinu. Hvert er hlutverk rannsóknarnefndar í þingeftirlitinu? - Hildur Torfadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46412</guid>
     </item>
     <item>
       <title>Legal Case Studies on Land and Natural Resource Grabbing in Iceland and Germany</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46393</link>
       <description>Áhrif íþrótta á fatlað fólk og möguleikar til afreksmennsku - Viggó Kristjánsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46393</guid>
-    </item>
-    <item>
-      <title>Uppbyggin endurhæfingar við fremra krossbandaslit</title>
-      <link>https://skemman.is/handle/1946/46389</link>
-      <description>Uppbyggin endurhæfingar við fremra krossbandaslit - Jón Arnar Stefánsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46389</guid>
-    </item>
-    <item>
-      <title>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu</title>
-      <link>https://skemman.is/handle/1946/46384</link>
-      <description>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu - Arnar Logi Guðjónsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46384</guid>
     </item>
   </channel>
 </rss>
