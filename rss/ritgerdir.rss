@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Apr 2024 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Endurskoðun á gjaldtöku og skattaumhverfi öflunar, umráða og notkunar ökutækja. Hver verða möguleg áhrif á jafnrétti kynjanna?</title>
+      <link>https://skemman.is/handle/1946/46410</link>
+      <description>Endurskoðun á gjaldtöku og skattaumhverfi öflunar, umráða og notkunar ökutækja. Hver verða möguleg áhrif á jafnrétti kynjanna? - Eyrún Inga Jóhannsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46410</guid>
+    </item>
     <item>
       <title>Legal Case Studies on Land and Natural Resource Grabbing in Iceland and Germany</title>
       <link>https://skemman.is/handle/1946/46409</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46384</link>
       <description>Vináttufærni námskeið : aukin tengsl og viðhald á vináttu - Arnar Logi Guðjónsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46384</guid>
-    </item>
-    <item>
-      <title>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri</title>
-      <link>https://skemman.is/handle/1946/46386</link>
-      <description>Tíminn eftir vinnu: lærðu að nýta tímann til fulls : tómstundamenntunarnámskeið fyrir fólk sem er að hætta á  vinnumarkaði, 65 ára og eldri - Bergdís Fanney Einarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46386</guid>
     </item>
   </channel>
 </rss>
