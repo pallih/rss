@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 12 Apr 2024 08:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 09:00:21 +0000</lastBuildDate>
+    <item>
+      <title>Áföll grunnskólabarna</title>
+      <link>https://skemman.is/handle/1946/46417</link>
+      <description>Áföll grunnskólabarna - Guðlaug Rún Gísladóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46417</guid>
+    </item>
+    <item>
+      <title>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti.</title>
+      <link>https://skemman.is/handle/1946/46418</link>
+      <description>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti. - Laureen Ósk Jibrayel 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46418</guid>
+    </item>
     <item>
       <title>Endurskoðun á gjaldtöku og skattaumhverfi öflunar, umráða og notkunar ökutækja. Hver verða möguleg áhrif á jafnrétti kynjanna?</title>
       <link>https://skemman.is/handle/1946/46410</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46394</link>
       <description>Abstraktmálverkið: Helgimynd íslenskrar menningar á 20. öld - Sigurjón Árni Eyjólfsson 1957-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46394</guid>
-    </item>
-    <item>
-      <title>Einmanaleiki veikburða aldraðra : tengsl félagslegra og heilsufarslegra þátta við mat aðstandenda á einmanaleika skjólstæðinga í öldrunarendurhæfingu á Landspítala Landakoti</title>
-      <link>https://skemman.is/handle/1946/46391</link>
-      <description>Einmanaleiki veikburða aldraðra : tengsl félagslegra og heilsufarslegra þátta við mat aðstandenda á einmanaleika skjólstæðinga í öldrunarendurhæfingu á Landspítala Landakoti - María Björk Steinarsdóttir 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46391</guid>
-    </item>
-    <item>
-      <title>Tómstundaiðkun barna á einhverfurófi : upplifun og reynsla foreldra</title>
-      <link>https://skemman.is/handle/1946/46390</link>
-      <description>Tómstundaiðkun barna á einhverfurófi : upplifun og reynsla foreldra - Magnús Gunnarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46390</guid>
     </item>
   </channel>
 </rss>
