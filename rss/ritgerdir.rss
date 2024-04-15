@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Apr 2024 10:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 11:00:21 +0000</lastBuildDate>
     <item>
       <title>Ráðstöfunar- og nýtingarheimildir sameigenda: Skráðar og óskráðar reglur um ákvarðanatöku</title>
       <link>https://skemman.is/handle/1946/46427</link>
@@ -105,6 +105,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46440</guid>
     </item>
     <item>
+      <title>Inngildandi menntun: Nemendur með stuðningsþarfir á Norðurlöndunum</title>
+      <link>https://skemman.is/handle/1946/46441</link>
+      <description>Inngildandi menntun: Nemendur með stuðningsþarfir á Norðurlöndunum - Áslaug Alda Þórarinsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46441</guid>
+    </item>
+    <item>
+      <title>Tengsl líkamlegs og andlegs ofbeldis í æsku og áhrif þess á fullorðinsárum. Hvernig hægt er að öðlast betri líðan</title>
+      <link>https://skemman.is/handle/1946/46442</link>
+      <description>Tengsl líkamlegs og andlegs ofbeldis í æsku og áhrif þess á fullorðinsárum. Hvernig hægt er að öðlast betri líðan - Charlotte Vest Pedersen 1969-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46442</guid>
+    </item>
+    <item>
       <title>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti.</title>
       <link>https://skemman.is/handle/1946/46418</link>
       <description>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti. - Laureen Ósk Jibrayel 2002-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46419</link>
       <description>,,Fyrst nauðgað og svo drekkt": Blóðskömm frá uppi til enda - Ragnheiður Jóhannsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46419</guid>
-    </item>
-    <item>
-      <title>Upplifun barna af því að alast upp hjá foreldri með vímuefnaröskun eða geðröskun og afleiðingar. Okkar heimur og SÁÁ</title>
-      <link>https://skemman.is/handle/1946/46423</link>
-      <description>Upplifun barna af því að alast upp hjá foreldri með vímuefnaröskun eða geðröskun og afleiðingar. Okkar heimur og SÁÁ - Hildur Margrét Arnbjargardóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46423</guid>
-    </item>
-    <item>
-      <title>Enhanced Cell Adhesion to 3D Printed PEGDA 700 Hydrogel Membranes for Bronchial Epithelial Models</title>
-      <link>https://skemman.is/handle/1946/46415</link>
-      <description>Enhanced Cell Adhesion to 3D Printed PEGDA 700 Hydrogel Membranes for Bronchial Epithelial Models - Hafsteinn Esjar Baldursson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46415</guid>
     </item>
   </channel>
 </rss>
