@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Apr 2024 08:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 09:00:20 +0000</lastBuildDate>
+    <item>
+      <title>Áhrif andláts á fjölskyldu</title>
+      <link>https://skemman.is/handle/1946/46425</link>
+      <description>Áhrif andláts á fjölskyldu - Loreta Hoti 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46425</guid>
+    </item>
+    <item>
+      <title>Slit fyrningar kröfuréttinda eftir gjaldþrot skuldara. Túlkun dómstóla á skilyrðinu um sérstaka hagsmuni kröfuhafa til fyrningaslita eftir gjaldþrot skuldara</title>
+      <link>https://skemman.is/handle/1946/46426</link>
+      <description>Slit fyrningar kröfuréttinda eftir gjaldþrot skuldara. Túlkun dómstóla á skilyrðinu um sérstaka hagsmuni kröfuhafa til fyrningaslita eftir gjaldþrot skuldara - Sigurður Aron Snorrason 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46426</guid>
+    </item>
+    <item>
+      <title>Ráðstöfunar- og nýtingarheimildir sameigenda: Skráðar og óskráðar reglur um ákvarðanatöku</title>
+      <link>https://skemman.is/handle/1946/46427</link>
+      <description>Ráðstöfunar- og nýtingarheimildir sameigenda: Skráðar og óskráðar reglur um ákvarðanatöku - Gylfi Bergur Konráðsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46427</guid>
+    </item>
+    <item>
+      <title>Lögerfðir. Um brottfall og takmörkun á erfðarétti lögerfingja samkvæmt reglum erfðalaga nr. 8/1962.</title>
+      <link>https://skemman.is/handle/1946/46428</link>
+      <description>Lögerfðir. Um brottfall og takmörkun á erfðarétti lögerfingja samkvæmt reglum erfðalaga nr. 8/1962. - Kolbrún Björk Ágústsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46428</guid>
+    </item>
     <item>
       <title>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti.</title>
       <link>https://skemman.is/handle/1946/46418</link>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/46404</link>
       <description>Smáa letrið: Túlkun staðlaðra samningsskilmála í vátryggingarsamningum - Ýr Guðjohnsen Erlingsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46404</guid>
-    </item>
-    <item>
-      <title>Dagskammtar</title>
-      <link>https://skemman.is/handle/1946/46403</link>
-      <description>Dagskammtar - Ragnheiður Guðbjargar Hrafnkelsdóttir 1953-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46403</guid>
-    </item>
-    <item>
-      <title>A Stakeholder-Based Assessment of the  Opportunities and Hurdles to the Development of the Icelandic Green Hydrogen Economy</title>
-      <link>https://skemman.is/handle/1946/46402</link>
-      <description>A Stakeholder-Based Assessment of the  Opportunities and Hurdles to the Development of the Icelandic Green Hydrogen Economy - Til Seth Tzschöckel 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46402</guid>
-    </item>
-    <item>
-      <title>Developing cementitious buoys for ocean-based carbon dioxide removal</title>
-      <link>https://skemman.is/handle/1946/46401</link>
-      <description>Developing cementitious buoys for ocean-based carbon dioxide removal - Joanna Bukowska 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46401</guid>
-    </item>
-    <item>
-      <title>The effects of physical exercise on kinanthropometry, physical fitness, and mental well-being in older adults in Iceland</title>
-      <link>https://skemman.is/handle/1946/46400</link>
-      <description>The effects of physical exercise on kinanthropometry, physical fitness, and mental well-being in older adults in Iceland - Kristján Valur Jóhannsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46400</guid>
     </item>
   </channel>
 </rss>
