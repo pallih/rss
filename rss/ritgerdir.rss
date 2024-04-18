@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 18 Apr 2024 09:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 10:00:32 +0000</lastBuildDate>
     <item>
       <title>Þróun á þrívíddarprentuðum eyrnatöppum gegn miðeyrnarsýkingu í börnum. Mat á in vitro drápsvirkni og stöðugleika</title>
       <link>https://skemman.is/handle/1946/46521</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/46524</link>
       <description>Peningalán í skilningi fyrningarlaga. Túlkun dómstóla á 1. málsl. 2. mgr. 5. gr. laga nr. 150/2007 um fyrningu kröfuréttinda - Birta Marsilía Össurardóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46524</guid>
+    </item>
+    <item>
+      <title>Development of stable mAb formulations for fast and reliable on-site reconstitution</title>
+      <link>https://skemman.is/handle/1946/46525</link>
+      <description>Development of stable mAb formulations for fast and reliable on-site reconstitution - Steinunn Benediktsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46525</guid>
     </item>
     <item>
       <title>Peri-operative Medication-induced Delirium in Patients with and without Dementia: A Systematic Literature Review of Original Studies</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46481</link>
       <description>Aukin réttarstaða brotaþola í sakamálum - Með hliðsjón af breytingarlögum nr. 61/2022 og hugleiðingum um aðild brotaþola. - Marinó Eggertsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46481</guid>
-    </item>
-    <item>
-      <title>Áhrif áfengis- og vímuefnavanda foreldra á ung börn</title>
-      <link>https://skemman.is/handle/1946/46480</link>
-      <description>Áhrif áfengis- og vímuefnavanda foreldra á ung börn - Árný Inda Indriðadóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46480</guid>
     </item>
   </channel>
 </rss>
