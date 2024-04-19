@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 19 Apr 2024 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 16:00:28 +0000</lastBuildDate>
     <item>
       <title>Áhrif SSRI lyfja á dánartíðni meðal langtímanotenda benzódíazepína og ópíóíða. Lýðgrunduð hóprannsókn</title>
       <link>https://skemman.is/handle/1946/46533</link>
@@ -93,6 +93,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46545</guid>
     </item>
     <item>
+      <title>Túlkun á 36. gr. a-c. laga nr. 7/1936 um samningsgerð, umboð og ógilda löggerninga</title>
+      <link>https://skemman.is/handle/1946/46546</link>
+      <description>Túlkun á 36. gr. a-c. laga nr. 7/1936 um samningsgerð, umboð og ógilda löggerninga - Ragnar Steinn Þórsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46546</guid>
+    </item>
+    <item>
+      <title>Túlkun á túlkunarreglunni samkvæmt 1. mgr. 36. gr. b. laga nr. 7/1936 um samningsgerð, umboð og  ógilda löggerninga</title>
+      <link>https://skemman.is/handle/1946/46547</link>
+      <description>Túlkun á túlkunarreglunni samkvæmt 1. mgr. 36. gr. b. laga nr. 7/1936 um samningsgerð, umboð og  ógilda löggerninga - Vuong The Pham 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46547</guid>
+    </item>
+    <item>
       <title>Impact of COVID-19 on prescribing of medicines in children and adolescents</title>
       <link>https://skemman.is/handle/1946/46523</link>
       <description>Impact of COVID-19 on prescribing of medicines in children and adolescents - Katrín Þóra Gunnarsdóttir 1998-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/46522</link>
       <description>The effect of risk-minimizing pharmacovigilance measures on the prescription of anti-biotics in Iceland and the Nordic countries - Petra Ósk Guðbjargardóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46522</guid>
-    </item>
-    <item>
-      <title>Serum PP13, sFlt-1, and PlGF levels in the third trimester and after birth, with a summary of PP13 levels for different periods of gestation</title>
-      <link>https://skemman.is/handle/1946/46531</link>
-      <description>Serum PP13, sFlt-1, and PlGF levels in the third trimester and after birth, with a summary of PP13 levels for different periods of gestation - Sólveig Axelsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46531</guid>
-    </item>
-    <item>
-      <title>Formulation of antibiotic (+)-usnic acid into skincare products</title>
-      <link>https://skemman.is/handle/1946/46530</link>
-      <description>Formulation of antibiotic (+)-usnic acid into skincare products - Selma Rún Jóhannesdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46530</guid>
     </item>
   </channel>
 </rss>
