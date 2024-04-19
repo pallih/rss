@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 19 Apr 2024 12:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 13:00:22 +0000</lastBuildDate>
     <item>
       <title>Áhrif SSRI lyfja á dánartíðni meðal langtímanotenda benzódíazepína og ópíóíða. Lýðgrunduð hóprannsókn</title>
       <link>https://skemman.is/handle/1946/46533</link>
@@ -73,6 +73,12 @@
       <link>https://skemman.is/handle/1946/46542</link>
       <description>Isolation of plasma-derived extracellular vesicles using immunoaffinity capture for breast cancer biomarker discovery - Bjarni Björnsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46542</guid>
+    </item>
+    <item>
+      <title>Formulation development for zero-order release Venlafaxine tablets</title>
+      <link>https://skemman.is/handle/1946/46543</link>
+      <description>Formulation development for zero-order release Venlafaxine tablets - Andrea Rán Davíðsdóttir 2001-; Alena Jónsdóttir 2002-; Vitalija Tambakeviciute 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46543</guid>
     </item>
     <item>
       <title>Impact of COVID-19 on prescribing of medicines in children and adolescents</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46516</link>
       <description>Medication-Induced Delirium in Peri-operative Setting A systematic review of international guidelines - Rakel Rán Ákadóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46516</guid>
-    </item>
-    <item>
-      <title>Faraldsfræði skamm- og langtímanotkunar ópíóíða í kjölfar i innlagnar á lyflækningadeild</title>
-      <link>https://skemman.is/handle/1946/46518</link>
-      <description>Faraldsfræði skamm- og langtímanotkunar ópíóíða í kjölfar i innlagnar á lyflækningadeild - Ína Lísa Gísladóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46518</guid>
     </item>
   </channel>
 </rss>
