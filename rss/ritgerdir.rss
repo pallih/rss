@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 Apr 2024 15:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 16:00:25 +0000</lastBuildDate>
     <item>
       <title>Í krafti fjölbreytileikans: Stefnumótun Reykjanesbæjar</title>
       <link>https://skemman.is/handle/1946/46548</link>
@@ -15,10 +15,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46548</guid>
     </item>
     <item>
-      <title>Spray drying macrolide antibiotics for inhalable COPD treatment</title>
-      <link>https://skemman.is/handle/1946/46549</link>
-      <description>Spray drying macrolide antibiotics for inhalable COPD treatment - Roberta C. Delgado Magalhaes 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46549</guid>
+      <title>Náttúrulegar drápsfrumur í nýju hlutverki</title>
+      <link>https://skemman.is/handle/1946/46551</link>
+      <description>Náttúrulegar drápsfrumur í nýju hlutverki - Anamaría Salomé A. Palma 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46551</guid>
     </item>
     <item>
       <title>Skipulag sveitarfélaga. Beitir ríkisvaldið stjórntækjum sínum í skipulagi sveitarfélaga</title>
@@ -27,10 +27,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46550</guid>
     </item>
     <item>
-      <title>Náttúrulegar drápsfrumur í nýju hlutverki</title>
-      <link>https://skemman.is/handle/1946/46551</link>
-      <description>Náttúrulegar drápsfrumur í nýju hlutverki - Anamaría Salomé A. Palma 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46551</guid>
+      <title>Spray drying macrolide antibiotics for inhalable COPD treatment</title>
+      <link>https://skemman.is/handle/1946/46549</link>
+      <description>Spray drying macrolide antibiotics for inhalable COPD treatment - Roberta C. Delgado Magalhaes 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46549</guid>
+    </item>
+    <item>
+      <title>Aðgengi að menntun fyrir börn með sérþarfir</title>
+      <link>https://skemman.is/handle/1946/46552</link>
+      <description>Aðgengi að menntun fyrir börn með sérþarfir - Írena Líf Svavarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46552</guid>
     </item>
     <item>
       <title>Áhrif SSRI lyfja á dánartíðni meðal langtímanotenda benzódíazepína og ópíóíða. Lýðgrunduð hóprannsókn</title>
@@ -105,16 +111,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46539</guid>
     </item>
     <item>
-      <title>Isolation of plasma-derived extracellular vesicles using immunoaffinity capture for breast cancer biomarker discovery</title>
-      <link>https://skemman.is/handle/1946/46542</link>
-      <description>Isolation of plasma-derived extracellular vesicles using immunoaffinity capture for breast cancer biomarker discovery - Bjarni Björnsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46542</guid>
-    </item>
-    <item>
       <title>Pediatric Cabenuva® Dosage: A Comprehensive Physiological Analysis</title>
       <link>https://skemman.is/handle/1946/46545</link>
       <description>Pediatric Cabenuva® Dosage: A Comprehensive Physiological Analysis - Ástþór Ingi Hannesson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46545</guid>
+    </item>
+    <item>
+      <title>Túlkun á túlkunarreglunni samkvæmt 1. mgr. 36. gr. b. laga nr. 7/1936 um samningsgerð, umboð og  ógilda löggerninga</title>
+      <link>https://skemman.is/handle/1946/46547</link>
+      <description>Túlkun á túlkunarreglunni samkvæmt 1. mgr. 36. gr. b. laga nr. 7/1936 um samningsgerð, umboð og  ógilda löggerninga - Vuong The Pham 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46547</guid>
     </item>
     <item>
       <title>Túlkun á 36. gr. a-c. laga nr. 7/1936 um samningsgerð, umboð og ógilda löggerninga</title>
@@ -123,10 +129,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46546</guid>
     </item>
     <item>
-      <title>Túlkun á túlkunarreglunni samkvæmt 1. mgr. 36. gr. b. laga nr. 7/1936 um samningsgerð, umboð og  ógilda löggerninga</title>
-      <link>https://skemman.is/handle/1946/46547</link>
-      <description>Túlkun á túlkunarreglunni samkvæmt 1. mgr. 36. gr. b. laga nr. 7/1936 um samningsgerð, umboð og  ógilda löggerninga - Vuong The Pham 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46547</guid>
+      <title>Isolation of plasma-derived extracellular vesicles using immunoaffinity capture for breast cancer biomarker discovery</title>
+      <link>https://skemman.is/handle/1946/46542</link>
+      <description>Isolation of plasma-derived extracellular vesicles using immunoaffinity capture for breast cancer biomarker discovery - Bjarni Björnsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46542</guid>
     </item>
     <item>
       <title>Impact of COVID-19 on prescribing of medicines in children and adolescents</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46525</link>
       <description>Development of stable mAb formulations for fast and reliable on-site reconstitution - Steinunn Benediktsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46525</guid>
-    </item>
-    <item>
-      <title>Engir tveir eru eins: Ráðgjöf fyrir einhverf ungmenni á leið í framhaldsskóla</title>
-      <link>https://skemman.is/handle/1946/46526</link>
-      <description>Engir tveir eru eins: Ráðgjöf fyrir einhverf ungmenni á leið í framhaldsskóla - Sigríður Helga Jónasdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46526</guid>
     </item>
   </channel>
 </rss>
