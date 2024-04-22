@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 Apr 2024 10:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 11:00:28 +0000</lastBuildDate>
     <item>
       <title>Í krafti fjölbreytileikans: Stefnumótun Reykjanesbæjar</title>
       <link>https://skemman.is/handle/1946/46548</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/46550</link>
       <description>Skipulag sveitarfélaga. Beitir ríkisvaldið stjórntækjum sínum í skipulagi sveitarfélaga - Brynjar Þór Jónasson 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46550</guid>
+    </item>
+    <item>
+      <title>Náttúrulegar drápsfrumur í nýju hlutverki</title>
+      <link>https://skemman.is/handle/1946/46551</link>
+      <description>Náttúrulegar drápsfrumur í nýju hlutverki - Anamaría Salomé A. Palma 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46551</guid>
     </item>
     <item>
       <title>Áhrif SSRI lyfja á dánartíðni meðal langtímanotenda benzódíazepína og ópíóíða. Lýðgrunduð hóprannsókn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46526</link>
       <description>Engir tveir eru eins: Ráðgjöf fyrir einhverf ungmenni á leið í framhaldsskóla - Sigríður Helga Jónasdóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46526</guid>
-    </item>
-    <item>
-      <title>Lyfjameðferð við ópíóíðafíkn og samhliða notkun annarra lyfja frá 2019 til 2022</title>
-      <link>https://skemman.is/handle/1946/46528</link>
-      <description>Lyfjameðferð við ópíóíðafíkn og samhliða notkun annarra lyfja frá 2019 til 2022 - Katrín Silja Gunnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46528</guid>
     </item>
   </channel>
 </rss>
