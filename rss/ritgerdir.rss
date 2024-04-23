@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 23 Apr 2024 14:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:00:20 +0000</lastBuildDate>
     <item>
       <title>„Að rækta eigin blóma“: Innsýn í upplifun einstaklinga sem hafa skapað sér starf út frá tómstundaiðkun</title>
       <link>https://skemman.is/handle/1946/46553</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/46555</link>
       <description>Líðan og stuðningsþarfir kvenna sem hætta brjóstagjöf á fyrstu þremur mánuðum eftir fæðingu: Eigindleg rannsókn - Kristín Greta Bjarnadóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46555</guid>
+    </item>
+    <item>
+      <title>Heimastjórnarkerfi Múlaþings: Afstaða íbúa Múlaþings til heimastjórnarkerfisins og hvort það stuðli að þátttökulýðræði</title>
+      <link>https://skemman.is/handle/1946/46556</link>
+      <description>Heimastjórnarkerfi Múlaþings: Afstaða íbúa Múlaþings til heimastjórnarkerfisins og hvort það stuðli að þátttökulýðræði - Hanna Dóra Nachisichi Helgudóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46556</guid>
     </item>
     <item>
       <title>Í krafti fjölbreytileikans: Stefnumótun Reykjanesbæjar</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46532</link>
       <description>"Ég hefði verið búinn 10 árum fyrr með þetta háskólanám". Upplifun karla af eigin náms- og starfsferli í ljósi ógreinds ADHD - Norma Dís Randversdóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46532</guid>
-    </item>
-    <item>
-      <title>Impact of COVID-19 on prescribing of medicines in children and adolescents</title>
-      <link>https://skemman.is/handle/1946/46523</link>
-      <description>Impact of COVID-19 on prescribing of medicines in children and adolescents - Katrín Þóra Gunnarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46523</guid>
     </item>
   </channel>
 </rss>
