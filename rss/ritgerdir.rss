@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Apr 2024 09:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 10:00:22 +0000</lastBuildDate>
     <item>
       <title>Útskriftin: Saga um friðsælan mann í háværum heimi</title>
       <link>https://skemman.is/handle/1946/46557</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/46561</link>
       <description>Horft á hold. Lýsingar á nöktum líkama Venusar í endurreisnarmálverkum - Agnes Eir Jóhannsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46561</guid>
+    </item>
+    <item>
+      <title>Alþýðuhugmyndir um svæðisbundin framburðartilbrigði í íslensku: Vitund, viðhorf og sjálfsmynd</title>
+      <link>https://skemman.is/handle/1946/46562</link>
+      <description>Alþýðuhugmyndir um svæðisbundin framburðartilbrigði í íslensku: Vitund, viðhorf og sjálfsmynd - Ása Bergný Tómasdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46562</guid>
     </item>
     <item>
       <title>Líðan og stuðningsþarfir kvenna sem hætta brjóstagjöf á fyrstu þremur mánuðum eftir fæðingu: Eigindleg rannsókn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46543</link>
       <description>Formulation development for zero-order release Venlafaxine tablets - Andrea Rán Davíðsdóttir 2001-; Alena Jónsdóttir 2002-; Vitalija Tambakeviciute 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46543</guid>
-    </item>
-    <item>
-      <title>Mat á lyfjameðferð með GLP-1 viðtakaörva og álit sjúklinga á þeirri meðferð. Skipti milli GLP-1 viðtakaörva</title>
-      <link>https://skemman.is/handle/1946/46539</link>
-      <description>Mat á lyfjameðferð með GLP-1 viðtakaörva og álit sjúklinga á þeirri meðferð. Skipti milli GLP-1 viðtakaörva - Svana Björk Steinarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46539</guid>
     </item>
   </channel>
 </rss>
