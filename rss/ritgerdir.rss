@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Apr 2024 14:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:00:28 +0000</lastBuildDate>
     <item>
       <title>Alþýðuhugmyndir um svæðisbundin framburðartilbrigði í íslensku: Vitund, viðhorf og sjálfsmynd</title>
       <link>https://skemman.is/handle/1946/46562</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/46566</link>
       <description>Window glass. Does social status matter? - Lovísa Agnes Jónsdóttir 1970-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46566</guid>
+    </item>
+    <item>
+      <title>Self, Sex, and Sickness: 1950s anxieties in Richard Matheson's I Am Legend</title>
+      <link>https://skemman.is/handle/1946/46567</link>
+      <description>Self, Sex, and Sickness: 1950s anxieties in Richard Matheson's I Am Legend - Shaana I Kadri 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46567</guid>
     </item>
     <item>
       <title>Líðan og stuðningsþarfir kvenna sem hætta brjóstagjöf á fyrstu þremur mánuðum eftir fæðingu: Eigindleg rannsókn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46540</link>
       <description>Doxorubicin loading into human extracellular vesicles using “Sonication and Extrusion-assisted Active Loading” - Unnur Ástrós Magnúsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46540</guid>
-    </item>
-    <item>
-      <title>Exploration of post-harvesting techniques of Phaeodactylum tricornutum to minimize loss of fucoxanthin.</title>
-      <link>https://skemman.is/handle/1946/46535</link>
-      <description>Exploration of post-harvesting techniques of Phaeodactylum tricornutum to minimize loss of fucoxanthin. - Stephanie Victoria Wong 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46535</guid>
     </item>
   </channel>
 </rss>
