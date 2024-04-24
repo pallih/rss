@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Apr 2024 10:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 11:00:26 +0000</lastBuildDate>
     <item>
       <title>Útskriftin: Saga um friðsælan mann í háværum heimi</title>
       <link>https://skemman.is/handle/1946/46557</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/46561</link>
       <description>Horft á hold. Lýsingar á nöktum líkama Venusar í endurreisnarmálverkum - Agnes Eir Jóhannsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46561</guid>
+    </item>
+    <item>
+      <title>On Water: An Entangled Landscape Approach at Kirkjubæjarklaustur and Þingeyraklaustur</title>
+      <link>https://skemman.is/handle/1946/46563</link>
+      <description>On Water: An Entangled Landscape Approach at Kirkjubæjarklaustur and Þingeyraklaustur - Delaney Lynn Dammeyer 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46563</guid>
     </item>
     <item>
       <title>Alþýðuhugmyndir um svæðisbundin framburðartilbrigði í íslensku: Vitund, viðhorf og sjálfsmynd</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46541</link>
       <description>IgG-glycosylation and hexamerization as inducers of cell death by IgG3 subclass antibodies - Sóley Diljá Sigurðardóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46541</guid>
-    </item>
-    <item>
-      <title>Formulation development for zero-order release Venlafaxine tablets</title>
-      <link>https://skemman.is/handle/1946/46543</link>
-      <description>Formulation development for zero-order release Venlafaxine tablets - Andrea Rán Davíðsdóttir 2001-; Alena Jónsdóttir 2002-; Vitalija Tambakeviciute 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46543</guid>
     </item>
   </channel>
 </rss>
