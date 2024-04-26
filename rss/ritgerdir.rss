@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 26 Apr 2024 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:00:22 +0000</lastBuildDate>
     <item>
       <title>„Er þetta gildran sem allt snýst um?“: Greining á byggingu og frásagnarformi Ljósgildrunnar eftir Guðna Elísson</title>
       <link>https://skemman.is/handle/1946/46583</link>
@@ -141,6 +141,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46579</guid>
     </item>
     <item>
+      <title>Ljóð og yfirfærsla þekkingar: Um notkun á orðinu ljóð í miðaldatextum</title>
+      <link>https://skemman.is/handle/1946/46590</link>
+      <description>Ljóð og yfirfærsla þekkingar: Um notkun á orðinu ljóð í miðaldatextum - Shohei Watanabe 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46590</guid>
+    </item>
+    <item>
       <title>Alþýðuhugmyndir um svæðisbundin framburðartilbrigði í íslensku: Vitund, viðhorf og sjálfsmynd</title>
       <link>https://skemman.is/handle/1946/46562</link>
       <description>Alþýðuhugmyndir um svæðisbundin framburðartilbrigði í íslensku: Vitund, viðhorf og sjálfsmynd - Ása Bergný Tómasdóttir 1997-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46565</link>
       <description>Næmi og ertandi áhrif augndropa sem innihalda mónókaprín og mónólárín - Vildís Kristín Rúnarsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46565</guid>
-    </item>
-    <item>
-      <title>„Ég er með svona 50.000 spurningar“: Upplýsingaleit um fæðingarorlof og upplýsingaarkitektúr á vefsíðu Fæðingarorlofssjóðs</title>
-      <link>https://skemman.is/handle/1946/46559</link>
-      <description>„Ég er með svona 50.000 spurningar“: Upplýsingaleit um fæðingarorlof og upplýsingaarkitektúr á vefsíðu Fæðingarorlofssjóðs - Ársól Þóra Sigurðardóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46559</guid>
     </item>
   </channel>
 </rss>
