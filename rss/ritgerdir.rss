@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 29 Apr 2024 15:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 16:00:22 +0000</lastBuildDate>
     <item>
       <title>Áhrif þvingunar á bataupplifun sjúklinga á  geðdeildum: Kerfisbundin fræðileg samantekt og nýþemun</title>
       <link>https://skemman.is/handle/1946/46609</link>
@@ -129,12 +129,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46612</guid>
     </item>
     <item>
-      <title>Strókar - fyrsti hluti</title>
-      <link>https://skemman.is/handle/1946/46605</link>
-      <description>Strókar - fyrsti hluti - Sölvi Halldórsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46605</guid>
-    </item>
-    <item>
       <title>Má borga sjúklingum fyrir að þiggja lyf? Siðferðileg greining á hvatastýrðu meðferðarinngripi fyrir sjúklinga með geðrofssjúkdóma</title>
       <link>https://skemman.is/handle/1946/46628</link>
       <description>Má borga sjúklingum fyrir að þiggja lyf? Siðferðileg greining á hvatastýrðu meðferðarinngripi fyrir sjúklinga með geðrofssjúkdóma - Birna Óskarsdóttir 1986-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/46626</link>
       <description>Notendarannsóknir í stafrænum verkefnum. Aðferðir, áskoranir og árangursmat - Anna Helga Einarsdóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46626</guid>
+    </item>
+    <item>
+      <title>Áhrif gervigreindar á markaðsgeirann</title>
+      <link>https://skemman.is/handle/1946/46621</link>
+      <description>Áhrif gervigreindar á markaðsgeirann - Einar Geir Einarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46621</guid>
     </item>
   </channel>
 </rss>
