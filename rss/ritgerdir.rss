@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Apr 2024 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 12:00:28 +0000</lastBuildDate>
     <item>
       <title>Pragmatísk menntaheimspeki: Erindi Deweys í nútímanum</title>
       <link>https://skemman.is/handle/1946/46663</link>
@@ -111,6 +111,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46670</guid>
     </item>
     <item>
+      <title>Sálræn vanlíðan nemenda í heilbrigðisvísindum: Þversniðsrannsókn</title>
+      <link>https://skemman.is/handle/1946/46671</link>
+      <description>Sálræn vanlíðan nemenda í heilbrigðisvísindum: Þversniðsrannsókn - Þórey Rósa Einarsdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46671</guid>
+    </item>
+    <item>
       <title>Áhrif þvingunar á bataupplifun sjúklinga á  geðdeildum: Kerfisbundin fræðileg samantekt og nýþemun</title>
       <link>https://skemman.is/handle/1946/46609</link>
       <description>Áhrif þvingunar á bataupplifun sjúklinga á  geðdeildum: Kerfisbundin fræðileg samantekt og nýþemun - Hrafnhildur Benediktsdóttir 1978-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46599</link>
       <description>Rótað í rusli: Saga um mink sem fann furðuveru, ferðaðist til borgarinnar og sneri aftur á hauginn - Magnús Jochum Pálsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46599</guid>
-    </item>
-    <item>
-      <title>Fagorð og ferli í textavinnu</title>
-      <link>https://skemman.is/handle/1946/46603</link>
-      <description>Fagorð og ferli í textavinnu - Haukur Bragason 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46603</guid>
     </item>
   </channel>
 </rss>
