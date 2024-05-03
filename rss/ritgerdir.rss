@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 03 May 2024 09:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 10:00:31 +0000</lastBuildDate>
     <item>
       <title>Ég er bara sjúklingur sem er ósátt: Reynsla fólks með geðsjúkdóma af nauðungarvistun</title>
       <link>https://skemman.is/handle/1946/46745</link>
@@ -87,6 +87,30 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46752</guid>
     </item>
     <item>
+      <title>Kvikmyndatónlist: Notkun á kvikmynda- og dægurlagatónlist í kvikmyndum</title>
+      <link>https://skemman.is/handle/1946/46758</link>
+      <description>Kvikmyndatónlist: Notkun á kvikmynda- og dægurlagatónlist í kvikmyndum - Vernharður Tage Eiríksson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46758</guid>
+    </item>
+    <item>
+      <title>Útsýnisturn yfir veröldina: Um farsældarmenntunarhlutverk safna</title>
+      <link>https://skemman.is/handle/1946/46759</link>
+      <description>Útsýnisturn yfir veröldina: Um farsældarmenntunarhlutverk safna - Ragnhildur Elísabet Sigfúsdóttir 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46759</guid>
+    </item>
+    <item>
+      <title>The Alzheimer’s serum proteome: Serum proteome analysis of Alzheimer´s disease in a population-based longitudinal cohort study</title>
+      <link>https://skemman.is/handle/1946/46760</link>
+      <description>The Alzheimer’s serum proteome: Serum proteome analysis of Alzheimer´s disease in a population-based longitudinal cohort study - Elísabet Alexandra Frick 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46760</guid>
+    </item>
+    <item>
+      <title>Missing the Trees for the Forest: The Theoretical Shortcomings of the Structural Realist Approach and the Solutions Presented by Neoclassical Realism: A Study of Three Modern Conflicts</title>
+      <link>https://skemman.is/handle/1946/46761</link>
+      <description>Missing the Trees for the Forest: The Theoretical Shortcomings of the Structural Realist Approach and the Solutions Presented by Neoclassical Realism: A Study of Three Modern Conflicts - Kristján Conway Wales 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46761</guid>
+    </item>
+    <item>
       <title>“Una mujer no nace, sino que se convierte en mujer” (Simone de Beauvoir): La historia del feminismo en España, el papel de la mujer franquista y las feministas católicas dentro de la Iglesia</title>
       <link>https://skemman.is/handle/1946/46709</link>
       <description>“Una mujer no nace, sino que se convierte en mujer” (Simone de Beauvoir): La historia del feminismo en España, el papel de la mujer franquista y las feministas católicas dentro de la Iglesia - Svanhildur Helgadóttir 1971-</description>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/46703</link>
       <description>Drýpur, lifandi tilbrigði. - Bergþóra Kristbergsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46703</guid>
-    </item>
-    <item>
-      <title>Mat á árangri innleiðingar á fræðslumeðferð fyrir sjúklinga í einangrun vegna smitsjúkdóma</title>
-      <link>https://skemman.is/handle/1946/46681</link>
-      <description>Mat á árangri innleiðingar á fræðslumeðferð fyrir sjúklinga í einangrun vegna smitsjúkdóma - Sólveig Gylfadóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46681</guid>
-    </item>
-    <item>
-      <title>„Hér eru allir í reikníngi, skilurðu". Valdakerfi, trú og kapítalismi í skáldsögunum Howards End eftir E.M. Forster og Sölku Völku eftir Halldór Kiljan Laxness.</title>
-      <link>https://skemman.is/handle/1946/46682</link>
-      <description>„Hér eru allir í reikníngi, skilurðu". Valdakerfi, trú og kapítalismi í skáldsögunum Howards End eftir E.M. Forster og Sölku Völku eftir Halldór Kiljan Laxness. - Ragnheiður Guðjónsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46682</guid>
-    </item>
-    <item>
-      <title>Traveler's Guilt: A Postcolonial Analysis of Cultural Relativism in Jonathan Swift's Gulliver's Travels</title>
-      <link>https://skemman.is/handle/1946/46685</link>
-      <description>Traveler's Guilt: A Postcolonial Analysis of Cultural Relativism in Jonathan Swift's Gulliver's Travels - Teagan Lyn Boyle 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46685</guid>
-    </item>
-    <item>
-      <title>Þegar jökullinn logar: Tengslanet í almannavarnaástandi innan Vatnajökulsþjóðgarðs</title>
-      <link>https://skemman.is/handle/1946/46683</link>
-      <description>Þegar jökullinn logar: Tengslanet í almannavarnaástandi innan Vatnajökulsþjóðgarðs - Hrafnhildur Ævarsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46683</guid>
     </item>
   </channel>
 </rss>
