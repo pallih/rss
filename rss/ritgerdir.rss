@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 08 May 2024 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 16:00:25 +0000</lastBuildDate>
     <item>
       <title>Hugmyndir og framkvæmd (hlutverk) hjúkrunar við lífsstílsbreytingar - Hjúkrun og fylgni við ráðleggingar um mataræði og næringu: Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/46902</link>
@@ -135,6 +135,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46900</guid>
     </item>
     <item>
+      <title>Efnahagslegu áhrif COVID-19 á sjávarútveginn, ferðaþjónustuna og fjármálageirann: Samanburður við fjármálakreppuna 2008</title>
+      <link>https://skemman.is/handle/1946/46915</link>
+      <description>Efnahagslegu áhrif COVID-19 á sjávarútveginn, ferðaþjónustuna og fjármálageirann: Samanburður við fjármálakreppuna 2008 - Skúli Hólm Hauksson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46915</guid>
+    </item>
+    <item>
       <title>Eru hluthafabreytingar tegund af krísunni? „Þeir eru að kasta bensínsprengjum í átt að eldinum“</title>
       <link>https://skemman.is/handle/1946/46864</link>
       <description>Eru hluthafabreytingar tegund af krísunni? „Þeir eru að kasta bensínsprengjum í átt að eldinum“ - Eygló Alexandra Sævarsdóttir 1990-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46863</link>
       <description>Samningur Sameinuðu þjóðanna um réttindi fatlaðs fólks áhrifalaus í dómaframkvæmd? Áhrif samnings Sameinuðu þjóðanna um réttindi fatlaðs fólks á túlkun mannréttindaákvæða stjórnarskrárinnar - Andrea Urður Hafsteinsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46863</guid>
-    </item>
-    <item>
-      <title>Um skaðabótaábyrgð samkvæmt lögum um fjöleignarhús</title>
-      <link>https://skemman.is/handle/1946/46861</link>
-      <description>Um skaðabótaábyrgð samkvæmt lögum um fjöleignarhús - Jónína Þórdís Karlsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46861</guid>
     </item>
   </channel>
 </rss>
