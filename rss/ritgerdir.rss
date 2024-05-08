@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 08 May 2024 11:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 12:00:39 +0000</lastBuildDate>
     <item>
       <title>Hugmyndir og framkvæmd (hlutverk) hjúkrunar við lífsstílsbreytingar - Hjúkrun og fylgni við ráðleggingar um mataræði og næringu: Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/46902</link>
@@ -123,6 +123,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46912</guid>
     </item>
     <item>
+      <title>Öryggi barna í innkaupakerrum: Landsbyggðin og höfuðborgarsvæðið</title>
+      <link>https://skemman.is/handle/1946/46913</link>
+      <description>Öryggi barna í innkaupakerrum: Landsbyggðin og höfuðborgarsvæðið - Arndís Nína Mortensen Másdóttir 1998-; Ragna Hólm Ragnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46913</guid>
+    </item>
+    <item>
       <title>Eru hluthafabreytingar tegund af krísunni? „Þeir eru að kasta bensínsprengjum í átt að eldinum“</title>
       <link>https://skemman.is/handle/1946/46864</link>
       <description>Eru hluthafabreytingar tegund af krísunni? „Þeir eru að kasta bensínsprengjum í átt að eldinum“ - Eygló Alexandra Sævarsdóttir 1990-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46862</link>
       <description>Mat á orsakatengslum á milli líkamstjóns og umferðar- eða vinnuslysa - Karol Walejko 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46862</guid>
-    </item>
-    <item>
-      <title>Lögmæti lokaðs búsetuúrræðis fyrir flóttafólk</title>
-      <link>https://skemman.is/handle/1946/46859</link>
-      <description>Lögmæti lokaðs búsetuúrræðis fyrir flóttafólk - Jara Sól Jakobsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46859</guid>
     </item>
   </channel>
 </rss>
