@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 08 May 2024 12:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 13:01:58 +0000</lastBuildDate>
     <item>
       <title>Hugmyndir og framkvæmd (hlutverk) hjúkrunar við lífsstílsbreytingar - Hjúkrun og fylgni við ráðleggingar um mataræði og næringu: Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/46902</link>
@@ -25,12 +25,6 @@
       <link>https://skemman.is/handle/1946/46903</link>
       <description>Samanburður á sveiflum í ávöxtun hlutabréfa. Eru sveiflur í ávöxtun innlendra hlutabréfa meiri en í erlendum mælt frá sjónarhóli íslenskra fjárfesta? - Vanessa Þóra Posch 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46903</guid>
-    </item>
-    <item>
-      <title>Aðferðafræði framtakssjóða á Íslandi: Virðismatsaðferðir</title>
-      <link>https://skemman.is/handle/1946/46900</link>
-      <description>Aðferðafræði framtakssjóða á Íslandi: Virðismatsaðferðir - Birkir Örn Þorsteinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46900</guid>
     </item>
     <item>
       <title>Algjört jafnræði verður á kostnað sveigjanleikans. Upplifun og sýn stjórnenda Skattsins til heimavinnu</title>
@@ -129,6 +123,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/46913</guid>
     </item>
     <item>
+      <title>Styrkleikar og veikleikar vinnustaðamenningar hjá opinberri stofnun í fjármálageiranum</title>
+      <link>https://skemman.is/handle/1946/46914</link>
+      <description>Styrkleikar og veikleikar vinnustaðamenningar hjá opinberri stofnun í fjármálageiranum - Anna Kristín Kristinsdóttir 1996</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46914</guid>
+    </item>
+    <item>
+      <title>Aðferðafræði framtakssjóða á Íslandi: Virðismatsaðferðir</title>
+      <link>https://skemman.is/handle/1946/46900</link>
+      <description>Aðferðafræði framtakssjóða á Íslandi: Virðismatsaðferðir - Birkir Örn Þorsteinsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/46900</guid>
+    </item>
+    <item>
       <title>Eru hluthafabreytingar tegund af krísunni? „Þeir eru að kasta bensínsprengjum í átt að eldinum“</title>
       <link>https://skemman.is/handle/1946/46864</link>
       <description>Eru hluthafabreytingar tegund af krísunni? „Þeir eru að kasta bensínsprengjum í átt að eldinum“ - Eygló Alexandra Sævarsdóttir 1990-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/46861</link>
       <description>Um skaðabótaábyrgð samkvæmt lögum um fjöleignarhús - Jónína Þórdís Karlsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/46861</guid>
-    </item>
-    <item>
-      <title>Mat á orsakatengslum á milli líkamstjóns og umferðar- eða vinnuslysa</title>
-      <link>https://skemman.is/handle/1946/46862</link>
-      <description>Mat á orsakatengslum á milli líkamstjóns og umferðar- eða vinnuslysa - Karol Walejko 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/46862</guid>
     </item>
   </channel>
 </rss>
