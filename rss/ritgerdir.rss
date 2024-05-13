@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 May 2024 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 15:00:23 +0000</lastBuildDate>
     <item>
       <title>Áhrif vítamína og steinefna á beinstyrk kvenna eftir tíðahvörf: Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/47011</link>
@@ -73,12 +73,6 @@
       <link>https://skemman.is/handle/1946/47018</link>
       <description>Úttekt á árangri sérhæfðrar verkjameðferðar við erfiðum eða útbreiddum verkjum á Landspítala: Lýsandi afturskyggn rannsókn - Mary Jane Padua Rafael 2000-; Lhea Mae Fernandez Trinidad 2001-; Ray Phillip Legaspi Leonar 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47018</guid>
-    </item>
-    <item>
-      <title>„Búið að fara fram úr mínum björtustu vonum“ Ákvarðanaferli við val á meistaranámi á háskólastigi</title>
-      <link>https://skemman.is/handle/1946/47017</link>
-      <description>„Búið að fara fram úr mínum björtustu vonum“ Ákvarðanaferli við val á meistaranámi á háskólastigi - Athena Neve Leex 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47017</guid>
     </item>
     <item>
       <title>"Er ekki brjálað að gera?" Álagsmenning og stytting vinnuvikunnar</title>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/47021</link>
       <description>Forkaupsréttur í hlutafélögum. Álitaefni um beitingu forkaupsréttar á hlutabréfum á grundvelli samþykkta hlutafélags eða hluthafasamkomulags - Bjartur Elíasson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47021</guid>
+    </item>
+    <item>
+      <title>Áhrif einkenna tíðahvarfa á konur í atvinnulífinu: Hafa stjórnendur nægan skilning á einkennum tíðahvarfa?</title>
+      <link>https://skemman.is/handle/1946/47022</link>
+      <description>Áhrif einkenna tíðahvarfa á konur í atvinnulífinu: Hafa stjórnendur nægan skilning á einkennum tíðahvarfa? - Lars Davíð Gunnarsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47022</guid>
     </item>
   </channel>
 </rss>
