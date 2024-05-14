@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 May 2024 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 08:00:25 +0000</lastBuildDate>
+    <item>
+      <title>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins</title>
+      <link>https://skemman.is/handle/1946/47050</link>
+      <description>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins - Guðmundur Ari Hilmarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47050</guid>
+    </item>
+    <item>
+      <title>Skjánotkun barna og ungmenna: Áhrif skjánotkunar á dægursveiflur og svefn - Fræðileg samantekt</title>
+      <link>https://skemman.is/handle/1946/47051</link>
+      <description>Skjánotkun barna og ungmenna: Áhrif skjánotkunar á dægursveiflur og svefn - Fræðileg samantekt - Rebekka Hulda Gestsdóttir 1993-; Eva Þóra Hartmannsdóttir 1998-; Judith Ingibjörg Jóhannsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47051</guid>
+    </item>
     <item>
       <title>Áhrif vítamína og steinefna á beinstyrk kvenna eftir tíðahvörf: Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/47011</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47029</link>
       <description>Frá vitundarvakningu til aðgerða: Af hverju fjárfesta konur minna en karlar? - Ólöf Ýr Eyjólfsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47029</guid>
-    </item>
-    <item>
-      <title>Forkaupsréttur í hlutafélögum. Álitaefni um beitingu forkaupsréttar á hlutabréfum á grundvelli samþykkta hlutafélags eða hluthafasamkomulags</title>
-      <link>https://skemman.is/handle/1946/47021</link>
-      <description>Forkaupsréttur í hlutafélögum. Álitaefni um beitingu forkaupsréttar á hlutabréfum á grundvelli samþykkta hlutafélags eða hluthafasamkomulags - Bjartur Elíasson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47021</guid>
-    </item>
-    <item>
-      <title>Áhrif einkenna tíðahvarfa á konur í atvinnulífinu: Hafa stjórnendur nægan skilning á einkennum tíðahvarfa?</title>
-      <link>https://skemman.is/handle/1946/47022</link>
-      <description>Áhrif einkenna tíðahvarfa á konur í atvinnulífinu: Hafa stjórnendur nægan skilning á einkennum tíðahvarfa? - Lars Davíð Gunnarsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47022</guid>
     </item>
   </channel>
 </rss>
