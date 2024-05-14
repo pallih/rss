@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 May 2024 12:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 13:01:28 +0000</lastBuildDate>
     <item>
       <title>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins</title>
       <link>https://skemman.is/handle/1946/47050</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/47054</link>
       <description>Fótamein hjá einstaklingum með sykursýki: Hjúkrunargreiningar og -meðferðir samkvæmt ICNP - Hrafnhildur Líf Pétursdóttir 1996-; Oddný Þorbergsdóttir 1993-; Ragnheiður Ragnarsdóttir Kamban 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47054</guid>
+    </item>
+    <item>
+      <title>Starfsánægja og lífshættir sjúkraþjálfara á Íslandi Er munur á verktökum og launþegum?</title>
+      <link>https://skemman.is/handle/1946/47055</link>
+      <description>Starfsánægja og lífshættir sjúkraþjálfara á Íslandi Er munur á verktökum og launþegum? - Bjarki Sveinsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47055</guid>
     </item>
     <item>
       <title>Áhrif vítamína og steinefna á beinstyrk kvenna eftir tíðahvörf: Fræðileg samantekt</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47035</link>
       <description>Afkomuviðvaranir skráðra félaga. Reglur og viðmið um birtingu afkomuviðvarana - Gunnar Kristjánsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47035</guid>
-    </item>
-    <item>
-      <title>Rekstur knattspyrnufélaga á Íslandi. Tekjustoðir og samanburður við fjárhagsleg markmið leyfiskerfis KSÍ</title>
-      <link>https://skemman.is/handle/1946/47020</link>
-      <description>Rekstur knattspyrnufélaga á Íslandi. Tekjustoðir og samanburður við fjárhagsleg markmið leyfiskerfis KSÍ - Nökkvi Egilsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47020</guid>
     </item>
   </channel>
 </rss>
