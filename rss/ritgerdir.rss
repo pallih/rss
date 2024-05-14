@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 May 2024 14:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:00:28 +0000</lastBuildDate>
     <item>
       <title>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins</title>
       <link>https://skemman.is/handle/1946/47050</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/47055</link>
       <description>Starfsánægja og lífshættir sjúkraþjálfara á Íslandi Er munur á verktökum og launþegum? - Bjarki Sveinsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47055</guid>
+    </item>
+    <item>
+      <title>Hagnýting mælitækis (ICE-FPSQ) í fjölskylduhjúkrun sem metur fjölskyldustuðning. Fræðileg samantekt.</title>
+      <link>https://skemman.is/handle/1946/47056</link>
+      <description>Hagnýting mælitækis (ICE-FPSQ) í fjölskylduhjúkrun sem metur fjölskyldustuðning. Fræðileg samantekt. - Hlynur Hafliðason 1985-; Gunnhildur Jónsdóttir 1985-; Kristján Oddur Kjartansson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47056</guid>
+    </item>
+    <item>
+      <title>Síðbúnar og langvinnar aukaverkanir hjá fullorðnum einstaklingum eftir meðferð við bráðahvítblæði. Fræðileg samantekt.</title>
+      <link>https://skemman.is/handle/1946/47057</link>
+      <description>Síðbúnar og langvinnar aukaverkanir hjá fullorðnum einstaklingum eftir meðferð við bráðahvítblæði. Fræðileg samantekt. - Birna Kristín Eiríksdóttir 2000-; Kristín Fjóla Sigþórsdóttir 2000-; Kristján Júlían Sveinbjörnsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47057</guid>
     </item>
     <item>
       <title>Áhrif vítamína og steinefna á beinstyrk kvenna eftir tíðahvörf: Fræðileg samantekt</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47032</link>
       <description>Fræðsla og þjálfun skipulagsheilda. Er fjárfesting í fræðslu að skila sér í betri mannauði fyrirtækja? - Birkir Rafnsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47032</guid>
-    </item>
-    <item>
-      <title>Knattspyrnufélag Reykjavíkur. Hvernig notfærir Knattspyrnufélag Reykjavíkur sér markaðssetningu og stefnumótun?</title>
-      <link>https://skemman.is/handle/1946/47036</link>
-      <description>Knattspyrnufélag Reykjavíkur. Hvernig notfærir Knattspyrnufélag Reykjavíkur sér markaðssetningu og stefnumótun? - Páll Bjarni Bogason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47036</guid>
-    </item>
-    <item>
-      <title>Afkomuviðvaranir skráðra félaga. Reglur og viðmið um birtingu afkomuviðvarana</title>
-      <link>https://skemman.is/handle/1946/47035</link>
-      <description>Afkomuviðvaranir skráðra félaga. Reglur og viðmið um birtingu afkomuviðvarana - Gunnar Kristjánsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47035</guid>
     </item>
   </channel>
 </rss>
