@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 May 2024 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 10:00:25 +0000</lastBuildDate>
     <item>
       <title>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins</title>
       <link>https://skemman.is/handle/1946/47050</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/47052</link>
       <description>Leit og skilgreining nýrra ensíma úr örverum er nýta má til niðurbrots fjölsykra - Kristín Fjóla Theódórsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47052</guid>
+    </item>
+    <item>
+      <title>The Social Validity of Orðaheimurinn for Supporting Multilingual Children’s Icelandic Vocabulary Development: Perspectives from Teachers and Directors. „This is just a language stimulant on a silver platter. You don’t need anything more, just off you go“</title>
+      <link>https://skemman.is/handle/1946/47053</link>
+      <description>The Social Validity of Orðaheimurinn for Supporting Multilingual Children’s Icelandic Vocabulary Development: Perspectives from Teachers and Directors. „This is just a language stimulant on a silver platter. You don’t need anything more, just off you go“ - Hanna Einarsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47053</guid>
     </item>
     <item>
       <title>Áhrif vítamína og steinefna á beinstyrk kvenna eftir tíðahvörf: Fræðileg samantekt</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47030</link>
       <description>Hvenær er best að fjárfesta? Besti tími til að fjárfesta í sögulegu samhengi - Sigurður Þór Þórisson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47030</guid>
-    </item>
-    <item>
-      <title>Stefnur í verðlagningu á markaði</title>
-      <link>https://skemman.is/handle/1946/47028</link>
-      <description>Stefnur í verðlagningu á markaði - Ásgeir Beinteinn Árnason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47028</guid>
     </item>
   </channel>
 </rss>
