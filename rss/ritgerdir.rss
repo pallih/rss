@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 May 2024 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 16:00:24 +0000</lastBuildDate>
     <item>
       <title>Málþroski fyrirbura: Rannsókn á niðurstöðum málþroskaathugana fyrirbura á Barnaspítala Hringsins árin 2012–2021</title>
       <link>https://skemman.is/handle/1946/47072</link>
@@ -99,6 +99,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47083</guid>
     </item>
     <item>
+      <title>Keiluskurðir á Landspítala árið 2022. Mat á dýpt keiluskurða og viðvarandi forstigsbreytingum eftir keiluskurð</title>
+      <link>https://skemman.is/handle/1946/47084</link>
+      <description>Keiluskurðir á Landspítala árið 2022. Mat á dýpt keiluskurða og viðvarandi forstigsbreytingum eftir keiluskurð - Telma Rós Jónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47084</guid>
+    </item>
+    <item>
+      <title>Looking for Renal Significance: Causes of Chronic Kidney Disease in Monoclonal Gammopathy of Undetermined Significance</title>
+      <link>https://skemman.is/handle/1946/47085</link>
+      <description>Looking for Renal Significance: Causes of Chronic Kidney Disease in Monoclonal Gammopathy of Undetermined Significance - Þorgerður Þórólfsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47085</guid>
+    </item>
+    <item>
+      <title>Potential of using land-based aquaculture sludge for fertiliser and biogas utilization</title>
+      <link>https://skemman.is/handle/1946/47086</link>
+      <description>Potential of using land-based aquaculture sludge for fertiliser and biogas utilization - Synneve Skjolddal Jelmert 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47086</guid>
+    </item>
+    <item>
       <title>Göngum í takt. Samband stjórnunarstíla og samfélagslegrar ábyrgðar fyrirtækja</title>
       <link>https://skemman.is/handle/1946/47065</link>
       <description>Göngum í takt. Samband stjórnunarstíla og samfélagslegrar ábyrgðar fyrirtækja - Jökull Jörvar Þórhallsson 1998-</description>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47061</link>
       <description>Forprófun á nýju málþroskaprófi fyrir 6–10 ára: Flokkun orða, mál- og hljóðkerfisvitund og málnotkun - Eva Berglind Ómarsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47061</guid>
-    </item>
-    <item>
-      <title>Málfærni íslenskumælandi grunnskólabarna (MÍSL-G) fyrir 6;0–9;11 ára börn: Forprófun á þremur undirprófum sem kanna merkingarfræði</title>
-      <link>https://skemman.is/handle/1946/47063</link>
-      <description>Málfærni íslenskumælandi grunnskólabarna (MÍSL-G) fyrir 6;0–9;11 ára börn: Forprófun á þremur undirprófum sem kanna merkingarfræði - Vilborg Sólrún Jóhannsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47063</guid>
-    </item>
-    <item>
-      <title>Sjálfsmyndin í speglasal samfélagsmiðla: Tengsl lúxustísku og sjálfbærrar tísku við sjálfsmynd einstaklinga og sjálfsframsetning þeirra á samfélagsmiðlum</title>
-      <link>https://skemman.is/handle/1946/47068</link>
-      <description>Sjálfsmyndin í speglasal samfélagsmiðla: Tengsl lúxustísku og sjálfbærrar tísku við sjálfsmynd einstaklinga og sjálfsframsetning þeirra á samfélagsmiðlum - Guðrún Gígja Georgsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47068</guid>
-    </item>
-    <item>
-      <title>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins</title>
-      <link>https://skemman.is/handle/1946/47050</link>
-      <description>ÍL-sjóður: Yfirlit um sögu og vandamál sjóðsins - Guðmundur Ari Hilmarsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47050</guid>
     </item>
   </channel>
 </rss>
