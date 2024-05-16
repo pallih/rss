@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 May 2024 08:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:00:25 +0000</lastBuildDate>
     <item>
       <title>Taugaþroskaraskanir fyrirbura á Íslandi sem fæddust á árunum 2012-2017</title>
       <link>https://skemman.is/handle/1946/47069</link>
       <description>Taugaþroskaraskanir fyrirbura á Íslandi sem fæddust á árunum 2012-2017 - Aldís Eyja Axelsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47069</guid>
+    </item>
+    <item>
+      <title>Sjálfbært heilsusamlegt mataræði á Íslandi: Aðferðir til innleiðingar með áherslu á vinnustaði.  </title>
+      <link>https://skemman.is/handle/1946/47070</link>
+      <description>Sjálfbært heilsusamlegt mataræði á Íslandi: Aðferðir til innleiðingar með áherslu á vinnustaði.   - Katla Þöll Þórleifsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47070</guid>
+    </item>
+    <item>
+      <title>Promoting Mental Health in Icelandic Schools Policy Implementation and its Impact on Educational System</title>
+      <link>https://skemman.is/handle/1946/47071</link>
+      <description>Promoting Mental Health in Icelandic Schools Policy Implementation and its Impact on Educational System - Mayu Tomioka 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47071</guid>
     </item>
     <item>
       <title>Göngum í takt. Samband stjórnunarstíla og samfélagslegrar ábyrgðar fyrirtækja</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47007</link>
       <description>Þýðing og forprófun á mælitækinu: Mat á þekkingu á þrýstingssárum (PUKAT 2.0 - IS) - María Rún Thorarensen 2001-; Álfhildur Erla Kristjánsdóttir 1978-; Sigrún Elsa Viðarsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47007</guid>
-    </item>
-    <item>
-      <title>Cardiac Amyloidosis in Iceland: A nationwide study</title>
-      <link>https://skemman.is/handle/1946/47012</link>
-      <description>Cardiac Amyloidosis in Iceland: A nationwide study - Hekla María Bergmann 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47012</guid>
-    </item>
-    <item>
-      <title>Aukin skilvirkni við gerð sérleyfisútboða: „Við þurfum að vera formlegri, tímanlegri og skýrari“</title>
-      <link>https://skemman.is/handle/1946/47006</link>
-      <description>Aukin skilvirkni við gerð sérleyfisútboða: „Við þurfum að vera formlegri, tímanlegri og skýrari“ - Berglind Snæland 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47006</guid>
     </item>
   </channel>
 </rss>
