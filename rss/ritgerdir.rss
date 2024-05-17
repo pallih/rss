@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 May 2024 17:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 08:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Verðmat á Ölgerðin Egill Skallagrímsson hf.</title>
+      <link>https://skemman.is/handle/1946/47090</link>
+      <description>Verðmat á Ölgerðin Egill Skallagrímsson hf. - Sara Tran 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47090</guid>
+    </item>
+    <item>
+      <title>Ífarandi streptókokkasýkingar á gjörgæsludeildum Landspítala 2018-2023: Nýgengi, alvarleiki, meingerð og meðferðarárangur</title>
+      <link>https://skemman.is/handle/1946/47091</link>
+      <description>Ífarandi streptókokkasýkingar á gjörgæsludeildum Landspítala 2018-2023: Nýgengi, alvarleiki, meingerð og meðferðarárangur - Hanna María Geirdal 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47091</guid>
+    </item>
     <item>
       <title>Methods of bone marrow sampling in plasma cell disorders: The utility and complementarity of bone marrow smears and biopsies</title>
       <link>https://skemman.is/handle/1946/47083</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47062</link>
       <description>Exploring lactic acid bacteria fermentation parameters to produce legume based cheese alternatives. Investigating probiotic potential, nutrient quality, aroma development and in-vitro protein digestibility - Anne Seyian Mwangi 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47062</guid>
-    </item>
-    <item>
-      <title>Fossil-based reconstruction of the palaeoenvironment at the GBY-NBA archaeological site, Northern Israel</title>
-      <link>https://skemman.is/handle/1946/47066</link>
-      <description>Fossil-based reconstruction of the palaeoenvironment at the GBY-NBA archaeological site, Northern Israel - Hjördís Rún Gísladóttir Joensen 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47066</guid>
-    </item>
-    <item>
-      <title>Tengsl fjöllyfjameðferðar við vitræna getu og heilabilun á meðal eldri einstaklinga</title>
-      <link>https://skemman.is/handle/1946/47067</link>
-      <description>Tengsl fjöllyfjameðferðar við vitræna getu og heilabilun á meðal eldri einstaklinga - Karen Arnarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47067</guid>
     </item>
   </channel>
 </rss>
