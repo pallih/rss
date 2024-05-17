@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 17 May 2024 10:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 11:00:22 +0000</lastBuildDate>
     <item>
       <title>Magnetic field change detection at the 2023 Fagradalsfjall volcanic fissure</title>
       <link>https://skemman.is/handle/1946/47103</link>
@@ -63,6 +63,60 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47100</guid>
     </item>
     <item>
+      <title>Treatment of infant colic in Iceland: An evaluation of therapeutic options</title>
+      <link>https://skemman.is/handle/1946/47112</link>
+      <description>Treatment of infant colic in Iceland: An evaluation of therapeutic options - Matthías Löve 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47112</guid>
+    </item>
+    <item>
+      <title>Áhrif þess að vera innflytjandi á andlega heilsu einstaklinga á Íslandi</title>
+      <link>https://skemman.is/handle/1946/47115</link>
+      <description>Áhrif þess að vera innflytjandi á andlega heilsu einstaklinga á Íslandi - Julita Irena Figlarska 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47115</guid>
+    </item>
+    <item>
+      <title>Alport Syndrome in Iceland: Epidemiology and Outcomes</title>
+      <link>https://skemman.is/handle/1946/47110</link>
+      <description>Alport Syndrome in Iceland: Epidemiology and Outcomes - Saga Ingadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47110</guid>
+    </item>
+    <item>
+      <title>Ábendingar fyrir framköllun fæðinga</title>
+      <link>https://skemman.is/handle/1946/47111</link>
+      <description>Ábendingar fyrir framköllun fæðinga - Viktoría Ýr Sveinsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47111</guid>
+    </item>
+    <item>
+      <title>Bulk density of the 2021 lava in Nátthagi, Reykjanes Peninsula, estimated with gravimetry</title>
+      <link>https://skemman.is/handle/1946/47116</link>
+      <description>Bulk density of the 2021 lava in Nátthagi, Reykjanes Peninsula, estimated with gravimetry - Aron Daði Bjarnason 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47116</guid>
+    </item>
+    <item>
+      <title>Notkun blóðskilunarleggja hjá blóðskilunarsjúklingum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/47109</link>
+      <description>Notkun blóðskilunarleggja hjá blóðskilunarsjúklingum á Íslandi - Lára Björk Birgisdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47109</guid>
+    </item>
+    <item>
+      <title>Árangur efnaskiptaaðgerða á Klínikinni Ármúla 2019 - 2020</title>
+      <link>https://skemman.is/handle/1946/47108</link>
+      <description>Árangur efnaskiptaaðgerða á Klínikinni Ármúla 2019 - 2020 - Hrund Guðmundsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47108</guid>
+    </item>
+    <item>
+      <title>Skarpur kraftur sem dánarorsök</title>
+      <link>https://skemman.is/handle/1946/47113</link>
+      <description>Skarpur kraftur sem dánarorsök - Eygló Fanndal Sturludóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47113</guid>
+    </item>
+    <item>
+      <title>Progression to Neoplasm from Barrett's Esophagus</title>
+      <link>https://skemman.is/handle/1946/47114</link>
+      <description>Progression to Neoplasm from Barrett's Esophagus - Melkorka Sverrisdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47114</guid>
+    </item>
+    <item>
       <title>Coagulase-Negative Staphylococci in Blood Cultures at Landspítali. A retrospective analysis of bloodstream infections during 2011-2021</title>
       <link>https://skemman.is/handle/1946/47092</link>
       <description>Coagulase-Negative Staphylococci in Blood Cultures at Landspítali. A retrospective analysis of bloodstream infections during 2011-2021 - Helga Sif Pálsdóttir 2002-</description>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/47094</link>
       <description>„Við erum með þetta allt í kring“ – Viðhorf og reynsla jarðfræðikennara á framhaldsskólastigi af útikennslu - Halldór Atlason 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47094</guid>
-    </item>
-    <item>
-      <title>Samtenging garnar innan eða utan kviðarhols við hægra ristilbrottnám í kviðsjá</title>
-      <link>https://skemman.is/handle/1946/47095</link>
-      <description>Samtenging garnar innan eða utan kviðarhols við hægra ristilbrottnám í kviðsjá - Hjalti Dagur Hjaltason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47095</guid>
-    </item>
-    <item>
-      <title>Verðmat á Ölgerðin Egill Skallagrímsson hf.</title>
-      <link>https://skemman.is/handle/1946/47090</link>
-      <description>Verðmat á Ölgerðin Egill Skallagrímsson hf. - Sara Tran 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47090</guid>
-    </item>
-    <item>
-      <title>Árangur efnaskiptaaðgerða á Klínikinni Ármúla 2019 - 2020</title>
-      <link>https://skemman.is/handle/1946/47108</link>
-      <description>Árangur efnaskiptaaðgerða á Klínikinni Ármúla 2019 - 2020 - Hrund Guðmundsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47108</guid>
-    </item>
-    <item>
-      <title>Notkun blóðskilunarleggja hjá blóðskilunarsjúklingum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/47109</link>
-      <description>Notkun blóðskilunarleggja hjá blóðskilunarsjúklingum á Íslandi - Lára Björk Birgisdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47109</guid>
-    </item>
-    <item>
-      <title>Alport Syndrome in Iceland: Epidemiology and Outcomes</title>
-      <link>https://skemman.is/handle/1946/47110</link>
-      <description>Alport Syndrome in Iceland: Epidemiology and Outcomes - Saga Ingadóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47110</guid>
-    </item>
-    <item>
-      <title>Ábendingar fyrir framköllun fæðinga</title>
-      <link>https://skemman.is/handle/1946/47111</link>
-      <description>Ábendingar fyrir framköllun fæðinga - Viktoría Ýr Sveinsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47111</guid>
-    </item>
-    <item>
-      <title>Treatment of infant colic in Iceland: An evaluation of therapeutic options</title>
-      <link>https://skemman.is/handle/1946/47112</link>
-      <description>Treatment of infant colic in Iceland: An evaluation of therapeutic options - Matthías Löve 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47112</guid>
-    </item>
-    <item>
-      <title>Skarpur kraftur sem dánarorsök</title>
-      <link>https://skemman.is/handle/1946/47113</link>
-      <description>Skarpur kraftur sem dánarorsök - Eygló Fanndal Sturludóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47113</guid>
-    </item>
-    <item>
-      <title>Progression to Neoplasm from Barrett's Esophagus</title>
-      <link>https://skemman.is/handle/1946/47114</link>
-      <description>Progression to Neoplasm from Barrett's Esophagus - Melkorka Sverrisdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47114</guid>
     </item>
   </channel>
 </rss>
