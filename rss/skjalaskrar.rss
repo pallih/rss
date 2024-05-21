@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 May 2024 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 15:00:15 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0054-1996-041</link>
       <description>Skrifstofa forseta Íslands 1996-041 - 1921-1994</description>
@@ -62,6 +62,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0196-2000-081</link>
       <description>Utanríkisráðuneytið 2000-081 - 1928-1993</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0196-2000-081</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0962-2005-043</link>
+      <description>Jean Eggert Claessen (1877-1950) hæstaréttarlögmaður 2005-043 - 1835-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0962-2005-043</guid>
     </item>
   </channel>
 </rss>
