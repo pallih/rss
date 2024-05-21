@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 May 2024 10:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 11:00:18 +0000</lastBuildDate>
     <item>
       <title>Buteyko öndunaræfingar sem viðbótarmeðferð við langvinnum verkjum: Áhorfsrannsókn með afturvirkan samanburðarhóp</title>
       <link>https://skemman.is/handle/1946/47140</link>
@@ -63,10 +63,52 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47135</guid>
     </item>
     <item>
+      <title>Algae Remains from Hreðavatn as Reason for Turbid Water in the Grábrókarhraun Drinking-Water Utility (Borgarbyggð, Iceland)</title>
+      <link>https://skemman.is/handle/1946/47149</link>
+      <description>Algae Remains from Hreðavatn as Reason for Turbid Water in the Grábrókarhraun Drinking-Water Utility (Borgarbyggð, Iceland) - Telma Jeanne Bonthonneau 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47149</guid>
+    </item>
+    <item>
+      <title>Blóðgjafar á Íslandi 2013-2023</title>
+      <link>https://skemman.is/handle/1946/47147</link>
+      <description>Blóðgjafar á Íslandi 2013-2023 - Jenný Jónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47147</guid>
+    </item>
+    <item>
+      <title>Með vindinn í fangið: Notagildi LUK fjölþáttagreiningar við stefnumótun og ákvarðanatöku um nýtingu á vindorku</title>
+      <link>https://skemman.is/handle/1946/47152</link>
+      <description>Með vindinn í fangið: Notagildi LUK fjölþáttagreiningar við stefnumótun og ákvarðanatöku um nýtingu á vindorku - Hlynur Aðalsteinsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47152</guid>
+    </item>
+    <item>
+      <title>PanLoki – Workflow and web interface to the pangenomic software Genset</title>
+      <link>https://skemman.is/handle/1946/47151</link>
+      <description>PanLoki – Workflow and web interface to the pangenomic software Genset - Sebastian Claudio Richard Treschau 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47151</guid>
+    </item>
+    <item>
+      <title>Parameter Estimation for ROP Optimization Using a Non-Linear Particle Filter with Low-Latency Downhole Measurements</title>
+      <link>https://skemman.is/handle/1946/47150</link>
+      <description>Parameter Estimation for ROP Optimization Using a Non-Linear Particle Filter with Low-Latency Downhole Measurements - Kjartan Þór Birgisson 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47150</guid>
+    </item>
+    <item>
+      <title>Heilablæðingar nýbura 1994-2023</title>
+      <link>https://skemman.is/handle/1946/47146</link>
+      <description>Heilablæðingar nýbura 1994-2023 - Tómas Helgi Harðarson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47146</guid>
+    </item>
+    <item>
       <title>Aðgreind en jöfn? Aðskilnaður innflytjenda í íslensku borgarumhverfi</title>
       <link>https://skemman.is/handle/1946/47138</link>
       <description>Aðgreind en jöfn? Aðskilnaður innflytjenda í íslensku borgarumhverfi - Uloma Lisbet Rós Osuala 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47138</guid>
+    </item>
+    <item>
+      <title>A Bayesian Approach to Non-Isothermal Lumped Parameter Modelling of the Elliðaárdalur Geothermal System</title>
+      <link>https://skemman.is/handle/1946/47145</link>
+      <description>A Bayesian Approach to Non-Isothermal Lumped Parameter Modelling of the Elliðaárdalur Geothermal System - Rasmus Lolck Rosenbæk 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47145</guid>
     </item>
     <item>
       <title>Ábyrg ferðaþjónusta: Ávinningur og áskoranir</title>
@@ -81,82 +123,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47144</guid>
     </item>
     <item>
-      <title>A Bayesian Approach to Non-Isothermal Lumped Parameter Modelling of the Elliðaárdalur Geothermal System</title>
-      <link>https://skemman.is/handle/1946/47145</link>
-      <description>A Bayesian Approach to Non-Isothermal Lumped Parameter Modelling of the Elliðaárdalur Geothermal System - Rasmus Lolck Rosenbæk 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47145</guid>
-    </item>
-    <item>
-      <title>Heilablæðingar nýbura 1994-2023</title>
-      <link>https://skemman.is/handle/1946/47146</link>
-      <description>Heilablæðingar nýbura 1994-2023 - Tómas Helgi Harðarson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47146</guid>
-    </item>
-    <item>
-      <title>Blóðgjafar á Íslandi 2013-2023</title>
-      <link>https://skemman.is/handle/1946/47147</link>
-      <description>Blóðgjafar á Íslandi 2013-2023 - Jenný Jónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47147</guid>
-    </item>
-    <item>
       <title>The effect of distinct BRCA1 splice forms on drug sensitivity in breast- and ovarian cancer cell lines</title>
       <link>https://skemman.is/handle/1946/47148</link>
       <description>The effect of distinct BRCA1 splice forms on drug sensitivity in breast- and ovarian cancer cell lines - Sif Heiðarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47148</guid>
     </item>
     <item>
-      <title>Algae Remains from Hreðavatn as Reason for Turbid Water in the Grábrókarhraun Drinking-Water Utility (Borgarbyggð, Iceland)</title>
-      <link>https://skemman.is/handle/1946/47149</link>
-      <description>Algae Remains from Hreðavatn as Reason for Turbid Water in the Grábrókarhraun Drinking-Water Utility (Borgarbyggð, Iceland) - Telma Jeanne Bonthonneau 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47149</guid>
+      <title>Tíðni sýkinga og upprifnun sára eftir 2. gráðu spangarrifu eða spangarskurð 2012-2021</title>
+      <link>https://skemman.is/handle/1946/47153</link>
+      <description>Tíðni sýkinga og upprifnun sára eftir 2. gráðu spangarrifu eða spangarskurð 2012-2021 - Karitas Björg Ívarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47153</guid>
     </item>
     <item>
-      <title>Magnetic field change detection at the 2023 Fagradalsfjall volcanic fissure</title>
-      <link>https://skemman.is/handle/1946/47103</link>
-      <description>Magnetic field change detection at the 2023 Fagradalsfjall volcanic fissure - Sindri Bernholt 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47103</guid>
+      <title>Optimising tissue processing and AI tools for high-throughput automated myelin ultrastructure analysis</title>
+      <link>https://skemman.is/handle/1946/47154</link>
+      <description>Optimising tissue processing and AI tools for high-throughput automated myelin ultrastructure analysis - Baldvin Fannar Guðjónsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47154</guid>
     </item>
     <item>
-      <title>Uncovering the Potential for Emission Mitigation: A Life Cycle Assessment of Manure at a Dairy Farm in Iceland, Highlighting the Environmental Advantages of Biogas Capture and Utilization</title>
-      <link>https://skemman.is/handle/1946/47101</link>
-      <description>Uncovering the Potential for Emission Mitigation: A Life Cycle Assessment of Manure at a Dairy Farm in Iceland, Highlighting the Environmental Advantages of Biogas Capture and Utilization - Íris Katla Guðmundsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47101</guid>
+      <title>Útivist í borginni. Greining á áhrifum útivistarsvæða og aðgengi íbúa að Heiðmörk</title>
+      <link>https://skemman.is/handle/1946/47155</link>
+      <description>Útivist í borginni. Greining á áhrifum útivistarsvæða og aðgengi íbúa að Heiðmörk - Hjördís Kristinsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47155</guid>
     </item>
     <item>
-      <title>Meðhöndlun lungnakrabbameina: Marksækin meðferð í meðhöndlun lungnakrabbameina á árunum 2010-2023</title>
-      <link>https://skemman.is/handle/1946/47107</link>
-      <description>Meðhöndlun lungnakrabbameina: Marksækin meðferð í meðhöndlun lungnakrabbameina á árunum 2010-2023 - Stefanía Ásta Tryggvadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47107</guid>
+      <title>Þarahrat. Biomaterial possibilities using algae pulp</title>
+      <link>https://skemman.is/handle/1946/47156</link>
+      <description>Þarahrat. Biomaterial possibilities using algae pulp - Ísafold Kristín Halldórsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47156</guid>
     </item>
     <item>
-      <title>Þróun innlagna ungmenna á Vog og vímugjafaneyslu árin 2000-2023: Mögulegar skýringar og breytingar á tímabilinu</title>
-      <link>https://skemman.is/handle/1946/47102</link>
-      <description>Þróun innlagna ungmenna á Vog og vímugjafaneyslu árin 2000-2023: Mögulegar skýringar og breytingar á tímabilinu - Benedikt Burkni Þ. Hjarðar 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47102</guid>
-    </item>
-    <item>
-      <title>Tíðni og afdrif snemmkominnar beinmergsbælingar hjá einstaklingum á 5-fluorouracil og capecitabine lyfjum</title>
-      <link>https://skemman.is/handle/1946/47104</link>
-      <description>Tíðni og afdrif snemmkominnar beinmergsbælingar hjá einstaklingum á 5-fluorouracil og capecitabine lyfjum - Helga Kristín Sigurðardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47104</guid>
-    </item>
-    <item>
-      <title>Viðbótarmeðferð í brjóstakrabbameini og meðferðarheldni andhormónameðferðar árin 2016-2018</title>
-      <link>https://skemman.is/handle/1946/47099</link>
-      <description>Viðbótarmeðferð í brjóstakrabbameini og meðferðarheldni andhormónameðferðar árin 2016-2018 - Gerður Eva Halldórsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47099</guid>
-    </item>
-    <item>
-      <title>Nýburagula: Greining, áhættu- og verndandi þættir, árangur ljósameðferðar í heimahúsi</title>
-      <link>https://skemman.is/handle/1946/47105</link>
-      <description>Nýburagula: Greining, áhættu- og verndandi þættir, árangur ljósameðferðar í heimahúsi - Bryndís Róbertsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47105</guid>
-    </item>
-    <item>
-      <title>Líftæknilyf við alvarlegum astma: Val á meðferð og meðferðarsvörun</title>
-      <link>https://skemman.is/handle/1946/47106</link>
-      <description>Líftæknilyf við alvarlegum astma: Val á meðferð og meðferðarsvörun - Kristín Dóra Sigurðardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47106</guid>
+      <title>Um aðferðir til að mæla misáttun eðlisviðnáms í þunnum húðum</title>
+      <link>https://skemman.is/handle/1946/47157</link>
+      <description>Um aðferðir til að mæla misáttun eðlisviðnáms í þunnum húðum - Hálfdán Ingi Gunnarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47157</guid>
     </item>
   </channel>
 </rss>
