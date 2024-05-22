@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 May 2024 13:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 14:00:18 +0000</lastBuildDate>
     <item>
       <title>Integration of Genetics and the Serum Proteome in Risk Prediction of Atrial Fibrillation and Heart Failure</title>
       <link>https://skemman.is/handle/1946/47226</link>
@@ -19,12 +19,6 @@
       <link>https://skemman.is/handle/1946/47229</link>
       <description>Tillaga að rannsóknarmiðstöð sjálfsvígsrannsókna á Íslandi: Forgangsröðun sjálfsvígsrannsókna að erlendri fyrirmynd - Eva Carolina Ómarsdóttir McNair 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47229</guid>
-    </item>
-    <item>
-      <title>The Autism Spectrum Screening Questionnaire (ASSQ) in a Nationwide Clinical Sample in Iceland: Examining the Utility of the Three-Factor Model</title>
-      <link>https://skemman.is/handle/1946/47223</link>
-      <description>The Autism Spectrum Screening Questionnaire (ASSQ) in a Nationwide Clinical Sample in Iceland: Examining the Utility of the Three-Factor Model - Sandra Sif Gunnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47223</guid>
     </item>
     <item>
       <title>Borgnáma bifreiða: Í átt að auðlindasjálfstæði Íslands með borgnámi bifreiða</title>
@@ -49,12 +43,6 @@
       <link>https://skemman.is/handle/1946/47216</link>
       <description>Strandlínubreytingar við Sauðárkrók: Frá 1920 til 2021 - Selma Kristín Gísladóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47216</guid>
-    </item>
-    <item>
-      <title>Brunnárdalur Ag-Au (Cu-Te-Bi) epithermal deposit, northern Iceland</title>
-      <link>https://skemman.is/handle/1946/47213</link>
-      <description>Brunnárdalur Ag-Au (Cu-Te-Bi) epithermal deposit, northern Iceland - Halldór Guðmundsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47213</guid>
     </item>
     <item>
       <title>Snemmkomin meðgöngueitrun á Íslandi 2015 - 2020: Samanburður á áhættuskimun meðal frumbyrja og fjölbyrja</title>
@@ -93,12 +81,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47218</guid>
     </item>
     <item>
-      <title>Hegðunarvandi í klínísku úrtaki barna og unglinga á Íslandi með ADHD og/eða einhverfu</title>
-      <link>https://skemman.is/handle/1946/47221</link>
-      <description>Hegðunarvandi í klínísku úrtaki barna og unglinga á Íslandi með ADHD og/eða einhverfu - Hólmfríður Dúna Þorsteinsdóttir 2000-; Thelma Lind Antonsdóttir Arelakis 2001-; Bjarney Sara Bjarnadóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47221</guid>
-    </item>
-    <item>
       <title>Í átt að vera leiðandi í sjálfbærni: Áskoranir og aðferðir til innleiðslu í íslenskri gistiþjónustu</title>
       <link>https://skemman.is/handle/1946/47222</link>
       <description>Í átt að vera leiðandi í sjálfbærni: Áskoranir og aðferðir til innleiðslu í íslenskri gistiþjónustu - Michael Þór Jóhönnuson Paoli 1988-</description>
@@ -111,10 +93,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47224</guid>
     </item>
     <item>
-      <title>Bergman-kjarninn</title>
-      <link>https://skemman.is/handle/1946/47228</link>
-      <description>Bergman-kjarninn - Eiríkur Óskarsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47228</guid>
+      <title>Verðmætasköpun úr lúpínufræjum: Einangrun undir þrýstingi</title>
+      <link>https://skemman.is/handle/1946/47232</link>
+      <description>Verðmætasköpun úr lúpínufræjum: Einangrun undir þrýstingi - Agnar Jónsson 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47232</guid>
+    </item>
+    <item>
+      <title>Hegðunarvandi í klínísku úrtaki barna og unglinga á Íslandi með ADHD og/eða einhverfu</title>
+      <link>https://skemman.is/handle/1946/47221</link>
+      <description>Hegðunarvandi í klínísku úrtaki barna og unglinga á Íslandi með ADHD og/eða einhverfu - Hólmfríður Dúna Þorsteinsdóttir 2000-; Thelma Lind Antonsdóttir Arelakis 2001-; Bjarney Sara Bjarnadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47221</guid>
+    </item>
+    <item>
+      <title>The Autism Spectrum Screening Questionnaire (ASSQ) in a Nationwide Clinical Sample in Iceland: Examining the Utility of the Three-Factor Model</title>
+      <link>https://skemman.is/handle/1946/47223</link>
+      <description>The Autism Spectrum Screening Questionnaire (ASSQ) in a Nationwide Clinical Sample in Iceland: Examining the Utility of the Three-Factor Model - Sandra Sif Gunnarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47223</guid>
     </item>
     <item>
       <title>Temperature Persistence in The Arctic Region</title>
@@ -123,10 +117,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47230</guid>
     </item>
     <item>
-      <title>Verðmætasköpun úr lúpínufræjum: Einangrun undir þrýstingi</title>
-      <link>https://skemman.is/handle/1946/47232</link>
-      <description>Verðmætasköpun úr lúpínufræjum: Einangrun undir þrýstingi - Agnar Jónsson 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47232</guid>
+      <title>Bergman-kjarninn</title>
+      <link>https://skemman.is/handle/1946/47228</link>
+      <description>Bergman-kjarninn - Eiríkur Óskarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47228</guid>
+    </item>
+    <item>
+      <title>Brunnárdalur Ag-Au (Cu-Te-Bi) epithermal deposit, northern Iceland</title>
+      <link>https://skemman.is/handle/1946/47213</link>
+      <description>Brunnárdalur Ag-Au (Cu-Te-Bi) epithermal deposit, northern Iceland - Halldór Guðmundsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47213</guid>
+    </item>
+    <item>
+      <title>Móttaka og leiðsögn í leikskóla : móttökuáætlun Krakkakots</title>
+      <link>https://skemman.is/handle/1946/47233</link>
+      <description>Móttaka og leiðsögn í leikskóla : móttökuáætlun Krakkakots - Rebekka Steinunn Ragnarsdóttir 2001-; Sólveig Rós Kristjánsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47233</guid>
+    </item>
+    <item>
+      <title>Verkstol, hvað er til ráða? Kerfisbundin yfirferð með eigindlegu ívafi</title>
+      <link>https://skemman.is/handle/1946/47234</link>
+      <description>Verkstol, hvað er til ráða? Kerfisbundin yfirferð með eigindlegu ívafi - Helga Dóra Hólm Jóhannsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47234</guid>
+    </item>
+    <item>
+      <title>Landmótun og jökulhörfun á Möðrudalsöræfum og Jökuldalsheiði</title>
+      <link>https://skemman.is/handle/1946/47235</link>
+      <description>Landmótun og jökulhörfun á Möðrudalsöræfum og Jökuldalsheiði - Eiður Daði Bjarkason 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47235</guid>
     </item>
     <item>
       <title>Fæða urriða (Salmo trutta) í Veiðivötnum</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47203</link>
       <description>Samanburður á framkvæmd tölvusneiðrannsókna eftir fjöláverka hjá tveimur sjúkrastofnunum: Landspítalinn og Sjúkrahúsið á Akureyri - Axel Bragi Bjarnason 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47203</guid>
-    </item>
-    <item>
-      <title>Sigla í átt að sjálfbærni. Rannsókn á Seyðisfjarðahöfn og Faxaflóahöfn</title>
-      <link>https://skemman.is/handle/1946/47197</link>
-      <description>Sigla í átt að sjálfbærni. Rannsókn á Seyðisfjarðahöfn og Faxaflóahöfn - Sarloté Sirvyté 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47197</guid>
-    </item>
-    <item>
-      <title>Hindranir á notkun sérhæfðra heimaæfinga í tölvu eftir hálssláttaráverka: Blönduð rannsókn</title>
-      <link>https://skemman.is/handle/1946/47200</link>
-      <description>Hindranir á notkun sérhæfðra heimaæfinga í tölvu eftir hálssláttaráverka: Blönduð rannsókn - Eyrún Gautadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47200</guid>
-    </item>
-    <item>
-      <title>Epidemiology and Rehabilitation of Repetitive Traumatic Brain Injury in Children 0-17 years in Iceland from 2010-2021</title>
-      <link>https://skemman.is/handle/1946/47199</link>
-      <description>Epidemiology and Rehabilitation of Repetitive Traumatic Brain Injury in Children 0-17 years in Iceland from 2010-2021 - Sara Ívarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47199</guid>
     </item>
   </channel>
 </rss>
