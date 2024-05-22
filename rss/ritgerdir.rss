@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 May 2024 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 12:00:26 +0000</lastBuildDate>
     <item>
       <title>Strandlínubreytingar við Sauðárkrók: Frá 1920 til 2021</title>
       <link>https://skemman.is/handle/1946/47216</link>
@@ -33,16 +33,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47214</guid>
     </item>
     <item>
+      <title>Tannhvíttun: Viðhorf og reynsla almennings til meðferða  innan og utan tannlæknastofunnar.</title>
+      <link>https://skemman.is/handle/1946/47220</link>
+      <description>Tannhvíttun: Viðhorf og reynsla almennings til meðferða  innan og utan tannlæknastofunnar. - Tinna Rúnarsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47220</guid>
+    </item>
+    <item>
       <title>Upplifun og líðan kvenna í brjóstaskimun og sjálfskoðun brjósta. Er hægt að gera betur?</title>
       <link>https://skemman.is/handle/1946/47215</link>
       <description>Upplifun og líðan kvenna í brjóstaskimun og sjálfskoðun brjósta. Er hægt að gera betur? - Anna Margrét Sigurjónsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47215</guid>
-    </item>
-    <item>
-      <title>Tölvusneiðmyndir af þvagfærum hjá 18 til 50 ára. Geislaskammtar og hlutfall jákvæðra niðurstaðna</title>
-      <link>https://skemman.is/handle/1946/47218</link>
-      <description>Tölvusneiðmyndir af þvagfærum hjá 18 til 50 ára. Geislaskammtar og hlutfall jákvæðra niðurstaðna - Sara Jenný Sigurðardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47218</guid>
     </item>
     <item>
       <title>Hönnun og endurbygging litnisþráðalandslags fyrir in vitro einsameinda flúrljómandi aðferðir</title>
@@ -51,10 +51,70 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47219</guid>
     </item>
     <item>
-      <title>Tannhvíttun: Viðhorf og reynsla almennings til meðferða  innan og utan tannlæknastofunnar.</title>
-      <link>https://skemman.is/handle/1946/47220</link>
-      <description>Tannhvíttun: Viðhorf og reynsla almennings til meðferða  innan og utan tannlæknastofunnar. - Tinna Rúnarsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47220</guid>
+      <title>Tölvusneiðmyndir af þvagfærum hjá 18 til 50 ára. Geislaskammtar og hlutfall jákvæðra niðurstaðna</title>
+      <link>https://skemman.is/handle/1946/47218</link>
+      <description>Tölvusneiðmyndir af þvagfærum hjá 18 til 50 ára. Geislaskammtar og hlutfall jákvæðra niðurstaðna - Sara Jenný Sigurðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47218</guid>
+    </item>
+    <item>
+      <title>Hegðunarvandi í klínísku úrtaki barna og unglinga á Íslandi með ADHD og/eða einhverfu</title>
+      <link>https://skemman.is/handle/1946/47221</link>
+      <description>Hegðunarvandi í klínísku úrtaki barna og unglinga á Íslandi með ADHD og/eða einhverfu - Hólmfríður Dúna Þorsteinsdóttir 2000-; Thelma Lind Antonsdóttir Arelakis 2001-; Bjarney Sara Bjarnadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47221</guid>
+    </item>
+    <item>
+      <title>Í átt að vera leiðandi í sjálfbærni: Áskoranir og aðferðir til innleiðslu í íslenskri gistiþjónustu</title>
+      <link>https://skemman.is/handle/1946/47222</link>
+      <description>Í átt að vera leiðandi í sjálfbærni: Áskoranir og aðferðir til innleiðslu í íslenskri gistiþjónustu - Michael Þór Jóhönnuson Paoli 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47222</guid>
+    </item>
+    <item>
+      <title>Maërl Beds in the Arctic: Distribution Analysis in Icelandic Waters</title>
+      <link>https://skemman.is/handle/1946/47224</link>
+      <description>Maërl Beds in the Arctic: Distribution Analysis in Icelandic Waters - Urður Ýrr Brynjólfsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47224</guid>
+    </item>
+    <item>
+      <title>The Autism Spectrum Screening Questionnaire (ASSQ) in a Nationwide Clinical Sample in Iceland: Examining the Utility of the Three-Factor Model</title>
+      <link>https://skemman.is/handle/1946/47223</link>
+      <description>The Autism Spectrum Screening Questionnaire (ASSQ) in a Nationwide Clinical Sample in Iceland: Examining the Utility of the Three-Factor Model - Sandra Sif Gunnarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47223</guid>
+    </item>
+    <item>
+      <title>Chiral gels based on amino acid amides for application in gel phase synthesis and anion sensing</title>
+      <link>https://skemman.is/handle/1946/47225</link>
+      <description>Chiral gels based on amino acid amides for application in gel phase synthesis and anion sensing - Ira Volkova 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47225</guid>
+    </item>
+    <item>
+      <title>Integration of Genetics and the Serum Proteome in Risk Prediction of Atrial Fibrillation and Heart Failure</title>
+      <link>https://skemman.is/handle/1946/47226</link>
+      <description>Integration of Genetics and the Serum Proteome in Risk Prediction of Atrial Fibrillation and Heart Failure - Anna Eva Steindórsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47226</guid>
+    </item>
+    <item>
+      <title>Betrumbætur á svarhegðunarspálíkönum Hagstofunnar</title>
+      <link>https://skemman.is/handle/1946/47227</link>
+      <description>Betrumbætur á svarhegðunarspálíkönum Hagstofunnar - Dagur Sigurður Úlfarsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47227</guid>
+    </item>
+    <item>
+      <title>Bergman-kjarninn</title>
+      <link>https://skemman.is/handle/1946/47228</link>
+      <description>Bergman-kjarninn - Eiríkur Óskarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47228</guid>
+    </item>
+    <item>
+      <title>Tillaga að rannsóknarmiðstöð sjálfsvígsrannsókna á Íslandi: Forgangsröðun sjálfsvígsrannsókna að erlendri fyrirmynd</title>
+      <link>https://skemman.is/handle/1946/47229</link>
+      <description>Tillaga að rannsóknarmiðstöð sjálfsvígsrannsókna á Íslandi: Forgangsröðun sjálfsvígsrannsókna að erlendri fyrirmynd - Eva Carolina Ómarsdóttir McNair 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47229</guid>
+    </item>
+    <item>
+      <title>Temperature Persistence in The Arctic Region</title>
+      <link>https://skemman.is/handle/1946/47230</link>
+      <description>Temperature Persistence in The Arctic Region - Negar Ekrami 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47230</guid>
     </item>
     <item>
       <title>Fæða urriða (Salmo trutta) í Veiðivötnum</title>
@@ -97,66 +157,6 @@
       <link>https://skemman.is/handle/1946/47196</link>
       <description>Modelling of ground deformation at Eyjafjalljökull volcano 2011-2015 - Fjóla María Sigurðardóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47196</guid>
-    </item>
-    <item>
-      <title>Tengsl áfallastreituröskunar og félagskvíðaröskunar</title>
-      <link>https://skemman.is/handle/1946/47198</link>
-      <description>Tengsl áfallastreituröskunar og félagskvíðaröskunar - Elín Inga Bragadóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47198</guid>
-    </item>
-    <item>
-      <title>Living with landslides: Linking crisis communication and peoples' perceived safety in landslide-prone areas - Case of Seyðisfjörður</title>
-      <link>https://skemman.is/handle/1946/47133</link>
-      <description>Living with landslides: Linking crisis communication and peoples' perceived safety in landslide-prone areas - Case of Seyðisfjörður - Unnur Blær A. Bartsch 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47133</guid>
-    </item>
-    <item>
-      <title>Tímabundið eftirlit með nýburum hjá foreldrum utan Vökudeildar. Afturskyggn ferilrannsókn</title>
-      <link>https://skemman.is/handle/1946/47134</link>
-      <description>Tímabundið eftirlit með nýburum hjá foreldrum utan Vökudeildar. Afturskyggn ferilrannsókn - Agnes Stefánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47134</guid>
-    </item>
-    <item>
-      <title>In vivo myndgreining á Smo próteini í brjóskfrumum</title>
-      <link>https://skemman.is/handle/1946/47135</link>
-      <description>In vivo myndgreining á Smo próteini í brjóskfrumum - Eliza Liv Taylor 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47135</guid>
-    </item>
-    <item>
-      <title>Algae Remains from Hreðavatn as Reason for Turbid Water in the Grábrókarhraun Drinking-Water Utility (Borgarbyggð, Iceland)</title>
-      <link>https://skemman.is/handle/1946/47149</link>
-      <description>Algae Remains from Hreðavatn as Reason for Turbid Water in the Grábrókarhraun Drinking-Water Utility (Borgarbyggð, Iceland) - Telma Jeanne Bonthonneau 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47149</guid>
-    </item>
-    <item>
-      <title>Blóðgjafar á Íslandi 2013-2023</title>
-      <link>https://skemman.is/handle/1946/47147</link>
-      <description>Blóðgjafar á Íslandi 2013-2023 - Jenný Jónsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47147</guid>
-    </item>
-    <item>
-      <title>Með vindinn í fangið: Notagildi LUK fjölþáttagreiningar við stefnumótun og ákvarðanatöku um nýtingu á vindorku</title>
-      <link>https://skemman.is/handle/1946/47152</link>
-      <description>Með vindinn í fangið: Notagildi LUK fjölþáttagreiningar við stefnumótun og ákvarðanatöku um nýtingu á vindorku - Hlynur Aðalsteinsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47152</guid>
-    </item>
-    <item>
-      <title>PanLoki – Workflow and web interface to the pangenomic software Genset</title>
-      <link>https://skemman.is/handle/1946/47151</link>
-      <description>PanLoki – Workflow and web interface to the pangenomic software Genset - Sebastian Claudio Richard Treschau 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47151</guid>
-    </item>
-    <item>
-      <title>Parameter Estimation for ROP Optimization Using a Non-Linear Particle Filter with Low-Latency Downhole Measurements</title>
-      <link>https://skemman.is/handle/1946/47150</link>
-      <description>Parameter Estimation for ROP Optimization Using a Non-Linear Particle Filter with Low-Latency Downhole Measurements - Kjartan Þór Birgisson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47150</guid>
-    </item>
-    <item>
-      <title>Heilablæðingar nýbura 1994-2023</title>
-      <link>https://skemman.is/handle/1946/47146</link>
-      <description>Heilablæðingar nýbura 1994-2023 - Tómas Helgi Harðarson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47146</guid>
     </item>
   </channel>
 </rss>
