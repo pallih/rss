@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 May 2024 11:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:00:22 +0000</lastBuildDate>
     <item>
       <title>Almennt mat á foreldrafærni og rútínum með GAPS færnilistanum: atferlisíhlutun með einni fjölskyldu</title>
       <link>https://skemman.is/handle/1946/47310</link>
@@ -99,6 +99,30 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47319</guid>
     </item>
     <item>
+      <title>Umfjöllun fjölmiðla um sjálfsvíg: Fylgni íslenskra fjölmiðla við tilmæli um ábyrga umfjöllun.</title>
+      <link>https://skemman.is/handle/1946/47320</link>
+      <description>Umfjöllun fjölmiðla um sjálfsvíg: Fylgni íslenskra fjölmiðla við tilmæli um ábyrga umfjöllun. - Thelma Ragnarsdóttir 2000-; Karólína Kristbjörg Björnsdóttir 2001-; Elfa Falsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47320</guid>
+    </item>
+    <item>
+      <title>„Eftir þetta finnst mér ég bara geta allt“ : upplifun þriggja ungra kvenna á styttingu námstíma til stúdentsprófs</title>
+      <link>https://skemman.is/handle/1946/47321</link>
+      <description>„Eftir þetta finnst mér ég bara geta allt“ : upplifun þriggja ungra kvenna á styttingu námstíma til stúdentsprófs - Gígja Kjartansdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47321</guid>
+    </item>
+    <item>
+      <title>Að nálgast hugmyndaheim barna : könnunaraðferð með tveggja og þriggja ára börnum</title>
+      <link>https://skemman.is/handle/1946/47322</link>
+      <description>Að nálgast hugmyndaheim barna : könnunaraðferð með tveggja og þriggja ára börnum - Kim van Zanten 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47322</guid>
+    </item>
+    <item>
+      <title>Mikilvægi tengslamyndunar í leikskóla : framtíð ungbarna er í húfi</title>
+      <link>https://skemman.is/handle/1946/47323</link>
+      <description>Mikilvægi tengslamyndunar í leikskóla : framtíð ungbarna er í húfi - Halldóra Sólveig Einarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47323</guid>
+    </item>
+    <item>
       <title>Tengsl sjálfssamkenndar ungs fólks við aldursfordóma gagnvart eldra fólki: Miðlandi áhrif skynjaðrar samfélagsstöðu</title>
       <link>https://skemman.is/handle/1946/47252</link>
       <description>Tengsl sjálfssamkenndar ungs fólks við aldursfordóma gagnvart eldra fólki: Miðlandi áhrif skynjaðrar samfélagsstöðu - Hrafnhildur Vala Valsdóttir 2003-; Áróra Friðriksdóttir 2002-</description>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/47253</link>
       <description>Hvernig fór fálkinn yfir hafið? Að greina hvernig fálkar (Falco eleonorae) nota árstíðabundna vinda og einangraða stökksteina til að forðast að drukkna í Indlandshafi - Meixu Chen 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47253</guid>
-    </item>
-    <item>
-      <title>Uses, Functions, and Values of Home Gardens: a case study on the Greek island of Lesvos</title>
-      <link>https://skemman.is/handle/1946/47260</link>
-      <description>Uses, Functions, and Values of Home Gardens: a case study on the Greek island of Lesvos - Sarita Mahtani-Williams 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47260</guid>
-    </item>
-    <item>
-      <title>Tvöföld rúllugreip</title>
-      <link>https://skemman.is/handle/1946/47258</link>
-      <description>Tvöföld rúllugreip - Engilbert Þórir Atlason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47258</guid>
-    </item>
-    <item>
-      <title>Oral Health Status of Refugee Children in Iceland</title>
-      <link>https://skemman.is/handle/1946/47248</link>
-      <description>Oral Health Status of Refugee Children in Iceland - Telma Karen Finnsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47248</guid>
-    </item>
-    <item>
-      <title>Hvað vil ég starfa við þegar ég verð stór? Valið á milli bóknáms og starfsnáms.</title>
-      <link>https://skemman.is/handle/1946/47247</link>
-      <description>Hvað vil ég starfa við þegar ég verð stór? Valið á milli bóknáms og starfsnáms. - Svanhildur Anna Bragadóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47247</guid>
     </item>
   </channel>
 </rss>
