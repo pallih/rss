@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 May 2024 12:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 13:01:21 +0000</lastBuildDate>
     <item>
       <title>Almennt mat á foreldrafærni og rútínum með GAPS færnilistanum: atferlisíhlutun með einni fjölskyldu</title>
       <link>https://skemman.is/handle/1946/47310</link>
@@ -81,10 +81,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47307</guid>
     </item>
     <item>
+      <title>Orkuþörf og næringarástand gjörgæslusjúklinga, einstaklingsmiðuð nálgun</title>
+      <link>https://skemman.is/handle/1946/47319</link>
+      <description>Orkuþörf og næringarástand gjörgæslusjúklinga, einstaklingsmiðuð nálgun - Bjarki Þór Jónasson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47319</guid>
+    </item>
+    <item>
       <title>Tilfinningavandi og tilfinningastjórnun: Frumathugun á árangri af hnitmiðaðri hópmeðferð fyrir ungmenni með áráttu- og þráhyggjuröskun</title>
       <link>https://skemman.is/handle/1946/47318</link>
       <description>Tilfinningavandi og tilfinningastjórnun: Frumathugun á árangri af hnitmiðaðri hópmeðferð fyrir ungmenni með áráttu- og þráhyggjuröskun - Marín Sif Jónsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47318</guid>
+    </item>
+    <item>
+      <title>Mótun gæðaviðmiða við val á landi til skógræktar. Upprunalegt gróðurlendi og landgerðir á þinglýstum skógræktarsvæðum</title>
+      <link>https://skemman.is/handle/1946/47324</link>
+      <description>Mótun gæðaviðmiða við val á landi til skógræktar. Upprunalegt gróðurlendi og landgerðir á þinglýstum skógræktarsvæðum - Belma Mesetovic 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47324</guid>
     </item>
     <item>
       <title>ADHD meðal fullorðinna: Samanburður á algengi ADHD út frá einkennalista um núverandi einkenni árin 2005 og 2023, ásamt athugun á tíðni greininga og lyfjanotkunar</title>
@@ -93,22 +105,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47312</guid>
     </item>
     <item>
-      <title>Orkuþörf og næringarástand gjörgæslusjúklinga, einstaklingsmiðuð nálgun</title>
-      <link>https://skemman.is/handle/1946/47319</link>
-      <description>Orkuþörf og næringarástand gjörgæslusjúklinga, einstaklingsmiðuð nálgun - Bjarki Þór Jónasson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47319</guid>
+      <title>„Eftir þetta finnst mér ég bara geta allt“ : upplifun þriggja ungra kvenna á styttingu námstíma til stúdentsprófs</title>
+      <link>https://skemman.is/handle/1946/47321</link>
+      <description>„Eftir þetta finnst mér ég bara geta allt“ : upplifun þriggja ungra kvenna á styttingu námstíma til stúdentsprófs - Gígja Kjartansdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47321</guid>
     </item>
     <item>
       <title>Umfjöllun fjölmiðla um sjálfsvíg: Fylgni íslenskra fjölmiðla við tilmæli um ábyrga umfjöllun.</title>
       <link>https://skemman.is/handle/1946/47320</link>
       <description>Umfjöllun fjölmiðla um sjálfsvíg: Fylgni íslenskra fjölmiðla við tilmæli um ábyrga umfjöllun. - Thelma Ragnarsdóttir 2000-; Karólína Kristbjörg Björnsdóttir 2001-; Elfa Falsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47320</guid>
-    </item>
-    <item>
-      <title>„Eftir þetta finnst mér ég bara geta allt“ : upplifun þriggja ungra kvenna á styttingu námstíma til stúdentsprófs</title>
-      <link>https://skemman.is/handle/1946/47321</link>
-      <description>„Eftir þetta finnst mér ég bara geta allt“ : upplifun þriggja ungra kvenna á styttingu námstíma til stúdentsprófs - Gígja Kjartansdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47321</guid>
     </item>
     <item>
       <title>Að nálgast hugmyndaheim barna : könnunaraðferð með tveggja og þriggja ára börnum</title>
@@ -123,40 +129,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47323</guid>
     </item>
     <item>
-      <title>Tengsl sjálfssamkenndar ungs fólks við aldursfordóma gagnvart eldra fólki: Miðlandi áhrif skynjaðrar samfélagsstöðu</title>
-      <link>https://skemman.is/handle/1946/47252</link>
-      <description>Tengsl sjálfssamkenndar ungs fólks við aldursfordóma gagnvart eldra fólki: Miðlandi áhrif skynjaðrar samfélagsstöðu - Hrafnhildur Vala Valsdóttir 2003-; Áróra Friðriksdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47252</guid>
+      <title>Is EEG frontal alpha asymmetry associated with habitual characteristics of negative thinking and rumination?</title>
+      <link>https://skemman.is/handle/1946/47325</link>
+      <description>Is EEG frontal alpha asymmetry associated with habitual characteristics of negative thinking and rumination? - Sigrún Amina Wone 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47325</guid>
     </item>
     <item>
-      <title>Analysis, 2D and 1D Joint Inversion of Magnetotelluric and Transient Electromagnetic Data from Buranga Geothermal Prospect, Uganda</title>
-      <link>https://skemman.is/handle/1946/47259</link>
-      <description>Analysis, 2D and 1D Joint Inversion of Magnetotelluric and Transient Electromagnetic Data from Buranga Geothermal Prospect, Uganda - Fred Ssemuyaba 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47259</guid>
+      <title>Samanburður á áhrifum þreytu á undirstöðukrafta og liðferla í ökkla hjá hlaupurum í skóm og berfættum</title>
+      <link>https://skemman.is/handle/1946/47326</link>
+      <description>Samanburður á áhrifum þreytu á undirstöðukrafta og liðferla í ökkla hjá hlaupurum í skóm og berfættum - Svana Ösp Kristmundsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47326</guid>
     </item>
     <item>
-      <title>Árangur sískol meðferðar vegna sýkingar í kringum brjóstaígræði hjá sjúklingum sem gengist hafa undir brjóstnám og uppbyggingu með ígræði</title>
-      <link>https://skemman.is/handle/1946/47256</link>
-      <description>Árangur sískol meðferðar vegna sýkingar í kringum brjóstaígræði hjá sjúklingum sem gengist hafa undir brjóstnám og uppbyggingu með ígræði - Harpa Kristín Þorkelsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47256</guid>
+      <title>Supporting the foundation of EEG research through replication: The relationship between contralateral delay activity and visual working memory</title>
+      <link>https://skemman.is/handle/1946/47327</link>
+      <description>Supporting the foundation of EEG research through replication: The relationship between contralateral delay activity and visual working memory - Rakel Gyða Gunnarsdóttir 2000-; Viktoría Sif Haraldsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47327</guid>
     </item>
     <item>
-      <title>Predicting vertical accelerations of a high-speed marine vessel with neural networks</title>
-      <link>https://skemman.is/handle/1946/47255</link>
-      <description>Predicting vertical accelerations of a high-speed marine vessel with neural networks - Leon Ingi Stefánsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47255</guid>
+      <title>Áhrif viðbótargreininga á meðferð barna með mótþróaþrjóskuröskun</title>
+      <link>https://skemman.is/handle/1946/47281</link>
+      <description>Áhrif viðbótargreininga á meðferð barna með mótþróaþrjóskuröskun - Arnór Þorri Sigurðsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47281</guid>
     </item>
     <item>
-      <title>Environmental Assessment (EA) Follow-up in Energy Infrastructures: A Comparative Study  of Practice in the Netherlands, Iceland, and Denmark</title>
-      <link>https://skemman.is/handle/1946/47254</link>
-      <description>Environmental Assessment (EA) Follow-up in Energy Infrastructures: A Comparative Study  of Practice in the Netherlands, Iceland, and Denmark - Yulita Muspitasari 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47254</guid>
-    </item>
-    <item>
-      <title>Hvernig fór fálkinn yfir hafið? Að greina hvernig fálkar (Falco eleonorae) nota árstíðabundna vinda og einangraða stökksteina til að forðast að drukkna í Indlandshafi</title>
-      <link>https://skemman.is/handle/1946/47253</link>
-      <description>Hvernig fór fálkinn yfir hafið? Að greina hvernig fálkar (Falco eleonorae) nota árstíðabundna vinda og einangraða stökksteina til að forðast að drukkna í Indlandshafi - Meixu Chen 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47253</guid>
+      <title>Hvers vegna tekur fólk þátt í ungliðastarfi stjórnmálaflokka?: Þverpólitísk athugun</title>
+      <link>https://skemman.is/handle/1946/47278</link>
+      <description>Hvers vegna tekur fólk þátt í ungliðastarfi stjórnmálaflokka?: Þverpólitísk athugun - Jósúa Gabríel Davíðsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47278</guid>
     </item>
   </channel>
 </rss>
