@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 May 2024 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:00:17 +0000</lastBuildDate>
     <item>
       <title>Almennt mat á foreldrafærni og rútínum með GAPS færnilistanum: atferlisíhlutun með einni fjölskyldu</title>
       <link>https://skemman.is/handle/1946/47310</link>
@@ -117,28 +117,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47320</guid>
     </item>
     <item>
-      <title>Að nálgast hugmyndaheim barna : könnunaraðferð með tveggja og þriggja ára börnum</title>
-      <link>https://skemman.is/handle/1946/47322</link>
-      <description>Að nálgast hugmyndaheim barna : könnunaraðferð með tveggja og þriggja ára börnum - Kim van Zanten 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47322</guid>
-    </item>
-    <item>
-      <title>Mikilvægi tengslamyndunar í leikskóla : framtíð ungbarna er í húfi</title>
-      <link>https://skemman.is/handle/1946/47323</link>
-      <description>Mikilvægi tengslamyndunar í leikskóla : framtíð ungbarna er í húfi - Halldóra Sólveig Einarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47323</guid>
-    </item>
-    <item>
       <title>Samanburður á áhrifum þreytu á undirstöðukrafta og liðferla í ökkla hjá hlaupurum í skóm og berfættum</title>
       <link>https://skemman.is/handle/1946/47326</link>
       <description>Samanburður á áhrifum þreytu á undirstöðukrafta og liðferla í ökkla hjá hlaupurum í skóm og berfættum - Svana Ösp Kristmundsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47326</guid>
     </item>
     <item>
-      <title>Supporting the foundation of EEG research through replication: The relationship between contralateral delay activity and visual working memory</title>
-      <link>https://skemman.is/handle/1946/47327</link>
-      <description>Supporting the foundation of EEG research through replication: The relationship between contralateral delay activity and visual working memory - Rakel Gyða Gunnarsdóttir 2000-; Viktoría Sif Haraldsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47327</guid>
+      <title>Réttmætisathugun á WJ IV ECAD með samanburði við WISC-IVIS og Talnalykil</title>
+      <link>https://skemman.is/handle/1946/47330</link>
+      <description>Réttmætisathugun á WJ IV ECAD með samanburði við WISC-IVIS og Talnalykil - Saga Ólafsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47330</guid>
     </item>
     <item>
       <title>Tengsl samsærisþankagangs við kvíða, þunglyndi og einmanaleika: Þýðisrannsókn meðal Íslendinga</title>
@@ -147,16 +135,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47328</guid>
     </item>
     <item>
-      <title>Atriðagreining á prófatriðum Leið til Læsis og HLJÓM-2 skimunarprófum í úrtaki nemenda í 1. bekk</title>
-      <link>https://skemman.is/handle/1946/47329</link>
-      <description>Atriðagreining á prófatriðum Leið til Læsis og HLJÓM-2 skimunarprófum í úrtaki nemenda í 1. bekk - Vala Dagsdóttir 2000-; Jón Eyjólfur Guðmundsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47329</guid>
+      <title>An evolutionary perspective on life threat and social threat in the development of post-traumatic stress disorder and social anxiety disorder.</title>
+      <link>https://skemman.is/handle/1946/47331</link>
+      <description>An evolutionary perspective on life threat and social threat in the development of post-traumatic stress disorder and social anxiety disorder. - Katrín Justyna Alexdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47331</guid>
+    </item>
+    <item>
+      <title>Supporting the foundation of EEG research through replication: The relationship between contralateral delay activity and visual working memory</title>
+      <link>https://skemman.is/handle/1946/47327</link>
+      <description>Supporting the foundation of EEG research through replication: The relationship between contralateral delay activity and visual working memory - Rakel Gyða Gunnarsdóttir 2000-; Viktoría Sif Haraldsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47327</guid>
     </item>
     <item>
       <title>Is EEG frontal alpha asymmetry associated with habitual characteristics of negative thinking and rumination?</title>
       <link>https://skemman.is/handle/1946/47325</link>
       <description>Is EEG frontal alpha asymmetry associated with habitual characteristics of negative thinking and rumination? - Sigrún Amina Wone 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47325</guid>
+    </item>
+    <item>
+      <title>Atriðagreining á prófatriðum Leið til Læsis og HLJÓM-2 skimunarprófum í úrtaki nemenda í 1. bekk</title>
+      <link>https://skemman.is/handle/1946/47329</link>
+      <description>Atriðagreining á prófatriðum Leið til Læsis og HLJÓM-2 skimunarprófum í úrtaki nemenda í 1. bekk - Vala Dagsdóttir 2000-; Jón Eyjólfur Guðmundsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47329</guid>
     </item>
   </channel>
 </rss>
