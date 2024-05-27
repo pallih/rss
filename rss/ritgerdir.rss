@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 May 2024 10:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 11:00:37 +0000</lastBuildDate>
     <item>
       <title>Fæðuvenjur og áhætta á góðkynja einstofna mótefnahækkun - Lýðgrunnuð skimunarrannsókn á Íslandi</title>
       <link>https://skemman.is/handle/1946/47344</link>
@@ -69,28 +69,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47341</guid>
     </item>
     <item>
-      <title>Samþætting Skimunarprófanna HLJÓM-2 og Leið til Læsis: Samanburður á Þáttabyggingu Tveggja Skimunarprófa með Staðfestandi Þáttagreiningu</title>
-      <link>https://skemman.is/handle/1946/47351</link>
-      <description>Samþætting Skimunarprófanna HLJÓM-2 og Leið til Læsis: Samanburður á Þáttabyggingu Tveggja Skimunarprófa með Staðfestandi Þáttagreiningu - Gunnar Daníel Árnason 2001-; Hekla Kaðlín Smith 1999-; Kári Stefánsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47351</guid>
-    </item>
-    <item>
-      <title>„Maður er að læra allt lífið“ : gildi og lífssýn íslenskra foreldra sem áttu börn á árunum 1997 til 2012</title>
-      <link>https://skemman.is/handle/1946/47352</link>
-      <description>„Maður er að læra allt lífið“ : gildi og lífssýn íslenskra foreldra sem áttu börn á árunum 1997 til 2012 - Elísa Björk Björnsdóttir 2001-; Íris Beata Dudziak 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47352</guid>
-    </item>
-    <item>
-      <title>Áreiðanleiki og réttmæti íslenskrar þýðingar FOG-Q spurningalistans</title>
-      <link>https://skemman.is/handle/1946/47353</link>
-      <description>Áreiðanleiki og réttmæti íslenskrar þýðingar FOG-Q spurningalistans - Þórkatla María Halldórsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47353</guid>
-    </item>
-    <item>
       <title>Upplifun mæðra af síritun fósturhjartsláttar í fæðingu: Eigindleg kerfisbundin fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/47354</link>
       <description>Upplifun mæðra af síritun fósturhjartsláttar í fæðingu: Eigindleg kerfisbundin fræðileg samantekt - Jóhanna Sigurjónsdóttir 1967-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47354</guid>
+    </item>
+    <item>
+      <title>Digital content in Cultural Institutions in Barcelona</title>
+      <link>https://skemman.is/handle/1946/47356</link>
+      <description>Digital content in Cultural Institutions in Barcelona - Silja Pálmarsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47356</guid>
     </item>
     <item>
       <title>Áhrif tilkomu Landsréttar á sönnunarkröfur í kynferðisbrotamálum : frjálst sönnunarmat dómstóla og breytingar á 194. gr. almennu  hegningarlaganna nr. 19/1940</title>
@@ -99,10 +87,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47355</guid>
     </item>
     <item>
-      <title>Digital content in Cultural Institutions in Barcelona</title>
-      <link>https://skemman.is/handle/1946/47356</link>
-      <description>Digital content in Cultural Institutions in Barcelona - Silja Pálmarsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47356</guid>
+      <title>Samþætting Skimunarprófanna HLJÓM-2 og Leið til Læsis: Samanburður á Þáttabyggingu Tveggja Skimunarprófa með Staðfestandi Þáttagreiningu</title>
+      <link>https://skemman.is/handle/1946/47351</link>
+      <description>Samþætting Skimunarprófanna HLJÓM-2 og Leið til Læsis: Samanburður á Þáttabyggingu Tveggja Skimunarprófa með Staðfestandi Þáttagreiningu - Gunnar Daníel Árnason 2001-; Hekla Kaðlín Smith 1999-; Kári Stefánsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47351</guid>
+    </item>
+    <item>
+      <title>Áreiðanleiki og réttmæti íslenskrar þýðingar FOG-Q spurningalistans</title>
+      <link>https://skemman.is/handle/1946/47353</link>
+      <description>Áreiðanleiki og réttmæti íslenskrar þýðingar FOG-Q spurningalistans - Þórkatla María Halldórsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47353</guid>
+    </item>
+    <item>
+      <title>„Maður er að læra allt lífið“ : gildi og lífssýn íslenskra foreldra sem áttu börn á árunum 1997 til 2012</title>
+      <link>https://skemman.is/handle/1946/47352</link>
+      <description>„Maður er að læra allt lífið“ : gildi og lífssýn íslenskra foreldra sem áttu börn á árunum 1997 til 2012 - Elísa Björk Björnsdóttir 2001-; Íris Beata Dudziak 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47352</guid>
+    </item>
+    <item>
+      <title>Tenging milli forsteypts stöpulveggjar og staðsteypts sökkuls með stórum steypustyrktarjárnum</title>
+      <link>https://skemman.is/handle/1946/47357</link>
+      <description>Tenging milli forsteypts stöpulveggjar og staðsteypts sökkuls með stórum steypustyrktarjárnum - Ingi Sigurður Ólafsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47357</guid>
+    </item>
+    <item>
+      <title>Úrræði fyrir brotaþola sem glíma við geðrænar áskoranir : samkvæmt lögum um fullnustu refsinga nr. 15/2016 og almennum  hegningarlögum nr. 19/1940</title>
+      <link>https://skemman.is/handle/1946/47358</link>
+      <description>Úrræði fyrir brotaþola sem glíma við geðrænar áskoranir : samkvæmt lögum um fullnustu refsinga nr. 15/2016 og almennum  hegningarlögum nr. 19/1940 - Aníta Ýr Strange 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47358</guid>
+    </item>
+    <item>
+      <title>Bætur til eftirlifenda vegna saknæmrar háttsemi tjónvalds sem leiðir til andláts : hverjir geta átt bótarétt og er bótafjárhæðin aðeins huglægt mat dómara?</title>
+      <link>https://skemman.is/handle/1946/47359</link>
+      <description>Bætur til eftirlifenda vegna saknæmrar háttsemi tjónvalds sem leiðir til andláts : hverjir geta átt bótarétt og er bótafjárhæðin aðeins huglægt mat dómara? - Lísa Rán Ragnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47359</guid>
     </item>
     <item>
       <title>Almennt mat á foreldrafærni og rútínum með GAPS færnilistanum: atferlisíhlutun með einni fjölskyldu</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47317</link>
       <description>Psychometric properties of the Icelandic version of HEXACO-60: Cognitive interviews and confirmatory factor analysis - Aðalheiður Magnúsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47317</guid>
-    </item>
-    <item>
-      <title>Samvinna Íslands og Kyrrahafsríkja Rómönsku Ameríku í landhelgismálum</title>
-      <link>https://skemman.is/handle/1946/47311</link>
-      <description>Samvinna Íslands og Kyrrahafsríkja Rómönsku Ameríku í landhelgismálum - Andri Snær Karlsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47311</guid>
-    </item>
-    <item>
-      <title>The cost of suicide in Iceland</title>
-      <link>https://skemman.is/handle/1946/47313</link>
-      <description>The cost of suicide in Iceland - Sóley Anna Benónýsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47313</guid>
-    </item>
-    <item>
-      <title>Næringarástand einstaklinga í þjónustu heimahjúkrunar á höfuðborgarsvæðinu</title>
-      <link>https://skemman.is/handle/1946/47305</link>
-      <description>Næringarástand einstaklinga í þjónustu heimahjúkrunar á höfuðborgarsvæðinu - Harpa Harðardóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47305</guid>
     </item>
   </channel>
 </rss>
