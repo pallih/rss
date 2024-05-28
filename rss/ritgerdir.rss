@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 May 2024 17:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 08:00:46 +0000</lastBuildDate>
+    <item>
+      <title>Þróun streitu, þunglyndis, kvíða og líkamlegrar líðan hjá fullorðnum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/47382</link>
+      <description>Þróun streitu, þunglyndis, kvíða og líkamlegrar líðan hjá fullorðnum á Íslandi - Birta Ósk Albertsdóttir 2001-; Linda Rún Axelsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47382</guid>
+    </item>
     <item>
       <title>Serial dependence: A product of an adjustment task or a valid perceptual bias?</title>
       <link>https://skemman.is/handle/1946/47341</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47360</link>
       <description>Geimréttur : álitaefni varðandi töku lands á tunglinu og öðrum himintunglum - Þorkell Skúlason 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47360</guid>
-    </item>
-    <item>
-      <title>Þegar kona verður móðir: Eigindleg viðtalsrannsókn við nýjar mæður um upplifun þeirra af því að taka þátt í námskeiðinu Endurheimt</title>
-      <link>https://skemman.is/handle/1946/47369</link>
-      <description>Þegar kona verður móðir: Eigindleg viðtalsrannsókn við nýjar mæður um upplifun þeirra af því að taka þátt í námskeiðinu Endurheimt - Ásgerður Tinna Zar Jónsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47369</guid>
     </item>
   </channel>
 </rss>
