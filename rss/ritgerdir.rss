@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 28 May 2024 17:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 08:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Pre-existing immunogenicity towards the CRISPR/Cas9 gene therapy nuclease in a healthy human population</title>
+      <link>https://skemman.is/handle/1946/47405</link>
+      <description>Pre-existing immunogenicity towards the CRISPR/Cas9 gene therapy nuclease in a healthy human population - Eva María Hrólfsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47405</guid>
+    </item>
     <item>
       <title>Þingrof : birtingarmynd þingrofs á grundvelli 24. gr. laga nr. 33/1944 í íslenskri stjórnskipun og túlkun ákvæðisins</title>
       <link>https://skemman.is/handle/1946/47395</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47341</link>
       <description>Serial dependence: A product of an adjustment task or a valid perceptual bias? - Sara Berglind Ómarsdóttir Saenz 2000-; Arnhildur Andersen 2000-; Arndís Hrund Árnadóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47341</guid>
-    </item>
-    <item>
-      <title>Upplifun mæðra af síritun fósturhjartsláttar í fæðingu: Eigindleg kerfisbundin fræðileg samantekt</title>
-      <link>https://skemman.is/handle/1946/47354</link>
-      <description>Upplifun mæðra af síritun fósturhjartsláttar í fæðingu: Eigindleg kerfisbundin fræðileg samantekt - Jóhanna Sigurjónsdóttir 1967-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47354</guid>
     </item>
   </channel>
 </rss>
