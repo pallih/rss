@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 29 May 2024 10:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 11:00:20 +0000</lastBuildDate>
     <item>
       <title>Samanburður 3D og 2D hjartaómrannsókna á hjartastarfsemi krabbameinssjúklinga</title>
       <link>https://skemman.is/handle/1946/47408</link>
@@ -105,6 +105,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47418</guid>
     </item>
     <item>
+      <title>Skattaleg heimilisfesti einstaklinga : er þörf á breytingum með hliðsjón af lögum um lögheimili og aðsetur nr. 80/2018?</title>
+      <link>https://skemman.is/handle/1946/47421</link>
+      <description>Skattaleg heimilisfesti einstaklinga : er þörf á breytingum með hliðsjón af lögum um lögheimili og aðsetur nr. 80/2018? - Birta María Sigmundsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47421</guid>
+    </item>
+    <item>
+      <title>Framsal ríkisvalds til alþjóðastofnana : hvar liggja mörkin og hvað ætti stjórnarskrárákvæði um slíkt framsal að innihalda</title>
+      <link>https://skemman.is/handle/1946/47422</link>
+      <description>Framsal ríkisvalds til alþjóðastofnana : hvar liggja mörkin og hvað ætti stjórnarskrárákvæði um slíkt framsal að innihalda - Helena Jaya Gunnarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47422</guid>
+    </item>
+    <item>
       <title>Þingrof : birtingarmynd þingrofs á grundvelli 24. gr. laga nr. 33/1944 í íslenskri stjórnskipun og túlkun ákvæðisins</title>
       <link>https://skemman.is/handle/1946/47395</link>
       <description>Þingrof : birtingarmynd þingrofs á grundvelli 24. gr. laga nr. 33/1944 í íslenskri stjórnskipun og túlkun ákvæðisins - Páll Marís Pálsson 1997-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47385</link>
       <description>Algengir öndunarfærasýklar í samfélagslungnabólgu - Vala Rún Stefánsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47385</guid>
-    </item>
-    <item>
-      <title>Hagsmunaárekstrar á verðbréfamarkaði : með hvaða hætti geta verðbréfafyrirtæki uppfyllt skyldur sínar samkvæmt reglum MiFID II um hagsmunaárekstra?</title>
-      <link>https://skemman.is/handle/1946/47387</link>
-      <description>Hagsmunaárekstrar á verðbréfamarkaði : með hvaða hætti geta verðbréfafyrirtæki uppfyllt skyldur sínar samkvæmt reglum MiFID II um hagsmunaárekstra? - Kristján Óli Guðbjartsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47387</guid>
-    </item>
-    <item>
-      <title>Mannsæmandi störf: Meta starfsmenn leikskóla störf sín sem mannsæmandi og er munur eftir menntunarstigi og kennsluréttindum?</title>
-      <link>https://skemman.is/handle/1946/47391</link>
-      <description>Mannsæmandi störf: Meta starfsmenn leikskóla störf sín sem mannsæmandi og er munur eftir menntunarstigi og kennsluréttindum? - Andrea Laufey Hauksdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47391</guid>
     </item>
   </channel>
 </rss>
