@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 30 May 2024 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 16:00:24 +0000</lastBuildDate>
     <item>
       <title>Greining á lífmerkjum í sjónhimnu fólks með Parkinsonveiki og væga vitræna skerðingu</title>
       <link>https://skemman.is/handle/1946/47437</link>
@@ -51,28 +51,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47439</guid>
     </item>
     <item>
-      <title>Endurhæfingarlífeyrir á Íslandi:  Hvernig varð hugmyndin um framfærslu meðan á endurhæfingu stendur að veruleika á Íslandi?</title>
-      <link>https://skemman.is/handle/1946/47438</link>
-      <description>Endurhæfingarlífeyrir á Íslandi:  Hvernig varð hugmyndin um framfærslu meðan á endurhæfingu stendur að veruleika á Íslandi? - Gunnhildur Kristjánsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47438</guid>
-    </item>
-    <item>
-      <title>Borgnáma bifreiða: Í átt að auðlindasjálfstæði Íslands með borgnámi bifreiða</title>
-      <link>https://skemman.is/handle/1946/47442</link>
-      <description>Borgnáma bifreiða: Í átt að auðlindasjálfstæði Íslands með borgnámi bifreiða - Jóhann Björn Birkisson 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47442</guid>
-    </item>
-    <item>
       <title>Concussion in sports : is there a sex difference in sport-related concussion outcomes?</title>
       <link>https://skemman.is/handle/1946/47443</link>
       <description>Concussion in sports : is there a sex difference in sport-related concussion outcomes? - Anna Pálína Sigurðardóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47443</guid>
     </item>
     <item>
-      <title>The relationship between children’s sleep behavior and parental sleep quality</title>
-      <link>https://skemman.is/handle/1946/47444</link>
-      <description>The relationship between children’s sleep behavior and parental sleep quality - Dóra Hlín Loftsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47444</guid>
+      <title>The practice of leisure reading : the effects on mental well-being and sleep quality in university students</title>
+      <link>https://skemman.is/handle/1946/47448</link>
+      <description>The practice of leisure reading : the effects on mental well-being and sleep quality in university students - Ísabella D Sigursteinsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47448</guid>
     </item>
     <item>
       <title>Exploring the impact of physical exercise on mental health in individuals with obstructive sleep apnea</title>
@@ -81,10 +69,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47445</guid>
     </item>
     <item>
+      <title>Borgnáma bifreiða: Í átt að auðlindasjálfstæði Íslands með borgnámi bifreiða</title>
+      <link>https://skemman.is/handle/1946/47442</link>
+      <description>Borgnáma bifreiða: Í átt að auðlindasjálfstæði Íslands með borgnámi bifreiða - Jóhann Björn Birkisson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47442</guid>
+    </item>
+    <item>
       <title>Performance anixety among dancers and associations with perfectionism</title>
       <link>https://skemman.is/handle/1946/47446</link>
       <description>Performance anixety among dancers and associations with perfectionism - Lilja Rúriksdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47446</guid>
+    </item>
+    <item>
+      <title>The relationship between children’s sleep behavior and parental sleep quality</title>
+      <link>https://skemman.is/handle/1946/47444</link>
+      <description>The relationship between children’s sleep behavior and parental sleep quality - Dóra Hlín Loftsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47444</guid>
     </item>
     <item>
       <title>Social media´s impact on jealousy and insecurity in romantic relationships</title>
@@ -93,10 +93,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47447</guid>
     </item>
     <item>
-      <title>The practice of leisure reading : the effects on mental well-being and sleep quality in university students</title>
-      <link>https://skemman.is/handle/1946/47448</link>
-      <description>The practice of leisure reading : the effects on mental well-being and sleep quality in university students - Ísabella D Sigursteinsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47448</guid>
+      <title>Endurhæfingarlífeyrir á Íslandi:  Hvernig varð hugmyndin um framfærslu meðan á endurhæfingu stendur að veruleika á Íslandi?</title>
+      <link>https://skemman.is/handle/1946/47438</link>
+      <description>Endurhæfingarlífeyrir á Íslandi:  Hvernig varð hugmyndin um framfærslu meðan á endurhæfingu stendur að veruleika á Íslandi? - Gunnhildur Kristjánsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47438</guid>
     </item>
     <item>
       <title>Samanburður 3D og 2D hjartaómrannsókna á hjartastarfsemi krabbameinssjúklinga</title>
