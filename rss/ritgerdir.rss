@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 30 May 2024 13:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 14:00:28 +0000</lastBuildDate>
     <item>
       <title>Greining á lífmerkjum í sjónhimnu fólks með Parkinsonveiki og væga vitræna skerðingu</title>
       <link>https://skemman.is/handle/1946/47437</link>
@@ -61,6 +61,30 @@
       <link>https://skemman.is/handle/1946/47442</link>
       <description>Borgnáma bifreiða: Í átt að auðlindasjálfstæði Íslands með borgnámi bifreiða - Jóhann Björn Birkisson 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47442</guid>
+    </item>
+    <item>
+      <title>Concussion in sports : is there a sex difference in sport-related concussion outcomes?</title>
+      <link>https://skemman.is/handle/1946/47443</link>
+      <description>Concussion in sports : is there a sex difference in sport-related concussion outcomes? - Anna Pálína Sigurðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47443</guid>
+    </item>
+    <item>
+      <title>The relationship between children’s sleep behavior and parental sleep quality</title>
+      <link>https://skemman.is/handle/1946/47444</link>
+      <description>The relationship between children’s sleep behavior and parental sleep quality - Dóra Hlín Loftsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47444</guid>
+    </item>
+    <item>
+      <title>Exploring the impact of physical exercise on mental health in individuals with obstructive sleep apnea</title>
+      <link>https://skemman.is/handle/1946/47445</link>
+      <description>Exploring the impact of physical exercise on mental health in individuals with obstructive sleep apnea - Elín Eva Sigurðardóttir Horvat 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47445</guid>
+    </item>
+    <item>
+      <title>Performance anixety among dancers and associations with perfectionism</title>
+      <link>https://skemman.is/handle/1946/47446</link>
+      <description>Performance anixety among dancers and associations with perfectionism - Lilja Rúriksdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47446</guid>
     </item>
     <item>
       <title>Samanburður 3D og 2D hjartaómrannsókna á hjartastarfsemi krabbameinssjúklinga</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/47419</link>
       <description>Sjálfræði barna í heilbrigðisþjónustu : er þörf á breytingu á lögum um réttindi sjúklinga? - Anna Kristín Einarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47419</guid>
-    </item>
-    <item>
-      <title>Réttindi barna og þvingunarúrræði í barnavernd : heimildir barnaverndarlaga til beitingar þvingunar gagnvart börnum</title>
-      <link>https://skemman.is/handle/1946/47413</link>
-      <description>Réttindi barna og þvingunarúrræði í barnavernd : heimildir barnaverndarlaga til beitingar þvingunar gagnvart börnum - Valdís Ósk Óladóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47413</guid>
-    </item>
-    <item>
-      <title>Sönnun orsakatengsla í líkamstjónamálum : til hvers er litið við sönnun orsakatengsla?</title>
-      <link>https://skemman.is/handle/1946/47415</link>
-      <description>Sönnun orsakatengsla í líkamstjónamálum : til hvers er litið við sönnun orsakatengsla? - Erla Guðfinna Erlendsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47415</guid>
-    </item>
-    <item>
-      <title>Fjárhagslegt uppgjör afleiðusamninga við vanefnd mótaðila</title>
-      <link>https://skemman.is/handle/1946/47417</link>
-      <description>Fjárhagslegt uppgjör afleiðusamninga við vanefnd mótaðila - Óttar Guðjónsson 1967-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47417</guid>
-    </item>
-    <item>
-      <title>Íslenskir verkvangsyrkjar : launþegar eða verktakar?</title>
-      <link>https://skemman.is/handle/1946/47418</link>
-      <description>Íslenskir verkvangsyrkjar : launþegar eða verktakar? - Aldís Coquillon Ásgeirsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47418</guid>
     </item>
   </channel>
 </rss>
