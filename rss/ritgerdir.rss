@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 30 May 2024 09:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 10:00:23 +0000</lastBuildDate>
     <item>
       <title>Ígræðslur tvíslegla gang- og bjargráða á Íslandi</title>
       <link>https://skemman.is/handle/1946/47434</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/47438</link>
       <description>Endurhæfingarlífeyrir á Íslandi:  Hvernig varð hugmyndin um framfærslu meðan á endurhæfingu stendur að veruleika á Íslandi? - Gunnhildur Kristjánsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47438</guid>
+    </item>
+    <item>
+      <title>Áætlun á hámarksstyrk í hællyftu byggt á hámarksendurtekningum í hællyftu</title>
+      <link>https://skemman.is/handle/1946/47439</link>
+      <description>Áætlun á hámarksstyrk í hællyftu byggt á hámarksendurtekningum í hællyftu - Númi Már Atlason 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47439</guid>
+    </item>
+    <item>
+      <title>Hreyfifærnikvarði fyrir aldraða: Áreiðanleiki og réttmæti íslenskrar þýðingar á Elderly Mobility Scale</title>
+      <link>https://skemman.is/handle/1946/47440</link>
+      <description>Hreyfifærnikvarði fyrir aldraða: Áreiðanleiki og réttmæti íslenskrar þýðingar á Elderly Mobility Scale - Gunnar Aðalsteinn Gunnlaugsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47440</guid>
     </item>
     <item>
       <title>Samanburður 3D og 2D hjartaómrannsókna á hjartastarfsemi krabbameinssjúklinga</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47421</link>
       <description>Skattaleg heimilisfesti einstaklinga : er þörf á breytingum með hliðsjón af lögum um lögheimili og aðsetur nr. 80/2018? - Birta María Sigmundsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47421</guid>
-    </item>
-    <item>
-      <title>Accuracy of depression questionnaires in predicting clinical depression for bipolar disorder</title>
-      <link>https://skemman.is/handle/1946/47426</link>
-      <description>Accuracy of depression questionnaires in predicting clinical depression for bipolar disorder - Alda María Óskarsdóttir 1999-; Valdís Eik Ragnarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47426</guid>
-    </item>
-    <item>
-      <title>The association of physical activity and academic performance : sleep and anxiety as mediators</title>
-      <link>https://skemman.is/handle/1946/47425</link>
-      <description>The association of physical activity and academic performance : sleep and anxiety as mediators - Anna Alexandra Petersen 2002-; Kolfinna Íris Rúnarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47425</guid>
     </item>
   </channel>
 </rss>
