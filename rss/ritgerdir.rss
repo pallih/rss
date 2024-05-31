@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 31 May 2024 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 12:00:26 +0000</lastBuildDate>
     <item>
       <title>Tíðni, orsök og áhættuþættir blæðingar eftir fæðingu hjá konum af erlendum uppruna á árunum 1997-2018: Lýðgrunduð ferilrannsókn</title>
       <link>https://skemman.is/handle/1946/47453</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/47457</link>
       <description>A comparison study of the effect of clinical experience and workplace on the availability and use of biophysical agents by Icelandic physical therapists - Hulda Hlíðkvist Þorgeirsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47457</guid>
+    </item>
+    <item>
+      <title>Þræðir milli fortíðar og framtíðar : möguleikar Safnahússins á Húsavík sem vettvangur fyrir myndmenntakennslu með áherslu á gagnrýna hugsun og tjáningu</title>
+      <link>https://skemman.is/handle/1946/47458</link>
+      <description>Þræðir milli fortíðar og framtíðar : möguleikar Safnahússins á Húsavík sem vettvangur fyrir myndmenntakennslu með áherslu á gagnrýna hugsun og tjáningu - Helga Dagný Einarsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47458</guid>
     </item>
     <item>
       <title>Greining á lífmerkjum í sjónhimnu fólks með Parkinsonveiki og væga vitræna skerðingu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47438</link>
       <description>Endurhæfingarlífeyrir á Íslandi:  Hvernig varð hugmyndin um framfærslu meðan á endurhæfingu stendur að veruleika á Íslandi? - Gunnhildur Kristjánsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47438</guid>
-    </item>
-    <item>
-      <title>Samanburður 3D og 2D hjartaómrannsókna á hjartastarfsemi krabbameinssjúklinga</title>
-      <link>https://skemman.is/handle/1946/47408</link>
-      <description>Samanburður 3D og 2D hjartaómrannsókna á hjartastarfsemi krabbameinssjúklinga - Amalía Sigurrós Stefánsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47408</guid>
     </item>
   </channel>
 </rss>
