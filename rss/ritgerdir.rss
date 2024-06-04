@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 04 Jun 2024 10:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:00:29 +0000</lastBuildDate>
     <item>
       <title>The role of FGD5-AS1 in Osteosarcoma</title>
       <link>https://skemman.is/handle/1946/47490</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/47489</link>
       <description>Hver á að sinna systkinum fatlaðra barna?  Þjónusta við systkini fatlaðra barna - Dagmar Ósk Guðmundsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47489</guid>
+    </item>
+    <item>
+      <title>The relationship between well-being and various work schedules among males and females</title>
+      <link>https://skemman.is/handle/1946/47494</link>
+      <description>The relationship between well-being and various work schedules among males and females - Ísabella Bragadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47494</guid>
     </item>
     <item>
       <title>„Ég held að margir taki því sem rosalega sjálfsögðum hlut að eiga góða og heilbrigða fjölskyldu“ : Sýn fullorðinna einstaklinga á eigin reynslu af því að eiga foreldri sem glímir við geðrænan vanda</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47477</link>
       <description>Forvarnir og meðferð án lyfja við stálma, stíflum og brjóstabólgu. Kerfisbundin fræðileg samantekt - Oddný Silja Friðriksdóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47477</guid>
-    </item>
-    <item>
-      <title>,,Mitt örugga rými" Reynsla kvenna af fæðingum án fagaðila á Íslandi. Fyrirbærifræðileg rannsókn</title>
-      <link>https://skemman.is/handle/1946/47476</link>
-      <description>,,Mitt örugga rými" Reynsla kvenna af fæðingum án fagaðila á Íslandi. Fyrirbærifræðileg rannsókn - Guðrún Magnúsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47476</guid>
     </item>
   </channel>
 </rss>
