@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 05 Jun 2024 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 13:01:58 +0000</lastBuildDate>
     <item>
       <title>Attitudes towards mental health among banking employees : generational differences in expectations and demands</title>
       <link>https://skemman.is/handle/1946/47538</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/47540</link>
       <description>Epidemiological characteristics of mild traumatic brain injuries in Iceland : an exploratory study of the adult general population - Eyþór Atli Aðalsteinsson 2000-; Hugi Garðarsson 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47540</guid>
+    </item>
+    <item>
+      <title>What do clinicians think about group parent-led cognitive behaviour therapy for children with anxiety problems in Iceland?</title>
+      <link>https://skemman.is/handle/1946/47541</link>
+      <description>What do clinicians think about group parent-led cognitive behaviour therapy for children with anxiety problems in Iceland? - Elísabet Freyja Þorleifsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47541</guid>
     </item>
     <item>
       <title>Blöndun kúamykju og kjötmjöls til túnáburðar í landbúnaði</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47511</link>
       <description>Gender differences in safety concerns and protective behaviors among men and women in Iceland - Freyja Vignisdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47511</guid>
-    </item>
-    <item>
-      <title>Lífrænn úrgangur í Múlaþingi og möguleikar með notkun jarðgerðarvéla</title>
-      <link>https://skemman.is/handle/1946/47518</link>
-      <description>Lífrænn úrgangur í Múlaþingi og möguleikar með notkun jarðgerðarvéla - Hólmfríður Sigurbjörnsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47518</guid>
     </item>
   </channel>
 </rss>
