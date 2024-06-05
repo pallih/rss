@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 05 Jun 2024 14:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 15:00:21 +0000</lastBuildDate>
     <item>
       <title>Attitudes towards mental health among banking employees : generational differences in expectations and demands</title>
       <link>https://skemman.is/handle/1946/47538</link>
@@ -87,6 +87,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47544</guid>
     </item>
     <item>
+      <title>I have never felt more invisible : the psychological effects of sports injuries on young female athletes</title>
+      <link>https://skemman.is/handle/1946/47545</link>
+      <description>I have never felt more invisible : the psychological effects of sports injuries on young female athletes - Halldóra Guðrún Sigurgeirsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47545</guid>
+    </item>
+    <item>
       <title>Blöndun kúamykju og kjötmjöls til túnáburðar í landbúnaði</title>
       <link>https://skemman.is/handle/1946/47504</link>
       <description>Blöndun kúamykju og kjötmjöls til túnáburðar í landbúnaði - Logi Jökulsson 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47497</link>
       <description>Burnout complaints among health and social care workers and the main stress factors in their work environment - Lísbet Tara Ólafsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47497</guid>
-    </item>
-    <item>
-      <title>The Influence of obstructive sleep apnea on the Tower of London test</title>
-      <link>https://skemman.is/handle/1946/47499</link>
-      <description>The Influence of obstructive sleep apnea on the Tower of London test - Birkir Emil Ásdísarson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47499</guid>
     </item>
   </channel>
 </rss>
