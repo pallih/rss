@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 06 Jun 2024 10:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 11:00:27 +0000</lastBuildDate>
     <item>
       <title>Navigating humanitarian crises in armed conflict : exploring international legal frameworks and sovereignty dynamics with the Israel-Palestine conflict as a precedent</title>
       <link>https://skemman.is/handle/1946/47546</link>
@@ -31,6 +31,24 @@
       <link>https://skemman.is/handle/1946/47549</link>
       <description>Academic burnout : the relationship between academic burnout, perfectionism, and inflated responsibility - Jóhannes Geir H. Ólafsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47549</guid>
+    </item>
+    <item>
+      <title>Transdiagnostic cognitive behavioural treatment for persistent physical symptoms that cause functional impairment and psychological distress : pilot randomised controlled trial</title>
+      <link>https://skemman.is/handle/1946/47550</link>
+      <description>Transdiagnostic cognitive behavioural treatment for persistent physical symptoms that cause functional impairment and psychological distress : pilot randomised controlled trial - Elín Broddadóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47550</guid>
+    </item>
+    <item>
+      <title>“No one listened to me for ten years” : the experience of people with fibromyalgia in seeking a diagnosis &amp; receiving appropriate help within primary health care in Iceland : a qualitative study</title>
+      <link>https://skemman.is/handle/1946/47551</link>
+      <description>“No one listened to me for ten years” : the experience of people with fibromyalgia in seeking a diagnosis &amp; receiving appropriate help within primary health care in Iceland : a qualitative study - Björg Hákonardóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47551</guid>
+    </item>
+    <item>
+      <title>Feasibility and efficacy of the parenting program : are you connecting? upbringing, Aatachment and the parenting role</title>
+      <link>https://skemman.is/handle/1946/47552</link>
+      <description>Feasibility and efficacy of the parenting program : are you connecting? upbringing, Aatachment and the parenting role - Sóley María Helgadóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47552</guid>
     </item>
     <item>
       <title>Attitudes towards mental health among banking employees : generational differences in expectations and demands</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47506</link>
       <description>The prevalence of substance use among contact sport participants in High Schools in Iceland - Silja Rut Rúnarsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47506</guid>
-    </item>
-    <item>
-      <title>Áhrifaþættir og erfðastuðlar fyrir endingu íslenskra áa</title>
-      <link>https://skemman.is/handle/1946/47502</link>
-      <description>Áhrifaþættir og erfðastuðlar fyrir endingu íslenskra áa - Eydís Ósk Jóhannesdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47502</guid>
-    </item>
-    <item>
-      <title>Júgur- og spenaeiginleikar íslenskra kúa á öðru mjaltaskeiði</title>
-      <link>https://skemman.is/handle/1946/47505</link>
-      <description>Júgur- og spenaeiginleikar íslenskra kúa á öðru mjaltaskeiði - Marta Stefánsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47505</guid>
-    </item>
-    <item>
-      <title>Tannhirða og tannheilbrigði íslenska hestsins</title>
-      <link>https://skemman.is/handle/1946/47510</link>
-      <description>Tannhirða og tannheilbrigði íslenska hestsins - Vildís Þrá Jónsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47510</guid>
     </item>
   </channel>
 </rss>
