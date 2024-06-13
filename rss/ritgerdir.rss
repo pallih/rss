@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 13 Jun 2024 14:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 15:00:18 +0000</lastBuildDate>
     <item>
       <title>Analysing risk and value in public- private partnerships : a quantitative analysis</title>
       <link>https://skemman.is/handle/1946/47710</link>
@@ -49,12 +49,6 @@
       <link>https://skemman.is/handle/1946/47714</link>
       <description>Heimavirkjun - Bjarni Þór W Alfsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47714</guid>
-    </item>
-    <item>
-      <title>Evaluating the effectiveness and satisfaction of a 10-week : transdiagnostic group therapy for young adults</title>
-      <link>https://skemman.is/handle/1946/47720</link>
-      <description>Evaluating the effectiveness and satisfaction of a 10-week : transdiagnostic group therapy for young adults - Kristín Ingimarsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47720</guid>
     </item>
     <item>
       <title>Lausfrystir í fiskvinnslu : hönnun og forritun á iðntölvukerfi</title>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/47735</link>
       <description>The effects of schedule-correlated stimuli on the generalization of tolerating denied access - Anna Þóra Grétarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47735</guid>
+    </item>
+    <item>
+      <title>Wise Portal</title>
+      <link>https://skemman.is/handle/1946/47731</link>
+      <description>Wise Portal - Logi Páll Sævarsson 1996-; Ottó Ernir Kristinsson 1997-; Pétur Örn Helgason 1993-; Þorbergur Erlendsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47731</guid>
     </item>
   </channel>
 </rss>
