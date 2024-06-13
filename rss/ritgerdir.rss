@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 13 Jun 2024 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:00:22 +0000</lastBuildDate>
     <item>
       <title>Analysing risk and value in public- private partnerships : a quantitative analysis</title>
       <link>https://skemman.is/handle/1946/47710</link>
@@ -27,6 +27,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47712</guid>
     </item>
     <item>
+      <title>Implementation of flight detection into the Saga logger</title>
+      <link>https://skemman.is/handle/1946/47716</link>
+      <description>Implementation of flight detection into the Saga logger - Magnús Benedikt Magnússon 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47716</guid>
+    </item>
+    <item>
+      <title>Kvikmyndaver : raflagnir og lýsing</title>
+      <link>https://skemman.is/handle/1946/47715</link>
+      <description>Kvikmyndaver : raflagnir og lýsing - Frosti Örvarsson 1991-; Jóakim Þór Gunnarsson 1987-; Páll Bergmann 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47715</guid>
+    </item>
+    <item>
       <title>Upplýsingakerfi fyrir skip : olíueyðsla og siglingaupplýsingar</title>
       <link>https://skemman.is/handle/1946/47713</link>
       <description>Upplýsingakerfi fyrir skip : olíueyðsla og siglingaupplýsingar - Sigurður Helgi Torfason 1989-; Símon Örn Oddsson 1989-</description>
@@ -39,10 +51,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47714</guid>
     </item>
     <item>
-      <title>Kvikmyndaver : raflagnir og lýsing</title>
-      <link>https://skemman.is/handle/1946/47715</link>
-      <description>Kvikmyndaver : raflagnir og lýsing - Frosti Örvarsson 1991-; Jóakim Þór Gunnarsson 1987-; Páll Bergmann 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47715</guid>
+      <title>Stjórnskápur og stýring fyrir skólp- og regnvatnsbrunn</title>
+      <link>https://skemman.is/handle/1946/47717</link>
+      <description>Stjórnskápur og stýring fyrir skólp- og regnvatnsbrunn - Arnar Magnús Ellertsson 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47717</guid>
+    </item>
+    <item>
+      <title>Lausfrystir í fiskvinnslu : hönnun og forritun á iðntölvukerfi</title>
+      <link>https://skemman.is/handle/1946/47718</link>
+      <description>Lausfrystir í fiskvinnslu : hönnun og forritun á iðntölvukerfi - Fannar Logi Kolbeinsson 1992-; Ingvi Þór Óskarsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47718</guid>
     </item>
     <item>
       <title>Veldur verðbólgan veikindum? : tengsl aukins framfærslukostnaðar og nýgengi endurhæfingarlífeyrisþega</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47673</link>
       <description>Methodological analysis for enhancing vertical shock absorption and transversal rotation in prosthetic feet; examination of solutions and prototype development - Eric Wolf Ruge 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47673</guid>
-    </item>
-    <item>
-      <title>Meaning generation in autonomous grounded systems</title>
-      <link>https://skemman.is/handle/1946/47675</link>
-      <description>Meaning generation in autonomous grounded systems - Gregorio Talevi 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47675</guid>
-    </item>
-    <item>
-      <title>Innra umhverfi góðgerðafélaga á Íslandi og áhrif þess á árangur í fjáröflun</title>
-      <link>https://skemman.is/handle/1946/47676</link>
-      <description>Innra umhverfi góðgerðafélaga á Íslandi og áhrif þess á árangur í fjáröflun - Flóki Guðmundsson 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47676</guid>
-    </item>
-    <item>
-      <title>The impact of th energy exchange, production of hydrogen in Westfjords and forecasting of energy consumption</title>
-      <link>https://skemman.is/handle/1946/47672</link>
-      <description>The impact of th energy exchange, production of hydrogen in Westfjords and forecasting of energy consumption - Emil Ragnarsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47672</guid>
     </item>
   </channel>
 </rss>
