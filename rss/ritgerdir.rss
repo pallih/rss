@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 13 Jun 2024 09:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 10:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Analysing risk and value in public- private partnerships : a quantitative analysis</title>
+      <link>https://skemman.is/handle/1946/47710</link>
+      <description>Analysing risk and value in public- private partnerships : a quantitative analysis - Oliver Aron Jóhannesson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47710</guid>
+    </item>
+    <item>
+      <title>Feasibility study of a geothermal power plant in the Ölfus region</title>
+      <link>https://skemman.is/handle/1946/47711</link>
+      <description>Feasibility study of a geothermal power plant in the Ölfus region - Nicolo Secondo Rech 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47711</guid>
+    </item>
     <item>
       <title>Veldur verðbólgan veikindum? : tengsl aukins framfærslukostnaðar og nýgengi endurhæfingarlífeyrisþega</title>
       <link>https://skemman.is/handle/1946/47657</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/47679</link>
       <description>Earth electrode resistance diagnosis and measurements - Gunnar Sigvaldason 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47679</guid>
-    </item>
-    <item>
-      <title>Sensor fusion algorithms for kiso sensors and exploring EMG data vs joint angles</title>
-      <link>https://skemman.is/handle/1946/47682</link>
-      <description>Sensor fusion algorithms for kiso sensors and exploring EMG data vs joint angles - Kristján Orri Daðason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47682</guid>
-    </item>
-    <item>
-      <title>Wearable technology and sleep patterns : exploring shift work and more</title>
-      <link>https://skemman.is/handle/1946/47684</link>
-      <description>Wearable technology and sleep patterns : exploring shift work and more - Laufey Ósk Andrésdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47684</guid>
     </item>
   </channel>
 </rss>
