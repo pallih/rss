@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 14 Jun 2024 10:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 11:00:28 +0000</lastBuildDate>
     <item>
       <title>Tölvustudd hönnun og framleiðsla í íslenskum grunnskólum : námsefni fyrir snillismiðjur á 21. öld</title>
       <link>https://skemman.is/handle/1946/47738</link>
       <description>Tölvustudd hönnun og framleiðsla í íslenskum grunnskólum : námsefni fyrir snillismiðjur á 21. öld - Lísbet Guðný Þórarinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47738</guid>
+    </item>
+    <item>
+      <title>,,Ég pæli alveg í kynjajafnrétti almennt í lífinu en ekki í stærðfræðikennslu" : kynjuð rými í stærðfræðikennslu á unglingastigi í grunnskólum</title>
+      <link>https://skemman.is/handle/1946/47739</link>
+      <description>,,Ég pæli alveg í kynjajafnrétti almennt í lífinu en ekki í stærðfræðikennslu" : kynjuð rými í stærðfræðikennslu á unglingastigi í grunnskólum - Hafdís Arna Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47739</guid>
     </item>
     <item>
       <title>Analysing risk and value in public- private partnerships : a quantitative analysis</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47734</link>
       <description>Intervention to reduce smartphone usage among 8th and 9th grade adolescents in elementary school - Fjalar Freyr Einarsson 1971-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47734</guid>
-    </item>
-    <item>
-      <title>The effects of schedule-correlated stimuli on the generalization of tolerating denied access</title>
-      <link>https://skemman.is/handle/1946/47735</link>
-      <description>The effects of schedule-correlated stimuli on the generalization of tolerating denied access - Anna Þóra Grétarsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47735</guid>
     </item>
   </channel>
 </rss>
