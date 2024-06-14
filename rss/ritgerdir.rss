@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 14 Jun 2024 13:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 14:00:28 +0000</lastBuildDate>
     <item>
       <title>„Við erum að nálgast fólk sem manneskjur“ : skoðanir og upplifanir íþróttafræðinga af starfi þeirra í geðendurhæfingu með batahugmyndafræði</title>
       <link>https://skemman.is/handle/1946/47747</link>
@@ -87,16 +87,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47740</guid>
     </item>
     <item>
-      <title>Krefjandi CrossFit hreyfingar : hreyfingar brotnar niður og útskýrðar</title>
-      <link>https://skemman.is/handle/1946/47751</link>
-      <description>Krefjandi CrossFit hreyfingar : hreyfingar brotnar niður og útskýrðar - Elísa Víf Kristínardóttir 1999-; Tinna Rut Þórarinsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47751</guid>
+      <title>Íþróttamarkaðssetning hjá knattspyrnuliðum í Bestu deild karla á Íslandi</title>
+      <link>https://skemman.is/handle/1946/47759</link>
+      <description>Íþróttamarkaðssetning hjá knattspyrnuliðum í Bestu deild karla á Íslandi - Þorgeir Bragi Leifsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47759</guid>
     </item>
     <item>
-      <title>Helstu áskoranir og markmið nýútskrifaðra íþróttakennara</title>
-      <link>https://skemman.is/handle/1946/47752</link>
-      <description>Helstu áskoranir og markmið nýútskrifaðra íþróttakennara - Hafþór Aron Ragnarsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47752</guid>
+      <title>Textílmennt í dag og virði greinarinnar í skólasamfélaginu.</title>
+      <link>https://skemman.is/handle/1946/47756</link>
+      <description>Textílmennt í dag og virði greinarinnar í skólasamfélaginu. - Erla Eyþórsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47756</guid>
     </item>
     <item>
       <title>Knattspyrnufélag Akureyrar í Evrópukeppni : samanburður á hlaupagögnum í leikjum KA í Evrópu og leikjum KA á Íslandi</title>
@@ -105,10 +105,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47753</guid>
     </item>
     <item>
+      <title>The difference in artificial grass and natural grass in Icelandic football</title>
+      <link>https://skemman.is/handle/1946/47757</link>
+      <description>The difference in artificial grass and natural grass in Icelandic football - Jóhann Ægir Arnarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47757</guid>
+    </item>
+    <item>
+      <title>Helstu áskoranir og markmið nýútskrifaðra íþróttakennara</title>
+      <link>https://skemman.is/handle/1946/47752</link>
+      <description>Helstu áskoranir og markmið nýútskrifaðra íþróttakennara - Hafþór Aron Ragnarsson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47752</guid>
+    </item>
+    <item>
       <title>Forvarnir algengra meiðsla í knattspurnu : fræðsluhandbók fyrir knattspyrnufélög</title>
       <link>https://skemman.is/handle/1946/47754</link>
       <description>Forvarnir algengra meiðsla í knattspurnu : fræðsluhandbók fyrir knattspyrnufélög - Birgitta Hallgrímsdóttir 1998-; Margrét Björk Grétarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47754</guid>
+    </item>
+    <item>
+      <title>Búnaður og mælingar styrktar-og úthaldsþjálfara í Bestu deild karla</title>
+      <link>https://skemman.is/handle/1946/47758</link>
+      <description>Búnaður og mælingar styrktar-og úthaldsþjálfara í Bestu deild karla - Arnór Snær Arnarson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47758</guid>
+    </item>
+    <item>
+      <title>Krefjandi CrossFit hreyfingar : hreyfingar brotnar niður og útskýrðar</title>
+      <link>https://skemman.is/handle/1946/47751</link>
+      <description>Krefjandi CrossFit hreyfingar : hreyfingar brotnar niður og útskýrðar - Elísa Víf Kristínardóttir 1999-; Tinna Rut Þórarinsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47751</guid>
     </item>
     <item>
       <title>Krefjandi CrossFit hreyfingar : hreyfingar brotnar niður og útskýrðar</title>
@@ -117,46 +141,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/47755</guid>
     </item>
     <item>
+      <title>Hreyfigetuþjálfun : skilgreining á hagnýtri aðferða- og hugmyndafræði</title>
+      <link>https://skemman.is/handle/1946/47760</link>
+      <description>Hreyfigetuþjálfun : skilgreining á hagnýtri aðferða- og hugmyndafræði - Marinó Máni Mabazza 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47760</guid>
+    </item>
+    <item>
+      <title>Hvað er það sem knattspyrnumenn gera til að ná langt  og halda sér lengi á efsta stigi íþróttarinnar</title>
+      <link>https://skemman.is/handle/1946/47761</link>
+      <description>Hvað er það sem knattspyrnumenn gera til að ná langt  og halda sér lengi á efsta stigi íþróttarinnar - Máni Austmann Hilmarsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/47761</guid>
+    </item>
+    <item>
       <title>Analysing risk and value in public- private partnerships : a quantitative analysis</title>
       <link>https://skemman.is/handle/1946/47710</link>
       <description>Analysing risk and value in public- private partnerships : a quantitative analysis - Oliver Aron Jóhannesson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47710</guid>
-    </item>
-    <item>
-      <title>Feasibility study of a geothermal power plant in the Ölfus region</title>
-      <link>https://skemman.is/handle/1946/47711</link>
-      <description>Feasibility study of a geothermal power plant in the Ölfus region - Nicolo Secondo Rech 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47711</guid>
-    </item>
-    <item>
-      <title>Hönnun stýriskáps hitaveitukerfi fiskimjölsverksmiðju Síldarvinnslunnar í Neskaupstað</title>
-      <link>https://skemman.is/handle/1946/47712</link>
-      <description>Hönnun stýriskáps hitaveitukerfi fiskimjölsverksmiðju Síldarvinnslunnar í Neskaupstað - Sigurpáll Hjaltalín Sindrason 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47712</guid>
-    </item>
-    <item>
-      <title>Implementation of flight detection into the Saga logger</title>
-      <link>https://skemman.is/handle/1946/47716</link>
-      <description>Implementation of flight detection into the Saga logger - Magnús Benedikt Magnússon 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47716</guid>
-    </item>
-    <item>
-      <title>Kvikmyndaver : raflagnir og lýsing</title>
-      <link>https://skemman.is/handle/1946/47715</link>
-      <description>Kvikmyndaver : raflagnir og lýsing - Frosti Örvarsson 1991-; Jóakim Þór Gunnarsson 1987-; Páll Bergmann 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47715</guid>
-    </item>
-    <item>
-      <title>Upplýsingakerfi fyrir skip : olíueyðsla og siglingaupplýsingar</title>
-      <link>https://skemman.is/handle/1946/47713</link>
-      <description>Upplýsingakerfi fyrir skip : olíueyðsla og siglingaupplýsingar - Sigurður Helgi Torfason 1989-; Símon Örn Oddsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47713</guid>
-    </item>
-    <item>
-      <title>Heimavirkjun</title>
-      <link>https://skemman.is/handle/1946/47714</link>
-      <description>Heimavirkjun - Bjarni Þór W Alfsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47714</guid>
     </item>
   </channel>
 </rss>
