@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 19 Jun 2024 11:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 12:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Interactions of (co)monads in Agda</title>
+      <link>https://skemman.is/handle/1946/48228</link>
+      <description>Interactions of (co)monads in Agda - Calvin Santiago Lee 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48228</guid>
+    </item>
+    <item>
+      <title>Using music and audiobooks in the English second and foreign language classroom</title>
+      <link>https://skemman.is/handle/1946/48227</link>
+      <description>Using music and audiobooks in the English second and foreign language classroom - Valgarð Ingibergsson 1965-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48227</guid>
+    </item>
+    <item>
+      <title>External load of goalkeepers in football : focus on shooting drills</title>
+      <link>https://skemman.is/handle/1946/48229</link>
+      <description>External load of goalkeepers in football : focus on shooting drills - Fjalar Þorgeirsson 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48229</guid>
+    </item>
     <item>
       <title>Sköpun og tónlist í leikskólastarfi : „við erum að sjálfsögðu að skapa alla daga“</title>
       <link>https://skemman.is/handle/1946/47811</link>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47808</link>
       <description>„Þau eru ekkert að læra, þau eru bara að syngja“ : tónlist í málörvun ungra barna - Kristín Edda Valsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47808</guid>
-    </item>
-    <item>
-      <title>Fá starfsmenn grunnskóla fræðslu um áfallaáætlun skólans? : spurningakönnun meðal starfsmanna grunnskóla</title>
-      <link>https://skemman.is/handle/1946/47818</link>
-      <description>Fá starfsmenn grunnskóla fræðslu um áfallaáætlun skólans? : spurningakönnun meðal starfsmanna grunnskóla - Arndís Ósk Arnarsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47818</guid>
-    </item>
-    <item>
-      <title>"Það er ótrúlega dýrmætt þegar vel gengur en það er ekki sjálfsagt" : viðhorf og reynsla foreldra af heimalestri.</title>
-      <link>https://skemman.is/handle/1946/47817</link>
-      <description>"Það er ótrúlega dýrmætt þegar vel gengur en það er ekki sjálfsagt" : viðhorf og reynsla foreldra af heimalestri. - Arna Ásgeirsdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47817</guid>
-    </item>
-    <item>
-      <title>„Það er enn þá svolítið þröngt að vera til“ : hinsegin nemendur í íslenskum framhaldsskólum</title>
-      <link>https://skemman.is/handle/1946/47820</link>
-      <description>„Það er enn þá svolítið þröngt að vera til“ : hinsegin nemendur í íslenskum framhaldsskólum - Eva Dögg Jafetsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47820</guid>
     </item>
   </channel>
 </rss>
