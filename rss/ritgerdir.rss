@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 20 Jun 2024 10:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 11:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Career trajectories and employment outcomes of Iceland School of Energy alumni</title>
+      <link>https://skemman.is/handle/1946/48238</link>
+      <description>Career trajectories and employment outcomes of Iceland School of Energy alumni - Jacob Ristagno Kaminski 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48238</guid>
+    </item>
+    <item>
+      <title>Treatment histories of individuals with severe obsessive-compulsive disorder seeking treatment in an outpatient setting in Iceland</title>
+      <link>https://skemman.is/handle/1946/48240</link>
+      <description>Treatment histories of individuals with severe obsessive-compulsive disorder seeking treatment in an outpatient setting in Iceland - Bjarni Ívar Rúnarsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48240</guid>
+    </item>
+    <item>
+      <title>VUCA verkefnastjórnun við ófyrirséðar aðstæður : tilfellagreining á náttúruvá</title>
+      <link>https://skemman.is/handle/1946/48239</link>
+      <description>VUCA verkefnastjórnun við ófyrirséðar aðstæður : tilfellagreining á náttúruvá - Arna Kristjánsdóttir 1970-; Sigríður Hallgrímsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48239</guid>
+    </item>
     <item>
       <title>Interactions of (co)monads in Agda</title>
       <link>https://skemman.is/handle/1946/48228</link>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/47825</link>
       <description>Áhuginn sem brann eins og bál, er nú einungis kulnaðar glóðir : rannsókn á kulnun leikskólakennara - Íris Dröfn Jónsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47825</guid>
-    </item>
-    <item>
-      <title>„Það er mikil brotalöm varðandi börn flóttafólks“ : upplifun starfsfólks leikskóla af undirbúningi fyrir komu barna flóttamanna og reynsla af aðlögun þeirra</title>
-      <link>https://skemman.is/handle/1946/47826</link>
-      <description>„Það er mikil brotalöm varðandi börn flóttafólks“ : upplifun starfsfólks leikskóla af undirbúningi fyrir komu barna flóttamanna og reynsla af aðlögun þeirra - Júlía Ósk Bjarnadóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47826</guid>
-    </item>
-    <item>
-      <title>Uppeldi til ábyrgðar : er ég að gera rétt núna?</title>
-      <link>https://skemman.is/handle/1946/47827</link>
-      <description>Uppeldi til ábyrgðar : er ég að gera rétt núna? - Kolfinna Esther Bjarkadóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47827</guid>
-    </item>
-    <item>
-      <title>Er svigrúm fyrir sveigjanleika? : viðhorf starfsfólks leikskóla til innritunar tólf mánaða barna með þarfir þeirra í huga</title>
-      <link>https://skemman.is/handle/1946/47823</link>
-      <description>Er svigrúm fyrir sveigjanleika? : viðhorf starfsfólks leikskóla til innritunar tólf mánaða barna með þarfir þeirra í huga - Iveta Borcová 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47823</guid>
     </item>
   </channel>
 </rss>
