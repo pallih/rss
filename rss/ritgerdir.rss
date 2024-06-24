@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 24 Jun 2024 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 13:02:16 +0000</lastBuildDate>
     <item>
       <title>Faraldsfræði notkunar svefnlyfja í aðdraganda og kjölfar innlagna á lyflæknisdeildir Landspítala</title>
       <link>https://skemman.is/handle/1946/48247</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/48256</link>
       <description>Understanding the relationship between knee valgus, explosive power, hip strenght in Icelandic adolescent female football players : are weak hips a sign of greater chances of ACL tear? - Birgir Freyr Magnason 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48256</guid>
+    </item>
+    <item>
+      <title>„Ég er aldrei einmana“ : tómstundir og einmanaleiki eldri borgara</title>
+      <link>https://skemman.is/handle/1946/48257</link>
+      <description>„Ég er aldrei einmana“ : tómstundir og einmanaleiki eldri borgara - Birgitta Karen Jóhannesardóttir 2000-; Daníel Þór Friðriksson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48257</guid>
     </item>
     <item>
       <title>Innovation in Icelandic companies : the engagement of Icelandic companies in innovation, their innovation management practices, and the extent of their use of innovation methodologies</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48235</link>
       <description>An evaluation of using the teach-back method for training teachers how to implement the Good Behavior Game - Steinunn Júlía Rögnvaldsdóttir Robinson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48235</guid>
-    </item>
-    <item>
-      <title>The effects of an online education lecture on parents' knowledge and skills to reduce their children’s sleep problems</title>
-      <link>https://skemman.is/handle/1946/48231</link>
-      <description>The effects of an online education lecture on parents' knowledge and skills to reduce their children’s sleep problems - Hildur Júlíusdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48231</guid>
     </item>
   </channel>
 </rss>
