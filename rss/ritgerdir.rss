@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 24 Jun 2024 10:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 11:00:17 +0000</lastBuildDate>
     <item>
       <title>Faraldsfræði notkunar svefnlyfja í aðdraganda og kjölfar innlagna á lyflæknisdeildir Landspítala</title>
       <link>https://skemman.is/handle/1946/48247</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48248</link>
       <description>Improving wellness-exam and vaccination attendance in children with developmental disabilities using reinforcement and fading techniques - Guðmundur Örn Sigþórsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48248</guid>
+    </item>
+    <item>
+      <title>Áhrif gagnavitundar á árangur verkefna og leiðir til úrbóta : „hvað er að taka svona langan tíma,  af hverju erum við ekki farin að nota þessa lausn?“</title>
+      <link>https://skemman.is/handle/1946/48249</link>
+      <description>Áhrif gagnavitundar á árangur verkefna og leiðir til úrbóta : „hvað er að taka svona langan tíma,  af hverju erum við ekki farin að nota þessa lausn?“ - Lilja Sigrún Sigmarsdóttir 1990-; Líf G. Gunnlaugsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48249</guid>
     </item>
     <item>
       <title>Innovation in Icelandic companies : the engagement of Icelandic companies in innovation, their innovation management practices, and the extent of their use of innovation methodologies</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/47807</link>
       <description>Blásið í glæður : bókmenntir, lestur og lesskilningur - Kristín Hrönn Sævarsdóttir 1963-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/47807</guid>
-    </item>
-    <item>
-      <title>EXIÐ : leikir og samtal sem leið til félagslegs þroska</title>
-      <link>https://skemman.is/handle/1946/47810</link>
-      <description>EXIÐ : leikir og samtal sem leið til félagslegs þroska - Matthías Hlífar Pálsson Mogensen 1997-; Tómas Smári Guðmundsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/47810</guid>
     </item>
   </channel>
 </rss>
