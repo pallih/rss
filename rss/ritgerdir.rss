@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 26 Jun 2024 16:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 17:00:22 +0000</lastBuildDate>
     <item>
       <title>Menningarkortlagning : aukin upplýsingaþjónusta fyrir ferðamenn</title>
       <link>https://skemman.is/handle/1946/48270</link>
@@ -141,6 +141,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48291</guid>
     </item>
     <item>
+      <title>Innleiðing skipulagsbreytinga tengd við fræði og starfsánægju</title>
+      <link>https://skemman.is/handle/1946/48292</link>
+      <description>Innleiðing skipulagsbreytinga tengd við fræði og starfsánægju - Karitas Valgeirsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48292</guid>
+    </item>
+    <item>
       <title>Hönnunarhugsun utan hefðbundins hönnunarumhverfis : áskoranir og kostir innleiðingar hönnunarhugsunar á Íslandi</title>
       <link>https://skemman.is/handle/1946/48267</link>
       <description>Hönnunarhugsun utan hefðbundins hönnunarumhverfis : áskoranir og kostir innleiðingar hönnunarhugsunar á Íslandi - Birgitta Rúnarsdóttir 1997-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48268</link>
       <description>„Ég dreg þennan bagga alltaf með mér" : áhrif tengslarofs í bernsku á myndun rómantískra sambanda - Salvör Björk Pétursdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48268</guid>
-    </item>
-    <item>
-      <title>How does the hip flexion affect jumping and sprinting in Icelandic elite basketball players?</title>
-      <link>https://skemman.is/handle/1946/48269</link>
-      <description>How does the hip flexion affect jumping and sprinting in Icelandic elite basketball players? - Davíð Edward Anderson 2000-; Sigurgeir Andri Ágústsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48269</guid>
     </item>
   </channel>
 </rss>
