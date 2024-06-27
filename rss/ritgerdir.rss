@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 27 Jun 2024 15:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 16:00:27 +0000</lastBuildDate>
     <item>
       <title>„Það er ómetanlegt að fá að vera heima með barninu sínu í fæðingarorlofi” : upplifun feðra á nýtingu fæðingarorlofs og tengslamyndun við barn sitt</title>
       <link>https://skemman.is/handle/1946/48295</link>
@@ -51,12 +51,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48299</guid>
     </item>
     <item>
-      <title>Áhorfendaþróun innan sviðslistastofnana á Íslandi : samsetning áhorfenda og leiðir til frekari þróunnar</title>
-      <link>https://skemman.is/handle/1946/48300</link>
-      <description>Áhorfendaþróun innan sviðslistastofnana á Íslandi : samsetning áhorfenda og leiðir til frekari þróunnar - Lilja Björk Haraldsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48300</guid>
-    </item>
-    <item>
       <title>Gallar í fasteignum : er hægt að einfalda og flýta málsmeðferð?</title>
       <link>https://skemman.is/handle/1946/48301</link>
       <description>Gallar í fasteignum : er hægt að einfalda og flýta málsmeðferð? - Björg Jónsdóttir 1959-</description>
@@ -67,6 +61,18 @@
       <link>https://skemman.is/handle/1946/48302</link>
       <description>Persónuvernd : ábyrgð og skyldur lögaðila og stjórnenda við rekstur stofnana- og fyrirtækjavefja með áherslu á netöryggi. - Selma Hrönn Maríudóttir 1969-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48302</guid>
+    </item>
+    <item>
+      <title>Allir í bátana!  „Langtímaáhrif eldgossins í Heimaey árið 1973 á þau sem upplifðu hamfarirnar sem börn“</title>
+      <link>https://skemman.is/handle/1946/48303</link>
+      <description>Allir í bátana!  „Langtímaáhrif eldgossins í Heimaey árið 1973 á þau sem upplifðu hamfarirnar sem börn“ - Kristín Eva Sveinsdóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48303</guid>
+    </item>
+    <item>
+      <title>Áhorfendaþróun innan sviðslistastofnana á Íslandi : samsetning áhorfenda og leiðir til frekari þróunnar</title>
+      <link>https://skemman.is/handle/1946/48300</link>
+      <description>Áhorfendaþróun innan sviðslistastofnana á Íslandi : samsetning áhorfenda og leiðir til frekari þróunnar - Lilja Björk Haraldsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48300</guid>
     </item>
     <item>
       <title>Menningarkortlagning : aukin upplýsingaþjónusta fyrir ferðamenn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48288</link>
       <description>Gerir vörutryggð Akureyringa við norðlensk vörumerki sunnlenskum fyrirtækjum erfitt uppdráttar í rekstri á Akureyri? : hvað orsakar slakt gengi sunnlenskra fyrirtækja á Akureyri? - Dóra Valgerður Óskarsdóttir 2000-; Friðrik Gunnarsson 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48288</guid>
-    </item>
-    <item>
-      <title>Einkenni leiðtoga í fjölskyldureknum ferðaþjónustufyrirtækjum á Norðurlandi og áhrif þeirra á framlag</title>
-      <link>https://skemman.is/handle/1946/48286</link>
-      <description>Einkenni leiðtoga í fjölskyldureknum ferðaþjónustufyrirtækjum á Norðurlandi og áhrif þeirra á framlag - Margrét Árnadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48286</guid>
     </item>
   </channel>
 </rss>
