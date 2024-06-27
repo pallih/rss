@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 27 Jun 2024 13:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 14:00:26 +0000</lastBuildDate>
     <item>
       <title>„Það er ómetanlegt að fá að vera heima með barninu sínu í fæðingarorlofi” : upplifun feðra á nýtingu fæðingarorlofs og tengslamyndun við barn sitt</title>
       <link>https://skemman.is/handle/1946/48295</link>
@@ -43,6 +43,30 @@
       <link>https://skemman.is/handle/1946/48298</link>
       <description>Tengjumst : aðgengilegt smáforrit sem tengir saman fatlað fólk og aðstoðarfólk - Hekla Sóley Arnarsdóttir 1999-; Alexandra Einarsdóttir 2000-; Daði Steinn Jónsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48298</guid>
+    </item>
+    <item>
+      <title>Breytingar á menningu innan rótgróinna fyrirtækja</title>
+      <link>https://skemman.is/handle/1946/48299</link>
+      <description>Breytingar á menningu innan rótgróinna fyrirtækja - Margrét Ósk Vilbergsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48299</guid>
+    </item>
+    <item>
+      <title>Áhorfendaþróun innan sviðslistastofnana á Íslandi : samsetning áhorfenda og leiðir til frekari þróunnar</title>
+      <link>https://skemman.is/handle/1946/48300</link>
+      <description>Áhorfendaþróun innan sviðslistastofnana á Íslandi : samsetning áhorfenda og leiðir til frekari þróunnar - Lilja Björk Haraldsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48300</guid>
+    </item>
+    <item>
+      <title>Gallar í fasteignum : er hægt að einfalda og flýta málsmeðferð?</title>
+      <link>https://skemman.is/handle/1946/48301</link>
+      <description>Gallar í fasteignum : er hægt að einfalda og flýta málsmeðferð? - Björg Jónsdóttir 1959-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48301</guid>
+    </item>
+    <item>
+      <title>Persónuvernd : ábyrgð og skyldur lögaðila og stjórnenda við rekstur stofnana- og fyrirtækjavefja með áherslu á netöryggi.</title>
+      <link>https://skemman.is/handle/1946/48302</link>
+      <description>Persónuvernd : ábyrgð og skyldur lögaðila og stjórnenda við rekstur stofnana- og fyrirtækjavefja með áherslu á netöryggi. - Selma Hrönn Maríudóttir 1969-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48302</guid>
     </item>
     <item>
       <title>Menningarkortlagning : aukin upplýsingaþjónusta fyrir ferðamenn</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/48286</link>
       <description>Einkenni leiðtoga í fjölskyldureknum ferðaþjónustufyrirtækjum á Norðurlandi og áhrif þeirra á framlag - Margrét Árnadóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48286</guid>
-    </item>
-    <item>
-      <title>Grænþvottur í íslenskum netverslunum : innihaldsgreining á vörum með umhverfisfullyrðingum</title>
-      <link>https://skemman.is/handle/1946/48289</link>
-      <description>Grænþvottur í íslenskum netverslunum : innihaldsgreining á vörum með umhverfisfullyrðingum - Lára Guðjónsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48289</guid>
-    </item>
-    <item>
-      <title>Útvistun á upplýsingatækniþjónustu hjá hinu opinbera : hverjir eru kostir og gallar ?</title>
-      <link>https://skemman.is/handle/1946/48287</link>
-      <description>Útvistun á upplýsingatækniþjónustu hjá hinu opinbera : hverjir eru kostir og gallar ? - Árni Rúnar Birnuson 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48287</guid>
-    </item>
-    <item>
-      <title>,,Hvernig get ég hjálpað þér í dag?" : aukin skilvirkni í þjónustu við viðskiptavini (e. customer service)</title>
-      <link>https://skemman.is/handle/1946/48285</link>
-      <description>,,Hvernig get ég hjálpað þér í dag?" : aukin skilvirkni í þjónustu við viðskiptavini (e. customer service) - Hólmfríður Erna Kjartansdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48285</guid>
-    </item>
-    <item>
-      <title>Hver er ávinningur Bílaumboðsins Öskju af innleiðingu nýs vörutrés?</title>
-      <link>https://skemman.is/handle/1946/48283</link>
-      <description>Hver er ávinningur Bílaumboðsins Öskju af innleiðingu nýs vörutrés? - Daníel Ómar Viggósson 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48283</guid>
     </item>
   </channel>
 </rss>
