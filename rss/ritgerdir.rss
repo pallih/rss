@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 27 Jun 2024 12:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 13:02:22 +0000</lastBuildDate>
     <item>
       <title>„Það er ómetanlegt að fá að vera heima með barninu sínu í fæðingarorlofi” : upplifun feðra á nýtingu fæðingarorlofs og tengslamyndun við barn sitt</title>
       <link>https://skemman.is/handle/1946/48295</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/48294</link>
       <description>Forræðishyggja í sjálfstæðri búsetu fatlaðs fólks - Elísa Vilborg Halldórsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48294</guid>
+    </item>
+    <item>
+      <title>Tengjumst : aðgengilegt smáforrit sem tengir saman fatlað fólk og aðstoðarfólk</title>
+      <link>https://skemman.is/handle/1946/48298</link>
+      <description>Tengjumst : aðgengilegt smáforrit sem tengir saman fatlað fólk og aðstoðarfólk - Hekla Sóley Arnarsdóttir 1999-; Alexandra Einarsdóttir 2000-; Daði Steinn Jónsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48298</guid>
     </item>
     <item>
       <title>Menningarkortlagning : aukin upplýsingaþjónusta fyrir ferðamenn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48283</link>
       <description>Hver er ávinningur Bílaumboðsins Öskju af innleiðingu nýs vörutrés? - Daníel Ómar Viggósson 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48283</guid>
-    </item>
-    <item>
-      <title>Nýtt upphaf í markaðssamskiptum : hver eru hugsanleg áhrif gervigreindar á markaðssamskipti?</title>
-      <link>https://skemman.is/handle/1946/48281</link>
-      <description>Nýtt upphaf í markaðssamskiptum : hver eru hugsanleg áhrif gervigreindar á markaðssamskipti? - Ingólfur Páll Ægisson Norðdahl 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48281</guid>
     </item>
   </channel>
 </rss>
