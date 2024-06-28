@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 28 Jun 2024 15:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 16:00:22 +0000</lastBuildDate>
     <item>
       <title>Analysis of cytokine response following vaccination against equine insect bite hypersensitivity</title>
       <link>https://skemman.is/handle/1946/48304</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/48307</link>
       <description>„Hve glöð er vor æska?“ Æskulýðsstarf og tengslanet sem greina má í lögum nr. 86/2021 um samþættingu þjónustu í þágu farsældar barna. - Vilborg Harðardóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48307</guid>
+    </item>
+    <item>
+      <title>Úti í náttúrunni er dáldið mikið bara ekkert að frétta. Útvarpsþættir um sálfræðilega endurheimt náttúrunnar.</title>
+      <link>https://skemman.is/handle/1946/48308</link>
+      <description>Úti í náttúrunni er dáldið mikið bara ekkert að frétta. Útvarpsþættir um sálfræðilega endurheimt náttúrunnar. - Steinunn Berglindardóttir 1963-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48308</guid>
     </item>
     <item>
       <title>Allir í bátana!  „Langtímaáhrif eldgossins í Heimaey árið 1973 á þau sem upplifðu hamfarirnar sem börn“</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48275</link>
       <description>Mat dómstóla á skilyrðum neyðarvarnar  skv. 12. gr. almennra hegningarlaga nr. 19/1940 - Ragnheiður Einarsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48275</guid>
-    </item>
-    <item>
-      <title>Hinn íslenski orkudrykkjamarkaður : hvernig er neytendahegðun og hver er markaðshlutdeild á íslenskum orkudrykkjamarkaði</title>
-      <link>https://skemman.is/handle/1946/48277</link>
-      <description>Hinn íslenski orkudrykkjamarkaður : hvernig er neytendahegðun og hver er markaðshlutdeild á íslenskum orkudrykkjamarkaði - Birgir Snær Hjaltason 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48277</guid>
     </item>
   </channel>
 </rss>
