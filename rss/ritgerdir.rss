@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 07 Aug 2024 16:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 17:00:21 +0000</lastBuildDate>
     <item>
       <title>Yeast Strains for Expression of Foreign Genes</title>
       <link>https://skemman.is/handle/1946/48312</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/48321</link>
       <description>Stærðfræðikennsla á Austurlandi : fagþekking og starfsþróun í fimm grunnskólum - Karen Sveinsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48321</guid>
+    </item>
+    <item>
+      <title>Athugun á tónlistarlegri sjálfsmynd íslenskra leikskólastarfsmanna</title>
+      <link>https://skemman.is/handle/1946/48322</link>
+      <description>Athugun á tónlistarlegri sjálfsmynd íslenskra leikskólastarfsmanna - Agnieszka Aurelia Korpak 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48322</guid>
     </item>
     <item>
       <title>Segulómun af heila vegna gruns um heilablóðfall: Samanburður á milli tveggja ólíkra myndaraða</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48303</link>
       <description>Allir í bátana!  „Langtímaáhrif eldgossins í Heimaey árið 1973 á þau sem upplifðu hamfarirnar sem börn“ - Kristín Eva Sveinsdóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48303</guid>
-    </item>
-    <item>
-      <title>Gallar í fasteignum : er hægt að einfalda og flýta málsmeðferð?</title>
-      <link>https://skemman.is/handle/1946/48301</link>
-      <description>Gallar í fasteignum : er hægt að einfalda og flýta málsmeðferð? - Björg Jónsdóttir 1959-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48301</guid>
     </item>
   </channel>
 </rss>
