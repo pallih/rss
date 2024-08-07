@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 07 Aug 2024 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 15:00:32 +0000</lastBuildDate>
     <item>
       <title>Yeast Strains for Expression of Foreign Genes</title>
       <link>https://skemman.is/handle/1946/48312</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/48315</link>
       <description>Viðhorf náttúruvísindakennara til náttúruvísindahluta Aðalnámskrár grunnskóla - Róbert Pettersson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48315</guid>
+    </item>
+    <item>
+      <title>Hugarfar og hugmyndir um vináttu : sýn barna á vináttu og áskoranir sem henni fylgja</title>
+      <link>https://skemman.is/handle/1946/48316</link>
+      <description>Hugarfar og hugmyndir um vináttu : sýn barna á vináttu og áskoranir sem henni fylgja - Marit Davíðsdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48316</guid>
+    </item>
+    <item>
+      <title>Hvar á ég að byrja? : Helstu viðfangsefni og áskoranir skólastjóra nýrra grunnskóla</title>
+      <link>https://skemman.is/handle/1946/48317</link>
+      <description>Hvar á ég að byrja? : Helstu viðfangsefni og áskoranir skólastjóra nýrra grunnskóla - Jón Haukur Hafsteinsson 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48317</guid>
     </item>
     <item>
       <title>Segulómun af heila vegna gruns um heilablóðfall: Samanburður á milli tveggja ólíkra myndaraða</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48299</link>
       <description>Breytingar á menningu innan rótgróinna fyrirtækja - Margrét Ósk Vilbergsdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48299</guid>
-    </item>
-    <item>
-      <title>Lagaumhverfi Réttargæslumanna : hvað er hægt að bæta í lagaumhverfi réttargæslumanna þannig að þeir geti betur sinnt mikilvægu hlutverki sínu í þágu brotaþola í sakamálum?</title>
-      <link>https://skemman.is/handle/1946/48274</link>
-      <description>Lagaumhverfi Réttargæslumanna : hvað er hægt að bæta í lagaumhverfi réttargæslumanna þannig að þeir geti betur sinnt mikilvægu hlutverki sínu í þágu brotaþola í sakamálum? - Pétur Snær Hansen Jónsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48274</guid>
-    </item>
-    <item>
-      <title>“Þetta snýst allt um að vera frægur“ : veigamestu þættir við uppbyggingu á jákvæðri, sterkri og einstakri ímynd vörumerkja á íslenskum markaði barnavöruverslana</title>
-      <link>https://skemman.is/handle/1946/48279</link>
-      <description>“Þetta snýst allt um að vera frægur“ : veigamestu þættir við uppbyggingu á jákvæðri, sterkri og einstakri ímynd vörumerkja á íslenskum markaði barnavöruverslana - Isabel Guðrún Gómez 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48279</guid>
     </item>
   </channel>
 </rss>
