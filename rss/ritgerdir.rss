@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 07 Aug 2024 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:00:33 +0000</lastBuildDate>
     <item>
       <title>Yeast Strains for Expression of Foreign Genes</title>
       <link>https://skemman.is/handle/1946/48312</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48313</link>
       <description>Ævintýraleg námsaðferð : hringekjuvinna með leikskólabörnum - Linda Hlín Heiðarsdóttir 1978-; Jenný Olga Eggertsdóttir 1970-; Una Björg Ingimundardóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48313</guid>
+    </item>
+    <item>
+      <title>Snemmtæk íhlutun í leikskóla : sérstaða þroskaþjálfa</title>
+      <link>https://skemman.is/handle/1946/48314</link>
+      <description>Snemmtæk íhlutun í leikskóla : sérstaða þroskaþjálfa - Lovísa Hrund Stefánsdóttir 1988-; Tinna Ýr Gunnarsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48314</guid>
     </item>
     <item>
       <title>Segulómun af heila vegna gruns um heilablóðfall: Samanburður á milli tveggja ólíkra myndaraða</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48276</link>
       <description>Hvað felst í árangursríkri innleiðingu á CRM hugmyndafræðinni fyrir fyrirtæki á Íslandi? - Alda Björk Larsen 1974-; Lára Ósk Ásgrímsdóttir 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48276</guid>
-    </item>
-    <item>
-      <title>Eðli, tilgangur og ávinningur gagnasöfnunar</title>
-      <link>https://skemman.is/handle/1946/48280</link>
-      <description>Eðli, tilgangur og ávinningur gagnasöfnunar - Kristjana Dís Þorvaldsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48280</guid>
     </item>
   </channel>
 </rss>
