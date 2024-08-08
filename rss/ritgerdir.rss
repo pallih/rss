@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Aug 2024 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 17:00:22 +0000</lastBuildDate>
     <item>
       <title>Er skátastarf opið öllum? : sýn skátaforingja á inngildingu jaðarsettra hópa í skátastarfi</title>
       <link>https://skemman.is/handle/1946/48337</link>
@@ -123,6 +123,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48341</guid>
     </item>
     <item>
+      <title>Upplifun kennara á aðkomu foreldra að stærðfræðinámi nemenda á unglingastigi</title>
+      <link>https://skemman.is/handle/1946/48342</link>
+      <description>Upplifun kennara á aðkomu foreldra að stærðfræðinámi nemenda á unglingastigi - Bergur Ari Sveinsson 1998-; Jón Steinar Arnarson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48342</guid>
+    </item>
+    <item>
       <title>Yeast Strains for Expression of Foreign Genes</title>
       <link>https://skemman.is/handle/1946/48312</link>
       <description>Yeast Strains for Expression of Foreign Genes - Sara Sigurbjörnsdóttir 1984-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48316</link>
       <description>Hugarfar og hugmyndir um vináttu : sýn barna á vináttu og áskoranir sem henni fylgja - Marit Davíðsdóttir 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48316</guid>
-    </item>
-    <item>
-      <title>Viðhorf náttúruvísindakennara til náttúruvísindahluta Aðalnámskrár grunnskóla</title>
-      <link>https://skemman.is/handle/1946/48315</link>
-      <description>Viðhorf náttúruvísindakennara til náttúruvísindahluta Aðalnámskrár grunnskóla - Róbert Pettersson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48315</guid>
     </item>
   </channel>
 </rss>
