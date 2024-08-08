@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Aug 2024 15:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 16:00:30 +0000</lastBuildDate>
     <item>
       <title>Er skátastarf opið öllum? : sýn skátaforingja á inngildingu jaðarsettra hópa í skátastarfi</title>
       <link>https://skemman.is/handle/1946/48337</link>
       <description>Er skátastarf opið öllum? : sýn skátaforingja á inngildingu jaðarsettra hópa í skátastarfi - Þórhildur Elínard. Magnúsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48337</guid>
+    </item>
+    <item>
+      <title>Aðgengi barna að skapandi efniviði í leikskóla</title>
+      <link>https://skemman.is/handle/1946/48338</link>
+      <description>Aðgengi barna að skapandi efniviði í leikskóla - Þóra Lilja Kristjánsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48338</guid>
     </item>
     <item>
       <title>Óvirkni í námi, vinnu eða starfsþjálfun og áhrif erfiðrar reynslu í æsku</title>
@@ -99,10 +105,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48334</guid>
     </item>
     <item>
-      <title>Aðgengi barna að skapandi efniviði í leikskóla</title>
-      <link>https://skemman.is/handle/1946/48338</link>
-      <description>Aðgengi barna að skapandi efniviði í leikskóla - Þóra Lilja Kristjánsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48338</guid>
+      <title>„Við viljum að börnin vaxi úr grasi, verði sjálfstæð og eignist heimili“ : eigindleg rannsókn á sýn mæðra á samskipti við uppkomin börn sín og þörf fyrir foreldrafræðslu</title>
+      <link>https://skemman.is/handle/1946/48339</link>
+      <description>„Við viljum að börnin vaxi úr grasi, verði sjálfstæð og eignist heimili“ : eigindleg rannsókn á sýn mæðra á samskipti við uppkomin börn sín og þörf fyrir foreldrafræðslu - Lilja Dögg Gylfadóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48339</guid>
+    </item>
+    <item>
+      <title>„Ég ætla ekki að láta þetta foreldri stjórna hvernig ég kenni“ : starfsumhverfi skóla í kjölfar hinsegin bakslagsins</title>
+      <link>https://skemman.is/handle/1946/48340</link>
+      <description>„Ég ætla ekki að láta þetta foreldri stjórna hvernig ég kenni“ : starfsumhverfi skóla í kjölfar hinsegin bakslagsins - Anna Mae Cathcart-Jones 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48340</guid>
+    </item>
+    <item>
+      <title>Stafræn völundarhús : upplifun foreldra af snjalltækjanotkun barna sinna.</title>
+      <link>https://skemman.is/handle/1946/48341</link>
+      <description>Stafræn völundarhús : upplifun foreldra af snjalltækjanotkun barna sinna. - Hrafnhildur Sigurðardóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48341</guid>
     </item>
     <item>
       <title>Yeast Strains for Expression of Foreign Genes</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48315</link>
       <description>Viðhorf náttúruvísindakennara til náttúruvísindahluta Aðalnámskrár grunnskóla - Róbert Pettersson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48315</guid>
-    </item>
-    <item>
-      <title>Hvar á ég að byrja? : Helstu viðfangsefni og áskoranir skólastjóra nýrra grunnskóla</title>
-      <link>https://skemman.is/handle/1946/48317</link>
-      <description>Hvar á ég að byrja? : Helstu viðfangsefni og áskoranir skólastjóra nýrra grunnskóla - Jón Haukur Hafsteinsson 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48317</guid>
-    </item>
-    <item>
-      <title>Viðbrögð í grunnskólum við áföllum í nemendahópnum</title>
-      <link>https://skemman.is/handle/1946/48320</link>
-      <description>Viðbrögð í grunnskólum við áföllum í nemendahópnum - Áslaug Hreiðarsdóttir 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48320</guid>
-    </item>
-    <item>
-      <title>Áhugi unglinga á stærðfræði : tengsl við sálfræðilegar grunnþarfir</title>
-      <link>https://skemman.is/handle/1946/48319</link>
-      <description>Áhugi unglinga á stærðfræði : tengsl við sálfræðilegar grunnþarfir - Fjölnir Brynjarsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48319</guid>
     </item>
   </channel>
 </rss>
