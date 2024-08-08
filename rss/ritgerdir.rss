@@ -7,18 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Aug 2024 10:00:24 +0000</lastBuildDate>
-    <item>
-      <title>Stigmögnun ofbeldis í nánu sambandi</title>
-      <link>https://skemman.is/handle/1946/48323</link>
-      <description>Stigmögnun ofbeldis í nánu sambandi - Nikólína Ósk Rúnarsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48323</guid>
-    </item>
+    <lastBuildDate>Thu, 08 Aug 2024 11:00:27 +0000</lastBuildDate>
     <item>
       <title>Óvirkni í námi, vinnu eða starfsþjálfun og áhrif erfiðrar reynslu í æsku</title>
       <link>https://skemman.is/handle/1946/48324</link>
       <description>Óvirkni í námi, vinnu eða starfsþjálfun og áhrif erfiðrar reynslu í æsku - Hrafnhildur Ragnarsdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48324</guid>
+    </item>
+    <item>
+      <title>Fötluð börn og áföll : hvernig er hægt að nota áfallamiðaða nálgun í starfi með börnum með þroskahömlun?</title>
+      <link>https://skemman.is/handle/1946/48327</link>
+      <description>Fötluð börn og áföll : hvernig er hægt að nota áfallamiðaða nálgun í starfi með börnum með þroskahömlun? - Una Dís Ingimarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48327</guid>
+    </item>
+    <item>
+      <title>Analyzing the english language hierarchy : how globalization affects language inequality in the Philippines</title>
+      <link>https://skemman.is/handle/1946/48329</link>
+      <description>Analyzing the english language hierarchy : how globalization affects language inequality in the Philippines - Rosette Nelle Buniao Blasco 1995-; Kristine Cabrera Elizalde 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48329</guid>
+    </item>
+    <item>
+      <title>Fræðandi frásögn : að afhjúpa áhrif söguaðferðarinnar á leik og nám barna</title>
+      <link>https://skemman.is/handle/1946/48326</link>
+      <description>Fræðandi frásögn : að afhjúpa áhrif söguaðferðarinnar á leik og nám barna - Heiða Guðnadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48326</guid>
+    </item>
+    <item>
+      <title>Í hverju liggur meginmunur í lestrarkennsluaðferðum Byrjendalæsis og PALS</title>
+      <link>https://skemman.is/handle/1946/48328</link>
+      <description>Í hverju liggur meginmunur í lestrarkennsluaðferðum Byrjendalæsis og PALS - Linda Geirdal Eddudóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48328</guid>
+    </item>
+    <item>
+      <title>Sjálfræði í lífi einstaklinga með langvarandi stuðningsþarfir</title>
+      <link>https://skemman.is/handle/1946/48325</link>
+      <description>Sjálfræði í lífi einstaklinga með langvarandi stuðningsþarfir - Gyða Rut Arnmundsdóttir 1992-; Bryndís Sölvadóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48325</guid>
+    </item>
+    <item>
+      <title>Stigmögnun ofbeldis í nánu sambandi</title>
+      <link>https://skemman.is/handle/1946/48323</link>
+      <description>Stigmögnun ofbeldis í nánu sambandi - Nikólína Ósk Rúnarsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48323</guid>
     </item>
     <item>
       <title>Yeast Strains for Expression of Foreign Genes</title>
@@ -75,16 +105,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48319</guid>
     </item>
     <item>
-      <title>Stærðfræðikennsla á Austurlandi : fagþekking og starfsþróun í fimm grunnskólum</title>
-      <link>https://skemman.is/handle/1946/48321</link>
-      <description>Stærðfræðikennsla á Austurlandi : fagþekking og starfsþróun í fimm grunnskólum - Karen Sveinsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48321</guid>
-    </item>
-    <item>
       <title>Athugun á tónlistarlegri sjálfsmynd íslenskra leikskólastarfsmanna</title>
       <link>https://skemman.is/handle/1946/48322</link>
       <description>Athugun á tónlistarlegri sjálfsmynd íslenskra leikskólastarfsmanna - Agnieszka Aurelia Korpak 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48322</guid>
+    </item>
+    <item>
+      <title>Stærðfræðikennsla á Austurlandi : fagþekking og starfsþróun í fimm grunnskólum</title>
+      <link>https://skemman.is/handle/1946/48321</link>
+      <description>Stærðfræðikennsla á Austurlandi : fagþekking og starfsþróun í fimm grunnskólum - Karen Sveinsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48321</guid>
     </item>
     <item>
       <title>Segulómun af heila vegna gruns um heilablóðfall: Samanburður á milli tveggja ólíkra myndaraða</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/48308</link>
       <description>Úti í náttúrunni er dáldið mikið bara ekkert að frétta. Útvarpsþættir um sálfræðilega endurheimt náttúrunnar. - Steinunn Berglindardóttir 1963-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48308</guid>
-    </item>
-    <item>
-      <title>Analysis of cytokine response following vaccination against equine insect bite hypersensitivity</title>
-      <link>https://skemman.is/handle/1946/48304</link>
-      <description>Analysis of cytokine response following vaccination against equine insect bite hypersensitivity - Hafdís María Pétursdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48304</guid>
-    </item>
-    <item>
-      <title>„Það er ómetanlegt að fá að vera heima með barninu sínu í fæðingarorlofi” : upplifun feðra á nýtingu fæðingarorlofs og tengslamyndun við barn sitt</title>
-      <link>https://skemman.is/handle/1946/48295</link>
-      <description>„Það er ómetanlegt að fá að vera heima með barninu sínu í fæðingarorlofi” : upplifun feðra á nýtingu fæðingarorlofs og tengslamyndun við barn sitt - Andrea Ösp Kristinsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48295</guid>
-    </item>
-    <item>
-      <title>Understanding dyslexia in the Ghanaian and Ugandan context : national policies and teachers’ practices</title>
-      <link>https://skemman.is/handle/1946/48297</link>
-      <description>Understanding dyslexia in the Ghanaian and Ugandan context : national policies and teachers’ practices - Leslie Woelorm Lumor 1995-; Yvone Muwanika 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48297</guid>
-    </item>
-    <item>
-      <title>Af máli má manninn þekkja : áhrif annars móðurmáls, erlends eða táknmáls, á félagslega stöðu barna á Íslandi</title>
-      <link>https://skemman.is/handle/1946/48296</link>
-      <description>Af máli má manninn þekkja : áhrif annars móðurmáls, erlends eða táknmáls, á félagslega stöðu barna á Íslandi - Thelma Karen Bjarnadóttir 1997-; Íris Birna Arnarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48296</guid>
-    </item>
-    <item>
-      <title>Frásagnarspilið - Málgleði : námsspil til að efla frásagnarhæfni</title>
-      <link>https://skemman.is/handle/1946/48293</link>
-      <description>Frásagnarspilið - Málgleði : námsspil til að efla frásagnarhæfni - Hólmfríður Björnsdóttir 1980-; Hrafnhildur Guðjónsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48293</guid>
     </item>
   </channel>
 </rss>
