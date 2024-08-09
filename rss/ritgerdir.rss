@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 09 Aug 2024 12:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 13:03:05 +0000</lastBuildDate>
     <item>
       <title>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti.</title>
       <link>https://skemman.is/handle/1946/48343</link>
@@ -61,6 +61,18 @@
       <link>https://skemman.is/handle/1946/48351</link>
       <description>Ungt fólk til afreka: Helstu grunnþættir að velgengni ungmenna í íþróttum - Guðný Hrefna Sverrisdóttir 1982-; Sandra Sif Úlfarsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48351</guid>
+    </item>
+    <item>
+      <title>Siðferðisnám</title>
+      <link>https://skemman.is/handle/1946/48352</link>
+      <description>Siðferðisnám - Sóley Brynjarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48352</guid>
+    </item>
+    <item>
+      <title>Stærðfræði í leikskóla : þróun stærðfræðilegrar hugsunar barna á leikskólaaldri</title>
+      <link>https://skemman.is/handle/1946/48353</link>
+      <description>Stærðfræði í leikskóla : þróun stærðfræðilegrar hugsunar barna á leikskólaaldri - Aleksandra Bosnjak 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48353</guid>
     </item>
     <item>
       <title>Er skátastarf opið öllum? : sýn skátaforingja á inngildingu jaðarsettra hópa í skátastarfi</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48333</link>
       <description>Inngilding hinsegin nemenda í grunnskólum í Kópavogi : upplifun og reynsla skólastjórnenda - Íris Björk Eysteinsdóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48333</guid>
-    </item>
-    <item>
-      <title>Menntastefna í ljósi farsældar : hvernig er nýjum lögum um samþættingu þjónustu ætlað að stuðla að farsæld barna?</title>
-      <link>https://skemman.is/handle/1946/48331</link>
-      <description>Menntastefna í ljósi farsældar : hvernig er nýjum lögum um samþættingu þjónustu ætlað að stuðla að farsæld barna? - Anna Kristín Gunnarsdóttir 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48331</guid>
-    </item>
-    <item>
-      <title>Að efla hug og hjarta : félags-, tilfinninga-, og siðferðinám</title>
-      <link>https://skemman.is/handle/1946/48332</link>
-      <description>Að efla hug og hjarta : félags-, tilfinninga-, og siðferðinám - Halla Ósk Heiðmarsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48332</guid>
     </item>
   </channel>
 </rss>
