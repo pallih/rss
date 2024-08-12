@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 12 Aug 2024 14:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 15:00:29 +0000</lastBuildDate>
     <item>
       <title>„Kynfræðsla ætti að hafa meira vægi“ : viðhorf grunnskólakennara til kynfræðslu</title>
       <link>https://skemman.is/handle/1946/48375</link>
@@ -87,6 +87,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48378</guid>
     </item>
     <item>
+      <title>Aðgengi upplýsinga : betra aðgengi fyrir fjölskyldur fatlaðra barna</title>
+      <link>https://skemman.is/handle/1946/48379</link>
+      <description>Aðgengi upplýsinga : betra aðgengi fyrir fjölskyldur fatlaðra barna - Anna Helen Guðmundsdóttir Vinther 1991-; Brynjar Orri Bjarnason 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48379</guid>
+    </item>
+    <item>
       <title>Sýn og reynsla ungmenna af því að búa til skiptis hjá foreldrum á teimur heimilum : "Það var svo mikið rót, maður var varla búinn að koma sér fyrir áður en maður var rokinn af stað aftur"</title>
       <link>https://skemman.is/handle/1946/48349</link>
       <description>Sýn og reynsla ungmenna af því að búa til skiptis hjá foreldrum á teimur heimilum : "Það var svo mikið rót, maður var varla búinn að koma sér fyrir áður en maður var rokinn af stað aftur" - Sandra Jónsdóttir 1986-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48344</link>
       <description>Performance measurements, strength, and power assessment through 11 months : case study of elite Icelandic volleyball player - Atli Fannar Pétursson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48344</guid>
-    </item>
-    <item>
-      <title>Glósubók Gunnars : vefur með kennslumyndum í stærðfræði</title>
-      <link>https://skemman.is/handle/1946/48345</link>
-      <description>Glósubók Gunnars : vefur með kennslumyndum í stærðfræði - Gunnar Ásgrímsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48345</guid>
     </item>
   </channel>
 </rss>
