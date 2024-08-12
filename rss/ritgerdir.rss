@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 12 Aug 2024 10:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 11:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Menningarmiðuð kennsla í skóla án aðgreiningar</title>
+      <link>https://skemman.is/handle/1946/48366</link>
+      <description>Menningarmiðuð kennsla í skóla án aðgreiningar - Sigríður Laufey Gunnlaugsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48366</guid>
+    </item>
+    <item>
+      <title>Hreyfing fatlaðra barna og ungmenna : hvaða þættir hafa áhrif?</title>
+      <link>https://skemman.is/handle/1946/48367</link>
+      <description>Hreyfing fatlaðra barna og ungmenna : hvaða þættir hafa áhrif? - Guðfinnur Þór Leósson 1999-; Jóhann Geir Sævarsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48367</guid>
+    </item>
     <item>
       <title>Slit fyrningar. Mismunandi aðferðir til að slíta fyrningu á grundvelli laga nr. 150/2007 um fyrningu kröfuréttinda og 165. gr. laga nr. 21/1991 um gjaldþrotaskipti.</title>
       <link>https://skemman.is/handle/1946/48343</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48365</link>
       <description>Fögnum fjölbreytileikanum : tómstundaþátttaka barna og unglinga með fjölbreyttan tungumála- og menningarbakgrunn - Anna Lilja Björnsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48365</guid>
-    </item>
-    <item>
-      <title>Er skátastarf opið öllum? : sýn skátaforingja á inngildingu jaðarsettra hópa í skátastarfi</title>
-      <link>https://skemman.is/handle/1946/48337</link>
-      <description>Er skátastarf opið öllum? : sýn skátaforingja á inngildingu jaðarsettra hópa í skátastarfi - Þórhildur Elínard. Magnúsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48337</guid>
-    </item>
-    <item>
-      <title>„Við viljum að börnin vaxi úr grasi, verði sjálfstæð og eignist heimili“ : eigindleg rannsókn á sýn mæðra á samskipti við uppkomin börn sín og þörf fyrir foreldrafræðslu</title>
-      <link>https://skemman.is/handle/1946/48339</link>
-      <description>„Við viljum að börnin vaxi úr grasi, verði sjálfstæð og eignist heimili“ : eigindleg rannsókn á sýn mæðra á samskipti við uppkomin börn sín og þörf fyrir foreldrafræðslu - Lilja Dögg Gylfadóttir 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48339</guid>
     </item>
   </channel>
 </rss>
