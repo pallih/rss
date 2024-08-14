@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Aug 2024 10:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 11:00:36 +0000</lastBuildDate>
     <item>
       <title>Með sól í hjarta : greinargerð ásamt barnabók og þakklætisdagbók</title>
       <link>https://skemman.is/handle/1946/48405</link>
       <description>Með sól í hjarta : greinargerð ásamt barnabók og þakklætisdagbók - Ásta Bryndís Ragnarsdóttir 1995-; Eydís Harpa Bjarnadóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48405</guid>
+    </item>
+    <item>
+      <title>Hlutverk deildarstjóra í leikskóla : áherslur á lýðræðisleg forystu og samskipti</title>
+      <link>https://skemman.is/handle/1946/48406</link>
+      <description>Hlutverk deildarstjóra í leikskóla : áherslur á lýðræðisleg forystu og samskipti - Hildur Tryggvadóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48406</guid>
     </item>
     <item>
       <title>Samþætting þjónustu og árangursrík teymisvinna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48373</link>
       <description>Hvernig hafa áherslur í upplýsingatækni þróast í grunnskólum á Íslandi? - Eyrún Rós Þorsteinsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48373</guid>
-    </item>
-    <item>
-      <title>Hvernig nálgast kennarar efnið fjármálalæsi í grunnskólum?</title>
-      <link>https://skemman.is/handle/1946/48374</link>
-      <description>Hvernig nálgast kennarar efnið fjármálalæsi í grunnskólum? - Gunnar Dan Þórðarson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48374</guid>
     </item>
   </channel>
 </rss>
