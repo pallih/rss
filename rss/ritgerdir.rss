@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Aug 2024 14:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 15:00:30 +0000</lastBuildDate>
     <item>
       <title>Sýndarveruleiki í kennslu : starfendarannsókn sjónlistakennara</title>
       <link>https://skemman.is/handle/1946/48407</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/48410</link>
       <description>Að læra að líða vel - Katla Ómarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48410</guid>
+    </item>
+    <item>
+      <title>Upplifun kennaranema í vettvangsnámi : leiðsagnarkennarinn og fagleg líðan</title>
+      <link>https://skemman.is/handle/1946/48411</link>
+      <description>Upplifun kennaranema í vettvangsnámi : leiðsagnarkennarinn og fagleg líðan - Kári Alexander Þórðarson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48411</guid>
+    </item>
+    <item>
+      <title>Skóli án aðgreiningar : reynsla kennara af skólastefnunni</title>
+      <link>https://skemman.is/handle/1946/48412</link>
+      <description>Skóli án aðgreiningar : reynsla kennara af skólastefnunni - Jamie Elizabeth Schelvis 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48412</guid>
     </item>
     <item>
       <title>Samþætting þjónustu og árangursrík teymisvinna</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48404</link>
       <description>Tómstundaþátttaka eldri borgara í dreifbýli. Stuðningur sveitarfélaga við farsæla öldrun - Margrét Ósk Borgþórsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48404</guid>
-    </item>
-    <item>
-      <title>Foreldrakulnun : það þarf þorp til að ala upp barn en hvar er þorpið?</title>
-      <link>https://skemman.is/handle/1946/48400</link>
-      <description>Foreldrakulnun : það þarf þorp til að ala upp barn en hvar er þorpið? - Kristín Alma Sigmarsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48400</guid>
-    </item>
-    <item>
-      <title>Sýnileiki fötlunar í barnabókum. Kári fer á flug</title>
-      <link>https://skemman.is/handle/1946/48402</link>
-      <description>Sýnileiki fötlunar í barnabókum. Kári fer á flug - Helena Sól Alexandersdóttir 2000-; Ragnheiður Elín Guðjónsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48402</guid>
     </item>
   </channel>
 </rss>
