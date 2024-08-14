@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Aug 2024 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 17:00:26 +0000</lastBuildDate>
     <item>
       <title>Sýndarveruleiki í kennslu : starfendarannsókn sjónlistakennara</title>
       <link>https://skemman.is/handle/1946/48407</link>
@@ -33,16 +33,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48408</guid>
     </item>
     <item>
+      <title>Tónlistarheimur spjaldtölvunnar : hugmyndir af verkefnum fyrir spjaldtölvur í tónmenntakennslu</title>
+      <link>https://skemman.is/handle/1946/48413</link>
+      <description>Tónlistarheimur spjaldtölvunnar : hugmyndir af verkefnum fyrir spjaldtölvur í tónmenntakennslu - Arna Dögg Sturludóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48413</guid>
+    </item>
+    <item>
       <title>Mikilvægi þess að þróa með sér góðan hreyfiþroska á leikskólaárum og inngrip með skipulagðri hreyfingu</title>
       <link>https://skemman.is/handle/1946/48409</link>
       <description>Mikilvægi þess að þróa með sér góðan hreyfiþroska á leikskólaárum og inngrip með skipulagðri hreyfingu - Alexander Kristinsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48409</guid>
-    </item>
-    <item>
-      <title>Að læra að líða vel</title>
-      <link>https://skemman.is/handle/1946/48410</link>
-      <description>Að læra að líða vel - Katla Ómarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48410</guid>
     </item>
     <item>
       <title>Upplifun kennaranema í vettvangsnámi : leiðsagnarkennarinn og fagleg líðan</title>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/48412</link>
       <description>Skóli án aðgreiningar : reynsla kennara af skólastefnunni - Jamie Elizabeth Schelvis 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48412</guid>
+    </item>
+    <item>
+      <title>Að læra að líða vel</title>
+      <link>https://skemman.is/handle/1946/48410</link>
+      <description>Að læra að líða vel - Katla Ómarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48410</guid>
     </item>
     <item>
       <title>Samþætting þjónustu og árangursrík teymisvinna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48401</link>
       <description>Milla mús fer í feluleik : málörvunarbók fyrir ung börn - Hrefna Björk Sigurðardóttir 1981-; Guðrún Arndís Jóhannsdóttir 1985-; Guðríður Sæmundsdóttir 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48401</guid>
-    </item>
-    <item>
-      <title>Tómstundaþátttaka eldri borgara í dreifbýli. Stuðningur sveitarfélaga við farsæla öldrun</title>
-      <link>https://skemman.is/handle/1946/48404</link>
-      <description>Tómstundaþátttaka eldri borgara í dreifbýli. Stuðningur sveitarfélaga við farsæla öldrun - Margrét Ósk Borgþórsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48404</guid>
     </item>
   </channel>
 </rss>
