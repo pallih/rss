@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Aug 2024 10:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 11:00:22 +0000</lastBuildDate>
     <item>
       <title>Preserving bone density and muscle mass during menopause : role of physical exercise</title>
       <link>https://skemman.is/handle/1946/48416</link>
@@ -49,6 +49,24 @@
       <link>https://skemman.is/handle/1946/48420</link>
       <description>Snemmtæk sérhæfing afreksmanna - Páll Haraldsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48420</guid>
+    </item>
+    <item>
+      <title>Samfella á mótum skólastiganna : leikur og könnunaraðferðin</title>
+      <link>https://skemman.is/handle/1946/48421</link>
+      <description>Samfella á mótum skólastiganna : leikur og könnunaraðferðin - Rakel Rós Ágústsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48421</guid>
+    </item>
+    <item>
+      <title>Frítíminn og ég : tómstundamenntunarnámskeið fyrir fólk með flóttabakgrunn</title>
+      <link>https://skemman.is/handle/1946/48422</link>
+      <description>Frítíminn og ég : tómstundamenntunarnámskeið fyrir fólk með flóttabakgrunn - Margrét Rebekka Valgarðsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48422</guid>
+    </item>
+    <item>
+      <title>CrossFit fyrir byrjendur : handbók fyrir grunnnámskeið</title>
+      <link>https://skemman.is/handle/1946/48423</link>
+      <description>CrossFit fyrir byrjendur : handbók fyrir grunnnámskeið - Magnús Aron Sigurðsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48423</guid>
     </item>
     <item>
       <title>Sýndarveruleiki í kennslu : starfendarannsókn sjónlistakennara</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48395</link>
       <description>Sýn barna með fjölbreyttan bakgrunn á nám í gegnum leik - Elín Guðrún Tómasdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48395</guid>
-    </item>
-    <item>
-      <title>Fagauður til framtíðar</title>
-      <link>https://skemman.is/handle/1946/48394</link>
-      <description>Fagauður til framtíðar - Guðbjörg Pálsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48394</guid>
-    </item>
-    <item>
-      <title>Textílspilið : spil sem eflir sértækan orðaforða í textíl</title>
-      <link>https://skemman.is/handle/1946/48389</link>
-      <description>Textílspilið : spil sem eflir sértækan orðaforða í textíl - Kristbjörg Sunna Hafberg 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48389</guid>
-    </item>
-    <item>
-      <title>„Þetta er bara mitt hlutverk, ég er bara móðirin og ég á bara að gera þetta“ : jöfn búseta og þriðja vaktin í uppeldi</title>
-      <link>https://skemman.is/handle/1946/48388</link>
-      <description>„Þetta er bara mitt hlutverk, ég er bara móðirin og ég á bara að gera þetta“ : jöfn búseta og þriðja vaktin í uppeldi - Hlíf Franklín Karlsdóttir 1998-; Anna Elísabet Stark 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48388</guid>
     </item>
   </channel>
 </rss>
