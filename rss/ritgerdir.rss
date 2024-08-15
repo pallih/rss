@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Aug 2024 14:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 15:00:35 +0000</lastBuildDate>
     <item>
       <title>Preserving bone density and muscle mass during menopause : role of physical exercise</title>
       <link>https://skemman.is/handle/1946/48416</link>
@@ -129,6 +129,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48433</guid>
     </item>
     <item>
+      <title>Heimspekiskrímslið Heimir : smásögur og spurningar fyrir heimspekilegar samræður</title>
+      <link>https://skemman.is/handle/1946/48434</link>
+      <description>Heimspekiskrímslið Heimir : smásögur og spurningar fyrir heimspekilegar samræður - Ragnhildur D Steingrímsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48434</guid>
+    </item>
+    <item>
+      <title>Félagslega einangruð ungmenni og rafrænt samfélag</title>
+      <link>https://skemman.is/handle/1946/48435</link>
+      <description>Félagslega einangruð ungmenni og rafrænt samfélag - Gísli Geir Gíslason 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48435</guid>
+    </item>
+    <item>
       <title>Sýndarveruleiki í kennslu : starfendarannsókn sjónlistakennara</title>
       <link>https://skemman.is/handle/1946/48407</link>
       <description>Sýndarveruleiki í kennslu : starfendarannsókn sjónlistakennara - Elín Berglind Skúladóttir 1979-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48405</link>
       <description>Með sól í hjarta : greinargerð ásamt barnabók og þakklætisdagbók - Ásta Bryndís Ragnarsdóttir 1995-; Eydís Harpa Bjarnadóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48405</guid>
-    </item>
-    <item>
-      <title>Ber er hver að baki nema sér bróður eigi : barnabók og greinargerð um upplifun og líðan systkina fatlaðra barna</title>
-      <link>https://skemman.is/handle/1946/48408</link>
-      <description>Ber er hver að baki nema sér bróður eigi : barnabók og greinargerð um upplifun og líðan systkina fatlaðra barna - Sandra Dögg Steinsdóttir 1997-; Eva Rún Andradóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48408</guid>
-    </item>
-    <item>
-      <title>Tónlistarheimur spjaldtölvunnar : hugmyndir af verkefnum fyrir spjaldtölvur í tónmenntakennslu</title>
-      <link>https://skemman.is/handle/1946/48413</link>
-      <description>Tónlistarheimur spjaldtölvunnar : hugmyndir af verkefnum fyrir spjaldtölvur í tónmenntakennslu - Arna Dögg Sturludóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48413</guid>
     </item>
   </channel>
 </rss>
