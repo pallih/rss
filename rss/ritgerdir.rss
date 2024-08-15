@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Aug 2024 11:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 12:00:19 +0000</lastBuildDate>
     <item>
       <title>Preserving bone density and muscle mass during menopause : role of physical exercise</title>
       <link>https://skemman.is/handle/1946/48416</link>
@@ -45,10 +45,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48415</guid>
     </item>
     <item>
-      <title>Snemmtæk sérhæfing afreksmanna</title>
-      <link>https://skemman.is/handle/1946/48420</link>
-      <description>Snemmtæk sérhæfing afreksmanna - Páll Haraldsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48420</guid>
+      <title>Uppeldi í skugga alkóhólisma : áhrif og afleiðingar á sjálfsmynd og tilfinningaþroska barna sem alast upp á heimili þar sem foreldri/ar glíma við alkóhólisma</title>
+      <link>https://skemman.is/handle/1946/48427</link>
+      <description>Uppeldi í skugga alkóhólisma : áhrif og afleiðingar á sjálfsmynd og tilfinningaþroska barna sem alast upp á heimili þar sem foreldri/ar glíma við alkóhólisma - Birta Róbertsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48427</guid>
+    </item>
+    <item>
+      <title>Fatlað fólk og náttúruhamfarir á Íslandi : handbækur um náttúruhamfarir fyrir fatlað fólk.</title>
+      <link>https://skemman.is/handle/1946/48425</link>
+      <description>Fatlað fólk og náttúruhamfarir á Íslandi : handbækur um náttúruhamfarir fyrir fatlað fólk. - Agatha Rún Karlsdóttir 1998-; Kamilla Ósk Karlsdóttir Haesler 1999-; Lena Stefánsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48425</guid>
     </item>
     <item>
       <title>Samfella á mótum skólastiganna : leikur og könnunaraðferðin</title>
@@ -63,10 +69,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48422</guid>
     </item>
     <item>
+      <title>Snemmtæk sérhæfing afreksmanna</title>
+      <link>https://skemman.is/handle/1946/48420</link>
+      <description>Snemmtæk sérhæfing afreksmanna - Páll Haraldsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48420</guid>
+    </item>
+    <item>
+      <title>Gleðibankinn : myndrænt kennsluefni í aðferðum leiklistar</title>
+      <link>https://skemman.is/handle/1946/48424</link>
+      <description>Gleðibankinn : myndrænt kennsluefni í aðferðum leiklistar - Aðalheiður J Friðfinnsdóttir 1991-; Hrefna Ósk Jónsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48424</guid>
+    </item>
+    <item>
+      <title>Hreyfifælni eftir fremri krossbandaslit : áhrif hreyfifælni á endurkomu í íþróttir</title>
+      <link>https://skemman.is/handle/1946/48426</link>
+      <description>Hreyfifælni eftir fremri krossbandaslit : áhrif hreyfifælni á endurkomu í íþróttir - Ísabella Sól Tryggvadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48426</guid>
+    </item>
+    <item>
       <title>CrossFit fyrir byrjendur : handbók fyrir grunnnámskeið</title>
       <link>https://skemman.is/handle/1946/48423</link>
       <description>CrossFit fyrir byrjendur : handbók fyrir grunnnámskeið - Magnús Aron Sigurðsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48423</guid>
+    </item>
+    <item>
+      <title>Klípusögur, siðfræði og kennsla</title>
+      <link>https://skemman.is/handle/1946/48428</link>
+      <description>Klípusögur, siðfræði og kennsla - Sylvía Rún Kristinsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48428</guid>
     </item>
     <item>
       <title>Sýndarveruleiki í kennslu : starfendarannsókn sjónlistakennara</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/48384</link>
       <description>Samþætting þjónustu og árangursrík teymisvinna - Sindri Már Auðunsson 1992-; Katrín Sigurðardóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48384</guid>
-    </item>
-    <item>
-      <title>Naudsyn.is : þjónustuvefsíða fyrir alla</title>
-      <link>https://skemman.is/handle/1946/48393</link>
-      <description>Naudsyn.is : þjónustuvefsíða fyrir alla - Ari Þór Gunnarsson 1993-; Angela Lovik 1996-; Rhea Pardillo Juarez 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48393</guid>
-    </item>
-    <item>
-      <title>Einhverfir nemendur í skóla án aðgreiningar</title>
-      <link>https://skemman.is/handle/1946/48391</link>
-      <description>Einhverfir nemendur í skóla án aðgreiningar - Jón Sergio C. Sigurðsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48391</guid>
-    </item>
-    <item>
-      <title>Biomechanical and physiological parameters of Icelandic youth female footballers</title>
-      <link>https://skemman.is/handle/1946/48385</link>
-      <description>Biomechanical and physiological parameters of Icelandic youth female footballers - Lara Margrét Jónsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48385</guid>
-    </item>
-    <item>
-      <title>Náttúruvísindanámskrár í skyldunámi : greining og samanburður opinberra námskráa fimm landa</title>
-      <link>https://skemman.is/handle/1946/48396</link>
-      <description>Náttúruvísindanámskrár í skyldunámi : greining og samanburður opinberra námskráa fimm landa - Sunna Rós Agnarsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48396</guid>
-    </item>
-    <item>
-      <title>Sýn barna með fjölbreyttan bakgrunn á nám í gegnum leik</title>
-      <link>https://skemman.is/handle/1946/48395</link>
-      <description>Sýn barna með fjölbreyttan bakgrunn á nám í gegnum leik - Elín Guðrún Tómasdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48395</guid>
     </item>
   </channel>
 </rss>
