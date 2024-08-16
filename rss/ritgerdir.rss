@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Aug 2024 09:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 10:00:19 +0000</lastBuildDate>
     <item>
       <title>Puck’s Medieval Ancestry: The Puck Figure in Medieval Evidence and Late Collected Folklore of North Atlantic Europe.</title>
       <link>https://skemman.is/handle/1946/48436</link>
@@ -25,6 +25,24 @@
       <link>https://skemman.is/handle/1946/48438</link>
       <description>Hryðjuverkaákvæði 100. gr. a almennra hegningarlaga. Samanburður við 114. gr. dönsku hegningarlaganna með áherslu á ásetning. - Ragnar Torfi Teitsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48438</guid>
+    </item>
+    <item>
+      <title>Parkour þjálfaranámskeið á Íslandi</title>
+      <link>https://skemman.is/handle/1946/48439</link>
+      <description>Parkour þjálfaranámskeið á Íslandi - Kristófer Gísli Hilmarsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48439</guid>
+    </item>
+    <item>
+      <title>Áskoranir og sjálfsmildi nýrra foreldra</title>
+      <link>https://skemman.is/handle/1946/48440</link>
+      <description>Áskoranir og sjálfsmildi nýrra foreldra - Hlíf Sverrisdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48440</guid>
+    </item>
+    <item>
+      <title>Höfuðskepnurnar fjórar : sumarnámskeið</title>
+      <link>https://skemman.is/handle/1946/48441</link>
+      <description>Höfuðskepnurnar fjórar : sumarnámskeið - Birkir Atli Einarsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48441</guid>
     </item>
     <item>
       <title>Preserving bone density and muscle mass during menopause : role of physical exercise</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48429</link>
       <description>Brotthvarf úr framhaldsskóla : hlutverk félagsauðs í brotthvarfi nemenda af erlendum uppruna úr framhaldsskóla - Karolina Monika Figlarska 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48429</guid>
-    </item>
-    <item>
-      <title>Hæfni lykilpersónu leikskólabarna af erlendum uppruna</title>
-      <link>https://skemman.is/handle/1946/48431</link>
-      <description>Hæfni lykilpersónu leikskólabarna af erlendum uppruna - Ása Nishanthi Magnúsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48431</guid>
-    </item>
-    <item>
-      <title>Starfsbraut og hvað svo? : framtíð fólks með þroskahömlun</title>
-      <link>https://skemman.is/handle/1946/48433</link>
-      <description>Starfsbraut og hvað svo? : framtíð fólks með þroskahömlun - Jóhanna Margrét Magnúsdóttir 1994-; Ísabel Jasmín Almarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48433</guid>
-    </item>
-    <item>
-      <title>Klípusögur, siðfræði og kennsla</title>
-      <link>https://skemman.is/handle/1946/48428</link>
-      <description>Klípusögur, siðfræði og kennsla - Sylvía Rún Kristinsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48428</guid>
     </item>
   </channel>
 </rss>
