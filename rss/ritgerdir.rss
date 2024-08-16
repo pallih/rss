@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Aug 2024 10:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 11:00:31 +0000</lastBuildDate>
     <item>
       <title>Puck’s Medieval Ancestry: The Puck Figure in Medieval Evidence and Late Collected Folklore of North Atlantic Europe.</title>
       <link>https://skemman.is/handle/1946/48436</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/48441</link>
       <description>Höfuðskepnurnar fjórar : sumarnámskeið - Birkir Atli Einarsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48441</guid>
+    </item>
+    <item>
+      <title>Barátta íslenskra kvenna um jöfn tækifæri til náms</title>
+      <link>https://skemman.is/handle/1946/48442</link>
+      <description>Barátta íslenskra kvenna um jöfn tækifæri til náms - Selma Finnbogadóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48442</guid>
     </item>
     <item>
       <title>Preserving bone density and muscle mass during menopause : role of physical exercise</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48434</link>
       <description>Heimspekiskrímslið Heimir : smásögur og spurningar fyrir heimspekilegar samræður - Ragnhildur D Steingrímsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48434</guid>
-    </item>
-    <item>
-      <title>Brotthvarf úr framhaldsskóla : hlutverk félagsauðs í brotthvarfi nemenda af erlendum uppruna úr framhaldsskóla</title>
-      <link>https://skemman.is/handle/1946/48429</link>
-      <description>Brotthvarf úr framhaldsskóla : hlutverk félagsauðs í brotthvarfi nemenda af erlendum uppruna úr framhaldsskóla - Karolina Monika Figlarska 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48429</guid>
     </item>
   </channel>
 </rss>
