@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 Aug 2024 11:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 12:00:37 +0000</lastBuildDate>
     <item>
       <title>Geodetic and seismic observations of endogenous earthquakes and faulting at the Tungnakvíslarjökull landslide in south Iceland</title>
       <link>https://skemman.is/handle/1946/48446</link>
       <description>Geodetic and seismic observations of endogenous earthquakes and faulting at the Tungnakvíslarjökull landslide in south Iceland - Ylse Anna De Vries 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48446</guid>
+    </item>
+    <item>
+      <title>Tilfinningaleg þátttaka : virkni og birtingamyndir í skáldskap</title>
+      <link>https://skemman.is/handle/1946/48448</link>
+      <description>Tilfinningaleg þátttaka : virkni og birtingamyndir í skáldskap - Sindri Viborg 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48448</guid>
     </item>
     <item>
       <title>Heilbrigði og vellíðan barna í leikskólastarfi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48424</link>
       <description>Gleðibankinn : myndrænt kennsluefni í aðferðum leiklistar - Aðalheiður J Friðfinnsdóttir 1991-; Hrefna Ósk Jónsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48424</guid>
-    </item>
-    <item>
-      <title>Hreyfifælni eftir fremri krossbandaslit : áhrif hreyfifælni á endurkomu í íþróttir</title>
-      <link>https://skemman.is/handle/1946/48426</link>
-      <description>Hreyfifælni eftir fremri krossbandaslit : áhrif hreyfifælni á endurkomu í íþróttir - Ísabella Sól Tryggvadóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48426</guid>
     </item>
   </channel>
 </rss>
