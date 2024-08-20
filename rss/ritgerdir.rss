@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Aug 2024 10:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 11:00:26 +0000</lastBuildDate>
     <item>
       <title>Heimsálfuspilið : greinargerð með námsspili í samfélagsfræði</title>
       <link>https://skemman.is/handle/1946/48449</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/48451</link>
       <description>"fordómar og ótti byggja á vanþekkingu" : bæklingur fyrir verðandi foreldra eða foreldra sem voru að eignast barn með Downs heilkennið - Hanna Dís Elvarsdóttir 1998-; Díana Sif Gunnlaugsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48451</guid>
+    </item>
+    <item>
+      <title>,,Er ég bara misheppnuð kona?'' : reynsla kvenna af bráðakeisarafæðingu og líðan eftir barnsburð</title>
+      <link>https://skemman.is/handle/1946/48452</link>
+      <description>,,Er ég bara misheppnuð kona?'' : reynsla kvenna af bráðakeisarafæðingu og líðan eftir barnsburð - Hulda Sif Gunnarsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48452</guid>
     </item>
     <item>
       <title>Geodetic and seismic observations of endogenous earthquakes and faulting at the Tungnakvíslarjökull landslide in south Iceland</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48425</link>
       <description>Fatlað fólk og náttúruhamfarir á Íslandi : handbækur um náttúruhamfarir fyrir fatlað fólk. - Agatha Rún Karlsdóttir 1998-; Kamilla Ósk Karlsdóttir Haesler 1999-; Lena Stefánsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48425</guid>
-    </item>
-    <item>
-      <title>Samfella á mótum skólastiganna : leikur og könnunaraðferðin</title>
-      <link>https://skemman.is/handle/1946/48421</link>
-      <description>Samfella á mótum skólastiganna : leikur og könnunaraðferðin - Rakel Rós Ágústsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48421</guid>
     </item>
   </channel>
 </rss>
