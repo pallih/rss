@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 21 Aug 2024 13:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 14:00:41 +0000</lastBuildDate>
     <item>
       <title>Comparative Genomic and Transcriptomic Analysis of D492 and D492M Breast Cell Lines: Evaluating Differential Methylation, Structural Variants, and Transcript Quantification Methods</title>
       <link>https://skemman.is/handle/1946/48459</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/48461</link>
       <description>Ég er sko vinur þinn : námskeið í vináttuþjálfun fyrir 6-9 ára börn - Freyja María Sigurjónsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48461</guid>
+    </item>
+    <item>
+      <title>Greining á stærðfræðinámsefninu Skali 1A og 1B</title>
+      <link>https://skemman.is/handle/1946/48464</link>
+      <description>Greining á stærðfræðinámsefninu Skali 1A og 1B - Árni Geir Hilmarsson 1993-; Elín Krista Sigurðardóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48464</guid>
     </item>
     <item>
       <title>Þátttaka og upplifun foreldra af erlendum uppruna á  málörvun barna þeirra í leikskóla</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48444</link>
       <description>Tómstundir fatlaðra ungmenna í Reykjanesbæ - Lovísa Lind Kristinsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48444</guid>
-    </item>
-    <item>
-      <title>Áskoranir og sjálfsmildi nýrra foreldra</title>
-      <link>https://skemman.is/handle/1946/48440</link>
-      <description>Áskoranir og sjálfsmildi nýrra foreldra - Hlíf Sverrisdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48440</guid>
     </item>
   </channel>
 </rss>
