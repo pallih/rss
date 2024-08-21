@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 21 Aug 2024 15:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 16:00:41 +0000</lastBuildDate>
     <item>
       <title>Comparative Genomic and Transcriptomic Analysis of D492 and D492M Breast Cell Lines: Evaluating Differential Methylation, Structural Variants, and Transcript Quantification Methods</title>
       <link>https://skemman.is/handle/1946/48459</link>
@@ -43,6 +43,24 @@
       <link>https://skemman.is/handle/1946/48464</link>
       <description>Greining á stærðfræðinámsefninu Skali 1A og 1B - Árni Geir Hilmarsson 1993-; Elín Krista Sigurðardóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48464</guid>
+    </item>
+    <item>
+      <title>Brottfall nemenda af erlendum uppruna úr framhaldsskólum : íslenska tungan - lykillinn að skólakerfinu</title>
+      <link>https://skemman.is/handle/1946/48465</link>
+      <description>Brottfall nemenda af erlendum uppruna úr framhaldsskólum : íslenska tungan - lykillinn að skólakerfinu - Rakel Ösp Gylfadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48465</guid>
+    </item>
+    <item>
+      <title>Íþróttaiðkun fatlaðra barna : með áherslu á börn með þroskahömlun og/eða einhverf börn</title>
+      <link>https://skemman.is/handle/1946/48466</link>
+      <description>Íþróttaiðkun fatlaðra barna : með áherslu á börn með þroskahömlun og/eða einhverf börn - Bríet Emma Gísladóttir 2001-; Katharína Ósk Emilsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48466</guid>
+    </item>
+    <item>
+      <title>Þjónusta sveitarfélaga við seinfæra foreldra. Samanburður fjögurra sveitarfélaga : hvernig er stuðningi við seinfæra foreldra háttað hjá sveitarfélögum?</title>
+      <link>https://skemman.is/handle/1946/48467</link>
+      <description>Þjónusta sveitarfélaga við seinfæra foreldra. Samanburður fjögurra sveitarfélaga : hvernig er stuðningi við seinfæra foreldra háttað hjá sveitarfélögum? - Ingibjörg Arngrímsdóttir 1998-; Þórdís Hafþórsdóttir 1999-; Þórhildur Helga Eyþórsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48467</guid>
     </item>
     <item>
       <title>Þátttaka og upplifun foreldra af erlendum uppruna á  málörvun barna þeirra í leikskóla</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48443</link>
       <description>Ákvarðanir um viðhald og framkvæmdir í fjöleignarhúsum með áherslu á 9. tölul. b-liðar 1. mgr. 41. gr. laga nr. 26/1994 um fjöleignarhús - Ásgrímur Stefán Agnarsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48443</guid>
-    </item>
-    <item>
-      <title>Höfuðskepnurnar fjórar : sumarnámskeið</title>
-      <link>https://skemman.is/handle/1946/48441</link>
-      <description>Höfuðskepnurnar fjórar : sumarnámskeið - Birkir Atli Einarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48441</guid>
-    </item>
-    <item>
-      <title>Lögskýringaraðferðir umboðsmanns Alþingis á 71. gr. stjórnarskrár</title>
-      <link>https://skemman.is/handle/1946/48437</link>
-      <description>Lögskýringaraðferðir umboðsmanns Alþingis á 71. gr. stjórnarskrár - Jóhann Páll Einarsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48437</guid>
-    </item>
-    <item>
-      <title>Tómstundir fatlaðra ungmenna í Reykjanesbæ</title>
-      <link>https://skemman.is/handle/1946/48444</link>
-      <description>Tómstundir fatlaðra ungmenna í Reykjanesbæ - Lovísa Lind Kristinsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48444</guid>
     </item>
   </channel>
 </rss>
