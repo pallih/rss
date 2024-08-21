@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 21 Aug 2024 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 12:00:26 +0000</lastBuildDate>
     <item>
       <title>Comparative Genomic and Transcriptomic Analysis of D492 and D492M Breast Cell Lines: Evaluating Differential Methylation, Structural Variants, and Transcript Quantification Methods</title>
       <link>https://skemman.is/handle/1946/48459</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/48461</link>
       <description>Ég er sko vinur þinn : námskeið í vináttuþjálfun fyrir 6-9 ára börn - Freyja María Sigurjónsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48461</guid>
+    </item>
+    <item>
+      <title>Vísbendingar um lesblindu barna : einkenni og orsakir</title>
+      <link>https://skemman.is/handle/1946/48462</link>
+      <description>Vísbendingar um lesblindu barna : einkenni og orsakir - Ingibjörg Erla Garðarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48462</guid>
     </item>
     <item>
       <title>Des mots lexicaux aux outils grammaticaux : Autour des théories fondamentales sur la  grammaticalisation et du rôle de la grammaticalisation dans l’évolution du français</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48442</link>
       <description>Barátta íslenskra kvenna um jöfn tækifæri til náms - Selma Finnbogadóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48442</guid>
-    </item>
-    <item>
-      <title>Hryðjuverkaákvæði 100. gr. a almennra hegningarlaga. Samanburður við 114. gr. dönsku hegningarlaganna með áherslu á ásetning.</title>
-      <link>https://skemman.is/handle/1946/48438</link>
-      <description>Hryðjuverkaákvæði 100. gr. a almennra hegningarlaga. Samanburður við 114. gr. dönsku hegningarlaganna með áherslu á ásetning. - Ragnar Torfi Teitsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48438</guid>
     </item>
   </channel>
 </rss>
