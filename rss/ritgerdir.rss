@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 22 Aug 2024 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 09:00:20 +0000</lastBuildDate>
+    <item>
+      <title>The 'Clean Energy for all Europeans' Package. Does it contribute to Iceland's energy transition objective?</title>
+      <link>https://skemman.is/handle/1946/48468</link>
+      <description>The 'Clean Energy for all Europeans' Package. Does it contribute to Iceland's energy transition objective? - Einar Hallgrímsson 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48468</guid>
+    </item>
     <item>
       <title>Comparative Genomic and Transcriptomic Analysis of D492 and D492M Breast Cell Lines: Evaluating Differential Methylation, Structural Variants, and Transcript Quantification Methods</title>
       <link>https://skemman.is/handle/1946/48459</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48439</link>
       <description>Parkour þjálfaranámskeið á Íslandi - Kristófer Gísli Hilmarsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48439</guid>
-    </item>
-    <item>
-      <title>Ákvarðanir um viðhald og framkvæmdir í fjöleignarhúsum með áherslu á 9. tölul. b-liðar 1. mgr. 41. gr. laga nr. 26/1994 um fjöleignarhús</title>
-      <link>https://skemman.is/handle/1946/48443</link>
-      <description>Ákvarðanir um viðhald og framkvæmdir í fjöleignarhúsum með áherslu á 9. tölul. b-liðar 1. mgr. 41. gr. laga nr. 26/1994 um fjöleignarhús - Ásgrímur Stefán Agnarsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48443</guid>
     </item>
   </channel>
 </rss>
