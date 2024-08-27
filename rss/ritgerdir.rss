@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 27 Aug 2024 08:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 09:00:30 +0000</lastBuildDate>
+    <item>
+      <title>Samvinna eða samstarf ritvera og háskólabókasafna: Upplifun starfsfólks</title>
+      <link>https://skemman.is/handle/1946/48480</link>
+      <description>Samvinna eða samstarf ritvera og háskólabókasafna: Upplifun starfsfólks - Anna María Eiríksdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48480</guid>
+    </item>
     <item>
       <title>Hvernig breytist viðhorf nemenda til stærðfræði við lok miðstigs og við lok grunnskóla? : hvernig eru nemendur undirbúnir fyrir stærðfræði á unglingastigi?</title>
       <link>https://skemman.is/handle/1946/48479</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48457</link>
       <description>Styrktarþjálfun og fyrirbygging meiðsla í knattspyrnu : hvernig er hægt að hámarka afkastagetu og fyrirbyggja meiðsli knattspyrnuiðkenda með styrktarþjálfun? - Gústaf Sæland 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48457</guid>
-    </item>
-    <item>
-      <title>„Ég er aldrei einmana“ : tómstundir og einmanaleiki eldri borgara</title>
-      <link>https://skemman.is/handle/1946/48455</link>
-      <description>„Ég er aldrei einmana“ : tómstundir og einmanaleiki eldri borgara - Birgitta Karen Jóhannesardóttir 2000-; Daníel Þór Friðriksson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48455</guid>
     </item>
   </channel>
 </rss>
