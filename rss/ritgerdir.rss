@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 28 Aug 2024 08:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 09:00:36 +0000</lastBuildDate>
+    <item>
+      <title>„Við þurfum hins vegar að hugsa eitthvað betur um strákana okkar“  Sýn náms- og starfsráðgjafa á brotthvarfi drengja úr framhaldsskóla</title>
+      <link>https://skemman.is/handle/1946/48481</link>
+      <description>„Við þurfum hins vegar að hugsa eitthvað betur um strákana okkar“  Sýn náms- og starfsráðgjafa á brotthvarfi drengja úr framhaldsskóla - Símon Rafn Björnsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48481</guid>
+    </item>
     <item>
       <title>Samvinna eða samstarf ritvera og háskólabókasafna: Upplifun starfsfólks</title>
       <link>https://skemman.is/handle/1946/48480</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48458</link>
       <description>Nemendur af erlendum uppruna í stærðfræðikennslu - Nemanja Latinovic 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48458</guid>
-    </item>
-    <item>
-      <title>Styrktarþjálfun og fyrirbygging meiðsla í knattspyrnu : hvernig er hægt að hámarka afkastagetu og fyrirbyggja meiðsli knattspyrnuiðkenda með styrktarþjálfun?</title>
-      <link>https://skemman.is/handle/1946/48457</link>
-      <description>Styrktarþjálfun og fyrirbygging meiðsla í knattspyrnu : hvernig er hægt að hámarka afkastagetu og fyrirbyggja meiðsli knattspyrnuiðkenda með styrktarþjálfun? - Gústaf Sæland 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48457</guid>
     </item>
   </channel>
 </rss>
