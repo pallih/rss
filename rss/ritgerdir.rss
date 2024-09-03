@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 03 Sep 2024 08:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 09:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Bearing Witness: Testimony in Zabel Yessayan's "In the Ruins"</title>
+      <link>https://skemman.is/handle/1946/48491</link>
+      <description>Bearing Witness: Testimony in Zabel Yessayan's "In the Ruins" - Dilsa Ritsa Esli 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48491</guid>
+    </item>
     <item>
       <title>Eins og púki með tvö horn: Ensk þýðing á skáldsögunni Hestvík eftir Gerði Kristnýju</title>
       <link>https://skemman.is/handle/1946/48483</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48459</link>
       <description>Comparative Genomic and Transcriptomic Analysis of D492 and D492M Breast Cell Lines: Evaluating Differential Methylation, Structural Variants, and Transcript Quantification Methods - Brynjar Halldórsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48459</guid>
-    </item>
-    <item>
-      <title>Project SEARCH : greinargerð og kynningarefni</title>
-      <link>https://skemman.is/handle/1946/48460</link>
-      <description>Project SEARCH : greinargerð og kynningarefni - Ágústa Harrysdóttir Strandberg 1990-; Edda Hauksdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48460</guid>
     </item>
   </channel>
 </rss>
