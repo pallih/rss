@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Sep 2024 12:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 13:03:43 +0000</lastBuildDate>
     <item>
       <title>Blindblettir í stuðningi og ráðgjöf: Eigindleg rannsókn á brotthvarfi nemenda með ADHD úr framhaldsskóla</title>
       <link>https://skemman.is/handle/1946/48512</link>
@@ -117,6 +117,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48529</guid>
     </item>
     <item>
+      <title>Filman er horfin: Nýbíóið, kvikmyndir og tölvuleikir í stafrænu miðlaumhverfi 21. aldar</title>
+      <link>https://skemman.is/handle/1946/48530</link>
+      <description>Filman er horfin: Nýbíóið, kvikmyndir og tölvuleikir í stafrænu miðlaumhverfi 21. aldar - Haukur Steinn Hilmarsson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48530</guid>
+    </item>
+    <item>
+      <title>Málþroskaröskun DLD fjögurra til sex ára barna. Birtingarmyndir, greining og stuðningur í daglegu starfi.</title>
+      <link>https://skemman.is/handle/1946/48531</link>
+      <description>Málþroskaröskun DLD fjögurra til sex ára barna. Birtingarmyndir, greining og stuðningur í daglegu starfi. - Dalrós Líndal Þórisdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48531</guid>
+    </item>
+    <item>
       <title>Heilsugæsluhjúkrun í framlínu í Covid á Íslandi. Megindleg lýsandi ferlirannsókn.</title>
       <link>https://skemman.is/handle/1946/48508</link>
       <description>Heilsugæsluhjúkrun í framlínu í Covid á Íslandi. Megindleg lýsandi ferlirannsókn. - Hulda Gestsdóttir 1970-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48507</link>
       <description>Ólík viðhorf og hegðun karla og kvenna í tengslum við umhverfis- og loftslagsmál: Hvernig geta stjórnvöld tryggt að aðgerðir stuðli að jafnrétti kynjanna? - Agnes Þorkelsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48507</guid>
-    </item>
-    <item>
-      <title>Hvernig valdbeitingu átti sér stað á tímum Covid-19? Skoðað í gegnum kenningar Foucault</title>
-      <link>https://skemman.is/handle/1946/48505</link>
-      <description>Hvernig valdbeitingu átti sér stað á tímum Covid-19? Skoðað í gegnum kenningar Foucault - Sigurvin Örn Magnússon 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48505</guid>
-    </item>
-    <item>
-      <title>Innleiðing á velferðartækni. Breytingarstjórnun í nýsköpunar- og þróunarverkefninu Hátindur 60+</title>
-      <link>https://skemman.is/handle/1946/48504</link>
-      <description>Innleiðing á velferðartækni. Breytingarstjórnun í nýsköpunar- og þróunarverkefninu Hátindur 60+ - Árni Kár Torfason 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48504</guid>
     </item>
   </channel>
 </rss>
