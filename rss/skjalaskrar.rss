@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Sep 2024 10:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 11:00:19 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3098-2004-040</link>
       <description>Íþróttasamband Íslands 2004-040 - 1912-1996</description>
@@ -67,6 +67,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3161-2024-116</link>
       <description>Helga Sigurðardóttir (1919-2004) hárgreiðslumeistari og Lárus Benedikt Björnsson (1923-2005) vélstjóri og verkstjóri 2024-116 - 1925-1985</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3161-2024-116</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0828-2014-059</link>
+      <description>James Love Nisbet (1883-1932) læknir 2014-059 - 1910-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0828-2014-059</guid>
     </item>
   </channel>
 </rss>
