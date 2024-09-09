@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 09 Sep 2024 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 10:00:22 +0000</lastBuildDate>
     <item>
       <title>A Qualitative Study of Attitude Change in Chinese Students Who Studied Abroad: Focus on the U.K and Nordic countries’ students</title>
       <link>https://skemman.is/handle/1946/48534</link>
@@ -19,18 +19,6 @@
       <link>https://skemman.is/handle/1946/48535</link>
       <description>„Þú ert það sem þú elskar“: Um ímynd, texta og hinseginleika Taylor Swift - Jana Björg Þorvaldsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48535</guid>
-    </item>
-    <item>
-      <title>Áttahorf sveitakirkna og staðsetning miðað við bæ</title>
-      <link>https://skemman.is/handle/1946/48536</link>
-      <description>Áttahorf sveitakirkna og staðsetning miðað við bæ - Birna Magnúsdóttir 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48536</guid>
-    </item>
-    <item>
-      <title>Heillandi heimur gervigreindar: Áskoranir og tækifæri</title>
-      <link>https://skemman.is/handle/1946/48537</link>
-      <description>Heillandi heimur gervigreindar: Áskoranir og tækifæri - Guðbjörg Sif Halldórsdóttir 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48537</guid>
     </item>
     <item>
       <title>Marine Spatial Planning and other Area-Based Management Tools. The International Framework and Implementation in Iceland</title>
@@ -45,16 +33,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48539</guid>
     </item>
     <item>
-      <title>Viðskiptalíkön: Hvað eru þau og hvernig geta þau mótað fyrirtæki?</title>
-      <link>https://skemman.is/handle/1946/48540</link>
-      <description>Viðskiptalíkön: Hvað eru þau og hvernig geta þau mótað fyrirtæki? - Ingimundur Viktor Helgason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48540</guid>
+      <title>Heillandi heimur gervigreindar: Áskoranir og tækifæri</title>
+      <link>https://skemman.is/handle/1946/48537</link>
+      <description>Heillandi heimur gervigreindar: Áskoranir og tækifæri - Guðbjörg Sif Halldórsdóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48537</guid>
+    </item>
+    <item>
+      <title>Áttahorf sveitakirkna og staðsetning miðað við bæ</title>
+      <link>https://skemman.is/handle/1946/48536</link>
+      <description>Áttahorf sveitakirkna og staðsetning miðað við bæ - Birna Magnúsdóttir 1965-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48536</guid>
+    </item>
+    <item>
+      <title>Ótengd forritun fyrir unga nemendur: Verkefni til undirbúnings forritunarkennslu</title>
+      <link>https://skemman.is/handle/1946/48542</link>
+      <description>Ótengd forritun fyrir unga nemendur: Verkefni til undirbúnings forritunarkennslu - Lillý Karen Pálsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48542</guid>
+    </item>
+    <item>
+      <title>Adapt and Die: Ecocriticism and the Lovecraftian Sublime in Rainworld, Outer Wilds, Frostpunk, and Factorio</title>
+      <link>https://skemman.is/handle/1946/48543</link>
+      <description>Adapt and Die: Ecocriticism and the Lovecraftian Sublime in Rainworld, Outer Wilds, Frostpunk, and Factorio - Joy Kumral 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48543</guid>
     </item>
     <item>
       <title>Hver eru áhrif samfélagsmiðla á sjálfsmynd barna á grunnskólaaldri?</title>
       <link>https://skemman.is/handle/1946/48541</link>
       <description>Hver eru áhrif samfélagsmiðla á sjálfsmynd barna á grunnskólaaldri? - Birta María Falsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48541</guid>
+    </item>
+    <item>
+      <title>Viðskiptalíkön: Hvað eru þau og hvernig geta þau mótað fyrirtæki?</title>
+      <link>https://skemman.is/handle/1946/48540</link>
+      <description>Viðskiptalíkön: Hvað eru þau og hvernig geta þau mótað fyrirtæki? - Ingimundur Viktor Helgason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48540</guid>
+    </item>
+    <item>
+      <title>REYKINGAR Á VESTURLANDI, BREYTINGAR FRÁ 20. TIL 21. ALDAR</title>
+      <link>https://skemman.is/handle/1946/48544</link>
+      <description>REYKINGAR Á VESTURLANDI, BREYTINGAR FRÁ 20. TIL 21. ALDAR - Magnús Benjamínsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48544</guid>
+    </item>
+    <item>
+      <title>Þáttaskil úr leikskóla í grunnskóla. Hvaða þætti þarf að hafa í huga við undirbúning á farsælum þáttaskilum?</title>
+      <link>https://skemman.is/handle/1946/48545</link>
+      <description>Þáttaskil úr leikskóla í grunnskóla. Hvaða þætti þarf að hafa í huga við undirbúning á farsælum þáttaskilum? - Halldóra Stefánsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48545</guid>
+    </item>
+    <item>
+      <title>Í hvernig jarðveg ræktum við skilning nemenda: Forhugmyndir barna gagnvart pöddum og plöntum og hvernig þær hugmyndir hafa áhrif á nám þeirra</title>
+      <link>https://skemman.is/handle/1946/48546</link>
+      <description>Í hvernig jarðveg ræktum við skilning nemenda: Forhugmyndir barna gagnvart pöddum og plöntum og hvernig þær hugmyndir hafa áhrif á nám þeirra - Davíð Agnar D. Hraunfjörð 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48546</guid>
     </item>
     <item>
       <title>Blindblettir í stuðningi og ráðgjöf: Eigindleg rannsókn á brotthvarfi nemenda með ADHD úr framhaldsskóla</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/48519</link>
       <description>Raddir sem skipta máli. Þátttaka barna í barnvænu sveitarfélagi - Sigríður Björg Tómasdóttir 1971-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48519</guid>
-    </item>
-    <item>
-      <title>Fjárfestingarheimildir lífeyrissjóða: Heimild lífeyrissjóða til almennrar eftirgjafar vaxta og verðbóta vegna húsnæðislána sem hvíldu á fasteignum í Grindavík.</title>
-      <link>https://skemman.is/handle/1946/48527</link>
-      <description>Fjárfestingarheimildir lífeyrissjóða: Heimild lífeyrissjóða til almennrar eftirgjafar vaxta og verðbóta vegna húsnæðislána sem hvíldu á fasteignum í Grindavík. - Haukur Yngvi Jónasson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48527</guid>
-    </item>
-    <item>
-      <title>Kennsla á hinsegin sögu: verkefnabanki um hinsegin sögu fyrir unglingastig</title>
-      <link>https://skemman.is/handle/1946/48526</link>
-      <description>Kennsla á hinsegin sögu: verkefnabanki um hinsegin sögu fyrir unglingastig - Aníta Hrund Hjaltadóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48526</guid>
-    </item>
-    <item>
-      <title>Framtíð kvikmyndarinnar: Stafræna byltingin í kvikmyndagerð og eftirköst hennar</title>
-      <link>https://skemman.is/handle/1946/48523</link>
-      <description>Framtíð kvikmyndarinnar: Stafræna byltingin í kvikmyndagerð og eftirköst hennar - Viktoría Sif Haraldsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48523</guid>
-    </item>
-    <item>
-      <title>Ástarsaga í Sigríðarfirði</title>
-      <link>https://skemman.is/handle/1946/48525</link>
-      <description>Ástarsaga í Sigríðarfirði - Harpa Dís Hákonardóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48525</guid>
-    </item>
-    <item>
-      <title>Filman er horfin: Nýbíóið, kvikmyndir og tölvuleikir í stafrænu miðlaumhverfi 21. aldar</title>
-      <link>https://skemman.is/handle/1946/48530</link>
-      <description>Filman er horfin: Nýbíóið, kvikmyndir og tölvuleikir í stafrænu miðlaumhverfi 21. aldar - Haukur Steinn Hilmarsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48530</guid>
     </item>
   </channel>
 </rss>
