@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Sep 2024 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 15:00:27 +0000</lastBuildDate>
     <item>
       <title>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262</title>
       <link>https://skemman.is/handle/1946/48568</link>
@@ -63,10 +63,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48571</guid>
     </item>
     <item>
-      <title>Skapandi gervigreind og þekkingarstjórnun: Áhrif skapandi gervigreindar á þekkingarstjórnun leyndrar þekkingar</title>
-      <link>https://skemman.is/handle/1946/48577</link>
-      <description>Skapandi gervigreind og þekkingarstjórnun: Áhrif skapandi gervigreindar á þekkingarstjórnun leyndrar þekkingar - Tanja Ýr Theodórsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48577</guid>
+      <title>„Það var náttúrulega algjör glundroði fyrstu dagana“ Reynsla stjórnenda hjá Grindavíkurbæ af því að halda starfsemi gangandi í kjölfar rýmingar sveitarfélagsins</title>
+      <link>https://skemman.is/handle/1946/48582</link>
+      <description>„Það var náttúrulega algjör glundroði fyrstu dagana“ Reynsla stjórnenda hjá Grindavíkurbæ af því að halda starfsemi gangandi í kjölfar rýmingar sveitarfélagsins - Soffía Snædís Sveinsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48582</guid>
+    </item>
+    <item>
+      <title>Áhrif mismunabreyta á félagslega einangrun flóttafólks og innflytjenda</title>
+      <link>https://skemman.is/handle/1946/48584</link>
+      <description>Áhrif mismunabreyta á félagslega einangrun flóttafólks og innflytjenda - Kristbjörg Arna Elínudóttir Þorvaldsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48584</guid>
+    </item>
+    <item>
+      <title>Aðferðaþróun og hagræðing á UHPLC mælingum og útdrátt fucoxanthins úr Phaeodactylum tricornutum</title>
+      <link>https://skemman.is/handle/1946/48583</link>
+      <description>Aðferðaþróun og hagræðing á UHPLC mælingum og útdrátt fucoxanthins úr Phaeodactylum tricornutum - Halldór Benediktsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48583</guid>
     </item>
     <item>
       <title>Ungt fólk á húsnæðismarkaðinum: Möguleikar ungs fólks að eignast húsnæði og stuðningur foreldra</title>
@@ -75,16 +87,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48578</guid>
     </item>
     <item>
+      <title>Skapandi gervigreind og þekkingarstjórnun: Áhrif skapandi gervigreindar á þekkingarstjórnun leyndrar þekkingar</title>
+      <link>https://skemman.is/handle/1946/48577</link>
+      <description>Skapandi gervigreind og þekkingarstjórnun: Áhrif skapandi gervigreindar á þekkingarstjórnun leyndrar þekkingar - Tanja Ýr Theodórsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48577</guid>
+    </item>
+    <item>
       <title>Hálfmáni, útvarp og tölva — Is Icelandic really dying out?</title>
       <link>https://skemman.is/handle/1946/48579</link>
       <description>Hálfmáni, útvarp og tölva — Is Icelandic really dying out? - Isabella Tache 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48579</guid>
-    </item>
-    <item>
-      <title>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur</title>
-      <link>https://skemman.is/handle/1946/48580</link>
-      <description>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur - Richard Alexander Allen 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48580</guid>
     </item>
     <item>
       <title>Application of VSM for process improvement in the pharmaceutical industry</title>
@@ -93,10 +105,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48581</guid>
     </item>
     <item>
-      <title>„Það var náttúrulega algjör glundroði fyrstu dagana“ Reynsla stjórnenda hjá Grindavíkurbæ af því að halda starfsemi gangandi í kjölfar rýmingar sveitarfélagsins</title>
-      <link>https://skemman.is/handle/1946/48582</link>
-      <description>„Það var náttúrulega algjör glundroði fyrstu dagana“ Reynsla stjórnenda hjá Grindavíkurbæ af því að halda starfsemi gangandi í kjölfar rýmingar sveitarfélagsins - Soffía Snædís Sveinsdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48582</guid>
+      <title>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur</title>
+      <link>https://skemman.is/handle/1946/48580</link>
+      <description>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur - Richard Alexander Allen 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48580</guid>
+    </item>
+    <item>
+      <title>Miðlunarhlutverk óhóflegrar samfélagsmiðlanotkunar á tengsl persónuleikaþátta og áráttukenndrar kauphegðunar á netinu</title>
+      <link>https://skemman.is/handle/1946/48585</link>
+      <description>Miðlunarhlutverk óhóflegrar samfélagsmiðlanotkunar á tengsl persónuleikaþátta og áráttukenndrar kauphegðunar á netinu - Lilja María Árnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48585</guid>
+    </item>
+    <item>
+      <title>Arabi framtíðarinnar I. Traduction de L’Arabe du futur I de Riad Sattouf</title>
+      <link>https://skemman.is/handle/1946/48586</link>
+      <description>Arabi framtíðarinnar I. Traduction de L’Arabe du futur I de Riad Sattouf - Anna Kristín Ásbjörnsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48586</guid>
     </item>
     <item>
       <title>A Qualitative Study of Attitude Change in Chinese Students Who Studied Abroad: Focus on the U.K and Nordic countries’ students</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/48536</link>
       <description>Áttahorf sveitakirkna og staðsetning miðað við bæ - Birna Magnúsdóttir 1965-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48536</guid>
-    </item>
-    <item>
-      <title>Ótengd forritun fyrir unga nemendur: Verkefni til undirbúnings forritunarkennslu</title>
-      <link>https://skemman.is/handle/1946/48542</link>
-      <description>Ótengd forritun fyrir unga nemendur: Verkefni til undirbúnings forritunarkennslu - Lillý Karen Pálsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48542</guid>
-    </item>
-    <item>
-      <title>Hver eru áhrif samfélagsmiðla á sjálfsmynd barna á grunnskólaaldri?</title>
-      <link>https://skemman.is/handle/1946/48541</link>
-      <description>Hver eru áhrif samfélagsmiðla á sjálfsmynd barna á grunnskólaaldri? - Birta María Falsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48541</guid>
-    </item>
-    <item>
-      <title>Viðskiptalíkön: Hvað eru þau og hvernig geta þau mótað fyrirtæki?</title>
-      <link>https://skemman.is/handle/1946/48540</link>
-      <description>Viðskiptalíkön: Hvað eru þau og hvernig geta þau mótað fyrirtæki? - Ingimundur Viktor Helgason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48540</guid>
-    </item>
-    <item>
-      <title>The Role of Technology in Humanitarian Assistance: Opportunities and Challenges</title>
-      <link>https://skemman.is/handle/1946/48549</link>
-      <description>The Role of Technology in Humanitarian Assistance: Opportunities and Challenges - Gísli Rafn Ólafsson 1969-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48549</guid>
     </item>
   </channel>
 </rss>
