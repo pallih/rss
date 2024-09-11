@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 11 Sep 2024 14:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:00:22 +0000</lastBuildDate>
     <item>
       <title>„Maður vill ekki vinna fyrir hvern sem er“. Áhrif vörumerkja á ákvarðanatöku Gen-Z umsækjenda</title>
       <link>https://skemman.is/handle/1946/48589</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/48592</link>
       <description>Fjármálakreppur: Hverjir eru fyrirboðar fjármálakreppu? - Bryndís Margrét Karlsdóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48592</guid>
+    </item>
+    <item>
+      <title>slenskar þýðingar á hugtökum úr IFRS stöðlum. Samræmd íslensk þýðing á IFRS Taxonomy Illustrated (ITI) sem lausn á vanda vegna misræmis í íslenskri hugtakanotkun</title>
+      <link>https://skemman.is/handle/1946/48593</link>
+      <description>slenskar þýðingar á hugtökum úr IFRS stöðlum. Samræmd íslensk þýðing á IFRS Taxonomy Illustrated (ITI) sem lausn á vanda vegna misræmis í íslenskri hugtakanotkun - Atli Bjarnason 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48593</guid>
     </item>
     <item>
       <title>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48587</link>
       <description>Krísustjórnun: Rýming Grindavíkur 10. nóvember 2023. Upplifun og viðbrögð Grindvíkinga. - Hólmfríður Sigurðardóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48587</guid>
-    </item>
-    <item>
-      <title>Þjónandi forysta og árangur. Hver eru tengsl þjónandi forystu við starfsánægju, áform um að hætta í starfi og kulnun í starfi?</title>
-      <link>https://skemman.is/handle/1946/48588</link>
-      <description>Þjónandi forysta og árangur. Hver eru tengsl þjónandi forystu við starfsánægju, áform um að hætta í starfi og kulnun í starfi? - Silja Björk Blöndal 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48588</guid>
     </item>
   </channel>
 </rss>
