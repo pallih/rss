@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 11 Sep 2024 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 13:04:17 +0000</lastBuildDate>
     <item>
       <title>„Maður vill ekki vinna fyrir hvern sem er“. Áhrif vörumerkja á ákvarðanatöku Gen-Z umsækjenda</title>
       <link>https://skemman.is/handle/1946/48589</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48590</link>
       <description>Hinn einfaldi hljóðláti sölumaður: Áhrif mínimalískrar hönnunar vöruumbúða á skynjun neytenda á snyrtivörum og matvörum - Emil Szymon Borowski 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48590</guid>
+    </item>
+    <item>
+      <title>„Mannauðurinn er hjarta vörumerkisins“. Rannsókn á því hvernig markaðsstjórar og mannauðsstjórar geta nýtt sér sameiginlegt mælitæki til að ná árangri</title>
+      <link>https://skemman.is/handle/1946/48591</link>
+      <description>„Mannauðurinn er hjarta vörumerkisins“. Rannsókn á því hvernig markaðsstjórar og mannauðsstjórar geta nýtt sér sameiginlegt mælitæki til að ná árangri - Dagbjört Telma Davíðsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48591</guid>
     </item>
     <item>
       <title>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48534</link>
       <description>A Qualitative Study of Attitude Change in Chinese Students Who Studied Abroad: Focus on the U.K and Nordic countries’ students - Shuyao Ming 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48534</guid>
-    </item>
-    <item>
-      <title>„Þú ert það sem þú elskar“: Um ímynd, texta og hinseginleika Taylor Swift</title>
-      <link>https://skemman.is/handle/1946/48535</link>
-      <description>„Þú ert það sem þú elskar“: Um ímynd, texta og hinseginleika Taylor Swift - Jana Björg Þorvaldsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48535</guid>
     </item>
   </channel>
 </rss>
