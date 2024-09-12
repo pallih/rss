@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 12 Sep 2024 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 16:00:22 +0000</lastBuildDate>
     <item>
       <title>Kynbundin aldurs- og útlitshyggja gagnvart eldri konum á vinnumarkaði: Hindranir kvenna yfir fimmtugt til framgangs í starfi</title>
       <link>https://skemman.is/handle/1946/48594</link>
@@ -39,16 +39,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48591</guid>
     </item>
     <item>
-      <title>slenskar þýðingar á hugtökum úr IFRS stöðlum. Samræmd íslensk þýðing á IFRS Taxonomy Illustrated (ITI) sem lausn á vanda vegna misræmis í íslenskri hugtakanotkun</title>
-      <link>https://skemman.is/handle/1946/48593</link>
-      <description>slenskar þýðingar á hugtökum úr IFRS stöðlum. Samræmd íslensk þýðing á IFRS Taxonomy Illustrated (ITI) sem lausn á vanda vegna misræmis í íslenskri hugtakanotkun - Atli Bjarnason 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48593</guid>
-    </item>
-    <item>
       <title>Fjármálakreppur: Hverjir eru fyrirboðar fjármálakreppu?</title>
       <link>https://skemman.is/handle/1946/48592</link>
       <description>Fjármálakreppur: Hverjir eru fyrirboðar fjármálakreppu? - Bryndís Margrét Karlsdóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48592</guid>
+    </item>
+    <item>
+      <title>Íslenskar þýðingar á hugtökum úr IFRS stöðlum. Samræmd íslensk þýðing á IFRS Taxonomy Illustrated (ITI) sem lausn á vanda vegna misræmis í íslenskri hugtakanotkun</title>
+      <link>https://skemman.is/handle/1946/48593</link>
+      <description>Íslenskar þýðingar á hugtökum úr IFRS stöðlum. Samræmd íslensk þýðing á IFRS Taxonomy Illustrated (ITI) sem lausn á vanda vegna misræmis í íslenskri hugtakanotkun - Atli Bjarnason 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48593</guid>
     </item>
     <item>
       <title>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262</title>
@@ -97,12 +97,6 @@
       <link>https://skemman.is/handle/1946/48569</link>
       <description>Heilsa alla ævi. Greinargerð fyrir námskeið í heilsueflingu - Guðjón Snær Magnússon 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48569</guid>
-    </item>
-    <item>
-      <title>Menningarleg nærvera Erichs Marias Remarque á Íslandi Rannsókn á opinberri og fræðilegri umræðu um Remarque og verk hans á Íslandi 1929-1949</title>
-      <link>https://skemman.is/handle/1946/48571</link>
-      <description>Menningarleg nærvera Erichs Marias Remarque á Íslandi Rannsókn á opinberri og fræðilegri umræðu um Remarque og verk hans á Íslandi 1929-1949 - Hallberg Brynjar Guðmundsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48571</guid>
     </item>
     <item>
       <title>„Það var náttúrulega algjör glundroði fyrstu dagana“ Reynsla stjórnenda hjá Grindavíkurbæ af því að halda starfsemi gangandi í kjölfar rýmingar sveitarfélagsins</title>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/48587</link>
       <description>Krísustjórnun: Rýming Grindavíkur 10. nóvember 2023. Upplifun og viðbrögð Grindvíkinga. - Hólmfríður Sigurðardóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48587</guid>
+    </item>
+    <item>
+      <title>Miðlunarhlutverk óhóflegrar samfélagsmiðlanotkunar á tengsl persónuleikaþátta og áráttukenndrar kauphegðunar á netinu</title>
+      <link>https://skemman.is/handle/1946/48585</link>
+      <description>Miðlunarhlutverk óhóflegrar samfélagsmiðlanotkunar á tengsl persónuleikaþátta og áráttukenndrar kauphegðunar á netinu - Lilja María Árnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48585</guid>
     </item>
   </channel>
 </rss>
