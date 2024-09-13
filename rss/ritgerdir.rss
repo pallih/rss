@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 13 Sep 2024 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 12:00:25 +0000</lastBuildDate>
     <item>
       <title>Áhrif fjölmiðla á umfjöllun um knattspyrnu: Félags- og menningarlegir þættir, orðræða og birtingarmyndir</title>
       <link>https://skemman.is/handle/1946/48596</link>
       <description>Áhrif fjölmiðla á umfjöllun um knattspyrnu: Félags- og menningarlegir þættir, orðræða og birtingarmyndir - Andri Þór Árnason 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48596</guid>
+    </item>
+    <item>
+      <title>„Hún þarf ekki að bregðast svona við“. Ríkir samræmi í orðræðu leiklýsenda handknattleiksleikja karla og kvenna?</title>
+      <link>https://skemman.is/handle/1946/48597</link>
+      <description>„Hún þarf ekki að bregðast svona við“. Ríkir samræmi í orðræðu leiklýsenda handknattleiksleikja karla og kvenna? - Telma Sól Bogadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48597</guid>
     </item>
     <item>
       <title>Kynbundin aldurs- og útlitshyggja gagnvart eldri konum á vinnumarkaði: Hindranir kvenna yfir fimmtugt til framgangs í starfi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48580</link>
       <description>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur - Richard Alexander Allen 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48580</guid>
-    </item>
-    <item>
-      <title>Krísustjórnun: Rýming Grindavíkur 10. nóvember 2023. Upplifun og viðbrögð Grindvíkinga.</title>
-      <link>https://skemman.is/handle/1946/48587</link>
-      <description>Krísustjórnun: Rýming Grindavíkur 10. nóvember 2023. Upplifun og viðbrögð Grindvíkinga. - Hólmfríður Sigurðardóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48587</guid>
     </item>
   </channel>
 </rss>
