@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 13 Sep 2024 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 16:00:25 +0000</lastBuildDate>
     <item>
       <title>Áhrif fjölmiðla á umfjöllun um knattspyrnu: Félags- og menningarlegir þættir, orðræða og birtingarmyndir</title>
       <link>https://skemman.is/handle/1946/48596</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48597</link>
       <description>„Hún þarf ekki að bregðast svona við“. Ríkir samræmi í orðræðu leiklýsenda handknattleiksleikja karla og kvenna? - Telma Sól Bogadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48597</guid>
+    </item>
+    <item>
+      <title>Hlutverk og starfsumhverfi héraðsljósmæðra sem starfa í dreifðari byggðum: Kortlagningarsamantekt</title>
+      <link>https://skemman.is/handle/1946/48598</link>
+      <description>Hlutverk og starfsumhverfi héraðsljósmæðra sem starfa í dreifðari byggðum: Kortlagningarsamantekt - Arna Huld Sigurðardóttir 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48598</guid>
     </item>
     <item>
       <title>Kynbundin aldurs- og útlitshyggja gagnvart eldri konum á vinnumarkaði: Hindranir kvenna yfir fimmtugt til framgangs í starfi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48581</link>
       <description>Application of VSM for process improvement in the pharmaceutical industry - Olena Tkachuk 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48581</guid>
-    </item>
-    <item>
-      <title>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur</title>
-      <link>https://skemman.is/handle/1946/48580</link>
-      <description>Takmörkun: Áhrif COVID-19 á bari í miðbæ Reykjavíkur - Richard Alexander Allen 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48580</guid>
     </item>
   </channel>
 </rss>
