@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 17 Sep 2024 08:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 09:00:27 +0000</lastBuildDate>
+    <item>
+      <title>Með augum leikskólakennarans: Tengslakenningin og tengslavandi ungra barna</title>
+      <link>https://skemman.is/handle/1946/48602</link>
+      <description>Með augum leikskólakennarans: Tengslakenningin og tengslavandi ungra barna - Brynja Hallgrímsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48602</guid>
+    </item>
     <item>
       <title>Tryggingagjald. Hvað ræður álagningarhlutfalli tryggingagjalds?</title>
       <link>https://skemman.is/handle/1946/48599</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48583</link>
       <description>Aðferðaþróun og hagræðing á UHPLC mælingum og útdrátt fucoxanthins úr Phaeodactylum tricornutum - Halldór Benediktsson 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48583</guid>
-    </item>
-    <item>
-      <title>Ungt fólk á húsnæðismarkaðinum: Möguleikar ungs fólks að eignast húsnæði og stuðningur foreldra</title>
-      <link>https://skemman.is/handle/1946/48578</link>
-      <description>Ungt fólk á húsnæðismarkaðinum: Möguleikar ungs fólks að eignast húsnæði og stuðningur foreldra - Solveig Nordal 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48578</guid>
     </item>
   </channel>
 </rss>
