@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 18 Sep 2024 13:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 14:00:23 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3095-2012-063</link>
       <description>Héraðsdómur Vesturlands 2012-063 - 1992-2002</description>
@@ -52,6 +52,16 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0502-2024-121</link>
       <description>Félag leiðsögumanna 2024-121 - 1972-1999</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0502-2024-121</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3175-2022-111</link>
+      <description>Spilliefnanefnd 2022-111 - 1990-2004</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3175-2022-111</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3162-2024-087</link>
+      <description>Hjálpræðisherinn 2024-087 - 1896-2020</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3162-2024-087</guid>
     </item>
   </channel>
 </rss>
