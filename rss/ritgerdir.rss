@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 24 Sep 2024 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:00:30 +0000</lastBuildDate>
     <item>
       <title>Útikennsla: Áskoranir og tækifæri</title>
       <link>https://skemman.is/handle/1946/48609</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48610</link>
       <description>"Núna erum við alltaf virk að hlusta og tala við börnin" Leikur sem leið til að efla íslenskan orðaforða barna í fjölmenningarlegum leikskóla - Halldóra Sigtryggsdóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48610</guid>
+    </item>
+    <item>
+      <title>Nutritional status of nursing home residents in Akureyri, Iceland. A cross-sectional study</title>
+      <link>https://skemman.is/handle/1946/48611</link>
+      <description>Nutritional status of nursing home residents in Akureyri, Iceland. A cross-sectional study - Sara Mist Gautadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48611</guid>
     </item>
     <item>
       <title>„Snýst ekki um þriðju vaktina ... líka fjórðu, fimmtu og sjöttu": Eigindleg rannsókn um upplifun feðra á systkinasambandi barna sinna með eða og án einhverfu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48574</link>
       <description>Stytting vinnuvikunnar: „Þetta er bara svo flókin kerfisbreyting að þetta er svolítið vesen“. Upplifun vaktavinnu fólks hjá ríki og sveitarfélagi á styttingu vinnuvikunnar - Lilja Dögg Tryggvadóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48574</guid>
-    </item>
-    <item>
-      <title>Hringrásarhagkerfi og íslenskur byggingariðnaður: Staða innleiðingar hjá litlum og meðalstórum byggingarverktökum</title>
-      <link>https://skemman.is/handle/1946/48573</link>
-      <description>Hringrásarhagkerfi og íslenskur byggingariðnaður: Staða innleiðingar hjá litlum og meðalstórum byggingarverktökum - Harpa Snorradóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48573</guid>
     </item>
   </channel>
 </rss>
