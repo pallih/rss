@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 25 Sep 2024 14:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 15:00:21 +0000</lastBuildDate>
     <item>
       <title>Þróun sjálfvirkra hugbúnaðarprófana og kostir þeirra í framkvæmd</title>
       <link>https://skemman.is/handle/1946/48612</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48613</link>
       <description>Samræðulestur og málþroski fjöltyngdra barna í leikskólum: Kenningar og aðferðir : Hvernig má nýta samræðulestur til að efla málþroska hjá fjöltyngdum börnum í leikskólum? - Jón Arnar Ólafsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48613</guid>
+    </item>
+    <item>
+      <title>Staðtengt nám : Upplifun og áhrif</title>
+      <link>https://skemman.is/handle/1946/48614</link>
+      <description>Staðtengt nám : Upplifun og áhrif - Helgi Ævar Guðmundsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48614</guid>
     </item>
     <item>
       <title>Útikennsla: Áskoranir og tækifæri</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48591</link>
       <description>„Mannauðurinn er hjarta vörumerkisins“. Rannsókn á því hvernig markaðsstjórar og mannauðsstjórar geta nýtt sér sameiginlegt mælitæki til að ná árangri - Dagbjört Telma Davíðsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48591</guid>
-    </item>
-    <item>
-      <title>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262</title>
-      <link>https://skemman.is/handle/1946/48568</link>
-      <description>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262 - Logi Guðbrandsson 1937-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48568</guid>
     </item>
   </channel>
 </rss>
