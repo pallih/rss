@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 25 Sep 2024 13:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 14:00:23 +0000</lastBuildDate>
     <item>
       <title>Þróun sjálfvirkra hugbúnaðarprófana og kostir þeirra í framkvæmd</title>
       <link>https://skemman.is/handle/1946/48612</link>
       <description>Þróun sjálfvirkra hugbúnaðarprófana og kostir þeirra í framkvæmd - Hrafnhildur Olga Hjaltadóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48612</guid>
+    </item>
+    <item>
+      <title>Samræðulestur og málþroski fjöltyngdra barna í leikskólum: Kenningar og aðferðir : Hvernig má nýta samræðulestur til að efla málþroska hjá fjöltyngdum börnum í leikskólum?</title>
+      <link>https://skemman.is/handle/1946/48613</link>
+      <description>Samræðulestur og málþroski fjöltyngdra barna í leikskólum: Kenningar og aðferðir : Hvernig má nýta samræðulestur til að efla málþroska hjá fjöltyngdum börnum í leikskólum? - Jón Arnar Ólafsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48613</guid>
     </item>
     <item>
       <title>Útikennsla: Áskoranir og tækifæri</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48568</link>
       <description>Rætur stjórnskipunar og laga íslenska Allsherjarríkisins 930 – 1262 - Logi Guðbrandsson 1937-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48568</guid>
-    </item>
-    <item>
-      <title>Stytting vinnuvikunnar: „Þetta er bara svo flókin kerfisbreyting að þetta er svolítið vesen“. Upplifun vaktavinnu fólks hjá ríki og sveitarfélagi á styttingu vinnuvikunnar</title>
-      <link>https://skemman.is/handle/1946/48574</link>
-      <description>Stytting vinnuvikunnar: „Þetta er bara svo flókin kerfisbreyting að þetta er svolítið vesen“. Upplifun vaktavinnu fólks hjá ríki og sveitarfélagi á styttingu vinnuvikunnar - Lilja Dögg Tryggvadóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48574</guid>
     </item>
   </channel>
 </rss>
