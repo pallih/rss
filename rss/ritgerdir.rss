@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Sep 2024 11:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:00:20 +0000</lastBuildDate>
     <item>
       <title>Maximising space and learning: How outdoor education enhances operational dynamics in an Icelandic preschool</title>
       <link>https://skemman.is/handle/1946/48618</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/48620</link>
       <description>Art Promoting Ocean Awareness - Ephraim Esene Ahiagba 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48620</guid>
+    </item>
+    <item>
+      <title>Málörvunarleiðir í leikskóla</title>
+      <link>https://skemman.is/handle/1946/48621</link>
+      <description>Málörvunarleiðir í leikskóla - Helena Rut Hannesdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48621</guid>
+    </item>
+    <item>
+      <title>Hljóðkerfisvitund og áhrif hennar á lesfimi barna</title>
+      <link>https://skemman.is/handle/1946/48622</link>
+      <description>Hljóðkerfisvitund og áhrif hennar á lesfimi barna - Grétar Snær Gunnarsson 1997-; Bergur Elí Rúnarsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48622</guid>
     </item>
     <item>
       <title>„Vettvangsstarf er lífsnauðsynlegur hlekkur í stuðningskerfi varðandi börn“ : Sýn fagfólks á vettvangsstarf félagsmiðstöðva í Reykjavík</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48598</link>
       <description>Hlutverk og starfsumhverfi héraðsljósmæðra sem starfa í dreifðari byggðum: Kortlagningarsamantekt - Arna Huld Sigurðardóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48598</guid>
-    </item>
-    <item>
-      <title>„Hún þarf ekki að bregðast svona við“. Ríkir samræmi í orðræðu leiklýsenda handknattleiksleikja karla og kvenna?</title>
-      <link>https://skemman.is/handle/1946/48597</link>
-      <description>„Hún þarf ekki að bregðast svona við“. Ríkir samræmi í orðræðu leiklýsenda handknattleiksleikja karla og kvenna? - Telma Sól Bogadóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48597</guid>
-    </item>
-    <item>
-      <title>Áhrif fjölmiðla á umfjöllun um knattspyrnu: Félags- og menningarlegir þættir, orðræða og birtingarmyndir</title>
-      <link>https://skemman.is/handle/1946/48596</link>
-      <description>Áhrif fjölmiðla á umfjöllun um knattspyrnu: Félags- og menningarlegir þættir, orðræða og birtingarmyndir - Andri Þór Árnason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48596</guid>
     </item>
   </channel>
 </rss>
