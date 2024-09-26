@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Sep 2024 10:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 11:00:26 +0000</lastBuildDate>
     <item>
       <title>Maximising space and learning: How outdoor education enhances operational dynamics in an Icelandic preschool</title>
       <link>https://skemman.is/handle/1946/48618</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/48619</link>
       <description>Málfræðiefni á unglingastigi í grunnskóla: Úttekt á málfræðikennsluefni á unglingastigi og rannsókn á viðhorfi kennara til þess - Sunna Kristín Gunnlaugsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48619</guid>
+    </item>
+    <item>
+      <title>Art Promoting Ocean Awareness</title>
+      <link>https://skemman.is/handle/1946/48620</link>
+      <description>Art Promoting Ocean Awareness - Ephraim Esene Ahiagba 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48620</guid>
     </item>
     <item>
       <title>„Vettvangsstarf er lífsnauðsynlegur hlekkur í stuðningskerfi varðandi börn“ : Sýn fagfólks á vettvangsstarf félagsmiðstöðva í Reykjavík</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48596</link>
       <description>Áhrif fjölmiðla á umfjöllun um knattspyrnu: Félags- og menningarlegir þættir, orðræða og birtingarmyndir - Andri Þór Árnason 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48596</guid>
-    </item>
-    <item>
-      <title>Kynbundin aldurs- og útlitshyggja gagnvart eldri konum á vinnumarkaði: Hindranir kvenna yfir fimmtugt til framgangs í starfi</title>
-      <link>https://skemman.is/handle/1946/48594</link>
-      <description>Kynbundin aldurs- og útlitshyggja gagnvart eldri konum á vinnumarkaði: Hindranir kvenna yfir fimmtugt til framgangs í starfi - Unnur Eva Ernudóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48594</guid>
     </item>
   </channel>
 </rss>
