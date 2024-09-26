@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 26 Sep 2024 15:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 16:00:20 +0000</lastBuildDate>
     <item>
       <title>Maximising space and learning: How outdoor education enhances operational dynamics in an Icelandic preschool</title>
       <link>https://skemman.is/handle/1946/48618</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/48623</link>
       <description>The impact of Orðaheimurinn language intervention on the vocabulary of monolingual and multilingual Icelandic-speaking preschoolers: Findings of a CRCT - Bryndís Bergþórsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48623</guid>
+    </item>
+    <item>
+      <title>Úthlutun fjármagns til grunnskóla – verklag sveitarfélaga og eignarhald skólastjóra.</title>
+      <link>https://skemman.is/handle/1946/48624</link>
+      <description>Úthlutun fjármagns til grunnskóla – verklag sveitarfélaga og eignarhald skólastjóra. - Haraldur Axel Einarsson 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48624</guid>
     </item>
     <item>
       <title>„Vettvangsstarf er lífsnauðsynlegur hlekkur í stuðningskerfi varðandi börn“ : Sýn fagfólks á vettvangsstarf félagsmiðstöðva í Reykjavík</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48600</link>
       <description>Áhrif rómantísku stefnunnar og súrrealisma á náttúrusýn í myndlist - Heiðrún Sif Magnúsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48600</guid>
-    </item>
-    <item>
-      <title>Developing a Robust International Market Entry Strategy for FirstWater Iceland: A Focus on Sustainable Atlantic Salmon Aquaculture</title>
-      <link>https://skemman.is/handle/1946/48601</link>
-      <description>Developing a Robust International Market Entry Strategy for FirstWater Iceland: A Focus on Sustainable Atlantic Salmon Aquaculture - Gunnar Bryon Helgason 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48601</guid>
     </item>
   </channel>
 </rss>
