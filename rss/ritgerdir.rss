@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Sep 2024 12:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 13:05:15 +0000</lastBuildDate>
     <item>
       <title>„Á endanum snýst þetta allt um börnin“ Hvað einkennir fyrirmyndarsamstarf frístundaheimila og grunnskóla? Hvað styður og hvað hindrar?</title>
       <link>https://skemman.is/handle/1946/48626</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/48630</link>
       <description>Útskýrðu nánar! Stoðefni fyrir samþáttun á námsbókunum Efnisheimurinn og CO2 - Framtíðin í okkar höndum - Erlingur Viðarsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48630</guid>
+    </item>
+    <item>
+      <title>Warm-up exercises for choir singers: A study on the effects of warm-ups on choir singers‘ vocal quality and experience</title>
+      <link>https://skemman.is/handle/1946/48631</link>
+      <description>Warm-up exercises for choir singers: A study on the effects of warm-ups on choir singers‘ vocal quality and experience - Anna Bjarnsteinsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48631</guid>
+    </item>
+    <item>
+      <title>Líðan barna og ungmenna í samræðum á öðru máli: Hefur eigið mat á tungumálafærni áhrif á sjálfsöryggi og stress í samræðum meðal barna og ungmenna 10–16 ára þegar þau nota annað mál en móðurmál sitt?</title>
+      <link>https://skemman.is/handle/1946/48632</link>
+      <description>Líðan barna og ungmenna í samræðum á öðru máli: Hefur eigið mat á tungumálafærni áhrif á sjálfsöryggi og stress í samræðum meðal barna og ungmenna 10–16 ára þegar þau nota annað mál en móðurmál sitt? - Hulda Rós Blöndal Snorradóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48632</guid>
     </item>
     <item>
       <title>The impact of Orðaheimurinn language intervention on the vocabulary of monolingual and multilingual Icelandic-speaking preschoolers: Findings of a CRCT</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48608</link>
       <description>„Snýst ekki um þriðju vaktina ... líka fjórðu, fimmtu og sjöttu": Eigindleg rannsókn um upplifun feðra á systkinasambandi barna sinna með eða og án einhverfu - Jónína Íris Valgeirsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48608</guid>
-    </item>
-    <item>
-      <title>Life-Cycle Assessment of a reusable real-time monitoring device for a cold supply chain and its comparison with a single-use device</title>
-      <link>https://skemman.is/handle/1946/48607</link>
-      <description>Life-Cycle Assessment of a reusable real-time monitoring device for a cold supply chain and its comparison with a single-use device - Richard Henzler 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48607</guid>
-    </item>
-    <item>
-      <title>Fagmenntun og kennsla tvítyngdra barna í leikskóla: Nýjar áskoranir í leikskólastarfi</title>
-      <link>https://skemman.is/handle/1946/48606</link>
-      <description>Fagmenntun og kennsla tvítyngdra barna í leikskóla: Nýjar áskoranir í leikskólastarfi - Þórunn Þorkelsdóttir Diego 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48606</guid>
     </item>
   </channel>
 </rss>
