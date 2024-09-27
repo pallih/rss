@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Sep 2024 13:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 14:00:33 +0000</lastBuildDate>
     <item>
       <title>„Á endanum snýst þetta allt um börnin“ Hvað einkennir fyrirmyndarsamstarf frístundaheimila og grunnskóla? Hvað styður og hvað hindrar?</title>
       <link>https://skemman.is/handle/1946/48626</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/48632</link>
       <description>Líðan barna og ungmenna í samræðum á öðru máli: Hefur eigið mat á tungumálafærni áhrif á sjálfsöryggi og stress í samræðum meðal barna og ungmenna 10–16 ára þegar þau nota annað mál en móðurmál sitt? - Hulda Rós Blöndal Snorradóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48632</guid>
+    </item>
+    <item>
+      <title>Áhrif stuðningsáætlunar með Beanfee táknstyrkjakerfi á námsástundun, líðan og skólasókn nemenda í 9. bekk með skólaforðun</title>
+      <link>https://skemman.is/handle/1946/48633</link>
+      <description>Áhrif stuðningsáætlunar með Beanfee táknstyrkjakerfi á námsástundun, líðan og skólasókn nemenda í 9. bekk með skólaforðun - Svandís Hjartardóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48633</guid>
     </item>
     <item>
       <title>The impact of Orðaheimurinn language intervention on the vocabulary of monolingual and multilingual Icelandic-speaking preschoolers: Findings of a CRCT</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48610</link>
       <description>"Núna erum við alltaf virk að hlusta og tala við börnin" Leikur sem leið til að efla íslenskan orðaforða barna í fjölmenningarlegum leikskóla - Halldóra Sigtryggsdóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48610</guid>
-    </item>
-    <item>
-      <title>„Snýst ekki um þriðju vaktina ... líka fjórðu, fimmtu og sjöttu": Eigindleg rannsókn um upplifun feðra á systkinasambandi barna sinna með eða og án einhverfu</title>
-      <link>https://skemman.is/handle/1946/48608</link>
-      <description>„Snýst ekki um þriðju vaktina ... líka fjórðu, fimmtu og sjöttu": Eigindleg rannsókn um upplifun feðra á systkinasambandi barna sinna með eða og án einhverfu - Jónína Íris Valgeirsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48608</guid>
     </item>
   </channel>
 </rss>
