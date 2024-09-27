@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Sep 2024 10:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 11:00:22 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3160-2020-134</link>
       <description>Aðalsteinn Theodór Gíslason (1918-2000) sjómaður og verkstjóri 2020-134 - 1992-2013</description>
@@ -62,6 +62,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0348-2014-097</link>
       <description>Jónas Ráðgarð Jónasson (1911-2008) fulltrúi hjá Landsímanum, Fanney Jónasdóttir (1912-1991) húsfreyj 2014-097 - 1891-1995</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0348-2014-097</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3180-1994-020</link>
+      <description>Heyrnar- og talmeinastöð Íslands 1994-020 - </description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3180-1994-020</guid>
     </item>
   </channel>
 </rss>
