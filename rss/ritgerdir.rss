@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Sep 2024 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 16:00:33 +0000</lastBuildDate>
     <item>
       <title>„Á endanum snýst þetta allt um börnin“ Hvað einkennir fyrirmyndarsamstarf frístundaheimila og grunnskóla? Hvað styður og hvað hindrar?</title>
       <link>https://skemman.is/handle/1946/48626</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/48633</link>
       <description>Áhrif stuðningsáætlunar með Beanfee táknstyrkjakerfi á námsástundun, líðan og skólasókn nemenda í 9. bekk með skólaforðun - Svandís Hjartardóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48633</guid>
+    </item>
+    <item>
+      <title>Investigating PU.1 site-specific binding to a native nucleosome with crosslinking-MS and smFRET</title>
+      <link>https://skemman.is/handle/1946/48634</link>
+      <description>Investigating PU.1 site-specific binding to a native nucleosome with crosslinking-MS and smFRET - Kjartan Skarphéðinsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48634</guid>
     </item>
     <item>
       <title>The impact of Orðaheimurinn language intervention on the vocabulary of monolingual and multilingual Icelandic-speaking preschoolers: Findings of a CRCT</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48611</link>
       <description>Nutritional status of nursing home residents in Akureyri, Iceland. A cross-sectional study - Sara Mist Gautadóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48611</guid>
-    </item>
-    <item>
-      <title>"Núna erum við alltaf virk að hlusta og tala við börnin" Leikur sem leið til að efla íslenskan orðaforða barna í fjölmenningarlegum leikskóla</title>
-      <link>https://skemman.is/handle/1946/48610</link>
-      <description>"Núna erum við alltaf virk að hlusta og tala við börnin" Leikur sem leið til að efla íslenskan orðaforða barna í fjölmenningarlegum leikskóla - Halldóra Sigtryggsdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48610</guid>
     </item>
   </channel>
 </rss>
