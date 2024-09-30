@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 30 Sep 2024 11:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 12:00:22 +0000</lastBuildDate>
     <item>
       <title>Preschool Teacher Shared-Reading Behaviours: A Pilot Study of the Effect of Explicit Training in the Orðaheimurinn Study</title>
       <link>https://skemman.is/handle/1946/48643</link>
       <description>Preschool Teacher Shared-Reading Behaviours: A Pilot Study of the Effect of Explicit Training in the Orðaheimurinn Study - Auður Ragnarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48643</guid>
+    </item>
+    <item>
+      <title>Áhrif gjósku á votlendisgróður: Rannsókn á mómýrum á láglendi á Norðurlandi vestra</title>
+      <link>https://skemman.is/handle/1946/48644</link>
+      <description>Áhrif gjósku á votlendisgróður: Rannsókn á mómýrum á láglendi á Norðurlandi vestra - Halldóra Klara Valdimarsdóttir 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48644</guid>
     </item>
     <item>
       <title>Rót : starfendarannsókn; að kenna nýsköpun, þróa starfskenningu og vaxa í starfi kennara</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48622</link>
       <description>Hljóðkerfisvitund og áhrif hennar á lesfimi barna - Grétar Snær Gunnarsson 1997-; Bergur Elí Rúnarsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48622</guid>
-    </item>
-    <item>
-      <title>Art Promoting Ocean Awareness</title>
-      <link>https://skemman.is/handle/1946/48620</link>
-      <description>Art Promoting Ocean Awareness - Ephraim Esene Ahiagba 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48620</guid>
     </item>
   </channel>
 </rss>
