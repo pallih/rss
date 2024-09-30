@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 30 Sep 2024 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Preschool Teacher Shared-Reading Behaviours: A Pilot Study of the Effect of Explicit Training in the Orðaheimurinn Study</title>
+      <link>https://skemman.is/handle/1946/48643</link>
+      <description>Preschool Teacher Shared-Reading Behaviours: A Pilot Study of the Effect of Explicit Training in the Orðaheimurinn Study - Auður Ragnarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48643</guid>
+    </item>
     <item>
       <title>Rót : starfendarannsókn; að kenna nýsköpun, þróa starfskenningu og vaxa í starfi kennara</title>
       <link>https://skemman.is/handle/1946/48635</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48620</link>
       <description>Art Promoting Ocean Awareness - Ephraim Esene Ahiagba 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48620</guid>
-    </item>
-    <item>
-      <title>Maximising space and learning: How outdoor education enhances operational dynamics in an Icelandic preschool</title>
-      <link>https://skemman.is/handle/1946/48618</link>
-      <description>Maximising space and learning: How outdoor education enhances operational dynamics in an Icelandic preschool - Stephen James Midgley 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48618</guid>
     </item>
   </channel>
 </rss>
