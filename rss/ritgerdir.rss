@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 01 Oct 2024 14:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:00:22 +0000</lastBuildDate>
     <item>
       <title>Greiningar á stærð kjálka hjá íslenska melrakkanum (Vulpes lagopus)</title>
       <link>https://skemman.is/handle/1946/48646</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48647</link>
       <description>„Þetta er bara mest krefjandi hlutverk sem ég hef upplifað“: Upplifun mæðra af skömm, sjálfsgagnrýni og samkennd í eigin garð í móðurhlutverkinu - Katrín Emma Jónsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48647</guid>
+    </item>
+    <item>
+      <title>Landmótun og hörfunarsaga Fremri-Botnárjökuls í sunnanverðum Tindfjallajökli</title>
+      <link>https://skemman.is/handle/1946/48648</link>
+      <description>Landmótun og hörfunarsaga Fremri-Botnárjökuls í sunnanverðum Tindfjallajökli - Ásta Hlíf Harðardóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48648</guid>
     </item>
     <item>
       <title>Preschool Teacher Shared-Reading Behaviours: A Pilot Study of the Effect of Explicit Training in the Orðaheimurinn Study</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48623</link>
       <description>The impact of Orðaheimurinn language intervention on the vocabulary of monolingual and multilingual Icelandic-speaking preschoolers: Findings of a CRCT - Bryndís Bergþórsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48623</guid>
-    </item>
-    <item>
-      <title>Málörvunarleiðir í leikskóla</title>
-      <link>https://skemman.is/handle/1946/48621</link>
-      <description>Málörvunarleiðir í leikskóla - Helena Rut Hannesdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48621</guid>
     </item>
   </channel>
 </rss>
