@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 03 Oct 2024 09:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 10:00:24 +0000</lastBuildDate>
+    <item>
+      <title>On quantum entanglement and deformations of chiral fermions</title>
+      <link>https://skemman.is/handle/1946/48651</link>
+      <description>On quantum entanglement and deformations of chiral fermions - Luis Alberto León Andonayre 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48651</guid>
+    </item>
+    <item>
+      <title>Automated Mapping of Lava: Classification of the  Lava Flow Field from the 2021 Fagradalsfjall  Eruption</title>
+      <link>https://skemman.is/handle/1946/48652</link>
+      <description>Automated Mapping of Lava: Classification of the  Lava Flow Field from the 2021 Fagradalsfjall  Eruption - Caroline Montagnino Corona 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48652</guid>
+    </item>
     <item>
       <title>Rebenú Project: Funding and Investing in Startups and Companies Webapp Business Model</title>
       <link>https://skemman.is/handle/1946/48649</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48630</link>
       <description>Útskýrðu nánar! Stoðefni fyrir samþáttun á námsbókunum Efnisheimurinn og CO2 - Framtíðin í okkar höndum - Erlingur Viðarsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48630</guid>
-    </item>
-    <item>
-      <title>„Á endanum snýst þetta allt um börnin“ Hvað einkennir fyrirmyndarsamstarf frístundaheimila og grunnskóla? Hvað styður og hvað hindrar?</title>
-      <link>https://skemman.is/handle/1946/48626</link>
-      <description>„Á endanum snýst þetta allt um börnin“ Hvað einkennir fyrirmyndarsamstarf frístundaheimila og grunnskóla? Hvað styður og hvað hindrar? - Hafdís Oddgeirsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48626</guid>
-    </item>
-    <item>
-      <title>Upplýsingaóreiða um matvæli og næringu á netinu og mikilvægi matvælavísindavefs</title>
-      <link>https://skemman.is/handle/1946/48627</link>
-      <description>Upplýsingaóreiða um matvæli og næringu á netinu og mikilvægi matvælavísindavefs - Guðrún Nanna Egilsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48627</guid>
     </item>
   </channel>
 </rss>
