@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 03 Oct 2024 10:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 11:00:20 +0000</lastBuildDate>
     <item>
       <title>On quantum entanglement and deformations of chiral fermions</title>
       <link>https://skemman.is/handle/1946/48651</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48652</link>
       <description>Automated Mapping of Lava: Classification of the  Lava Flow Field from the 2021 Fagradalsfjall  Eruption - Caroline Montagnino Corona 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48652</guid>
+    </item>
+    <item>
+      <title>Grasbítar á hálendi Norðausturlands: Ný frásögn um beit búfjár og villtra dýra</title>
+      <link>https://skemman.is/handle/1946/48653</link>
+      <description>Grasbítar á hálendi Norðausturlands: Ný frásögn um beit búfjár og villtra dýra - Marteinn Möller 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48653</guid>
     </item>
     <item>
       <title>Rebenú Project: Funding and Investing in Startups and Companies Webapp Business Model</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48634</link>
       <description>Investigating PU.1 site-specific binding to a native nucleosome with crosslinking-MS and smFRET - Kjartan Skarphéðinsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48634</guid>
-    </item>
-    <item>
-      <title>Útskýrðu nánar! Stoðefni fyrir samþáttun á námsbókunum Efnisheimurinn og CO2 - Framtíðin í okkar höndum</title>
-      <link>https://skemman.is/handle/1946/48630</link>
-      <description>Útskýrðu nánar! Stoðefni fyrir samþáttun á námsbókunum Efnisheimurinn og CO2 - Framtíðin í okkar höndum - Erlingur Viðarsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48630</guid>
     </item>
   </channel>
 </rss>
