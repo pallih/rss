@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 03 Oct 2024 12:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 13:05:23 +0000</lastBuildDate>
     <item>
       <title>On quantum entanglement and deformations of chiral fermions</title>
       <link>https://skemman.is/handle/1946/48651</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/48653</link>
       <description>Grasbítar á hálendi Norðausturlands: Ný frásögn um beit búfjár og villtra dýra - Marteinn Möller 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48653</guid>
+    </item>
+    <item>
+      <title>A Critical Approach to Migrant Parents’  Perspectives on Children’s Language Learning  in Icelandic Preschools</title>
+      <link>https://skemman.is/handle/1946/48654</link>
+      <description>A Critical Approach to Migrant Parents’  Perspectives on Children’s Language Learning  in Icelandic Preschools - Friederike Börner 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48654</guid>
+    </item>
+    <item>
+      <title>Aeromagnetic study and analysis of the Fagradalsfjall 2021 lava using a simple thermal forward model</title>
+      <link>https://skemman.is/handle/1946/48655</link>
+      <description>Aeromagnetic study and analysis of the Fagradalsfjall 2021 lava using a simple thermal forward model - Jóhanna Malen Skúladóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48655</guid>
     </item>
     <item>
       <title>Rebenú Project: Funding and Investing in Startups and Companies Webapp Business Model</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48633</link>
       <description>Áhrif stuðningsáætlunar með Beanfee táknstyrkjakerfi á námsástundun, líðan og skólasókn nemenda í 9. bekk með skólaforðun - Svandís Hjartardóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48633</guid>
-    </item>
-    <item>
-      <title>Problematic Alien Plant Species: Distribution of Garden Lady’s Mantle (Alchemilla mollis) in Reykjavík Green Spaces</title>
-      <link>https://skemman.is/handle/1946/48628</link>
-      <description>Problematic Alien Plant Species: Distribution of Garden Lady’s Mantle (Alchemilla mollis) in Reykjavík Green Spaces - Megan Amelia Ólafsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48628</guid>
-    </item>
-    <item>
-      <title>Investigating PU.1 site-specific binding to a native nucleosome with crosslinking-MS and smFRET</title>
-      <link>https://skemman.is/handle/1946/48634</link>
-      <description>Investigating PU.1 site-specific binding to a native nucleosome with crosslinking-MS and smFRET - Kjartan Skarphéðinsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48634</guid>
     </item>
   </channel>
 </rss>
