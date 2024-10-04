@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 03 Oct 2024 17:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 08:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Distribution of deep-sea benthos communities around Iceland: their biodiversity and impact factors</title>
+      <link>https://skemman.is/handle/1946/48656</link>
+      <description>Distribution of deep-sea benthos communities around Iceland: their biodiversity and impact factors - Bylgja Sif Jónsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48656</guid>
+    </item>
     <item>
       <title>On quantum entanglement and deformations of chiral fermions</title>
       <link>https://skemman.is/handle/1946/48651</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48631</link>
       <description>Warm-up exercises for choir singers: A study on the effects of warm-ups on choir singers‘ vocal quality and experience - Anna Bjarnsteinsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48631</guid>
-    </item>
-    <item>
-      <title>Áhrif stuðningsáætlunar með Beanfee táknstyrkjakerfi á námsástundun, líðan og skólasókn nemenda í 9. bekk með skólaforðun</title>
-      <link>https://skemman.is/handle/1946/48633</link>
-      <description>Áhrif stuðningsáætlunar með Beanfee táknstyrkjakerfi á námsástundun, líðan og skólasókn nemenda í 9. bekk með skólaforðun - Svandís Hjartardóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48633</guid>
     </item>
   </channel>
 </rss>
