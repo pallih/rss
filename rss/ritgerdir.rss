@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 04 Oct 2024 11:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 12:00:24 +0000</lastBuildDate>
     <item>
       <title>CO2 emissions and geochemistry from geothermal systems in Iceland</title>
       <link>https://skemman.is/handle/1946/48657</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/48656</link>
       <description>Distribution of deep-sea benthos communities around Iceland: their biodiversity and impact factors - Bylgja Sif Jónsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48656</guid>
+    </item>
+    <item>
+      <title>Monitoring the Effects of the Oncogenic S250F  Mutation on the Intrinsically Disordered C-terminal  of FoxA1</title>
+      <link>https://skemman.is/handle/1946/48658</link>
+      <description>Monitoring the Effects of the Oncogenic S250F  Mutation on the Intrinsically Disordered C-terminal  of FoxA1 - Hafrún Hákonardóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48658</guid>
     </item>
     <item>
       <title>Aeromagnetic study and analysis of the Fagradalsfjall 2021 lava using a simple thermal forward model</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48632</link>
       <description>Líðan barna og ungmenna í samræðum á öðru máli: Hefur eigið mat á tungumálafærni áhrif á sjálfsöryggi og stress í samræðum meðal barna og ungmenna 10–16 ára þegar þau nota annað mál en móðurmál sitt? - Hulda Rós Blöndal Snorradóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48632</guid>
-    </item>
-    <item>
-      <title>Orðaheimurinn: The fidelity of a soft-structured intervention evaluated in Icelandic preschools</title>
-      <link>https://skemman.is/handle/1946/48629</link>
-      <description>Orðaheimurinn: The fidelity of a soft-structured intervention evaluated in Icelandic preschools - Björg Einarsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48629</guid>
     </item>
   </channel>
 </rss>
