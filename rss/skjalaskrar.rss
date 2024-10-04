@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 04 Oct 2024 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 16:00:17 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3161-2024-116</link>
       <description>Helga Sigurðardóttir (1919-2004) hárgreiðslumeistari og Lárus Benedikt Björnsson (1923-2005) vélstjóri og verkstjóri 2024-116 - 1925-1985</description>
@@ -17,6 +17,21 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0828-2014-059</link>
       <description>James Love Nisbet (1883-1932) læknir 2014-059 - 1910-2004</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0828-2014-059</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3163-2019-147</link>
+      <description>Félag héraðsdómara 2019-147 - 1950-1982</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3163-2019-147</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3164-2019-082</link>
+      <description>Færeyingafélagið á Norðurlandi (FÁN) 2019-082 - 1980-2018</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3164-2019-082</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3167-2021-017</link>
+      <description>Haukur Þorleifsson (1903-1990) aðalbókari 2021-017 - 1956-1991</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3167-2021-017</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3170-2024-067</link>
@@ -39,6 +54,11 @@
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0502-2024-121</guid>
     </item>
     <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3138-2019-146</link>
+      <description>Helgi Guðmundsson (1936-2017) úrsmiður 2019-146 - 1979-1986</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3138-2019-146</guid>
+    </item>
+    <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3175-2022-111</link>
       <description>Spilliefnanefnd 2022-111 - 1990-2004</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3175-2022-111</guid>
@@ -47,6 +67,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3162-2024-087</link>
       <description>Hjálpræðisherinn 2024-087 - 1896-2020</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3162-2024-087</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2970-2019-088</link>
+      <description>Hannes Þorsteinsson (1860-1935) þjóðskjalavörður 2019-088 - 1882-1957</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2970-2019-088</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0348-2014-097</link>
