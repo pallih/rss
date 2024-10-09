@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Oct 2024 11:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:00:21 +0000</lastBuildDate>
+    <item>
+      <title>Source, transmission, and development of Ichthyophonus spp. (Plehn &amp; Mulsow, 1911) infection in the Icelandic summer-spawning herring (Clupea harengus).</title>
+      <link>https://skemman.is/handle/1946/48661</link>
+      <description>Source, transmission, and development of Ichthyophonus spp. (Plehn &amp; Mulsow, 1911) infection in the Icelandic summer-spawning herring (Clupea harengus). - Hrólfur Smári Pétursson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48661</guid>
+    </item>
     <item>
       <title>Greining á fituefnaskiptaferlum í sérhæfingu stofnfrumna yfir í fitu -og beinvef</title>
       <link>https://skemman.is/handle/1946/48660</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48640</link>
       <description>Fagmennska, starfsmenntun og starfsréttindi tónlistarkennara - Haukur Þórðarson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48640</guid>
-    </item>
-    <item>
-      <title>Art or craft, is there a right way to teach art in preschool?</title>
-      <link>https://skemman.is/handle/1946/48637</link>
-      <description>Art or craft, is there a right way to teach art in preschool? - Laura de Mello Alves Pires 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48637</guid>
     </item>
   </channel>
 </rss>
