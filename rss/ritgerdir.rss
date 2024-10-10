@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Oct 2024 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 09:00:19 +0000</lastBuildDate>
+    <item>
+      <title>Gene Expression of Chondrocytes Grown in 3D Better Resembles Their In Vivo State</title>
+      <link>https://skemman.is/handle/1946/48663</link>
+      <description>Gene Expression of Chondrocytes Grown in 3D Better Resembles Their In Vivo State - Steinunn Perla Daníelsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48663</guid>
+    </item>
     <item>
       <title>Source, transmission, and development of Ichthyophonus spp. (Plehn &amp; Mulsow, 1911) infection in the Icelandic summer-spawning herring (Clupea harengus).</title>
       <link>https://skemman.is/handle/1946/48661</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48641</link>
       <description>Prologue to Credo - PIP Review : audiovisual Documentary and Composition - Jirí Ospalík 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48641</guid>
-    </item>
-    <item>
-      <title>Tónfræðamolar : fræðslumyndbönd fyrir tónfræði á grunnstigi</title>
-      <link>https://skemman.is/handle/1946/48639</link>
-      <description>Tónfræðamolar : fræðslumyndbönd fyrir tónfræði á grunnstigi - Borgþór Jónsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48639</guid>
     </item>
   </channel>
 </rss>
