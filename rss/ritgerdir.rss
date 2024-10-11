@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Oct 2024 08:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 09:00:21 +0000</lastBuildDate>
+    <item>
+      <title>Regulation of Fetal Hemoglobin in Erythroid Progenitor Cells</title>
+      <link>https://skemman.is/handle/1946/48665</link>
+      <description>Regulation of Fetal Hemoglobin in Erythroid Progenitor Cells - Sarnaver Mwende Muroki 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48665</guid>
+    </item>
     <item>
       <title>Gene Expression of Chondrocytes Grown in 3D Better Resembles Their In Vivo State</title>
       <link>https://skemman.is/handle/1946/48663</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48636</link>
       <description>„Hann er bara vondur“ : hvaða verkferlar geta stutt leikskólakennara hvað varðar alvarlega hegðunarerfiðleika? - Edda Sigurlaug Ragnarsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48636</guid>
-    </item>
-    <item>
-      <title>"Ég veit að ég er tía innra með mér" : rannsókn á sjálfsmyndarstyrkingu í gegnum listsköpun</title>
-      <link>https://skemman.is/handle/1946/48642</link>
-      <description>"Ég veit að ég er tía innra með mér" : rannsókn á sjálfsmyndarstyrkingu í gegnum listsköpun - Ragnhildur Ragnarsdóttir 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48642</guid>
     </item>
   </channel>
 </rss>
