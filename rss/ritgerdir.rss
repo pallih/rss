@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 21 Oct 2024 13:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 14:00:21 +0000</lastBuildDate>
     <item>
       <title>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity</title>
       <link>https://skemman.is/handle/1946/48704</link>
       <description>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity - Ingibjörg Ösp Ingólfsdóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48704</guid>
+    </item>
+    <item>
+      <title>Optimal operation of a low-temperature geothermal well pump network : a Dueling Deep Q-network approach</title>
+      <link>https://skemman.is/handle/1946/48707</link>
+      <description>Optimal operation of a low-temperature geothermal well pump network : a Dueling Deep Q-network approach - Friðrik Tryggvi Róbertsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48707</guid>
+    </item>
+    <item>
+      <title>Modeling of electricity spot prices for derivative valuation : capturing volatility clustering and price jumps</title>
+      <link>https://skemman.is/handle/1946/48706</link>
+      <description>Modeling of electricity spot prices for derivative valuation : capturing volatility clustering and price jumps - Kári Georgsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48706</guid>
     </item>
     <item>
       <title>Towards collective wisdom : a novel approach for cross-distribution collaborative learning</title>
@@ -21,10 +33,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48705</guid>
     </item>
     <item>
-      <title>Modeling of electricity spot prices for derivative valuation : capturing volatility clustering and price jumps</title>
-      <link>https://skemman.is/handle/1946/48706</link>
-      <description>Modeling of electricity spot prices for derivative valuation : capturing volatility clustering and price jumps - Kári Georgsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48706</guid>
+      <title>Traditional mean-variance portfolios in periods of high volatility and low interest rates</title>
+      <link>https://skemman.is/handle/1946/48708</link>
+      <description>Traditional mean-variance portfolios in periods of high volatility and low interest rates - Hnikarr Bjarmi Franklínsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48708</guid>
     </item>
     <item>
       <title>Tengsl félagslegs stuðnings við þunglyndiseinkenni meðal kvenna með geðhvörf. Áhrif áfalla í æsku</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48684</link>
       <description>Iceland’s commitment to clean beaches : a legal and policy analysis of strategies for marine litter reduction - Johanna Maria Franke 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48684</guid>
-    </item>
-    <item>
-      <title>Evaluating and addressing climate change threats to Atlantic Salmon (Salmo salar) Habitat in the East River, Pictou County, Nova Scotia</title>
-      <link>https://skemman.is/handle/1946/48698</link>
-      <description>Evaluating and addressing climate change threats to Atlantic Salmon (Salmo salar) Habitat in the East River, Pictou County, Nova Scotia - Matthew Liam Russell 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48698</guid>
-    </item>
-    <item>
-      <title>Predicting real-time geothermal well flow rate and enthalpy with machine learning techniques</title>
-      <link>https://skemman.is/handle/1946/48691</link>
-      <description>Predicting real-time geothermal well flow rate and enthalpy with machine learning techniques - Agata Rostran Largaespada 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48691</guid>
     </item>
   </channel>
 </rss>
