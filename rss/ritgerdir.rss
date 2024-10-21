@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 21 Oct 2024 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 09:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity</title>
+      <link>https://skemman.is/handle/1946/48704</link>
+      <description>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity - Ingibjörg Ösp Ingólfsdóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48704</guid>
+    </item>
     <item>
       <title>Tengsl félagslegs stuðnings við þunglyndiseinkenni meðal kvenna með geðhvörf. Áhrif áfalla í æsku</title>
       <link>https://skemman.is/handle/1946/48703</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48692</link>
       <description>A study on the perceived strength and weaknesses of public project governance in Iceland - Berglind Ósk Guðmundsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48692</guid>
-    </item>
-    <item>
-      <title>Hönnun og smíði á skilvirkari þrífæti</title>
-      <link>https://skemman.is/handle/1946/48690</link>
-      <description>Hönnun og smíði á skilvirkari þrífæti - Adrian Sölvi Ingimundarson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48690</guid>
     </item>
   </channel>
 </rss>
