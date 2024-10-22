@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 22 Oct 2024 11:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:00:20 +0000</lastBuildDate>
+    <item>
+      <title>Predicting Passenger Demand and Optimizing Fleet Allocation: A Machine Learning Approach for Icelandic Tour Operators</title>
+      <link>https://skemman.is/handle/1946/48709</link>
+      <description>Predicting Passenger Demand and Optimizing Fleet Allocation: A Machine Learning Approach for Icelandic Tour Operators - Ólafur Starri Pálsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48709</guid>
+    </item>
+    <item>
+      <title>Behavioral measurement of zebrafish larvae using event-based vision</title>
+      <link>https://skemman.is/handle/1946/48710</link>
+      <description>Behavioral measurement of zebrafish larvae using event-based vision - Unnar Freyr Arnþórsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48710</guid>
+    </item>
     <item>
       <title>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity</title>
       <link>https://skemman.is/handle/1946/48704</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48695</link>
       <description>The development of offshore wind energy in Denmark : lessons for Nova Scotia, Canada - Julius F. Barth 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48695</guid>
-    </item>
-    <item>
-      <title>Is crypto relevant for Icelandic investors?  : return connectedness &amp; portfolio implications of the OMXI15 and cryptocurrencies. TVP-VAR &amp; DCC-GARCH</title>
-      <link>https://skemman.is/handle/1946/48688</link>
-      <description>Is crypto relevant for Icelandic investors?  : return connectedness &amp; portfolio implications of the OMXI15 and cryptocurrencies. TVP-VAR &amp; DCC-GARCH - Daníel Freyr Rúnarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48688</guid>
-    </item>
-    <item>
-      <title>Iceland’s commitment to clean beaches : a legal and policy analysis of strategies for marine litter reduction</title>
-      <link>https://skemman.is/handle/1946/48684</link>
-      <description>Iceland’s commitment to clean beaches : a legal and policy analysis of strategies for marine litter reduction - Johanna Maria Franke 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48684</guid>
     </item>
   </channel>
 </rss>
