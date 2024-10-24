@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 24 Oct 2024 09:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 10:00:27 +0000</lastBuildDate>
     <item>
-      <title>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction</title>
-      <link>https://skemman.is/handle/1946/48713</link>
-      <description>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction - Jennifer Ann Jolliffe 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48713</guid>
+      <title>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health</title>
+      <link>https://skemman.is/handle/1946/48715</link>
+      <description>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health - Brynjólfur Már Georgsson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48715</guid>
+    </item>
+    <item>
+      <title>Experimental studies of material erosion rates in DC circuit breaker</title>
+      <link>https://skemman.is/handle/1946/48716</link>
+      <description>Experimental studies of material erosion rates in DC circuit breaker - Roman Vogt 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48716</guid>
     </item>
     <item>
       <title>Sport-specific measurement preparing for Paralympic Games 2024</title>
@@ -21,10 +27,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48714</guid>
     </item>
     <item>
+      <title>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction</title>
+      <link>https://skemman.is/handle/1946/48713</link>
+      <description>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction - Jennifer Ann Jolliffe 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48713</guid>
+    </item>
+    <item>
       <title>Predicting Passenger Demand and Optimizing Fleet Allocation: A Machine Learning Approach for Icelandic Tour Operators</title>
       <link>https://skemman.is/handle/1946/48709</link>
       <description>Predicting Passenger Demand and Optimizing Fleet Allocation: A Machine Learning Approach for Icelandic Tour Operators - Ólafur Starri Pálsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48709</guid>
+    </item>
+    <item>
+      <title>Behavioral measurement of zebrafish larvae using event-based vision</title>
+      <link>https://skemman.is/handle/1946/48710</link>
+      <description>Behavioral measurement of zebrafish larvae using event-based vision - Unnar Freyr Arnþórsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48710</guid>
     </item>
     <item>
       <title>From Fenton Hill to Fervo: is EGS approaching commercial viability?</title>
@@ -37,12 +55,6 @@
       <link>https://skemman.is/handle/1946/48712</link>
       <description>Experimental performance verification of analytical model results of a subsonic ejector for geothermal application - Gunnar Dagur Jónsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48712</guid>
-    </item>
-    <item>
-      <title>Behavioral measurement of zebrafish larvae using event-based vision</title>
-      <link>https://skemman.is/handle/1946/48710</link>
-      <description>Behavioral measurement of zebrafish larvae using event-based vision - Unnar Freyr Arnþórsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48710</guid>
     </item>
     <item>
       <title>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48682</link>
       <description>Active and compassionate : exploring self-compassion, gender and it's role in physical activity - Aldís Margrét Bjarnadóttir 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48682</guid>
-    </item>
-    <item>
-      <title>Of seint er að byrgja brunninn, þá barnið er dottið ofan í : er þörf á endurskoðun sakhæfisaldurs, sbr. 14. gr. almennra hegningarlaga nr. 19/1940?</title>
-      <link>https://skemman.is/handle/1946/48673</link>
-      <description>Of seint er að byrgja brunninn, þá barnið er dottið ofan í : er þörf á endurskoðun sakhæfisaldurs, sbr. 14. gr. almennra hegningarlaga nr. 19/1940? - Rebekka Ellen Daðadóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48673</guid>
-    </item>
-    <item>
-      <title>Meginreglan um opinbera málsmeðferð : hvernig hafa dómstólar beitt reglunni um opinbera málsmeðferð í sakamálum? Er tilefni til breytinga?</title>
-      <link>https://skemman.is/handle/1946/48672</link>
-      <description>Meginreglan um opinbera málsmeðferð : hvernig hafa dómstólar beitt reglunni um opinbera málsmeðferð í sakamálum? Er tilefni til breytinga? - Trausti Örn Þórðarson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48672</guid>
     </item>
   </channel>
 </rss>
