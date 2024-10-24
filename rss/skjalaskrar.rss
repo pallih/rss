@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 24 Oct 2024 15:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 16:00:20 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3180-1994-020</link>
       <description>Heyrnar- og talmeinastöð Íslands 1994-020 - </description>
@@ -37,6 +37,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0146-2022-180</link>
       <description>Sakadómur Reykjavíkur 2022-180 - 1911-1971</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0146-2022-180</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0152-2024-042</link>
+      <description>Landhelgisgæsla Íslands 2024-042 - 1776-2017</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0152-2024-042</guid>
     </item>
   </channel>
 </rss>
