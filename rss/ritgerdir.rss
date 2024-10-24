@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 24 Oct 2024 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 15:00:30 +0000</lastBuildDate>
     <item>
       <title>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health</title>
       <link>https://skemman.is/handle/1946/48715</link>
@@ -19,6 +19,24 @@
       <link>https://skemman.is/handle/1946/48716</link>
       <description>Experimental studies of material erosion rates in DC circuit breaker - Roman Vogt 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48716</guid>
+    </item>
+    <item>
+      <title>Eftirfylgd geðrofslyfjameðferðar : fylgni við klínískar leiðbeiningar á göngudeild geðdeildar Sjúkrahússins á Akureyri</title>
+      <link>https://skemman.is/handle/1946/48717</link>
+      <description>Eftirfylgd geðrofslyfjameðferðar : fylgni við klínískar leiðbeiningar á göngudeild geðdeildar Sjúkrahússins á Akureyri - Guðrún Ásbjörg Stefánsdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48717</guid>
+    </item>
+    <item>
+      <title>Staðlað mat á sjálfsvígshættu : meðferðaráætlun til að tryggja öryggi sjúklinga.</title>
+      <link>https://skemman.is/handle/1946/48718</link>
+      <description>Staðlað mat á sjálfsvígshættu : meðferðaráætlun til að tryggja öryggi sjúklinga. - Júlía M Brynjólfsdóttir 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48718</guid>
+    </item>
+    <item>
+      <title>Women and Northern Paganism : the feminine aspects of contemporary pagan Organization ásatrú in Iceland</title>
+      <link>https://skemman.is/handle/1946/48719</link>
+      <description>Women and Northern Paganism : the feminine aspects of contemporary pagan Organization ásatrú in Iceland - Rozálie Rašovská 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48719</guid>
     </item>
     <item>
       <title>Sport-specific measurement preparing for Paralympic Games 2024</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48676</link>
       <description>Market making in dry waters : reinforcement learning strategies for market making in illiquid markets - Úlfar Andri Snæfeld 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48676</guid>
-    </item>
-    <item>
-      <title>Skylda fjármálafyrirtækja til að framkvæma áreiðanleikakönnun samkvæmt lögum nr. 140/2018 og CRS</title>
-      <link>https://skemman.is/handle/1946/48683</link>
-      <description>Skylda fjármálafyrirtækja til að framkvæma áreiðanleikakönnun samkvæmt lögum nr. 140/2018 og CRS - Hulda Dröfn Sveinbjörnsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48683</guid>
-    </item>
-    <item>
-      <title>Can an economic-based approach support the development of Antarctica´s regulatory framework for bioprospecting?</title>
-      <link>https://skemman.is/handle/1946/48686</link>
-      <description>Can an economic-based approach support the development of Antarctica´s regulatory framework for bioprospecting? - Asma Ebrahim 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48686</guid>
-    </item>
-    <item>
-      <title>Active and compassionate : exploring self-compassion, gender and it's role in physical activity</title>
-      <link>https://skemman.is/handle/1946/48682</link>
-      <description>Active and compassionate : exploring self-compassion, gender and it's role in physical activity - Aldís Margrét Bjarnadóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48682</guid>
     </item>
   </channel>
 </rss>
