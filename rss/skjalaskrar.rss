@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 30 Oct 2024 11:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 12:00:26 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3096-2023-004</link>
       <description>Umboðsmaður barna 2023-004 - 1992-2017</description>
@@ -22,6 +22,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0002-1932-020</link>
       <description>Fjármálaráðuneytið 1932-020 - 1930-1932</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0002-1932-020</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0369-2024-147</link>
+      <description>Menntaskólinn við Sund 2024-147 - 1973-1996</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0369-2024-147</guid>
     </item>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0374-2024-114</link>
