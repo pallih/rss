@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 31 Oct 2024 11:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 12:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Analysis of organic tracer tests from reinjection well K-26 and IDDP-1 at the Krafla geothermal field in Iceland</title>
+      <link>https://skemman.is/handle/1946/48722</link>
+      <description>Analysis of organic tracer tests from reinjection well K-26 and IDDP-1 at the Krafla geothermal field in Iceland - Alicja Wiktoria Stoklosa 1986</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48722</guid>
+    </item>
     <item>
       <title>Mapping transgender healthcare in Iceland: The service provided by the trans-team at Landspítali from 2012-2023</title>
       <link>https://skemman.is/handle/1946/48721</link>
@@ -19,12 +25,6 @@
       <link>https://skemman.is/handle/1946/48720</link>
       <description>Effects of maternal demographic factors on risk of preterm birth in Iceland 1997-2018: A population-based cohort study - Flóra Vuong Nu Dong 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48720</guid>
-    </item>
-    <item>
-      <title>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health</title>
-      <link>https://skemman.is/handle/1946/48715</link>
-      <description>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health - Brynjólfur Már Georgsson 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48715</guid>
     </item>
     <item>
       <title>Eftirfylgd geðrofslyfjameðferðar : fylgni við klínískar leiðbeiningar á göngudeild geðdeildar Sjúkrahússins á Akureyri</title>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/48718</link>
       <description>Staðlað mat á sjálfsvígshættu : meðferðaráætlun til að tryggja öryggi sjúklinga. - Júlía M Brynjólfsdóttir 1973-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48718</guid>
+    </item>
+    <item>
+      <title>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health</title>
+      <link>https://skemman.is/handle/1946/48715</link>
+      <description>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health - Brynjólfur Már Georgsson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48715</guid>
     </item>
     <item>
       <title>Experimental studies of material erosion rates in DC circuit breaker</title>
@@ -87,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48712</guid>
     </item>
     <item>
+      <title>Traditional mean-variance portfolios in periods of high volatility and low interest rates</title>
+      <link>https://skemman.is/handle/1946/48708</link>
+      <description>Traditional mean-variance portfolios in periods of high volatility and low interest rates - Hnikarr Bjarmi Franklínsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48708</guid>
+    </item>
+    <item>
       <title>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity</title>
       <link>https://skemman.is/handle/1946/48704</link>
       <description>Obstructive Sleep Apnea: Prevalence among 4-9 year old Children in the General Population and Connection with Overweight/Obesity - Ingibjörg Ösp Ingólfsdóttir 1980-</description>
@@ -109,12 +121,6 @@
       <link>https://skemman.is/handle/1946/48705</link>
       <description>Towards collective wisdom : a novel approach for cross-distribution collaborative learning - Filippo Lampa 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48705</guid>
-    </item>
-    <item>
-      <title>Traditional mean-variance portfolios in periods of high volatility and low interest rates</title>
-      <link>https://skemman.is/handle/1946/48708</link>
-      <description>Traditional mean-variance portfolios in periods of high volatility and low interest rates - Hnikarr Bjarmi Franklínsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48708</guid>
     </item>
     <item>
       <title>Tengsl félagslegs stuðnings við þunglyndiseinkenni meðal kvenna með geðhvörf. Áhrif áfalla í æsku</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48681</link>
       <description>Samanburður á UNO vél og hefðbundinni botnfiskvinnslulínu - Páll Orri Alfreðsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48681</guid>
-    </item>
-    <item>
-      <title>Mat á umhverfisáhrif frárennslis frá seiðaeldi : mælingar á fosfór og köfnunarefni í frárennsli frá seiðaeldisstöð Bakka í Ölfusi.</title>
-      <link>https://skemman.is/handle/1946/48680</link>
-      <description>Mat á umhverfisáhrif frárennslis frá seiðaeldi : mælingar á fosfór og köfnunarefni í frárennsli frá seiðaeldisstöð Bakka í Ölfusi. - Eva Lind Guðmundsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48680</guid>
     </item>
   </channel>
 </rss>
