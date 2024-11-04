@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 04 Nov 2024 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 15:00:27 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0002-1932-020</link>
       <description>Fjármálaráðuneytið 1932-020 - 1930-1932</description>
@@ -79,11 +79,6 @@
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0800-1994-082</guid>
     </item>
     <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3233-2024-161</link>
-      <description>Alþýðubandalagið 2024-161 - 1977-1998</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3233-2024-161</guid>
-    </item>
-    <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0746-2000-027</link>
       <description>Útvegsbanki Íslands 2000-027 - 1950-1979</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0746-2000-027</guid>
@@ -97,6 +92,11 @@
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0203-2021-094</link>
       <description>Iðnskólinn í Reykjavík 2021-094 - 1903-2010</description>
       <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0203-2021-094</guid>
+    </item>
+    <item>
+      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3233-2024-161</link>
+      <description>Alþýðubandalagið 2024-161 - 1977-1998</description>
+      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-3233-2024-161</guid>
     </item>
   </channel>
 </rss>
