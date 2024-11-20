@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 20 Nov 2024 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Lífsgæði einstaklinga sem fá viðhaldsmeðferð í læknisfræðilegum tilgangi - skaðaminnkandi lyfjameðferð</title>
+      <link>https://skemman.is/handle/1946/48729</link>
+      <description>Lífsgæði einstaklinga sem fá viðhaldsmeðferð í læknisfræðilegum tilgangi - skaðaminnkandi lyfjameðferð - Aníta Runólfsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48729</guid>
+    </item>
+    <item>
+      <title>Stjórnun og vinnustreita í félagsráðgjöf: Hlutverk stuðnings og samskipta stjórnenda</title>
+      <link>https://skemman.is/handle/1946/48730</link>
+      <description>Stjórnun og vinnustreita í félagsráðgjöf: Hlutverk stuðnings og samskipta stjórnenda - Eysteinn Orri Valsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48730</guid>
+    </item>
     <item>
       <title>Viljalaus fórnarlömb eða hrottafengin skrímsli? Birtingarmyndir ofbeldisfullra kvenna og viðhorf gagnvart þeim</title>
       <link>https://skemman.is/handle/1946/48728</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48706</link>
       <description>Modeling of electricity spot prices for derivative valuation : capturing volatility clustering and price jumps - Kári Georgsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48706</guid>
-    </item>
-    <item>
-      <title>Towards collective wisdom : a novel approach for cross-distribution collaborative learning</title>
-      <link>https://skemman.is/handle/1946/48705</link>
-      <description>Towards collective wisdom : a novel approach for cross-distribution collaborative learning - Filippo Lampa 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48705</guid>
-    </item>
-    <item>
-      <title>Tengsl félagslegs stuðnings við þunglyndiseinkenni meðal kvenna með geðhvörf. Áhrif áfalla í æsku</title>
-      <link>https://skemman.is/handle/1946/48703</link>
-      <description>Tengsl félagslegs stuðnings við þunglyndiseinkenni meðal kvenna með geðhvörf. Áhrif áfalla í æsku - Guðrún Margrét Þorvaldsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48703</guid>
     </item>
   </channel>
 </rss>
