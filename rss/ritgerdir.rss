@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 25 Nov 2024 10:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 11:00:21 +0000</lastBuildDate>
     <item>
       <title>„Ég hef bara svo mikla þörf fyrir sjálfstæði“: Upplifun ungra örorkulífeyrisþega af verkefnum fullorðinsára.</title>
       <link>https://skemman.is/handle/1946/48733</link>
@@ -43,6 +43,24 @@
       <link>https://skemman.is/handle/1946/48738</link>
       <description>„Þetta er náttúrulega bara ofboðslegur léttir fyrir fjölskyldur að geta sótt þjónustuna, alla þjónustuna á einum og sama stað“ Upplifun og væntingar málstjóra á öðru stigi til farsældarlaga - Sunna Rós Sigmundsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48738</guid>
+    </item>
+    <item>
+      <title>“Það tapast alltaf eitthvað í orðavali hjá fólki.”: Upplifun félagsráðgjafa af notkun túlkaþjónustu í barnaverndarmálum</title>
+      <link>https://skemman.is/handle/1946/48739</link>
+      <description>“Það tapast alltaf eitthvað í orðavali hjá fólki.”: Upplifun félagsráðgjafa af notkun túlkaþjónustu í barnaverndarmálum - Þóra Kristín Hjaltested 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48739</guid>
+    </item>
+    <item>
+      <title>„Þið þekkist ekki neitt og þurfið bara að læra að lifa saman“: Upplifun og reynsla einstaklinga af því að hafa eignast stjúpforeldri á barnsaldri</title>
+      <link>https://skemman.is/handle/1946/48740</link>
+      <description>„Þið þekkist ekki neitt og þurfið bara að læra að lifa saman“: Upplifun og reynsla einstaklinga af því að hafa eignast stjúpforeldri á barnsaldri - Júlíana M Sigurgeirsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48740</guid>
+    </item>
+    <item>
+      <title>Samkenndarþreyta og samkenndarsátt meðal félagsráðgjafa á Íslandi</title>
+      <link>https://skemman.is/handle/1946/48741</link>
+      <description>Samkenndarþreyta og samkenndarsátt meðal félagsráðgjafa á Íslandi - Ingibjörg Anna Wium Pálmarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48741</guid>
     </item>
     <item>
       <title>Stutt inngrip fyrir fólk sem notar sjálfsskaða : nýir möguleikar í geðþjónustu</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48715</link>
       <description>Design, development and adoption of a DevOps performance dashboard : Action Design Research at Sidekick Health - Brynjólfur Már Georgsson 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48715</guid>
-    </item>
-    <item>
-      <title>Experimental studies of material erosion rates in DC circuit breaker</title>
-      <link>https://skemman.is/handle/1946/48716</link>
-      <description>Experimental studies of material erosion rates in DC circuit breaker - Roman Vogt 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48716</guid>
-    </item>
-    <item>
-      <title>Sport-specific measurement preparing for Paralympic Games 2024</title>
-      <link>https://skemman.is/handle/1946/48714</link>
-      <description>Sport-specific measurement preparing for Paralympic Games 2024 - Guðni Valur Guðnason 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48714</guid>
-    </item>
-    <item>
-      <title>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction</title>
-      <link>https://skemman.is/handle/1946/48713</link>
-      <description>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction - Jennifer Ann Jolliffe 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48713</guid>
     </item>
   </channel>
 </rss>
