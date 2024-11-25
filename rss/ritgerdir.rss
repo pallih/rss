@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 25 Nov 2024 09:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 10:00:20 +0000</lastBuildDate>
     <item>
       <title>„Ég hef bara svo mikla þörf fyrir sjálfstæði“: Upplifun ungra örorkulífeyrisþega af verkefnum fullorðinsára.</title>
       <link>https://skemman.is/handle/1946/48733</link>
@@ -19,6 +19,30 @@
       <link>https://skemman.is/handle/1946/48734</link>
       <description>Upplifun fagaðila í alþjóðateymum sveitarfélaga á áfallatengdri kulnun: „Ég var orðin það aftengd öllu að ég var hætt að geta sýnt einhverja samkennd“ - Anna Valgerður Svavarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48734</guid>
+    </item>
+    <item>
+      <title>„Ef að grunnurinn er ekki góður þá munu börnin ströggla“ Reynsla tengiliða farsældar í leikskólum</title>
+      <link>https://skemman.is/handle/1946/48735</link>
+      <description>„Ef að grunnurinn er ekki góður þá munu börnin ströggla“ Reynsla tengiliða farsældar í leikskólum - Hrafnhildur Helgadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48735</guid>
+    </item>
+    <item>
+      <title>Samræmi skráninga barnaverndarstarfsfólks á tilkynningum sem berast barnaverndarþjónustum samkvæmt SOF kerfinu</title>
+      <link>https://skemman.is/handle/1946/48736</link>
+      <description>Samræmi skráninga barnaverndarstarfsfólks á tilkynningum sem berast barnaverndarþjónustum samkvæmt SOF kerfinu - Ingunn Lára Magnúsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48736</guid>
+    </item>
+    <item>
+      <title>Læra börn það á bæ er títt: Upplifun karlmann sem ólust upp með systkinum með vímuefnaröskun</title>
+      <link>https://skemman.is/handle/1946/48737</link>
+      <description>Læra börn það á bæ er títt: Upplifun karlmann sem ólust upp með systkinum með vímuefnaröskun - Karolína Júlía Edwardsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48737</guid>
+    </item>
+    <item>
+      <title>„Þetta er náttúrulega bara ofboðslegur léttir fyrir fjölskyldur að geta sótt þjónustuna, alla þjónustuna á einum og sama stað“ Upplifun og væntingar málstjóra á öðru stigi til farsældarlaga</title>
+      <link>https://skemman.is/handle/1946/48738</link>
+      <description>„Þetta er náttúrulega bara ofboðslegur léttir fyrir fjölskyldur að geta sótt þjónustuna, alla þjónustuna á einum og sama stað“ Upplifun og væntingar málstjóra á öðru stigi til farsældarlaga - Sunna Rós Sigmundsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48738</guid>
     </item>
     <item>
       <title>Stutt inngrip fyrir fólk sem notar sjálfsskaða : nýir möguleikar í geðþjónustu</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/48713</link>
       <description>Thermoeconomic model and feasibility study of geothermal power cycle with Lithium extraction - Jennifer Ann Jolliffe 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48713</guid>
-    </item>
-    <item>
-      <title>Predicting Passenger Demand and Optimizing Fleet Allocation: A Machine Learning Approach for Icelandic Tour Operators</title>
-      <link>https://skemman.is/handle/1946/48709</link>
-      <description>Predicting Passenger Demand and Optimizing Fleet Allocation: A Machine Learning Approach for Icelandic Tour Operators - Ólafur Starri Pálsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48709</guid>
-    </item>
-    <item>
-      <title>Behavioral measurement of zebrafish larvae using event-based vision</title>
-      <link>https://skemman.is/handle/1946/48710</link>
-      <description>Behavioral measurement of zebrafish larvae using event-based vision - Unnar Freyr Arnþórsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48710</guid>
-    </item>
-    <item>
-      <title>From Fenton Hill to Fervo: is EGS approaching commercial viability?</title>
-      <link>https://skemman.is/handle/1946/48711</link>
-      <description>From Fenton Hill to Fervo: is EGS approaching commercial viability? - Jason T Lipton 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48711</guid>
-    </item>
-    <item>
-      <title>Experimental performance verification of analytical model results of a subsonic ejector for geothermal application</title>
-      <link>https://skemman.is/handle/1946/48712</link>
-      <description>Experimental performance verification of analytical model results of a subsonic ejector for geothermal application - Gunnar Dagur Jónsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48712</guid>
     </item>
   </channel>
 </rss>
