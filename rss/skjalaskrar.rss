@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 28 Nov 2024 17:00:22 +0000</lastBuildDate>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2649-2022-182</link>
-      <description>Félag íslenskra símamanna 2022-182 - 1909-1996</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2649-2022-182</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2683-2022-183</link>
-      <description>Thor Jensen (1863-1947) kaupmaður 2022-183 - 1885-1925</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2683-2022-183</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2680-2022-184</link>
-      <description>Alliance 2022-184 - 1916-1968</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2680-2022-184</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2681-2022-185</link>
-      <description>Landssamband hestamannafélaga 2022-185 - 1950-1951</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2681-2022-185</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2682-2022-186</link>
-      <description>Sameignarfélagið Faxi 2022-186 - 1948-1965</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-2682-2022-186</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0800-1994-082</link>
-      <description>Bessastaðahreppur 1994-082 - 1900-1970</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0800-1994-082</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0746-2000-027</link>
-      <description>Útvegsbanki Íslands 2000-027 - 1950-1979</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0746-2000-027</guid>
-    </item>
-    <item>
-      <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0266-2022-181</link>
-      <description>Póstur og sími / Landssíminn 2022-181 - 1890-1989</description>
-      <guid isPermaLink="false">http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0266-2022-181</guid>
-    </item>
+    <lastBuildDate>Fri, 29 Nov 2024 08:00:18 +0000</lastBuildDate>
     <item>
       <link>http://skjalaskrar.skjalasafn.is/a/IS-ÞÍ-0203-2021-094</link>
       <description>Iðnskólinn í Reykjavík 2021-094 - 1903-2010</description>
