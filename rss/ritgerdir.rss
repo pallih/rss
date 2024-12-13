@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 13 Dec 2024 15:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 16:00:24 +0000</lastBuildDate>
     <item>
       <title>Myelin Pattern Diversity in Grey Matter</title>
       <link>https://skemman.is/handle/1946/48772</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/48776</link>
       <description>Eco Anxiety and Contemplative Practices: A Case Study in Iceland - Svenja Flügger 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48776</guid>
+    </item>
+    <item>
+      <title>Hulstur</title>
+      <link>https://skemman.is/handle/1946/48777</link>
+      <description>Hulstur - Elísabet Dröfn Kristjánsdóttir 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48777</guid>
+    </item>
+    <item>
+      <title>Miska - og sanngirnisbætur. Samanburður á sanngirnisbótum fyrir misgjörðir á opinberum heimilum fyrir börn á grundvelli laga nr. 47/2010 og miskabótum á grundvelli laga nr. 2. mgr. 246. gr. um meðferð sakamála.</title>
+      <link>https://skemman.is/handle/1946/48778</link>
+      <description>Miska - og sanngirnisbætur. Samanburður á sanngirnisbótum fyrir misgjörðir á opinberum heimilum fyrir börn á grundvelli laga nr. 47/2010 og miskabótum á grundvelli laga nr. 2. mgr. 246. gr. um meðferð sakamála. - Kristín Lind Björnsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48778</guid>
     </item>
     <item>
       <title>Vulnerability assessment of Sog Bridge’s lead rubber bearing pads</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48752</link>
       <description>„Rosalegt áfall fyrir marga, að allt í einu vita að húsið þitt er ekki öruggur staður“ Áhrif rýminga og vegalokana - Elísabet Bjarnadóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48752</guid>
-    </item>
-    <item>
-      <title>Skapandi vinnulag í félagsráðgjöf: Reynsla félagsráðgjafa í barnaverndarþjónustu</title>
-      <link>https://skemman.is/handle/1946/48751</link>
-      <description>Skapandi vinnulag í félagsráðgjöf: Reynsla félagsráðgjafa í barnaverndarþjónustu - Linda Sóley Birgisdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48751</guid>
-    </item>
-    <item>
-      <title>„Ég hef bara svo mikla þörf fyrir sjálfstæði“: Upplifun ungra örorkulífeyrisþega af verkefnum fullorðinsára.</title>
-      <link>https://skemman.is/handle/1946/48733</link>
-      <description>„Ég hef bara svo mikla þörf fyrir sjálfstæði“: Upplifun ungra örorkulífeyrisþega af verkefnum fullorðinsára. - Hugrún Ingólfsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48733</guid>
     </item>
   </channel>
 </rss>
