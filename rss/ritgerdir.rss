@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 13 Dec 2024 10:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 11:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Myelin Pattern Diversity in Grey Matter</title>
+      <link>https://skemman.is/handle/1946/48772</link>
+      <description>Myelin Pattern Diversity in Grey Matter - Íris Omholt Hassing 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48772</guid>
+    </item>
     <item>
       <title>Vulnerability assessment of Sog Bridge’s lead rubber bearing pads</title>
       <link>https://skemman.is/handle/1946/48771</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48739</link>
       <description>“Það tapast alltaf eitthvað í orðavali hjá fólki.”: Upplifun félagsráðgjafa af notkun túlkaþjónustu í barnaverndarmálum - Þóra Kristín Hjaltested 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48739</guid>
-    </item>
-    <item>
-      <title>„Þetta er náttúrulega bara ofboðslegur léttir fyrir fjölskyldur að geta sótt þjónustuna, alla þjónustuna á einum og sama stað“ Upplifun og væntingar málstjóra á öðru stigi til farsældarlaga</title>
-      <link>https://skemman.is/handle/1946/48738</link>
-      <description>„Þetta er náttúrulega bara ofboðslegur léttir fyrir fjölskyldur að geta sótt þjónustuna, alla þjónustuna á einum og sama stað“ Upplifun og væntingar málstjóra á öðru stigi til farsældarlaga - Sunna Rós Sigmundsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48738</guid>
     </item>
   </channel>
 </rss>
