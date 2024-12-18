@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 18 Dec 2024 15:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 16:00:22 +0000</lastBuildDate>
     <item>
       <title>Perlusaumur sem skreytiaðferð í textílkennslu - Kennsluhefti í perlusaumi</title>
       <link>https://skemman.is/handle/1946/48803</link>
@@ -129,12 +129,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48769</guid>
     </item>
     <item>
-      <title>Samkenndarþreyta og samkenndarsátt: ProQOL mæling á starfsfólki geðsviðs Landspítala</title>
-      <link>https://skemman.is/handle/1946/48767</link>
-      <description>Samkenndarþreyta og samkenndarsátt: ProQOL mæling á starfsfólki geðsviðs Landspítala - Freydís Óskarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48767</guid>
-    </item>
-    <item>
       <title>Milli frelsis og fallaxar: Söguleg og femínísk greining á kvenpersónum Dickens í Sögu tveggja borga</title>
       <link>https://skemman.is/handle/1946/48768</link>
       <description>Milli frelsis og fallaxar: Söguleg og femínísk greining á kvenpersónum Dickens í Sögu tveggja borga - Arndís María Finnsdóttir 2000-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/48757</link>
       <description>„Tengslamyndun er svo ógeðslega stór partur í þessu“ Undirbúningur, þjálfun og eftirfylgni fyrir fósturforeldra með áherslu á tengslamyndun við fósturbörn - Sunneva Líf Sindradóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48757</guid>
+    </item>
+    <item>
+      <title>Skólasóknarvandi í Reykjavík: Upplifun og reynsla fagaðila á þjónustumiðstöðvum á skólasóknarvanda</title>
+      <link>https://skemman.is/handle/1946/48761</link>
+      <description>Skólasóknarvandi í Reykjavík: Upplifun og reynsla fagaðila á þjónustumiðstöðvum á skólasóknarvanda - Anna María Birgisdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48761</guid>
     </item>
   </channel>
 </rss>
