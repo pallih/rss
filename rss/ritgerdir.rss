@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 23 Dec 2024 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 15:00:20 +0000</lastBuildDate>
     <item>
       <title>Hvað er hagnýt íslenska?</title>
       <link>https://skemman.is/handle/1946/48806</link>
       <description>Hvað er hagnýt íslenska? - Erik Anders Maher 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48806</guid>
+    </item>
+    <item>
+      <title>Memory, Trauma, and Fragmentation in the Musical Poetry of Amy Winehouse, Gordon Lightfoot, and Johnny Cash</title>
+      <link>https://skemman.is/handle/1946/48807</link>
+      <description>Memory, Trauma, and Fragmentation in the Musical Poetry of Amy Winehouse, Gordon Lightfoot, and Johnny Cash - Nichole Antoinette Moten 1970-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48807</guid>
     </item>
     <item>
       <title>Mikilvægi stafrænna viðskiptahátta í Covid-19</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48765</link>
       <description>Synjunarvald forseta lýðveldis Íslands - Kristófer Daði Kristjánsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48765</guid>
-    </item>
-    <item>
-      <title>,,Hvað sem gerist héðan í frá, breytir því ekki að ég verð áfram í þessum hópi, alltaf“: Upplifun kvenna úr hópi flóttamanna og umsækjenda um alþjóðlega vernd af samfélagsvinnuverkefni hjá Hjálparstarfi kirkjunnar</title>
-      <link>https://skemman.is/handle/1946/48764</link>
-      <description>,,Hvað sem gerist héðan í frá, breytir því ekki að ég verð áfram í þessum hópi, alltaf“: Upplifun kvenna úr hópi flóttamanna og umsækjenda um alþjóðlega vernd af samfélagsvinnuverkefni hjá Hjálparstarfi kirkjunnar - Rakel Pálsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48764</guid>
     </item>
   </channel>
 </rss>
