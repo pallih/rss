@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 27 Dec 2024 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 12:00:20 +0000</lastBuildDate>
     <item>
       <title>Meðlíðan sem hagnýt guðvörn. Hvernig getur meðlíðan hjálpað fólki til að takast á við áföll sem tengjast náttúruhamförum þegar það finnur ekki hjálp í hefðbundinni guðvörn?</title>
       <link>https://skemman.is/handle/1946/48808</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/48809</link>
       <description>Vengeance is Mine; I will repay: A Postcolonial Exploration of Revenge and Mercy in Alexandre Dumas’s The Count of Monte Cristo - Whitney Jacqueline Bryan 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48809</guid>
+    </item>
+    <item>
+      <title>Viðbrögð á íslenskum hlutabréfamarkaði: Atburðarannsókn á skilvirkni íslensks hlutabréfamarkaðar árin 2019-2024</title>
+      <link>https://skemman.is/handle/1946/48810</link>
+      <description>Viðbrögð á íslenskum hlutabréfamarkaði: Atburðarannsókn á skilvirkni íslensks hlutabréfamarkaðar árin 2019-2024 - Þorgeir Bjarki Davíðsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48810</guid>
+    </item>
+    <item>
+      <title>„Við erum mjög einsleitur hópur - en það má alltaf gera betur“: Fjölbreytileiki og inngilding í Stjórnarráði Íslands</title>
+      <link>https://skemman.is/handle/1946/48811</link>
+      <description>„Við erum mjög einsleitur hópur - en það má alltaf gera betur“: Fjölbreytileiki og inngilding í Stjórnarráði Íslands - Unnur Ágústsdóttir 1955-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48811</guid>
     </item>
     <item>
       <title>Hvað er hagnýt íslenska?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48771</link>
       <description>Vulnerability assessment of Sog Bridge’s lead rubber bearing pads - Evan Lloyd Greene 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48771</guid>
-    </item>
-    <item>
-      <title>Machine Learning Approaches in Wind Energy Using High-Performance Computing</title>
-      <link>https://skemman.is/handle/1946/48770</link>
-      <description>Machine Learning Approaches in Wind Energy Using High-Performance Computing - Abdollah Shahinfar 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48770</guid>
-    </item>
-    <item>
-      <title>The Woman's Body in the Hortus Conclusus: Queer Femininity from Genesis to Chaucer's "Knight's Tale"</title>
-      <link>https://skemman.is/handle/1946/48769</link>
-      <description>The Woman's Body in the Hortus Conclusus: Queer Femininity from Genesis to Chaucer's "Knight's Tale" - Beatrice Fiducia 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48769</guid>
     </item>
   </channel>
 </rss>
