@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 30 Dec 2024 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 12:00:27 +0000</lastBuildDate>
     <item>
       <title>Sip&amp;Save. Viðskiptaáætlun</title>
       <link>https://skemman.is/handle/1946/48812</link>
       <description>Sip&amp;Save. Viðskiptaáætlun - Danival Ísak Jónsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48812</guid>
+    </item>
+    <item>
+      <title>Hlutverk málþroska barna í daglegu lífi þeirra. Hvernig hægt er að efla málþroska barna heima fyrir og í leikskólum</title>
+      <link>https://skemman.is/handle/1946/48813</link>
+      <description>Hlutverk málþroska barna í daglegu lífi þeirra. Hvernig hægt er að efla málþroska barna heima fyrir og í leikskólum - Sirrý Rúnarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48813</guid>
     </item>
     <item>
       <title>Meðlíðan sem hagnýt guðvörn. Hvernig getur meðlíðan hjálpað fólki til að takast á við áföll sem tengjast náttúruhamförum þegar það finnur ekki hjálp í hefðbundinni guðvörn?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/48772</link>
       <description>Myelin Pattern Diversity in Grey Matter - Íris Omholt Hassing 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48772</guid>
-    </item>
-    <item>
-      <title>Um aðildarskort og skort á lögvörðum hagsmunum</title>
-      <link>https://skemman.is/handle/1946/48773</link>
-      <description>Um aðildarskort og skort á lögvörðum hagsmunum - Steinunn Helga Björgólfsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48773</guid>
     </item>
   </channel>
 </rss>
