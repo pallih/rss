@@ -82,7 +82,7 @@ def generate_rss(org):
             print(f"Found {len(news_items)} items")
 
             fg = FeedGenerator()
-            fg.title(f"{org["title"]} - Fréttir")
+            fg.title(f"{org['title']} - Fréttir")
             fg.link(href=url)
             fg.description(f"{org["title"]} - Fréttir")
             fg.language("is")
