@@ -29,7 +29,7 @@ jobs:
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
       - name: Ensure browsers are installed
-        run: python -m playwright install --with-deps
+        run: python -m playwright install
       # - name: Create reglugerdir.rss file
       #   run: python src/reglugerdir.py
       # - name: Create skjalaskrar.rss file
@@ -43,7 +43,7 @@ jobs:
       # - name: Create landskjorstjorn.rss file
       #   run: python src/landskjorstjorn.py
       - name: create island_is feeds
-        run: python src/island_is.py
+        run: python src/island-is.py
       - name: Commit changes
         run: |
           git add .
