@@ -11,7 +11,8 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 
 [Inoreader](https://inoreader.com/) er ágætur rss-lesari í vafra.\n\n"""
 
-    for rss_file in Path("rss").rglob("*.rss"):
+    rss_files = sorted(Path("rss").rglob("*.rss"), key=lambda x: x.stem)
+    for rss_file in rss_files:
         textstring += f"- [{rss_file.stem}](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/{rss_file})\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
