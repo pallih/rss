@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v2.5.0
+        uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: "3.10"
       - uses: syphar/restore-virtualenv@v1
@@ -28,18 +28,22 @@ jobs:
         # requirements-files have changed.
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
-      - name: Create reglugerdir.rss file
-        run: python src/reglugerdir.py
-      - name: Create skjalaskrar.rss file
-        run: python src/skjalaskrar.py
+      - name: Ensure browsers are installed
+        run: python -m playwright install --with-deps
+      # - name: Create reglugerdir.rss file
+      #   run: python src/reglugerdir.py
+      # - name: Create skjalaskrar.rss file
+      #   run: python src/skjalaskrar.py
       - name: Create palmemordsarkivet.rss file
         run: python src/palmemordsaarkivet.py
       - name: Create ritgerdir.rss file
         run: python src/ritgerdir.py
-      - name: Create skipulag_rvk.rss file
-        run: python src/skipulag_rvk.py
-      - name: Create landskjorstjorn.rss file
-        run: python src/landskjorstjorn.py
+      # - name: Create skipulag_rvk.rss file
+      #   run: python src/skipulag_rvk.py
+      # - name: Create landskjorstjorn.rss file
+      #   run: python src/landskjorstjorn.py
+      - name: create island_is feeds
+        run: python src/island_is.py
       - name: Commit changes
         run: |
           git add .
