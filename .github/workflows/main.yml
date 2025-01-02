@@ -28,8 +28,19 @@ jobs:
         # requirements-files have changed.
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
-      - name: Ensure browsers are installed
-        run: python -m playwright install
+      - name: Get installed Playwright version
+        id: playwright-version
+        run: echo "PLAYWRIGHT_VERSION=$(playwright --version)" >> $GITHUB_ENV
+      - name: Cache playwright binaries
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: |
+            ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ env.PLAYWRIGHT_VERSION }}
+      - run: npm ci
+      - run: python -m playwright install
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
       # - name: Create reglugerdir.rss file
       #   run: python src/reglugerdir.py
       # - name: Create skjalaskrar.rss file
