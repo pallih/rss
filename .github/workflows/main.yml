@@ -38,7 +38,6 @@ jobs:
           path: |
             ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-${{ env.PLAYWRIGHT_VERSION }}
-      - run: npm ci
       - run: python -m playwright install
         if: steps.playwright-cache.outputs.cache-hit != 'true'
       # - name: Create reglugerdir.rss file
