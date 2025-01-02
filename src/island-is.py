@@ -84,7 +84,7 @@ def generate_rss(org):
             fg = FeedGenerator()
             fg.title(f"{org['title']} - Fréttir")
             fg.link(href=url)
-            fg.description(f"{org["title"]} - Fréttir")
+            fg.description(f"{org['title']} - Fréttir")
             fg.language("is")
 
             for item in news_items:
@@ -105,7 +105,7 @@ def generate_rss(org):
                     ).strip()
                     fe.description(cleaned_description)
 
-            fg.rss_file(f"rss/island_is/{org["slug"]}.rss")
+            fg.rss_file(f"rss/island_is/{org['slug']}.rss")
 
         finally:
             browser.close()
