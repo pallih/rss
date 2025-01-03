@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 03 Jan 2025 14:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 15:06:00 +0000</lastBuildDate>
     <item>
       <title>Banksy í Palestínu: Götulist og pólitík</title>
       <link>https://skemman.is/handle/1946/48817</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/48820</link>
       <description>Á vonarströndum - Orri Matthías Haraldsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48820</guid>
+    </item>
+    <item>
+      <title>English as a Lingua Franca in Nigeria: Its Influence on the Political, Commercial, and Educational Development</title>
+      <link>https://skemman.is/handle/1946/48821</link>
+      <description>English as a Lingua Franca in Nigeria: Its Influence on the Political, Commercial, and Educational Development - Uchechukwu Eme Ukonu 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48821</guid>
+    </item>
+    <item>
+      <title>Listaverkafalsanir: Gildi og áhrif á Listasafn Íslands</title>
+      <link>https://skemman.is/handle/1946/48822</link>
+      <description>Listaverkafalsanir: Gildi og áhrif á Listasafn Íslands - Bryndís Ólafsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48822</guid>
     </item>
     <item>
       <title>Áherslur stjórnenda hjá árangursríkum fyrirtækjum sem styðja við vellíðan starfsfólks: „Þetta eru ekki skil á milli vinnu og einkalífs, þetta er eitt líf“</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48782</link>
       <description>Adapting the Homeric Epics for a 21st Century Audience: Gender and Sexuality in Madeline Miller’s Circe and The Song of Achilles - Regan Ellen Aarts 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48782</guid>
-    </item>
-    <item>
-      <title>Hryðjuverk skv. 100. gr. a. almennra hegningarlaga nr. 19/1940. Gildi undirbúningsathafna við brot á 100. gr. a. alm. hgl.</title>
-      <link>https://skemman.is/handle/1946/48781</link>
-      <description>Hryðjuverk skv. 100. gr. a. almennra hegningarlaga nr. 19/1940. Gildi undirbúningsathafna við brot á 100. gr. a. alm. hgl. - Aníta Lind Hlynsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48781</guid>
-    </item>
-    <item>
-      <title>Hryðjuverkalöggjöf á Íslandi. Tilraun til hryðjuverka á Íslandi, með hliðsjón af danskri hryðjuverkalöggjöf</title>
-      <link>https://skemman.is/handle/1946/48779</link>
-      <description>Hryðjuverkalöggjöf á Íslandi. Tilraun til hryðjuverka á Íslandi, með hliðsjón af danskri hryðjuverkalöggjöf - Sara Huld Ármannsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48779</guid>
     </item>
   </channel>
 </rss>
