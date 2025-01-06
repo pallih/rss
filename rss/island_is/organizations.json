@@ -1,5 +1,10 @@
 [
     {
+        "slug": "vinnueftirlitid",
+        "title": "Vinnueftirlitið",
+        "link": "https://island.is/s/vinnueftirlitid/frett"
+    },
+    {
         "slug": "rettindagaesla-fatlads-folks",
         "title": "Réttindagæsla fyrir fatlað fólk",
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
@@ -28,11 +33,6 @@
         "slug": "vinnumalastofnun",
         "title": "Vinnumálastofnun",
         "link": "https://island.is/s/vinnumalastofnun/frett"
-    },
-    {
-        "slug": "vinnueftirlitid",
-        "title": "Vinnueftirlitið",
-        "link": "https://island.is/s/vinnueftirlitid/frett"
     },
     {
         "slug": "endurupptokudomur",
@@ -178,11 +178,6 @@
         "slug": "rikiskaup",
         "title": "Fjársýslan (Innkaup)",
         "link": "https://island.is/s/rikiskaup/frett"
-    },
-    {
-        "slug": "visindasidanefnd",
-        "title": "Vísindasiðanefnd",
-        "link": "https://island.is/s/visindasidanefnd/frett"
     },
     {
         "slug": "umbodsmadur-skuldara",
