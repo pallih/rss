@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 07 Jan 2025 14:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 16:18:53 +0000</lastBuildDate>
     <item>
       <title>Pólitísk átök á Íslandi 1252–1255. Samanburður á frásögnum Þorgils sögu skarða, Íslendinga sögu og Hákonar sögu Hákonarsonar</title>
       <link>https://skemman.is/handle/1946/48866</link>
@@ -99,6 +99,30 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48854</guid>
     </item>
     <item>
+      <title>Gagnreyndar heildrænar meðferðir og endurhæfing við ópíóíðafíkn: kerfisbundin fræðileg samantekt með kögunarsniði</title>
+      <link>https://skemman.is/handle/1946/48869</link>
+      <description>Gagnreyndar heildrænar meðferðir og endurhæfing við ópíóíðafíkn: kerfisbundin fræðileg samantekt með kögunarsniði - Snærún Ösp Guðmundsdóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48869</guid>
+    </item>
+    <item>
+      <title>Áfangaheimili á Íslandi: Hver eru markmiðin, þörfin og eftirlitið?</title>
+      <link>https://skemman.is/handle/1946/48870</link>
+      <description>Áfangaheimili á Íslandi: Hver eru markmiðin, þörfin og eftirlitið? - Linda Pétursdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48870</guid>
+    </item>
+    <item>
+      <title>Krossbandslit kvenna í knattspyrnu: Helstu orsakir og forvarnaráætlanir</title>
+      <link>https://skemman.is/handle/1946/48871</link>
+      <description>Krossbandslit kvenna í knattspyrnu: Helstu orsakir og forvarnaráætlanir - Bjarki Þór Valdimarsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48871</guid>
+    </item>
+    <item>
+      <title>Þættir sem hafa áhrif á atvikaskráningu hjúkrunarfræðinga í tengslum við skurðaðgerðir</title>
+      <link>https://skemman.is/handle/1946/48872</link>
+      <description>Þættir sem hafa áhrif á atvikaskráningu hjúkrunarfræðinga í tengslum við skurðaðgerðir - Fríða Ólöf Gunnarsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48872</guid>
+    </item>
+    <item>
       <title>Andlitsteikningar og leshömlun - Anneliese Alma Pontius uppfærð</title>
       <link>https://skemman.is/handle/1946/48823</link>
       <description>Andlitsteikningar og leshömlun - Anneliese Alma Pontius uppfærð - Melkorka Ólafsdóttir 1981-</description>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/48829</link>
       <description>Guðir, menn og miskunn: Goðsögur í nýju ljósi í Percy Jackson ritröð Ricks Riordan - Atlas Hrói Hafdísarson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48829</guid>
-    </item>
-    <item>
-      <title>Lífskán. Ljóðsaga</title>
-      <link>https://skemman.is/handle/1946/48827</link>
-      <description>Lífskán. Ljóðsaga - Karólína Rós Ólafsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48827</guid>
-    </item>
-    <item>
-      <title>"Ég lít svona á þetta sem glugga sem maður hefur þangað til að maður er orðinn ennþá eldri, til að reyna að lifa lífinu" Viðhorf einstaklinga til starfsloka og stuðningur stjórnenda í aðdraganda þeirra</title>
-      <link>https://skemman.is/handle/1946/48830</link>
-      <description>"Ég lít svona á þetta sem glugga sem maður hefur þangað til að maður er orðinn ennþá eldri, til að reyna að lifa lífinu" Viðhorf einstaklinga til starfsloka og stuðningur stjórnenda í aðdraganda þeirra - Rebekka Rós Ágústsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48830</guid>
-    </item>
-    <item>
-      <title>Félagslegur og tilfinningalegur þroski barna: Hlutverk skólafélagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/48824</link>
-      <description>Félagslegur og tilfinningalegur þroski barna: Hlutverk skólafélagsráðgjafa - Sverrir Ásthildarson Einarsson 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48824</guid>
-    </item>
-    <item>
-      <title>Sakhæf börn. Sakhæfisaldur á Íslandi: saga, sjónarmið og samanburður við norræn lönd og Barnasáttmála Sameinuðu þjóðanna</title>
-      <link>https://skemman.is/handle/1946/48828</link>
-      <description>Sakhæf börn. Sakhæfisaldur á Íslandi: saga, sjónarmið og samanburður við norræn lönd og Barnasáttmála Sameinuðu þjóðanna - Kristjana Guðbjartsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48828</guid>
     </item>
   </channel>
 </rss>
