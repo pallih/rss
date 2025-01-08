@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 08 Jan 2025 08:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 09:06:09 +0000</lastBuildDate>
+    <item>
+      <title>Refsiábyrgð lögaðila - Hvers vegna er hún nauðsynleg?</title>
+      <link>https://skemman.is/handle/1946/48873</link>
+      <description>Refsiábyrgð lögaðila - Hvers vegna er hún nauðsynleg? - Helga Margrét Agnarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48873</guid>
+    </item>
+    <item>
+      <title>Áhrif kosningakerfa á taktíska kosningahegðun: Samanburður á þingkosningum í Bretlandi, Svíþjóð og Þýskalandi</title>
+      <link>https://skemman.is/handle/1946/48874</link>
+      <description>Áhrif kosningakerfa á taktíska kosningahegðun: Samanburður á þingkosningum í Bretlandi, Svíþjóð og Þýskalandi - Sindri Freyr Guðmundsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48874</guid>
+    </item>
     <item>
       <title>Pólitísk átök á Íslandi 1252–1255. Samanburður á frásögnum Þorgils sögu skarða, Íslendinga sögu og Hákonar sögu Hákonarsonar</title>
       <link>https://skemman.is/handle/1946/48866</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48831</link>
       <description>Tilvistarhamingja: Samvirkni kenninga Nietzsches og Camus - Alexander Sigurðarson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48831</guid>
-    </item>
-    <item>
-      <title>Kynjadýr í kaprún: Dýr í myndverkum á klæðum og í handritum frá miðöldum</title>
-      <link>https://skemman.is/handle/1946/48826</link>
-      <description>Kynjadýr í kaprún: Dýr í myndverkum á klæðum og í handritum frá miðöldum - Margrét Rós Svansdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48826</guid>
-    </item>
-    <item>
-      <title>Guðir, menn og miskunn: Goðsögur í nýju ljósi í Percy Jackson ritröð Ricks Riordan</title>
-      <link>https://skemman.is/handle/1946/48829</link>
-      <description>Guðir, menn og miskunn: Goðsögur í nýju ljósi í Percy Jackson ritröð Ricks Riordan - Atlas Hrói Hafdísarson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48829</guid>
     </item>
   </channel>
 </rss>
