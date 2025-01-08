@@ -1,5 +1,10 @@
 [
     {
+        "slug": "personuvernd",
+        "title": "Persónuvernd",
+        "link": "https://island.is/s/personuvernd/frett"
+    },
+    {
         "slug": "vinnueftirlitid",
         "title": "Vinnueftirlitið",
         "link": "https://island.is/s/vinnueftirlitid/frett"
@@ -18,11 +23,6 @@
         "slug": "tryggingastofnun",
         "title": "Tryggingastofnun",
         "link": "https://island.is/s/tryggingastofnun/frett"
-    },
-    {
-        "slug": "personuvernd",
-        "title": "Persónuvernd",
-        "link": "https://island.is/s/personuvernd/frett"
     },
     {
         "slug": "skipulagsstofnun",
