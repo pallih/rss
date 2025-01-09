@@ -1,5 +1,10 @@
 [
     {
+        "slug": "vinnumalastofnun",
+        "title": "Vinnumálastofnun",
+        "link": "https://island.is/s/vinnumalastofnun/frett"
+    },
+    {
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
@@ -28,11 +33,6 @@
         "slug": "skipulagsstofnun",
         "title": "Skipulagsstofnun",
         "link": "https://island.is/s/skipulagsstofnun/frett"
-    },
-    {
-        "slug": "vinnumalastofnun",
-        "title": "Vinnumálastofnun",
-        "link": "https://island.is/s/vinnumalastofnun/frett"
     },
     {
         "slug": "endurupptokudomur",
