@@ -7,54 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 10 Jan 2025 09:06:23 +0000</lastBuildDate>
-    <item>
-      <title>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/48959</link>
-      <description>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi - Daníel Örn Hrólfsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48959</guid>
-    </item>
-    <item>
-      <title>Verðmat Jarðborana</title>
-      <link>https://skemman.is/handle/1946/48960</link>
-      <description>Verðmat Jarðborana - Kristján Lýðsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48960</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Jan 2025 10:06:30 +0000</lastBuildDate>
     <item>
       <title>„Það er bara skylda allra fyrirtækja að gefa til baka“ Hlutverk samfélagslegrar ábyrgðar í stefnumótun og markaðsstarf fyrirtækja</title>
       <link>https://skemman.is/handle/1946/48961</link>
       <description>„Það er bara skylda allra fyrirtækja að gefa til baka“ Hlutverk samfélagslegrar ábyrgðar í stefnumótun og markaðsstarf fyrirtækja - Ragnhildur D Pétursdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48961</guid>
-    </item>
-    <item>
-      <title>Stéttaskipting og sjálfsmynd í netheimum. Orðræðugreining hverfishópa á Facebook</title>
-      <link>https://skemman.is/handle/1946/48962</link>
-      <description>Stéttaskipting og sjálfsmynd í netheimum. Orðræðugreining hverfishópa á Facebook - Fanney Anna Ómarsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48962</guid>
-    </item>
-    <item>
-      <title>Afsláttur við kaup á óskráðum fyrirtækjum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/48963</link>
-      <description>Afsláttur við kaup á óskráðum fyrirtækjum á Íslandi - Tjörvi Picchietti 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48963</guid>
-    </item>
-    <item>
-      <title>Stofnanabundnir kynþáttafordómar á Íslandi;  Greining á félagslegri lagskiptingu í pólitískum stefnum, vinnumarkaði og menntakerfinu</title>
-      <link>https://skemman.is/handle/1946/48964</link>
-      <description>Stofnanabundnir kynþáttafordómar á Íslandi;  Greining á félagslegri lagskiptingu í pólitískum stefnum, vinnumarkaði og menntakerfinu - Anna Grevtsova 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48964</guid>
-    </item>
-    <item>
-      <title>Aflvaki safna í íslenskum samtíma: Menning, listir og fólk af erlendum uppruna</title>
-      <link>https://skemman.is/handle/1946/48965</link>
-      <description>Aflvaki safna í íslenskum samtíma: Menning, listir og fólk af erlendum uppruna - María Hjelm 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48965</guid>
-    </item>
-    <item>
-      <title>Þjónustugæði Snjallverslunar Krónunnar. Væntingar og skynjun viðskiptavina á heimsendingarþjónustu Krónunnar</title>
-      <link>https://skemman.is/handle/1946/48966</link>
-      <description>Þjónustugæði Snjallverslunar Krónunnar. Væntingar og skynjun viðskiptavina á heimsendingarþjónustu Krónunnar - Rúnar Kristmannsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48966</guid>
     </item>
     <item>
       <title>Smakkaðu tilfinninguna. Hvernig hefur Coca Cola nýtt auglýsingar til að ýta undir tilfinningatengsl neytenda við vörumerkið?</title>
@@ -63,10 +21,64 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48967</guid>
     </item>
     <item>
+      <title>Þjónustugæði Snjallverslunar Krónunnar. Væntingar og skynjun viðskiptavina á heimsendingarþjónustu Krónunnar</title>
+      <link>https://skemman.is/handle/1946/48966</link>
+      <description>Þjónustugæði Snjallverslunar Krónunnar. Væntingar og skynjun viðskiptavina á heimsendingarþjónustu Krónunnar - Rúnar Kristmannsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48966</guid>
+    </item>
+    <item>
+      <title>Aflvaki safna í íslenskum samtíma: Menning, listir og fólk af erlendum uppruna</title>
+      <link>https://skemman.is/handle/1946/48965</link>
+      <description>Aflvaki safna í íslenskum samtíma: Menning, listir og fólk af erlendum uppruna - María Hjelm 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48965</guid>
+    </item>
+    <item>
+      <title>Stofnanabundnir kynþáttafordómar á Íslandi;  Greining á félagslegri lagskiptingu í pólitískum stefnum, vinnumarkaði og menntakerfinu</title>
+      <link>https://skemman.is/handle/1946/48964</link>
+      <description>Stofnanabundnir kynþáttafordómar á Íslandi;  Greining á félagslegri lagskiptingu í pólitískum stefnum, vinnumarkaði og menntakerfinu - Anna Grevtsova 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48964</guid>
+    </item>
+    <item>
+      <title>Stéttaskipting og sjálfsmynd í netheimum. Orðræðugreining hverfishópa á Facebook</title>
+      <link>https://skemman.is/handle/1946/48962</link>
+      <description>Stéttaskipting og sjálfsmynd í netheimum. Orðræðugreining hverfishópa á Facebook - Fanney Anna Ómarsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48962</guid>
+    </item>
+    <item>
       <title>Áskoranir íslenskra fyrirtækja við innleiðingu ESRS. Hindranir og lausnir í íslensku samhengi</title>
       <link>https://skemman.is/handle/1946/48968</link>
       <description>Áskoranir íslenskra fyrirtækja við innleiðingu ESRS. Hindranir og lausnir í íslensku samhengi - Vilhelm Þráinn Sigurjónsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48968</guid>
+    </item>
+    <item>
+      <title>Afsláttur við kaup á óskráðum fyrirtækjum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/48963</link>
+      <description>Afsláttur við kaup á óskráðum fyrirtækjum á Íslandi - Tjörvi Picchietti 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48963</guid>
+    </item>
+    <item>
+      <title>Verðmat Jarðborana</title>
+      <link>https://skemman.is/handle/1946/48960</link>
+      <description>Verðmat Jarðborana - Kristján Lýðsson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48960</guid>
+    </item>
+    <item>
+      <title>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/48959</link>
+      <description>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi - Daníel Örn Hrólfsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48959</guid>
+    </item>
+    <item>
+      <title>Vörumerkjabreyting: Hverjir eru kostir og gallar við vörumerkjabreytingu?</title>
+      <link>https://skemman.is/handle/1946/48969</link>
+      <description>Vörumerkjabreyting: Hverjir eru kostir og gallar við vörumerkjabreytingu? - Eygló Yrsa Sindradóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48969</guid>
+    </item>
+    <item>
+      <title>Aðferðir og aðgerðir sem fyrirtæki geta gert til þess að stuðla að vellíðan starfsfólks</title>
+      <link>https://skemman.is/handle/1946/48970</link>
+      <description>Aðferðir og aðgerðir sem fyrirtæki geta gert til þess að stuðla að vellíðan starfsfólks - Þórdís Helga Másdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48970</guid>
     </item>
     <item>
       <title>Áhrif hagstærða og aðgengi að lánsfé á húsnæðisverð: Aðferðafræði Stock og Watson beitt í íslensku samhengi</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48933</link>
       <description>Leikskólinn á Seltjarnarnesi : Suðurströnd 1, 170 Seltjarnarnes - Rakel Eyjólfsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48933</guid>
-    </item>
-    <item>
-      <title>FÉSTA Stúdentagarðar við Norðurslóð, 600 Akureyri</title>
-      <link>https://skemman.is/handle/1946/48935</link>
-      <description>FÉSTA Stúdentagarðar við Norðurslóð, 600 Akureyri - Halla Sóley Jónasdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48935</guid>
-    </item>
-    <item>
-      <title>Viðbygging við Stjórnarráðshúsið, Lækjargötu 1, 101 Reykjavík</title>
-      <link>https://skemman.is/handle/1946/48938</link>
-      <description>Viðbygging við Stjórnarráðshúsið, Lækjargötu 1, 101 Reykjavík - Sigurður Óli Magnússon 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48938</guid>
     </item>
   </channel>
 </rss>
