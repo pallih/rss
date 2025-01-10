@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 10 Jan 2025 11:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 12:09:20 +0000</lastBuildDate>
     <item>
       <title>„Það er bara skylda allra fyrirtækja að gefa til baka“ Hlutverk samfélagslegrar ábyrgðar í stefnumótun og markaðsstarf fyrirtækja</title>
       <link>https://skemman.is/handle/1946/48961</link>
@@ -99,6 +99,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48973</guid>
     </item>
     <item>
+      <title>Development of a 3D LiDAR by pitching a solid-state linear 2D LiDAR</title>
+      <link>https://skemman.is/handle/1946/48974</link>
+      <description>Development of a 3D LiDAR by pitching a solid-state linear 2D LiDAR - Sigfús Axfjörð Sigfússon 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48974</guid>
+    </item>
+    <item>
+      <title>Euro pallet analyzer By Computer vision</title>
+      <link>https://skemman.is/handle/1946/48975</link>
+      <description>Euro pallet analyzer By Computer vision - Pétur Óli Þórólfsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48975</guid>
+    </item>
+    <item>
       <title>Áhrif hagstærða og aðgengi að lánsfé á húsnæðisverð: Aðferðafræði Stock og Watson beitt í íslensku samhengi</title>
       <link>https://skemman.is/handle/1946/48914</link>
       <description>Áhrif hagstærða og aðgengi að lánsfé á húsnæðisverð: Aðferðafræði Stock og Watson beitt í íslensku samhengi - Sveinn Jónmundsson 2001-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/48910</link>
       <description>Hjúkrunarheimili á Húsavík - Arnór Ísak Haddsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48910</guid>
-    </item>
-    <item>
-      <title>Fjölskylduheimili Birkihlíð 1-3</title>
-      <link>https://skemman.is/handle/1946/48908</link>
-      <description>Fjölskylduheimili Birkihlíð 1-3 - Ylfa Hrönn Aradóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48908</guid>
-    </item>
-    <item>
-      <title>Sorpbrennsla á Íslandi</title>
-      <link>https://skemman.is/handle/1946/48941</link>
-      <description>Sorpbrennsla á Íslandi - Kristján Albert Kristinsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48941</guid>
     </item>
   </channel>
 </rss>
