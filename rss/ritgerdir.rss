@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 10 Jan 2025 08:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 09:06:23 +0000</lastBuildDate>
     <item>
       <title>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi</title>
       <link>https://skemman.is/handle/1946/48959</link>
@@ -37,6 +37,36 @@
       <link>https://skemman.is/handle/1946/48963</link>
       <description>Afsláttur við kaup á óskráðum fyrirtækjum á Íslandi - Tjörvi Picchietti 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48963</guid>
+    </item>
+    <item>
+      <title>Stofnanabundnir kynþáttafordómar á Íslandi;  Greining á félagslegri lagskiptingu í pólitískum stefnum, vinnumarkaði og menntakerfinu</title>
+      <link>https://skemman.is/handle/1946/48964</link>
+      <description>Stofnanabundnir kynþáttafordómar á Íslandi;  Greining á félagslegri lagskiptingu í pólitískum stefnum, vinnumarkaði og menntakerfinu - Anna Grevtsova 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48964</guid>
+    </item>
+    <item>
+      <title>Aflvaki safna í íslenskum samtíma: Menning, listir og fólk af erlendum uppruna</title>
+      <link>https://skemman.is/handle/1946/48965</link>
+      <description>Aflvaki safna í íslenskum samtíma: Menning, listir og fólk af erlendum uppruna - María Hjelm 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48965</guid>
+    </item>
+    <item>
+      <title>Þjónustugæði Snjallverslunar Krónunnar. Væntingar og skynjun viðskiptavina á heimsendingarþjónustu Krónunnar</title>
+      <link>https://skemman.is/handle/1946/48966</link>
+      <description>Þjónustugæði Snjallverslunar Krónunnar. Væntingar og skynjun viðskiptavina á heimsendingarþjónustu Krónunnar - Rúnar Kristmannsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48966</guid>
+    </item>
+    <item>
+      <title>Smakkaðu tilfinninguna. Hvernig hefur Coca Cola nýtt auglýsingar til að ýta undir tilfinningatengsl neytenda við vörumerkið?</title>
+      <link>https://skemman.is/handle/1946/48967</link>
+      <description>Smakkaðu tilfinninguna. Hvernig hefur Coca Cola nýtt auglýsingar til að ýta undir tilfinningatengsl neytenda við vörumerkið? - Damian Lewandowski 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48967</guid>
+    </item>
+    <item>
+      <title>Áskoranir íslenskra fyrirtækja við innleiðingu ESRS. Hindranir og lausnir í íslensku samhengi</title>
+      <link>https://skemman.is/handle/1946/48968</link>
+      <description>Áskoranir íslenskra fyrirtækja við innleiðingu ESRS. Hindranir og lausnir í íslensku samhengi - Vilhelm Þráinn Sigurjónsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48968</guid>
     </item>
     <item>
       <title>Áhrif hagstærða og aðgengi að lánsfé á húsnæðisverð: Aðferðafræði Stock og Watson beitt í íslensku samhengi</title>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/48938</link>
       <description>Viðbygging við Stjórnarráðshúsið, Lækjargötu 1, 101 Reykjavík - Sigurður Óli Magnússon 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48938</guid>
-    </item>
-    <item>
-      <title>Gamli Garður : viðbygging</title>
-      <link>https://skemman.is/handle/1946/48939</link>
-      <description>Gamli Garður : viðbygging - Agnes Ólafsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48939</guid>
-    </item>
-    <item>
-      <title>Hjúkrunarheimili á Egilsstöðum</title>
-      <link>https://skemman.is/handle/1946/48936</link>
-      <description>Hjúkrunarheimili á Egilsstöðum - Guðrún Bára Björnsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48936</guid>
-    </item>
-    <item>
-      <title>Viðbygging við Stjórnarráðshúsið</title>
-      <link>https://skemman.is/handle/1946/48934</link>
-      <description>Viðbygging við Stjórnarráðshúsið - Pétur Bjarnason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48934</guid>
-    </item>
-    <item>
-      <title>Endurheimta Anda og Sjálfsmynd: Mannfræðilegt Sjónarhorn á Sjálfsmynd Tveggja-Anda í Menningu Frumbyggja Norður-Ameríku</title>
-      <link>https://skemman.is/handle/1946/48922</link>
-      <description>Endurheimta Anda og Sjálfsmynd: Mannfræðilegt Sjónarhorn á Sjálfsmynd Tveggja-Anda í Menningu Frumbyggja Norður-Ameríku - Elísa María Adamsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48922</guid>
-    </item>
-    <item>
-      <title>Sönnunarreglur í sakamálum: í ljósi nýrrar dómstólaskipanar</title>
-      <link>https://skemman.is/handle/1946/48915</link>
-      <description>Sönnunarreglur í sakamálum: í ljósi nýrrar dómstólaskipanar - Anna Einarsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48915</guid>
     </item>
   </channel>
 </rss>
