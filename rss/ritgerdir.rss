@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 10 Jan 2025 13:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 14:06:01 +0000</lastBuildDate>
     <item>
       <title>„Það er bara skylda allra fyrirtækja að gefa til baka“ Hlutverk samfélagslegrar ábyrgðar í stefnumótun og markaðsstarf fyrirtækja</title>
       <link>https://skemman.is/handle/1946/48961</link>
@@ -63,16 +63,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48960</guid>
     </item>
     <item>
-      <title>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/48959</link>
-      <description>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi - Daníel Örn Hrólfsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48959</guid>
-    </item>
-    <item>
-      <title>Vörumerkjabreyting: Hverjir eru kostir og gallar við vörumerkjabreytingu?</title>
-      <link>https://skemman.is/handle/1946/48969</link>
-      <description>Vörumerkjabreyting: Hverjir eru kostir og gallar við vörumerkjabreytingu? - Eygló Yrsa Sindradóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48969</guid>
+      <title>Birtingarmyndir anarkisma, fjölbreytt andóf og listræn tjáning</title>
+      <link>https://skemman.is/handle/1946/48971</link>
+      <description>Birtingarmyndir anarkisma, fjölbreytt andóf og listræn tjáning - Hildur Fjalarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48971</guid>
     </item>
     <item>
       <title>Aðferðir og aðgerðir sem fyrirtæki geta gert til þess að stuðla að vellíðan starfsfólks</title>
@@ -81,22 +75,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48970</guid>
     </item>
     <item>
-      <title>Birtingarmyndir anarkisma, fjölbreytt andóf og listræn tjáning</title>
-      <link>https://skemman.is/handle/1946/48971</link>
-      <description>Birtingarmyndir anarkisma, fjölbreytt andóf og listræn tjáning - Hildur Fjalarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48971</guid>
-    </item>
-    <item>
-      <title>Acoustic Localization System</title>
-      <link>https://skemman.is/handle/1946/48972</link>
-      <description>Acoustic Localization System - Kristinn Thomsen 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48972</guid>
-    </item>
-    <item>
       <title>Digital Freebirthing Communities</title>
       <link>https://skemman.is/handle/1946/48973</link>
       <description>Digital Freebirthing Communities - Margrét Edda Magnúsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48973</guid>
+    </item>
+    <item>
+      <title>Vörumerkjabreyting: Hverjir eru kostir og gallar við vörumerkjabreytingu?</title>
+      <link>https://skemman.is/handle/1946/48969</link>
+      <description>Vörumerkjabreyting: Hverjir eru kostir og gallar við vörumerkjabreytingu? - Eygló Yrsa Sindradóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48969</guid>
+    </item>
+    <item>
+      <title>Euro pallet analyzer By Computer vision</title>
+      <link>https://skemman.is/handle/1946/48975</link>
+      <description>Euro pallet analyzer By Computer vision - Pétur Óli Þórólfsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48975</guid>
     </item>
     <item>
       <title>Development of a 3D LiDAR by pitching a solid-state linear 2D LiDAR</title>
@@ -105,10 +99,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/48974</guid>
     </item>
     <item>
-      <title>Euro pallet analyzer By Computer vision</title>
-      <link>https://skemman.is/handle/1946/48975</link>
-      <description>Euro pallet analyzer By Computer vision - Pétur Óli Þórólfsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48975</guid>
+      <title>Acoustic Localization System</title>
+      <link>https://skemman.is/handle/1946/48972</link>
+      <description>Acoustic Localization System - Kristinn Thomsen 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48972</guid>
+    </item>
+    <item>
+      <title>Mikilvægi trausts á milli lögreglunnar og almennings: með áherslu á samfélagslöggæslu</title>
+      <link>https://skemman.is/handle/1946/48976</link>
+      <description>Mikilvægi trausts á milli lögreglunnar og almennings: með áherslu á samfélagslöggæslu - Sunna Brá Valsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48976</guid>
+    </item>
+    <item>
+      <title>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/48959</link>
+      <description>Veitingageirinn á Íslandi. Greining, alþjóðlegur samanburður og framtíðarhorfur í  veitingageiranum á Íslandi - Daníel Örn Hrólfsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48959</guid>
+    </item>
+    <item>
+      <title>„Það sem einkennir mitt uppistand er svolítið ég“: Virkni, samhengi og sjálfsmynd í uppistandi á Íslandi</title>
+      <link>https://skemman.is/handle/1946/48977</link>
+      <description>„Það sem einkennir mitt uppistand er svolítið ég“: Virkni, samhengi og sjálfsmynd í uppistandi á Íslandi - Agnes Jónsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48977</guid>
+    </item>
+    <item>
+      <title>„Ég er innflytjandi þegar við töpum og ég er Þjóðverji þegar við sigrum“ Stuðlar fótbolti að neikvæðri eða jákvæðri þjóðernishyggju?</title>
+      <link>https://skemman.is/handle/1946/48978</link>
+      <description>„Ég er innflytjandi þegar við töpum og ég er Þjóðverji þegar við sigrum“ Stuðlar fótbolti að neikvæðri eða jákvæðri þjóðernishyggju? - Arngrímur Alex Ísberg Birgisson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/48978</guid>
     </item>
     <item>
       <title>Áhrif hagstærða og aðgengi að lánsfé á húsnæðisverð: Aðferðafræði Stock og Watson beitt í íslensku samhengi</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/48909</link>
       <description>Stúdentagarðar á Akureyri - Sturla Elvarsson 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/48909</guid>
-    </item>
-    <item>
-      <title>Þekkingarsetur Vestmannaeyja</title>
-      <link>https://skemman.is/handle/1946/48912</link>
-      <description>Þekkingarsetur Vestmannaeyja - Bergrós Hjálmarsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48912</guid>
-    </item>
-    <item>
-      <title>Hjúkrunarheimili á Húsavík</title>
-      <link>https://skemman.is/handle/1946/48911</link>
-      <description>Hjúkrunarheimili á Húsavík - Björn Geir Másson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48911</guid>
-    </item>
-    <item>
-      <title>Hjúkrunarheimili á Húsavík</title>
-      <link>https://skemman.is/handle/1946/48910</link>
-      <description>Hjúkrunarheimili á Húsavík - Arnór Ísak Haddsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/48910</guid>
     </item>
   </channel>
 </rss>
