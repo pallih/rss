@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 Jan 2025 08:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 09:05:51 +0000</lastBuildDate>
+    <item>
+      <title>Hlutfall fasteignaverð og launa</title>
+      <link>https://skemman.is/handle/1946/49022</link>
+      <description>Hlutfall fasteignaverð og launa - Sóley Guðmundsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49022</guid>
+    </item>
+    <item>
+      <title>Stúdentagarðar FÉSTA á Akureyri</title>
+      <link>https://skemman.is/handle/1946/49023</link>
+      <description>Stúdentagarðar FÉSTA á Akureyri - Arna Mekkín Ragnarsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49023</guid>
+    </item>
     <item>
       <title>Af litlum neista verður oft mikið bál: Orðræðugreining á umfjöllun íslenskra fjölmiðla í kringum útlendingafrumvarpið sem lagt var fram árið 2022</title>
       <link>https://skemman.is/handle/1946/48999</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49014</link>
       <description>Samanburður innilofts á heimaskrifstofum og á vinnustað - Kristján Ingi Þórðarson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49014</guid>
-    </item>
-    <item>
-      <title>Viðnámsmæling húðar fyrir vöðvaritsmælingu</title>
-      <link>https://skemman.is/handle/1946/49017</link>
-      <description>Viðnámsmæling húðar fyrir vöðvaritsmælingu - Sindri Friðriksson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49017</guid>
-    </item>
-    <item>
-      <title>Varðveiting íslenskra útveggja</title>
-      <link>https://skemman.is/handle/1946/49013</link>
-      <description>Varðveiting íslenskra útveggja - Ævar Kærnested 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49013</guid>
     </item>
   </channel>
 </rss>
