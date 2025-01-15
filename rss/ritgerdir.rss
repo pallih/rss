@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 15 Jan 2025 14:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 15:06:02 +0000</lastBuildDate>
     <item>
       <title>Digital health as an embedded part of nursing homes :  an in-depth examination of the impact of the electronic health record</title>
       <link>https://skemman.is/handle/1946/49069</link>
@@ -111,6 +111,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49070</guid>
     </item>
     <item>
+      <title>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi</title>
+      <link>https://skemman.is/handle/1946/49071</link>
+      <description>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi - Sigríður Marta Ingvarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49071</guid>
+    </item>
+    <item>
       <title>Fundamentals and principles of youth football in Iceland : the coaches’ perspectives</title>
       <link>https://skemman.is/handle/1946/49037</link>
       <description>Fundamentals and principles of youth football in Iceland : the coaches’ perspectives - Elías Hlynur Lárusson 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49033</link>
       <description>Notkun lífsferilsgreiningu (LCA) til útreiknings kolefnisspors á íbúðarhúsi - Dýrfinna Arnardóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49033</guid>
-    </item>
-    <item>
-      <title>Burðarþolshönnun á áhaldageymslu</title>
-      <link>https://skemman.is/handle/1946/49031</link>
-      <description>Burðarþolshönnun á áhaldageymslu - Jóhann Hlíðar Hannesson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49031</guid>
     </item>
   </channel>
 </rss>
