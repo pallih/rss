@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 Jan 2025 10:06:06 +0000</lastBuildDate>
-    <item>
-      <title>Volume measurements using RGB cameras</title>
-      <link>https://skemman.is/handle/1946/49073</link>
-      <description>Volume measurements using RGB cameras - Dagur Viljar Haraldsson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49073</guid>
-    </item>
+    <lastBuildDate>Thu, 16 Jan 2025 11:05:18 +0000</lastBuildDate>
     <item>
       <title>ADHD og vímuefnaröskun: Tengslin þar á milli og aðkoma félagsráðgjafa</title>
       <link>https://skemman.is/handle/1946/49074</link>
@@ -25,6 +19,12 @@
       <link>https://skemman.is/handle/1946/49075</link>
       <description>Mikilvægi grunnskóla til aðhalds og þroska - Andri Gíslason 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49075</guid>
+    </item>
+    <item>
+      <title>Volume measurements using RGB cameras</title>
+      <link>https://skemman.is/handle/1946/49073</link>
+      <description>Volume measurements using RGB cameras - Dagur Viljar Haraldsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49073</guid>
     </item>
     <item>
       <title>Digital health as an embedded part of nursing homes :  an in-depth examination of the impact of the electronic health record</title>
@@ -67,6 +67,24 @@
       <link>https://skemman.is/handle/1946/49061</link>
       <description>Verktakinn - Aldís Hlín Skúladóttir 1993-; Wioleta Zelek 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49061</guid>
+    </item>
+    <item>
+      <title>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi</title>
+      <link>https://skemman.is/handle/1946/49071</link>
+      <description>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi - Sigríður Marta Ingvarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49071</guid>
+    </item>
+    <item>
+      <title>Fyrirtæki og græn framtíð. Álit og áskoranir fyrirtækja á Íslandi fyrir umhverfisvernd</title>
+      <link>https://skemman.is/handle/1946/49072</link>
+      <description>Fyrirtæki og græn framtíð. Álit og áskoranir fyrirtækja á Íslandi fyrir umhverfisvernd - Þórhildur Helga Hrafnsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49072</guid>
+    </item>
+    <item>
+      <title>Leikskóli Holtsvegi 20, Urriðaholti í Garðabæ</title>
+      <link>https://skemman.is/handle/1946/49070</link>
+      <description>Leikskóli Holtsvegi 20, Urriðaholti í Garðabæ - Egill Gestsson 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49070</guid>
     </item>
     <item>
       <title>Kauphegðun einstaklinga á húðvörum  á samfélagsmiðlum: Hvernig hefur þróun samfélagsmiðla mótað kauphegðun einstaklinga á húðvörum og hvaða hvatar liggja þar að baki?</title>
@@ -115,24 +133,6 @@
       <link>https://skemman.is/handle/1946/49060</link>
       <description>Síminn : mannauðs- og fjárfestavefur - Bjartur Blær Gunnlaugsson 1999-; Hlín Eiríksdóttir 2000-; Sigrún Líf Erlingsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49060</guid>
-    </item>
-    <item>
-      <title>Leikskóli Holtsvegi 20, Urriðaholti í Garðabæ</title>
-      <link>https://skemman.is/handle/1946/49070</link>
-      <description>Leikskóli Holtsvegi 20, Urriðaholti í Garðabæ - Egill Gestsson 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49070</guid>
-    </item>
-    <item>
-      <title>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi</title>
-      <link>https://skemman.is/handle/1946/49071</link>
-      <description>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi - Sigríður Marta Ingvarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49071</guid>
-    </item>
-    <item>
-      <title>Fyrirtæki og græn framtíð. Álit og áskoranir fyrirtækja á Íslandi fyrir umhverfisvernd</title>
-      <link>https://skemman.is/handle/1946/49072</link>
-      <description>Fyrirtæki og græn framtíð. Álit og áskoranir fyrirtækja á Íslandi fyrir umhverfisvernd - Þórhildur Helga Hrafnsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49072</guid>
     </item>
     <item>
       <title>AI-Optimised web scraper : for Optise</title>

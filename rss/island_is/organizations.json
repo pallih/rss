@@ -10,11 +10,6 @@
         "link": "https://island.is/s/personuvernd/frett"
     },
     {
-        "slug": "vinnueftirlitid",
-        "title": "Vinnueftirlitið",
-        "link": "https://island.is/s/vinnueftirlitid/frett"
-    },
-    {
         "slug": "rettindagaesla-fatlads-folks",
         "title": "Réttindagæsla fyrir fatlað fólk",
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
@@ -195,19 +190,9 @@
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
     },
     {
-        "slug": "landspitali",
-        "title": "Landspítali",
-        "link": "https://island.is/s/landspitali/frett"
-    },
-    {
         "slug": "thjodskjalasafn",
         "title": "Þjóðskjalasafn Íslands",
         "link": "https://island.is/s/thjodskjalasafn/frett"
-    },
-    {
-        "slug": "stafraent-island",
-        "title": "Stafrænt Ísland",
-        "link": "https://island.is/s/stafraent-island/frett"
     },
     {
         "slug": "blodbankinn",
