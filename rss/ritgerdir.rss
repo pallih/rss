@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 Jan 2025 08:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 09:05:48 +0000</lastBuildDate>
     <item>
       <title>Volume measurements using RGB cameras</title>
       <link>https://skemman.is/handle/1946/49073</link>
       <description>Volume measurements using RGB cameras - Dagur Viljar Haraldsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49073</guid>
+    </item>
+    <item>
+      <title>ADHD og vímuefnaröskun: Tengslin þar á milli og aðkoma félagsráðgjafa</title>
+      <link>https://skemman.is/handle/1946/49074</link>
+      <description>ADHD og vímuefnaröskun: Tengslin þar á milli og aðkoma félagsráðgjafa - Harpa Lind Egilsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49074</guid>
     </item>
     <item>
       <title>Digital health as an embedded part of nursing homes :  an in-depth examination of the impact of the electronic health record</title>
@@ -43,12 +49,6 @@
       <link>https://skemman.is/handle/1946/49062</link>
       <description>Einstaklingar eða auðlind? Félagsfræðileg staða húsdýra á Íslandi - Hersir Haraldsson Tegeder 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49062</guid>
-    </item>
-    <item>
-      <title>AI-Optimised web scraper : for Optise</title>
-      <link>https://skemman.is/handle/1946/49063</link>
-      <description>AI-Optimised web scraper : for Optise - Ísak Jónsson 1999-; Kolbeinn Grímsson 1986-; Marín Guðmundsdóttir Jacobsen 1995-; Rakel Reynisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49063</guid>
     </item>
     <item>
       <title>Viðbygging við Sundhöll Reykjavíkur</title>
@@ -129,6 +129,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49072</guid>
     </item>
     <item>
+      <title>AI-Optimised web scraper : for Optise</title>
+      <link>https://skemman.is/handle/1946/49063</link>
+      <description>AI-Optimised web scraper : for Optise - Ísak Jónsson 1999-; Kolbeinn Grímsson 1986-; Marín Guðmundsdóttir Jacobsen 1995-; Rakel Reynisdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49063</guid>
+    </item>
+    <item>
       <title>Fundamentals and principles of youth football in Iceland : the coaches’ perspectives</title>
       <link>https://skemman.is/handle/1946/49037</link>
       <description>Fundamentals and principles of youth football in Iceland : the coaches’ perspectives - Elías Hlynur Lárusson 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49034</link>
       <description>Sjálfbær orkukerfi fyrir fjarskiptasenda : samþætting sólar-, vinda- og rafhlöðutækni í fjarskiptakerfum - Viðar Þórðarson 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49034</guid>
-    </item>
-    <item>
-      <title>Hönnun lýsingar á heimilum</title>
-      <link>https://skemman.is/handle/1946/49029</link>
-      <description>Hönnun lýsingar á heimilum - Kamile Morkute 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49029</guid>
     </item>
   </channel>
 </rss>
