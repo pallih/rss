@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 Jan 2025 11:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 12:09:14 +0000</lastBuildDate>
     <item>
       <title>Bankaábyrgðir : réttaráhrif URDG 758 á efndaábyrgðir samanborið við íslenska réttarframkvæmd</title>
       <link>https://skemman.is/handle/1946/49100</link>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/49103</link>
       <description>AI adoption in Icelandic tech startups : applications, barriers, and future opportunities - Ásgeir Hólm Sævarsson 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49103</guid>
+    </item>
+    <item>
+      <title>Design and development of a digital health artifact for parents of preterm or sick neonates</title>
+      <link>https://skemman.is/handle/1946/49104</link>
+      <description>Design and development of a digital health artifact for parents of preterm or sick neonates - Bjarki Freyr Rúnarsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49104</guid>
     </item>
     <item>
       <title>,,Ég hef bara einu sinni upplifað þessa hegðun og það var í Covid-19" Fatlað fólk og aðstæðubundið sjálfræði í heimsfaraldrinum Covid-19</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49070</link>
       <description>Leikskóli Holtsvegi 20, Urriðaholti í Garðabæ - Egill Gestsson 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49070</guid>
-    </item>
-    <item>
-      <title>Sjálfvirknivæðing í dagvöruverslun á Íslandi : áhrif hagræðingar á verð og samkeppni</title>
-      <link>https://skemman.is/handle/1946/49055</link>
-      <description>Sjálfvirknivæðing í dagvöruverslun á Íslandi : áhrif hagræðingar á verð og samkeppni - Ágústa Lillý Sigurðardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49055</guid>
     </item>
   </channel>
 </rss>
