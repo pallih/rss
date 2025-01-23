@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Jan 2025 09:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 10:06:12 +0000</lastBuildDate>
     <item>
       <title>Leiðir til að efla lausnarleit orðadæma í stærðfræði</title>
       <link>https://skemman.is/handle/1946/49106</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/49107</link>
       <description>Saccade Endpoints in visual search: Exploring the Role of Feature Distribution Learning in Modulating Saccade Endpoints during Visual Search - Hanna Signý Guðmundsdóttir 1976-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49107</guid>
+    </item>
+    <item>
+      <title>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu</title>
+      <link>https://skemman.is/handle/1946/49108</link>
+      <description>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu - Áróra Huld Bjarnadóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49108</guid>
     </item>
     <item>
       <title>Lærdómur í leik: Hvernig læra börn í gegnum leikinn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49066</link>
       <description>Viðbygging við Sundhöll Reykjavíkur - Guðmundur Jónsson 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49066</guid>
-    </item>
-    <item>
-      <title>Verktakinn</title>
-      <link>https://skemman.is/handle/1946/49061</link>
-      <description>Verktakinn - Aldís Hlín Skúladóttir 1993-; Wioleta Zelek 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49061</guid>
     </item>
   </channel>
 </rss>
