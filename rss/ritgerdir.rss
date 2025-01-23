@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Jan 2025 08:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 09:05:56 +0000</lastBuildDate>
     <item>
       <title>Leiðir til að efla lausnarleit orðadæma í stærðfræði</title>
       <link>https://skemman.is/handle/1946/49106</link>
       <description>Leiðir til að efla lausnarleit orðadæma í stærðfræði - Baldvin Kári Kristjánsson 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49106</guid>
+    </item>
+    <item>
+      <title>Saccade Endpoints in visual search: Exploring the Role of Feature Distribution Learning in Modulating Saccade Endpoints during Visual Search</title>
+      <link>https://skemman.is/handle/1946/49107</link>
+      <description>Saccade Endpoints in visual search: Exploring the Role of Feature Distribution Learning in Modulating Saccade Endpoints during Visual Search - Hanna Signý Guðmundsdóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49107</guid>
     </item>
     <item>
       <title>Lærdómur í leik: Hvernig læra börn í gegnum leikinn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49061</link>
       <description>Verktakinn - Aldís Hlín Skúladóttir 1993-; Wioleta Zelek 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49061</guid>
-    </item>
-    <item>
-      <title>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi</title>
-      <link>https://skemman.is/handle/1946/49071</link>
-      <description>Samræmi gilda fyrirtækja og starfsmanna. Skoðun stjórnenda íslenskra fyrirtækja á mikilvægi samræmis og verklag við ósamræmi - Sigríður Marta Ingvarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49071</guid>
     </item>
   </channel>
 </rss>
