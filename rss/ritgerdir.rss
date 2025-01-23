@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 23 Jan 2025 11:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 12:09:22 +0000</lastBuildDate>
     <item>
       <title>Leiðir til að efla lausnarleit orðadæma í stærðfræði</title>
       <link>https://skemman.is/handle/1946/49106</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/49108</link>
       <description>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu - Áróra Huld Bjarnadóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49108</guid>
+    </item>
+    <item>
+      <title>Students’ Understanding and the Development of Critical Thinking: The Experiences of Undergraduate and Graduate Students at the University of Iceland</title>
+      <link>https://skemman.is/handle/1946/49109</link>
+      <description>Students’ Understanding and the Development of Critical Thinking: The Experiences of Undergraduate and Graduate Students at the University of Iceland - Emmanuel Mawuli Adom 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49109</guid>
     </item>
     <item>
       <title>Lærdómur í leik: Hvernig læra börn í gegnum leikinn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49062</link>
       <description>Einstaklingar eða auðlind? Félagsfræðileg staða húsdýra á Íslandi - Hersir Haraldsson Tegeder 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49062</guid>
-    </item>
-    <item>
-      <title>Viðbygging við Sundhöll Reykjavíkur</title>
-      <link>https://skemman.is/handle/1946/49066</link>
-      <description>Viðbygging við Sundhöll Reykjavíkur - Guðmundur Jónsson 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49066</guid>
     </item>
   </channel>
 </rss>
