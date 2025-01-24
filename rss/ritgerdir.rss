@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 Jan 2025 13:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 14:05:35 +0000</lastBuildDate>
     <item>
       <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
       <link>https://skemman.is/handle/1946/49110</link>
@@ -27,16 +27,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49112</guid>
     </item>
     <item>
+      <title>The Sierra Leone Creole Language: Exploring the Influences of Sierra Leone Creole Language in English and Native Languages</title>
+      <link>https://skemman.is/handle/1946/49113</link>
+      <description>The Sierra Leone Creole Language: Exploring the Influences of Sierra Leone Creole Language in English and Native Languages - Doro Thoronka 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49113</guid>
+    </item>
+    <item>
       <title>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu</title>
       <link>https://skemman.is/handle/1946/49108</link>
       <description>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu - Áróra Huld Bjarnadóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49108</guid>
-    </item>
-    <item>
-      <title>Students’ Understanding and the Development of Critical Thinking: The Experiences of Undergraduate and Graduate Students at the University of Iceland</title>
-      <link>https://skemman.is/handle/1946/49109</link>
-      <description>Students’ Understanding and the Development of Critical Thinking: The Experiences of Undergraduate and Graduate Students at the University of Iceland - Emmanuel Mawuli Adom 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49109</guid>
     </item>
     <item>
       <title>Saccade Endpoints in visual search: Exploring the Role of Feature Distribution Learning in Modulating Saccade Endpoints during Visual Search</title>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/49106</link>
       <description>Leiðir til að efla lausnarleit orðadæma í stærðfræði - Baldvin Kári Kristjánsson 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49106</guid>
+    </item>
+    <item>
+      <title>Students’ Understanding and the Development of Critical Thinking: The Experiences of Undergraduate and Graduate Students at the University of Iceland</title>
+      <link>https://skemman.is/handle/1946/49109</link>
+      <description>Students’ Understanding and the Development of Critical Thinking: The Experiences of Undergraduate and Graduate Students at the University of Iceland - Emmanuel Mawuli Adom 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49109</guid>
     </item>
     <item>
       <title>Lærdómur í leik: Hvernig læra börn í gegnum leikinn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49069</link>
       <description>Digital health as an embedded part of nursing homes :  an in-depth examination of the impact of the electronic health record - Henný Björk Birgisdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49069</guid>
-    </item>
-    <item>
-      <title>Investigating the limitations of performance testing ERP systems at Embla Medical</title>
-      <link>https://skemman.is/handle/1946/49065</link>
-      <description>Investigating the limitations of performance testing ERP systems at Embla Medical - Sophie Cariven 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49065</guid>
     </item>
   </channel>
 </rss>
