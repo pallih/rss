@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 Jan 2025 10:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 11:05:42 +0000</lastBuildDate>
     <item>
       <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
       <link>https://skemman.is/handle/1946/49110</link>
       <description>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu - Jónína Helga Ólafsdóttir 1968-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49110</guid>
+    </item>
+    <item>
+      <title>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla</title>
+      <link>https://skemman.is/handle/1946/49111</link>
+      <description>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla - Jóna Rún Gísladóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49111</guid>
     </item>
     <item>
       <title>Leiðir til að efla lausnarleit orðadæma í stærðfræði</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49068</link>
       <description>Video game control using EEG motor imagery - Francesco Moschella 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49068</guid>
-    </item>
-    <item>
-      <title>Environmental Interactive map</title>
-      <link>https://skemman.is/handle/1946/49064</link>
-      <description>Environmental Interactive map - Anna Dóra Aldísardóttir 1995-; Magdalena Garbowska 1990-; Þorgerður Erla Andrésdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49064</guid>
     </item>
   </channel>
 </rss>
