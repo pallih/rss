@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 Jan 2025 12:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 13:08:53 +0000</lastBuildDate>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
       <link>https://skemman.is/handle/1946/49117</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/49119</link>
       <description>Language models for classification of patient text messages - Kaustab Chandra Sahu 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49119</guid>
+    </item>
+    <item>
+      <title>Nýtt landslag íþrótta og stjórnmála. Hinar nýju áherslur Sádi-Arabíu í íþróttum</title>
+      <link>https://skemman.is/handle/1946/49122</link>
+      <description>Nýtt landslag íþrótta og stjórnmála. Hinar nýju áherslur Sádi-Arabíu í íþróttum - Samúel Ingi Daníelsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49122</guid>
     </item>
     <item>
       <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49103</link>
       <description>AI adoption in Icelandic tech startups : applications, barriers, and future opportunities - Ásgeir Hólm Sævarsson 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49103</guid>
-    </item>
-    <item>
-      <title>Design and development of a digital health artifact for parents of preterm or sick neonates</title>
-      <link>https://skemman.is/handle/1946/49104</link>
-      <description>Design and development of a digital health artifact for parents of preterm or sick neonates - Bjarki Freyr Rúnarsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49104</guid>
     </item>
   </channel>
 </rss>
