@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 Jan 2025 13:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 14:05:59 +0000</lastBuildDate>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
       <link>https://skemman.is/handle/1946/49117</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/49122</link>
       <description>Nýtt landslag íþrótta og stjórnmála. Hinar nýju áherslur Sádi-Arabíu í íþróttum - Samúel Ingi Daníelsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49122</guid>
+    </item>
+    <item>
+      <title>Advancing Geospatial Modeling with Prithvi-EO-2.0: Development and Validation of a Foundation Model for Earth Observation</title>
+      <link>https://skemman.is/handle/1946/49123</link>
+      <description>Advancing Geospatial Modeling with Prithvi-EO-2.0: Development and Validation of a Foundation Model for Earth Observation - Þorsteinn Elí Gíslason 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49123</guid>
     </item>
     <item>
       <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49101</link>
       <description>Vínland Vínekra, Riftún 3 Ölfus - Auður Teitsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49101</guid>
-    </item>
-    <item>
-      <title>AI adoption in Icelandic tech startups : applications, barriers, and future opportunities</title>
-      <link>https://skemman.is/handle/1946/49103</link>
-      <description>AI adoption in Icelandic tech startups : applications, barriers, and future opportunities - Ásgeir Hólm Sævarsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49103</guid>
     </item>
   </channel>
 </rss>
