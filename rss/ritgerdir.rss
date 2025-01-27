@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 Jan 2025 10:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 11:05:14 +0000</lastBuildDate>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
       <link>https://skemman.is/handle/1946/49117</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/49119</link>
       <description>Language models for classification of patient text messages - Kaustab Chandra Sahu 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49119</guid>
+    </item>
+    <item>
+      <title>Dynamic graph neural networks for credit risk modeling : a multi-modal approach to SME default prediction</title>
+      <link>https://skemman.is/handle/1946/49120</link>
+      <description>Dynamic graph neural networks for credit risk modeling : a multi-modal approach to SME default prediction - Halldór Kristinsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49120</guid>
+    </item>
+    <item>
+      <title>Understanding Icelandic insurance claims : from text to incident categories</title>
+      <link>https://skemman.is/handle/1946/49121</link>
+      <description>Understanding Icelandic insurance claims : from text to incident categories - Atli Egilsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49121</guid>
     </item>
     <item>
       <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49104</link>
       <description>Design and development of a digital health artifact for parents of preterm or sick neonates - Bjarki Freyr Rúnarsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49104</guid>
-    </item>
-    <item>
-      <title>,,Ég hef bara einu sinni upplifað þessa hegðun og það var í Covid-19" Fatlað fólk og aðstæðubundið sjálfræði í heimsfaraldrinum Covid-19</title>
-      <link>https://skemman.is/handle/1946/49077</link>
-      <description>,,Ég hef bara einu sinni upplifað þessa hegðun og það var í Covid-19" Fatlað fólk og aðstæðubundið sjálfræði í heimsfaraldrinum Covid-19 - Sunna Líf Kristjánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49077</guid>
-    </item>
-    <item>
-      <title>Samkeppnishæfni Blue Car Rental. Greining á stefnu íslensks vörumerkis í ferðaþjónustu</title>
-      <link>https://skemman.is/handle/1946/49076</link>
-      <description>Samkeppnishæfni Blue Car Rental. Greining á stefnu íslensks vörumerkis í ferðaþjónustu - Jóhann Skúli Björnsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49076</guid>
     </item>
   </channel>
 </rss>
