@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 27 Jan 2025 11:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:09:44 +0000</lastBuildDate>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
       <link>https://skemman.is/handle/1946/49117</link>
@@ -33,18 +33,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49115</guid>
     </item>
     <item>
-      <title>Gender Differences in Emotional Expression: An Analysis of Blog Post Comments in Iceland</title>
-      <link>https://skemman.is/handle/1946/49118</link>
-      <description>Gender Differences in Emotional Expression: An Analysis of Blog Post Comments in Iceland - Prince Charles Stephens 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49118</guid>
-    </item>
-    <item>
-      <title>Language models for classification of patient text messages</title>
-      <link>https://skemman.is/handle/1946/49119</link>
-      <description>Language models for classification of patient text messages - Kaustab Chandra Sahu 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49119</guid>
-    </item>
-    <item>
       <title>Dynamic graph neural networks for credit risk modeling : a multi-modal approach to SME default prediction</title>
       <link>https://skemman.is/handle/1946/49120</link>
       <description>Dynamic graph neural networks for credit risk modeling : a multi-modal approach to SME default prediction - Halldór Kristinsson 1995-</description>
@@ -55,6 +43,18 @@
       <link>https://skemman.is/handle/1946/49121</link>
       <description>Understanding Icelandic insurance claims : from text to incident categories - Atli Egilsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49121</guid>
+    </item>
+    <item>
+      <title>Gender Differences in Emotional Expression: An Analysis of Blog Post Comments in Iceland</title>
+      <link>https://skemman.is/handle/1946/49118</link>
+      <description>Gender Differences in Emotional Expression: An Analysis of Blog Post Comments in Iceland - Prince Charles Stephens 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49118</guid>
+    </item>
+    <item>
+      <title>Language models for classification of patient text messages</title>
+      <link>https://skemman.is/handle/1946/49119</link>
+      <description>Language models for classification of patient text messages - Kaustab Chandra Sahu 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49119</guid>
     </item>
     <item>
       <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
