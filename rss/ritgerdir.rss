@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 28 Jan 2025 09:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 10:05:55 +0000</lastBuildDate>
     <item>
       <title>Jarðvarmavirkjanir og mótun ferðamannastaða.                     Tilviksrannsókn: Þeistareykir á Norðurlandi eystra.</title>
       <link>https://skemman.is/handle/1946/49124</link>
       <description>Jarðvarmavirkjanir og mótun ferðamannastaða.                     Tilviksrannsókn: Þeistareykir á Norðurlandi eystra. - Sigríður Kristín Jónasdóttir 1960-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49124</guid>
+    </item>
+    <item>
+      <title>Losun bakvatns hitaveitu á höfuðborgarsvæðinu: Greining á núverandi kerfi og kostnaðargreining á losun</title>
+      <link>https://skemman.is/handle/1946/49125</link>
+      <description>Losun bakvatns hitaveitu á höfuðborgarsvæðinu: Greining á núverandi kerfi og kostnaðargreining á losun - Ragnheiður Ingólfsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49125</guid>
     </item>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
@@ -75,12 +81,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49123</guid>
     </item>
     <item>
-      <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
-      <link>https://skemman.is/handle/1946/49110</link>
-      <description>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu - Jónína Helga Ólafsdóttir 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49110</guid>
-    </item>
-    <item>
       <title>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla</title>
       <link>https://skemman.is/handle/1946/49111</link>
       <description>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla - Jóna Rún Gísladóttir 1980-</description>
@@ -97,6 +97,12 @@
       <link>https://skemman.is/handle/1946/49113</link>
       <description>The Sierra Leone Creole Language: Exploring the Influences of Sierra Leone Creole Language in English and Native Languages - Doro Thoronka 1976-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49113</guid>
+    </item>
+    <item>
+      <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
+      <link>https://skemman.is/handle/1946/49110</link>
+      <description>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu - Jónína Helga Ólafsdóttir 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49110</guid>
     </item>
     <item>
       <title>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49097</link>
       <description>Leikskóli á Seltjarnarnesi : Suðurströnd 1, 170 Seltjarnarnesi - Halldór Ingi Jónasson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49097</guid>
-    </item>
-    <item>
-      <title>Stækkun verknámsaðstöðu Fjölbrautaskóla Suðurlands</title>
-      <link>https://skemman.is/handle/1946/49099</link>
-      <description>Stækkun verknámsaðstöðu Fjölbrautaskóla Suðurlands - Jón Sigfús Hermannsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49099</guid>
     </item>
   </channel>
 </rss>
