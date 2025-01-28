@@ -1,5 +1,10 @@
 [
     {
+        "slug": "landspitali",
+        "title": "Landspítali",
+        "link": "https://island.is/s/landspitali/frett"
+    },
+    {
         "slug": "rikiskaup",
         "title": "Fjársýslan Innkaup",
         "link": "https://island.is/s/rikiskaup/frett"
@@ -193,11 +198,6 @@
         "slug": "hljodbokasafn-islands",
         "title": "Hljóðbókasafn Íslands",
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
-    },
-    {
-        "slug": "landspitali",
-        "title": "Landspítali",
-        "link": "https://island.is/s/landspitali/frett"
     },
     {
         "slug": "thjodskjalasafn",
