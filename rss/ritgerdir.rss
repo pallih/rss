@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 28 Jan 2025 12:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 13:08:41 +0000</lastBuildDate>
     <item>
       <title>Jarðvarmavirkjanir og mótun ferðamannastaða.                     Tilviksrannsókn: Þeistareykir á Norðurlandi eystra.</title>
       <link>https://skemman.is/handle/1946/49124</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/49128</link>
       <description>In vivo analysis of proteasome function, location and transport in Drosophila melanogaster motor neurons. - Ólavía Guðrún Gísladóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49128</guid>
+    </item>
+    <item>
+      <title>Evaluating Speech Technology Integration in Children’s Reading Education: A Study of TTS and STT Implementation in an Icelandic Educational Game</title>
+      <link>https://skemman.is/handle/1946/49129</link>
+      <description>Evaluating Speech Technology Integration in Children’s Reading Education: A Study of TTS and STT Implementation in an Icelandic Educational Game - Alexander Guðmundsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49129</guid>
     </item>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49105</link>
       <description>Lærdómur í leik: Hvernig læra börn í gegnum leikinn - Fjóla Dóra Sæmundsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49105</guid>
-    </item>
-    <item>
-      <title>Bankaábyrgðir : réttaráhrif URDG 758 á efndaábyrgðir samanborið við íslenska réttarframkvæmd</title>
-      <link>https://skemman.is/handle/1946/49100</link>
-      <description>Bankaábyrgðir : réttaráhrif URDG 758 á efndaábyrgðir samanborið við íslenska réttarframkvæmd - Vilhjálmur Hrafn Stefánsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49100</guid>
     </item>
   </channel>
 </rss>
