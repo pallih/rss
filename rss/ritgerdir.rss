@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 28 Jan 2025 10:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 11:05:15 +0000</lastBuildDate>
     <item>
       <title>Jarðvarmavirkjanir og mótun ferðamannastaða.                     Tilviksrannsókn: Þeistareykir á Norðurlandi eystra.</title>
       <link>https://skemman.is/handle/1946/49124</link>
@@ -15,10 +15,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49124</guid>
     </item>
     <item>
+      <title>Teachers’ Attitudes Towards  Inclusive Education: A Qualitative Study in a Chinese Elementary School Based on Critical Disability Theory</title>
+      <link>https://skemman.is/handle/1946/49127</link>
+      <description>Teachers’ Attitudes Towards  Inclusive Education: A Qualitative Study in a Chinese Elementary School Based on Critical Disability Theory - Zhijing Deng 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49127</guid>
+    </item>
+    <item>
+      <title>Notkun nikótínpúða í náinni framtíð: Þróun nikótínpúða á Íslandi og framtíðaráskoranir á markaðnum</title>
+      <link>https://skemman.is/handle/1946/49126</link>
+      <description>Notkun nikótínpúða í náinni framtíð: Þróun nikótínpúða á Íslandi og framtíðaráskoranir á markaðnum - Kolfinna Ólafsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49126</guid>
+    </item>
+    <item>
       <title>Losun bakvatns hitaveitu á höfuðborgarsvæðinu: Greining á núverandi kerfi og kostnaðargreining á losun</title>
       <link>https://skemman.is/handle/1946/49125</link>
       <description>Losun bakvatns hitaveitu á höfuðborgarsvæðinu: Greining á núverandi kerfi og kostnaðargreining á losun - Ragnheiður Ingólfsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49125</guid>
+    </item>
+    <item>
+      <title>In vivo analysis of proteasome function, location and transport in Drosophila melanogaster motor neurons.</title>
+      <link>https://skemman.is/handle/1946/49128</link>
+      <description>In vivo analysis of proteasome function, location and transport in Drosophila melanogaster motor neurons. - Ólavía Guðrún Gísladóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49128</guid>
     </item>
     <item>
       <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/49100</link>
       <description>Bankaábyrgðir : réttaráhrif URDG 758 á efndaábyrgðir samanborið við íslenska réttarframkvæmd - Vilhjálmur Hrafn Stefánsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49100</guid>
-    </item>
-    <item>
-      <title>Fish Species Classification in Controlled Underwater Environments Using Contrastive Language-Image Models</title>
-      <link>https://skemman.is/handle/1946/49098</link>
-      <description>Fish Species Classification in Controlled Underwater Environments Using Contrastive Language-Image Models - Joao Rodrigo Da Silva Martins 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49098</guid>
-    </item>
-    <item>
-      <title>Process modeling and operational analysis of thermal and Eeectrical energy production in Hellisheiði geothermal power plant using symmetry software</title>
-      <link>https://skemman.is/handle/1946/49102</link>
-      <description>Process modeling and operational analysis of thermal and Eeectrical energy production in Hellisheiði geothermal power plant using symmetry software - Arnar Singh Helgason 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49102</guid>
-    </item>
-    <item>
-      <title>Leikskóli á Seltjarnarnesi : Suðurströnd 1, 170 Seltjarnarnesi</title>
-      <link>https://skemman.is/handle/1946/49097</link>
-      <description>Leikskóli á Seltjarnarnesi : Suðurströnd 1, 170 Seltjarnarnesi - Halldór Ingi Jónasson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49097</guid>
     </item>
   </channel>
 </rss>
