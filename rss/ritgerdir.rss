@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 30 Jan 2025 12:09:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 13:08:41 +0000</lastBuildDate>
     <item>
       <title>Human Impacts on Fossvogur Bay (Reykjavík, Iceland): Analysis of a Sediment Core</title>
       <link>https://skemman.is/handle/1946/49132</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/49133</link>
       <description>Capacities defined by pluricomplex extremal functions - Tryggvi Kalman Jónsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49133</guid>
+    </item>
+    <item>
+      <title>„Það endist enginn í þessu starfi sem að hefur ekki ástríðu fyrir því“ Viðhorf framlínustarfsmanna til starfsvettvangs ferðaþjónustunnar</title>
+      <link>https://skemman.is/handle/1946/49134</link>
+      <description>„Það endist enginn í þessu starfi sem að hefur ekki ástríðu fyrir því“ Viðhorf framlínustarfsmanna til starfsvettvangs ferðaþjónustunnar - Sara Ýr Sigurðardóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49134</guid>
+    </item>
+    <item>
+      <title>„Þetta var miklu betra": Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni 13 ára drengs</title>
+      <link>https://skemman.is/handle/1946/49135</link>
+      <description>„Þetta var miklu betra": Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni 13 ára drengs - Guðrún Pebea Sörudóttir 2001-; Brynja Lind Þormóðsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49135</guid>
     </item>
     <item>
       <title>Jarðvarmavirkjanir og mótun ferðamannastaða.                     Tilviksrannsókn: Þeistareykir á Norðurlandi eystra.</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49113</link>
       <description>The Sierra Leone Creole Language: Exploring the Influences of Sierra Leone Creole Language in English and Native Languages - Doro Thoronka 1976-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49113</guid>
-    </item>
-    <item>
-      <title>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu</title>
-      <link>https://skemman.is/handle/1946/49110</link>
-      <description>Heimalestur barna með lestrarvanda: Foreldrum kenndar aðferðir G-PALS með myndbandssýnikennslu - Jónína Helga Ólafsdóttir 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49110</guid>
-    </item>
-    <item>
-      <title>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu</title>
-      <link>https://skemman.is/handle/1946/49108</link>
-      <description>„Að berjast við dreka“: Reynsla mæðra með geðsjúkdóma af móðurhlutverkinu - Áróra Huld Bjarnadóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49108</guid>
     </item>
   </channel>
 </rss>
