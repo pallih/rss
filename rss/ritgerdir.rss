@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 31 Jan 2025 11:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 12:08:59 +0000</lastBuildDate>
     <item>
       <title>Hyperspectral Imaging for Evaluation of Herring Stocks caught around Iceland</title>
       <link>https://skemman.is/handle/1946/49136</link>
       <description>Hyperspectral Imaging for Evaluation of Herring Stocks caught around Iceland - Moaaz Mudassir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49136</guid>
+    </item>
+    <item>
+      <title>Þýðing á IMV Sjálfsvígsáhættu Kortlagningu (ISRFF)</title>
+      <link>https://skemman.is/handle/1946/49137</link>
+      <description>Þýðing á IMV Sjálfsvígsáhættu Kortlagningu (ISRFF) - Sigríður Hlöðversdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49137</guid>
     </item>
     <item>
       <title>Human Impacts on Fossvogur Bay (Reykjavík, Iceland): Analysis of a Sediment Core</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49111</link>
       <description>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla - Jóna Rún Gísladóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49111</guid>
-    </item>
-    <item>
-      <title>Bumblebee-plant interactions in urban green spaces in Reykjavik</title>
-      <link>https://skemman.is/handle/1946/49112</link>
-      <description>Bumblebee-plant interactions in urban green spaces in Reykjavik - Katja Schmela 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49112</guid>
     </item>
   </channel>
 </rss>
