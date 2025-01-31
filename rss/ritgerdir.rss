@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 31 Jan 2025 12:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 13:08:29 +0000</lastBuildDate>
     <item>
       <title>Hyperspectral Imaging for Evaluation of Herring Stocks caught around Iceland</title>
       <link>https://skemman.is/handle/1946/49136</link>
@@ -15,10 +15,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49136</guid>
     </item>
     <item>
+      <title>Jessica Curry : mikilvægi tónlistar í gönguhermum</title>
+      <link>https://skemman.is/handle/1946/49138</link>
+      <description>Jessica Curry : mikilvægi tónlistar í gönguhermum - Haukur Arnórsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49138</guid>
+    </item>
+    <item>
       <title>Þýðing á IMV Sjálfsvígsáhættu Kortlagningu (ISRFF)</title>
       <link>https://skemman.is/handle/1946/49137</link>
       <description>Þýðing á IMV Sjálfsvígsáhættu Kortlagningu (ISRFF) - Sigríður Hlöðversdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49137</guid>
+    </item>
+    <item>
+      <title>Flow greinargerð</title>
+      <link>https://skemman.is/handle/1946/49139</link>
+      <description>Flow greinargerð - Haukur Arnórsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49139</guid>
     </item>
     <item>
       <title>Human Impacts on Fossvogur Bay (Reykjavík, Iceland): Analysis of a Sediment Core</title>
@@ -33,6 +45,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49131</guid>
     </item>
     <item>
+      <title>„Þetta var miklu betra": Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni 13 ára drengs</title>
+      <link>https://skemman.is/handle/1946/49135</link>
+      <description>„Þetta var miklu betra": Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni 13 ára drengs - Guðrún Pebea Sörudóttir 2001-; Brynja Lind Þormóðsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49135</guid>
+    </item>
+    <item>
       <title>Capacities defined by pluricomplex extremal functions</title>
       <link>https://skemman.is/handle/1946/49133</link>
       <description>Capacities defined by pluricomplex extremal functions - Tryggvi Kalman Jónsson 1994-</description>
@@ -43,12 +61,6 @@
       <link>https://skemman.is/handle/1946/49134</link>
       <description>„Það endist enginn í þessu starfi sem að hefur ekki ástríðu fyrir því“ Viðhorf framlínustarfsmanna til starfsvettvangs ferðaþjónustunnar - Sara Ýr Sigurðardóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49134</guid>
-    </item>
-    <item>
-      <title>„Þetta var miklu betra": Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni 13 ára drengs</title>
-      <link>https://skemman.is/handle/1946/49135</link>
-      <description>„Þetta var miklu betra": Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni 13 ára drengs - Guðrún Pebea Sörudóttir 2001-; Brynja Lind Þormóðsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49135</guid>
     </item>
     <item>
       <title>Jarðvarmavirkjanir og mótun ferðamannastaða.                     Tilviksrannsókn: Þeistareykir á Norðurlandi eystra.</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49122</link>
       <description>Nýtt landslag íþrótta og stjórnmála. Hinar nýju áherslur Sádi-Arabíu í íþróttum - Samúel Ingi Daníelsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49122</guid>
-    </item>
-    <item>
-      <title>Advancing Geospatial Modeling with Prithvi-EO-2.0: Development and Validation of a Foundation Model for Earth Observation</title>
-      <link>https://skemman.is/handle/1946/49123</link>
-      <description>Advancing Geospatial Modeling with Prithvi-EO-2.0: Development and Validation of a Foundation Model for Earth Observation - Þorsteinn Elí Gíslason 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49123</guid>
-    </item>
-    <item>
-      <title>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla</title>
-      <link>https://skemman.is/handle/1946/49111</link>
-      <description>Áskoranir og bjargir leikskólastjóra sem starfa við ungbarnaleikskóla - Jóna Rún Gísladóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49111</guid>
     </item>
   </channel>
 </rss>
