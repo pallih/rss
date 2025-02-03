@@ -5,11 +5,6 @@
         "link": "https://island.is/s/landspitali/frett"
     },
     {
-        "slug": "rikiskaup",
-        "title": "Fjársýslan Innkaup",
-        "link": "https://island.is/s/rikiskaup/frett"
-    },
-    {
         "slug": "fiskistofa",
         "title": "Fiskistofa",
         "link": "https://island.is/s/fiskistofa/frett"
@@ -28,11 +23,6 @@
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
-    },
-    {
-        "slug": "vinnueftirlitid",
-        "title": "Vinnueftirlitið",
-        "link": "https://island.is/s/vinnueftirlitid/frett"
     },
     {
         "slug": "rettindagaesla-fatlads-folks",
@@ -110,11 +100,6 @@
         "link": "https://island.is/s/landlaeknir/frett"
     },
     {
-        "slug": "nti",
-        "title": "Náttúruhamfaratrygging Íslands",
-        "link": "https://island.is/s/nti/frett"
-    },
-    {
         "slug": "hms",
         "title": "Húsnæðis- og mannvirkjastofnun",
         "link": "https://island.is/s/hms/frett"
@@ -178,11 +163,6 @@
         "slug": "hsa",
         "title": "Heilbrigðisstofnun Austurlands",
         "link": "https://island.is/s/hsa/frett"
-    },
-    {
-        "slug": "sjonstodin",
-        "title": "Sjónstöðin",
-        "link": "https://island.is/s/sjonstodin/frett"
     },
     {
         "slug": "visindasidanefnd",

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 03 Feb 2025 11:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 12:09:15 +0000</lastBuildDate>
     <item>
       <title>Investigation of Mixing Gelling Agents on the Taste and Texture of Plant-Based Chicken Products.</title>
       <link>https://skemman.is/handle/1946/49140</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/49144</link>
       <description>Deep reinforcement learning for physics-based  animation of human motion - Saul Omar Vilchez Sullca 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49144</guid>
+    </item>
+    <item>
+      <title>A technical assessment of the extent to which an energy transition in heavy-duty road transportation can be achieved using hydrogen produced from wind energy in Iceland</title>
+      <link>https://skemman.is/handle/1946/49145</link>
+      <description>A technical assessment of the extent to which an energy transition in heavy-duty road transportation can be achieved using hydrogen produced from wind energy in Iceland - Elisabeth Louise Moore 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49145</guid>
     </item>
     <item>
       <title>Hyperspectral Imaging for Evaluation of Herring Stocks caught around Iceland</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49114</link>
       <description>How has Security, Relations, and Regional alliances in South Asia been affected the return of the Taliban?así - Einar Kári Guðmundsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49114</guid>
-    </item>
-    <item>
-      <title>Computational Fluid Dynamics Simulation of a Fluid Assisted Transfer System</title>
-      <link>https://skemman.is/handle/1946/49115</link>
-      <description>Computational Fluid Dynamics Simulation of a Fluid Assisted Transfer System - Birkir Jóhannes Ómarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49115</guid>
     </item>
   </channel>
 </rss>
