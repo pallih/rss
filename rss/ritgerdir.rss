@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 03 Feb 2025 14:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 15:05:54 +0000</lastBuildDate>
     <item>
       <title>A technical assessment of the extent to which an energy transition in heavy-duty road transportation can be achieved using hydrogen produced from wind energy in Iceland</title>
       <link>https://skemman.is/handle/1946/49145</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/49147</link>
       <description>Dancing with Fischer, Lynch &amp; Paterson’s impossibility  result - Håvard Nordlie Mathisen 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49147</guid>
+    </item>
+    <item>
+      <title>Maryanne Amacher : lifandi viðföng rafvæðingar</title>
+      <link>https://skemman.is/handle/1946/49148</link>
+      <description>Maryanne Amacher : lifandi viðföng rafvæðingar - Margrét Helga Snorradóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49148</guid>
     </item>
     <item>
       <title>Hyperspectral Imaging for Evaluation of Herring Stocks caught around Iceland</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49126</link>
       <description>Notkun nikótínpúða í náinni framtíð: Þróun nikótínpúða á Íslandi og framtíðaráskoranir á markaðnum - Kolfinna Ólafsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49126</guid>
-    </item>
-    <item>
-      <title>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund</title>
-      <link>https://skemman.is/handle/1946/49117</link>
-      <description>Evaluating Actuarial Assumptions: Mortality Modeling and Demographic Analysis for Stapi Pension Fund - Anna Karen Kristinsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49117</guid>
     </item>
   </channel>
 </rss>
