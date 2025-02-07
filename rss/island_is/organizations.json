@@ -1,5 +1,10 @@
 [
     {
+        "slug": "stafraent-island",
+        "title": "Stafrænt Ísland",
+        "link": "https://island.is/s/stafraent-island/frett"
+    },
+    {
         "slug": "vinnumalastofnun",
         "title": "Vinnumálastofnun",
         "link": "https://island.is/s/vinnumalastofnun/frett"
@@ -203,11 +208,6 @@
         "slug": "thjodskjalasafn",
         "title": "Þjóðskjalasafn Íslands",
         "link": "https://island.is/s/thjodskjalasafn/frett"
-    },
-    {
-        "slug": "stafraent-island",
-        "title": "Stafrænt Ísland",
-        "link": "https://island.is/s/stafraent-island/frett"
     },
     {
         "slug": "blodbankinn",
