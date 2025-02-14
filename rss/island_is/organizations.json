@@ -25,6 +25,11 @@
         "link": "https://island.is/s/fiskistofa/frett"
     },
     {
+        "slug": "faggilding",
+        "title": "Faggilding - ISAC",
+        "link": "https://island.is/s/faggilding/frett"
+    },
+    {
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
@@ -85,6 +90,11 @@
         "link": "https://island.is/s/heradssaksoknari/frett"
     },
     {
+        "slug": "bofs",
+        "title": "Barna- og fjölskyldustofa",
+        "link": "https://island.is/s/bofs/frett"
+    },
+    {
         "slug": "syslumenn",
         "title": "Sýslumenn",
         "link": "https://island.is/s/syslumenn/frett"
@@ -125,6 +135,11 @@
         "link": "https://island.is/s/landskjorstjorn/frett"
     },
     {
+        "slug": "samgongustofa",
+        "title": "Samgöngustofa",
+        "link": "https://island.is/s/samgongustofa/frett"
+    },
+    {
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
@@ -133,6 +148,11 @@
         "slug": "rikissaksoknari",
         "title": "Ríkissaksóknari",
         "link": "https://island.is/s/rikissaksoknari/frett"
+    },
+    {
+        "slug": "shh",
+        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
+        "link": "https://island.is/s/shh/frett"
     },
     {
         "slug": "gev",
@@ -145,6 +165,11 @@
         "link": "https://island.is/s/geislavarnir-rikisins/frett"
     },
     {
+        "slug": "hsn",
+        "title": "Heilbrigðisstofnun Norðurlands",
+        "link": "https://island.is/s/hsn/frett"
+    },
+    {
         "slug": "hsu",
         "title": "Heilbrigðisstofnun Suðurlands",
         "link": "https://island.is/s/hsu/frett"
@@ -153,6 +178,16 @@
         "slug": "rikislogmadur",
         "title": "Ríkislögmaður",
         "link": "https://island.is/s/rikislogmadur/frett"
+    },
+    {
+        "slug": "hsa",
+        "title": "Heilbrigðisstofnun Austurlands",
+        "link": "https://island.is/s/hsa/frett"
+    },
+    {
+        "slug": "sjonstodin",
+        "title": "Sjónstöðin",
+        "link": "https://island.is/s/sjonstodin/frett"
     },
     {
         "slug": "visindasidanefnd",
