@@ -155,11 +155,6 @@
         "link": "https://island.is/s/shh/frett"
     },
     {
-        "slug": "gev",
-        "title": "Gæða- og eftirlitsstofnun velferðarmála",
-        "link": "https://island.is/s/gev/frett"
-    },
-    {
         "slug": "geislavarnir-rikisins",
         "title": "Geislavarnir ríkisins",
         "link": "https://island.is/s/geislavarnir-rikisins/frett"
@@ -208,10 +203,5 @@
         "slug": "thjodskjalasafn",
         "title": "Þjóðskjalasafn Íslands",
         "link": "https://island.is/s/thjodskjalasafn/frett"
-    },
-    {
-        "slug": "blodbankinn",
-        "title": "Blóðbankinn",
-        "link": "https://island.is/s/blodbankinn/frett"
     }
 ]

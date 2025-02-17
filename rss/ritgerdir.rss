@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 17 Feb 2025 12:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 13:10:12 +0000</lastBuildDate>
+    <item>
+      <title>„Íþróttir fyrir öll: Hvernig getur íþróttahreyfingin og  samfélagið hvatt til aukinnar þátttöku innflytjenda og barna af  erlendum uppruna í skipulögðu íþróttastarfi?“</title>
+      <link>https://skemman.is/handle/1946/49159</link>
+      <description>„Íþróttir fyrir öll: Hvernig getur íþróttahreyfingin og  samfélagið hvatt til aukinnar þátttöku innflytjenda og barna af  erlendum uppruna í skipulögðu íþróttastarfi?“ - Linda Laufdal 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49159</guid>
+    </item>
     <item>
       <title>Synthesis of Tripeptides Complexes with Cu(II) and Application of the Complexes in Copolymerization of CO2 and Propylene Oxide</title>
       <link>https://skemman.is/handle/1946/49157</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49133</link>
       <description>Capacities defined by pluricomplex extremal functions - Tryggvi Kalman Jónsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49133</guid>
-    </item>
-    <item>
-      <title>„Það endist enginn í þessu starfi sem að hefur ekki ástríðu fyrir því“ Viðhorf framlínustarfsmanna til starfsvettvangs ferðaþjónustunnar</title>
-      <link>https://skemman.is/handle/1946/49134</link>
-      <description>„Það endist enginn í þessu starfi sem að hefur ekki ástríðu fyrir því“ Viðhorf framlínustarfsmanna til starfsvettvangs ferðaþjónustunnar - Sara Ýr Sigurðardóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49134</guid>
     </item>
   </channel>
 </rss>
