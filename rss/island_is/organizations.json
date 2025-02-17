@@ -1,5 +1,10 @@
 [
     {
+        "slug": "endurupptokudomur",
+        "title": "Endurupptökudómur",
+        "link": "https://island.is/s/endurupptokudomur/frett"
+    },
+    {
         "slug": "stafraent-island",
         "title": "Stafrænt Ísland",
         "link": "https://island.is/s/stafraent-island/frett"
@@ -58,11 +63,6 @@
         "slug": "skipulagsstofnun",
         "title": "Skipulagsstofnun",
         "link": "https://island.is/s/skipulagsstofnun/frett"
-    },
-    {
-        "slug": "endurupptokudomur",
-        "title": "Endurupptökudómur",
-        "link": "https://island.is/s/endurupptokudomur/frett"
     },
     {
         "slug": "heradsdomstolar",
