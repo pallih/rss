@@ -20,9 +20,19 @@
         "link": "https://island.is/s/rikiskaup/frett"
     },
     {
+        "slug": "fiskistofa",
+        "title": "Fiskistofa",
+        "link": "https://island.is/s/fiskistofa/frett"
+    },
+    {
         "slug": "faggilding",
         "title": "Faggilding - ISAC",
         "link": "https://island.is/s/faggilding/frett"
+    },
+    {
+        "slug": "personuvernd",
+        "title": "Persónuvernd",
+        "link": "https://island.is/s/personuvernd/frett"
     },
     {
         "slug": "vinnueftirlitid",
@@ -58,6 +68,11 @@
         "slug": "heradsdomstolar",
         "title": "Héraðsdómstólar",
         "link": "https://island.is/s/heradsdomstolar/frett"
+    },
+    {
+        "slug": "landsrettur",
+        "title": "Landsréttur",
+        "link": "https://island.is/s/landsrettur/frett"
     },
     {
         "slug": "rannis",
@@ -113,6 +128,11 @@
         "slug": "utlendingastofnun",
         "title": "Útlendingastofnun",
         "link": "https://island.is/s/utlendingastofnun/frett"
+    },
+    {
+        "slug": "landskjorstjorn",
+        "title": "Landskjörstjórn",
+        "link": "https://island.is/s/landskjorstjorn/frett"
     },
     {
         "slug": "samgongustofa",
