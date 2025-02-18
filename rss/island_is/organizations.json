@@ -1,5 +1,10 @@
 [
     {
+        "slug": "vinnueftirlitid",
+        "title": "Vinnueftirlitið",
+        "link": "https://island.is/s/vinnueftirlitid/frett"
+    },
+    {
         "slug": "endurupptokudomur",
         "title": "Endurupptökudómur",
         "link": "https://island.is/s/endurupptokudomur/frett"
@@ -38,11 +43,6 @@
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
-    },
-    {
-        "slug": "vinnueftirlitid",
-        "title": "Vinnueftirlitið",
-        "link": "https://island.is/s/vinnueftirlitid/frett"
     },
     {
         "slug": "rettindagaesla-fatlads-folks",
