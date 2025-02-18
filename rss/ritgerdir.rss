@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 18 Feb 2025 10:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 11:05:30 +0000</lastBuildDate>
     <item>
       <title>EKKO ferlar innan opinberrar stjórnsýslu. Hver er reynsla stjórnsýslunnar af framkvæmd EKKO ferla innan ríkisstofnana?</title>
       <link>https://skemman.is/handle/1946/49186</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/49190</link>
       <description>Smellur eða skellur? Áhrif smellibeitu á traust til íslenskra fréttamiðla - Ásdís Inga Haraldsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49190</guid>
+    </item>
+    <item>
+      <title>Í sókn eða vörn? Þróun og horfur í íslenskri bókaútgáfu 2024</title>
+      <link>https://skemman.is/handle/1946/49191</link>
+      <description>Í sókn eða vörn? Þróun og horfur í íslenskri bókaútgáfu 2024 - Sigrún Guðmundsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49191</guid>
     </item>
     <item>
       <title>„Íþróttir fyrir öll: Hvernig getur íþróttahreyfingin og  samfélagið hvatt til aukinnar þátttöku innflytjenda og barna af  erlendum uppruna í skipulögðu íþróttastarfi?“</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49180</link>
       <description>Mat einstaklinga með langvinna verki á aðgengi að verkjatengdri heilbrigðisþjónustu eftir búsetu - Magndís Blöndahl Halldórsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49180</guid>
-    </item>
-    <item>
-      <title>„Að missa fólk, ekki vegna starfa heldur stjórnenda“ : hvernig stjórnunarhættir og persónueinkenni stjórnenda leiða til uppsagna starfsfólks</title>
-      <link>https://skemman.is/handle/1946/49175</link>
-      <description>„Að missa fólk, ekki vegna starfa heldur stjórnenda“ : hvernig stjórnunarhættir og persónueinkenni stjórnenda leiða til uppsagna starfsfólks - Helga Nína Helgadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49175</guid>
     </item>
   </channel>
 </rss>
