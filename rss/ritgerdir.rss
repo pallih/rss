@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 19 Feb 2025 09:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 10:06:07 +0000</lastBuildDate>
+    <item>
+      <title>Hugtakið „lyf“ : lagaleg greining</title>
+      <link>https://skemman.is/handle/1946/49212</link>
+      <description>Hugtakið „lyf“ : lagaleg greining - Viðar Helgi Guðjohnsen 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49212</guid>
+    </item>
     <item>
       <title>Markaðssetning sjótengdra ferðaþjónustufyrirtækja á Íslandi</title>
       <link>https://skemman.is/handle/1946/49203</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49206</link>
       <description>Vörumerki rafbíla á Íslandi - Vitund og viðhorf neytenda til nýrra vörumerkja rafbíla - Audrius Sakalauskas 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49206</guid>
-    </item>
-    <item>
-      <title>Skattlagning tekna af fasteignum einstaklinga utan rekstar</title>
-      <link>https://skemman.is/handle/1946/49211</link>
-      <description>Skattlagning tekna af fasteignum einstaklinga utan rekstar - Rósa Dögg Ómarsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49211</guid>
     </item>
   </channel>
 </rss>
