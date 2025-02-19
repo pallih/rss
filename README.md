@@ -33,6 +33,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 - [landskjorstjorn](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/landskjorstjorn.rss)
 - [landspitali](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/landspitali.rss)
 - [landsrettur](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/landsrettur.rss)
+- [logreglan](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/logreglan.rss)
 - [midstod-menntunar-og-skolathjonustu](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/midstod-menntunar-og-skolathjonustu.rss)
 - [nti](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/nti.rss)
 - [palmemordsarkivet](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/palmemordsarkivet.rss)
