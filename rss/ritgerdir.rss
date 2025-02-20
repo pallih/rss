@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 20 Feb 2025 14:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 15:06:09 +0000</lastBuildDate>
     <item>
       <title>Er þörf fyrir þjónustuframboð Vojago á fræðslumarkaði? Markaðsáætlun: Vojago - Þinn ferðafélagi í stafrænum heimi</title>
       <link>https://skemman.is/handle/1946/49214</link>
       <description>Er þörf fyrir þjónustuframboð Vojago á fræðslumarkaði? Markaðsáætlun: Vojago - Þinn ferðafélagi í stafrænum heimi - Sigrún Birna Einarsdóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49214</guid>
+    </item>
+    <item>
+      <title>Staða rýni hjá íslenskum viðbragðsaðilum</title>
+      <link>https://skemman.is/handle/1946/49215</link>
+      <description>Staða rýni hjá íslenskum viðbragðsaðilum - Kári Erlingsson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49215</guid>
     </item>
     <item>
       <title>Hugtakið „lyf“ : lagaleg greining</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49196</link>
       <description>Er þetta ekki allt í trúnaði? - Ester Magnúsdóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49196</guid>
-    </item>
-    <item>
-      <title>„Það er ekki kommentakerfi í sjónvarpi“</title>
-      <link>https://skemman.is/handle/1946/49194</link>
-      <description>„Það er ekki kommentakerfi í sjónvarpi“ - Jórunn Lára Ólafsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49194</guid>
     </item>
   </channel>
 </rss>
