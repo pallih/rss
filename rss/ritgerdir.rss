@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 21 Feb 2025 13:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 14:05:12 +0000</lastBuildDate>
     <item>
       <title>,,Get ég fengið að máta þetta?" Hvað geta verslanir á Íslandi gert til að koma í veg fyrir að vera notaðar sem mátunarklefar eða sýningarsalir fyrir Boozt?</title>
       <link>https://skemman.is/handle/1946/49216</link>
@@ -73,6 +73,12 @@
       <link>https://skemman.is/handle/1946/49226</link>
       <description>Ósýnileg hendi almenningsálits. Hlutverk samfélagsmiðla í kosningaherferðum á Íslandi - Gunnsteinn Aðaldal Brynjarsson 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49226</guid>
+    </item>
+    <item>
+      <title>Umsækjendur um alþjóðlega vernd - endurviðtaka hins ábyrga ríkis</title>
+      <link>https://skemman.is/handle/1946/49227</link>
+      <description>Umsækjendur um alþjóðlega vernd - endurviðtaka hins ábyrga ríkis - Hanna Lísa Hafsteinsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49227</guid>
     </item>
     <item>
       <title>Er þörf fyrir þjónustuframboð Vojago á fræðslumarkaði? Markaðsáætlun: Vojago - Þinn ferðafélagi í stafrænum heimi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49192</link>
       <description>Stjórnun í gegnum náttúruhamfarir: Hvað getum við lært af reynslu stjórnenda og starfsfólks Grindavíkurbæjar? - Sara Sigurðardóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49192</guid>
-    </item>
-    <item>
-      <title>Ímynd ChitoCare: "Náttúrulegt undur úr hafinu"</title>
-      <link>https://skemman.is/handle/1946/49188</link>
-      <description>Ímynd ChitoCare: "Náttúrulegt undur úr hafinu" - Emilíanna Valdimarsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49188</guid>
     </item>
   </channel>
 </rss>
