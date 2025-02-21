@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 21 Feb 2025 11:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 13:09:29 +0000</lastBuildDate>
     <item>
       <title>,,Get ég fengið að máta þetta?" Hvað geta verslanir á Íslandi gert til að koma í veg fyrir að vera notaðar sem mátunarklefar eða sýningarsalir fyrir Boozt?</title>
       <link>https://skemman.is/handle/1946/49216</link>
@@ -21,16 +21,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49217</guid>
     </item>
     <item>
+      <title>„Allir eiga að vera mega hressir og með brennandi áhuga" Kröfur um samskiptahæfni í atvinnuauglýsingum og upplifun einhverfra einstaklinga á íslenskum vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/49224</link>
+      <description>„Allir eiga að vera mega hressir og með brennandi áhuga" Kröfur um samskiptahæfni í atvinnuauglýsingum og upplifun einhverfra einstaklinga á íslenskum vinnumarkaði - Bjarney Lárudóttir Bjarnadóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49224</guid>
+    </item>
+    <item>
       <title>Markaðsleg áhrif áhrifavalda á íslenskum markaði í samanburði við erlendan markað</title>
       <link>https://skemman.is/handle/1946/49218</link>
       <description>Markaðsleg áhrif áhrifavalda á íslenskum markaði í samanburði við erlendan markað - Tindur Orri Ásbjörnsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49218</guid>
     </item>
     <item>
-      <title>Er samruni alltaf góður</title>
-      <link>https://skemman.is/handle/1946/49219</link>
-      <description>Er samruni alltaf góður - Guðmundur Pétur Yngvason 1971-; Máni Steinn Þorsteinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49219</guid>
+      <title>Sala á fasteign - Hvað ræður vali seljenda á því hvaða fasteignasölu og/eða fasteignasala þeir kjósa til þess að selja fasteign sína?</title>
+      <link>https://skemman.is/handle/1946/49223</link>
+      <description>Sala á fasteign - Hvað ræður vali seljenda á því hvaða fasteignasölu og/eða fasteignasala þeir kjósa til þess að selja fasteign sína? - Irpa Fönn Hlynsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49223</guid>
     </item>
     <item>
       <title>Fjármálahegðun ungs fólks.</title>
@@ -39,22 +45,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49220</guid>
     </item>
     <item>
-      <title>Þjálfarar sem leiðtogar. Hvernig samræmast hugmyndir þjálfara í skylmingum þjónandi forystu</title>
-      <link>https://skemman.is/handle/1946/49221</link>
-      <description>Þjálfarar sem leiðtogar. Hvernig samræmast hugmyndir þjálfara í skylmingum þjónandi forystu - Andri Nikolaysson Mateev 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49221</guid>
-    </item>
-    <item>
       <title>Áskorarnir íslenskra vörumerkja þegar farið er á erlendan markað</title>
       <link>https://skemman.is/handle/1946/49222</link>
       <description>Áskorarnir íslenskra vörumerkja þegar farið er á erlendan markað - Silja Rún Bárðardóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49222</guid>
     </item>
     <item>
-      <title>Sala á fasteign - Hvað ræður vali seljenda á því hvaða fasteignasölu og/eða fasteignasala þeir kjósa til þess að selja fasteign sína?</title>
-      <link>https://skemman.is/handle/1946/49223</link>
-      <description>Sala á fasteign - Hvað ræður vali seljenda á því hvaða fasteignasölu og/eða fasteignasala þeir kjósa til þess að selja fasteign sína? - Irpa Fönn Hlynsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49223</guid>
+      <title>Þjálfarar sem leiðtogar. Hvernig samræmast hugmyndir þjálfara í skylmingum þjónandi forystu</title>
+      <link>https://skemman.is/handle/1946/49221</link>
+      <description>Þjálfarar sem leiðtogar. Hvernig samræmast hugmyndir þjálfara í skylmingum þjónandi forystu - Andri Nikolaysson Mateev 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49221</guid>
+    </item>
+    <item>
+      <title>Er samruni alltaf góður</title>
+      <link>https://skemman.is/handle/1946/49219</link>
+      <description>Er samruni alltaf góður - Guðmundur Pétur Yngvason 1971-; Máni Steinn Þorsteinsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49219</guid>
+    </item>
+    <item>
+      <title>Video games and Moloch patterns: Monetization strategies within pay-to-play video games and their impact on long-term player retention</title>
+      <link>https://skemman.is/handle/1946/49225</link>
+      <description>Video games and Moloch patterns: Monetization strategies within pay-to-play video games and their impact on long-term player retention - Birta María Bobu Elvarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49225</guid>
+    </item>
+    <item>
+      <title>Ósýnileg hendi almenningsálits. Hlutverk samfélagsmiðla í kosningaherferðum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/49226</link>
+      <description>Ósýnileg hendi almenningsálits. Hlutverk samfélagsmiðla í kosningaherferðum á Íslandi - Gunnsteinn Aðaldal Brynjarsson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49226</guid>
     </item>
     <item>
       <title>Er þörf fyrir þjónustuframboð Vojago á fræðslumarkaði? Markaðsáætlun: Vojago - Þinn ferðafélagi í stafrænum heimi</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/49188</link>
       <description>Ímynd ChitoCare: "Náttúrulegt undur úr hafinu" - Emilíanna Valdimarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49188</guid>
-    </item>
-    <item>
-      <title>Smellur eða skellur? Áhrif smellibeitu á traust til íslenskra fréttamiðla</title>
-      <link>https://skemman.is/handle/1946/49190</link>
-      <description>Smellur eða skellur? Áhrif smellibeitu á traust til íslenskra fréttamiðla - Ásdís Inga Haraldsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49190</guid>
-    </item>
-    <item>
-      <title>Í sókn eða vörn? Þróun og horfur í íslenskri bókaútgáfu 2024</title>
-      <link>https://skemman.is/handle/1946/49191</link>
-      <description>Í sókn eða vörn? Þróun og horfur í íslenskri bókaútgáfu 2024 - Sigrún Guðmundsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49191</guid>
-    </item>
-    <item>
-      <title>Að stýra skynjun: Hvernig íslenskir stjórnmálaflokkar nýta almannatengsl í kosningum</title>
-      <link>https://skemman.is/handle/1946/49187</link>
-      <description>Að stýra skynjun: Hvernig íslenskir stjórnmálaflokkar nýta almannatengsl í kosningum - Ægir Steinarsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49187</guid>
     </item>
   </channel>
 </rss>
