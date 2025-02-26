@@ -1,5 +1,10 @@
 [
     {
+        "slug": "hve",
+        "title": "Heilbrigðisstofnun Vesturlands",
+        "link": "https://island.is/s/hve/frett"
+    },
+    {
         "slug": "landspitali",
         "title": "Landspítali",
         "link": "https://island.is/s/landspitali/frett"
@@ -53,11 +58,6 @@
         "slug": "rettindagaesla-fatlads-folks",
         "title": "Réttindagæsla fyrir fatlað fólk",
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
-    },
-    {
-        "slug": "hve",
-        "title": "Heilbrigðisstofnun Vesturlands",
-        "link": "https://island.is/s/hve/frett"
     },
     {
         "slug": "tryggingastofnun",
