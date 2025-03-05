@@ -35,6 +35,21 @@
         "link": "https://island.is/s/vinnumalastofnun/frett"
     },
     {
+        "slug": "rikiskaup",
+        "title": "Fjársýslan Innkaup",
+        "link": "https://island.is/s/rikiskaup/frett"
+    },
+    {
+        "slug": "fiskistofa",
+        "title": "Fiskistofa",
+        "link": "https://island.is/s/fiskistofa/frett"
+    },
+    {
+        "slug": "faggilding",
+        "title": "Faggilding - ISAC",
+        "link": "https://island.is/s/faggilding/frett"
+    },
+    {
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
@@ -115,9 +130,19 @@
         "link": "https://island.is/s/hms/frett"
     },
     {
+        "slug": "utlendingastofnun",
+        "title": "Útlendingastofnun",
+        "link": "https://island.is/s/utlendingastofnun/frett"
+    },
+    {
         "slug": "landskjorstjorn",
         "title": "Landskjörstjórn",
         "link": "https://island.is/s/landskjorstjorn/frett"
+    },
+    {
+        "slug": "samgongustofa",
+        "title": "Samgöngustofa",
+        "link": "https://island.is/s/samgongustofa/frett"
     },
     {
         "slug": "land-og-skogur",
@@ -128,6 +153,16 @@
         "slug": "rikissaksoknari",
         "title": "Ríkissaksóknari",
         "link": "https://island.is/s/rikissaksoknari/frett"
+    },
+    {
+        "slug": "shh",
+        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
+        "link": "https://island.is/s/shh/frett"
+    },
+    {
+        "slug": "gev",
+        "title": "Gæða- og eftirlitsstofnun velferðarmála",
+        "link": "https://island.is/s/gev/frett"
     },
     {
         "slug": "geislavarnir-rikisins",
@@ -150,6 +185,16 @@
         "link": "https://island.is/s/rikislogmadur/frett"
     },
     {
+        "slug": "hsa",
+        "title": "Heilbrigðisstofnun Austurlands",
+        "link": "https://island.is/s/hsa/frett"
+    },
+    {
+        "slug": "sjonstodin",
+        "title": "Sjónstöðin",
+        "link": "https://island.is/s/sjonstodin/frett"
+    },
+    {
         "slug": "visindasidanefnd",
         "title": "Vísindasiðanefnd",
         "link": "https://island.is/s/visindasidanefnd/frett"
@@ -163,6 +208,11 @@
         "slug": "hljodbokasafn-islands",
         "title": "Hljóðbókasafn Íslands",
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
+    },
+    {
+        "slug": "thjodskjalasafn",
+        "title": "Þjóðskjalasafn Íslands",
+        "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
         "slug": "blodbankinn",
