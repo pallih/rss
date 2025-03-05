@@ -20,11 +20,6 @@
         "link": "https://island.is/s/endurupptokudomur/frett"
     },
     {
-        "slug": "logreglan",
-        "title": "Lögreglan",
-        "link": "https://island.is/s/logreglan/frett"
-    },
-    {
         "slug": "stafraent-island",
         "title": "Stafrænt Ísland",
         "link": "https://island.is/s/stafraent-island/frett"
@@ -35,49 +30,14 @@
         "link": "https://island.is/s/vinnumalastofnun/frett"
     },
     {
-        "slug": "rikiskaup",
-        "title": "Fjársýslan Innkaup",
-        "link": "https://island.is/s/rikiskaup/frett"
-    },
-    {
-        "slug": "fiskistofa",
-        "title": "Fiskistofa",
-        "link": "https://island.is/s/fiskistofa/frett"
-    },
-    {
-        "slug": "faggilding",
-        "title": "Faggilding - ISAC",
-        "link": "https://island.is/s/faggilding/frett"
-    },
-    {
-        "slug": "personuvernd",
-        "title": "Persónuvernd",
-        "link": "https://island.is/s/personuvernd/frett"
-    },
-    {
         "slug": "rettindagaesla-fatlads-folks",
         "title": "Réttindagæsla fyrir fatlað fólk",
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
-        "slug": "tryggingastofnun",
-        "title": "Tryggingastofnun",
-        "link": "https://island.is/s/tryggingastofnun/frett"
-    },
-    {
         "slug": "skipulagsstofnun",
         "title": "Skipulagsstofnun",
         "link": "https://island.is/s/skipulagsstofnun/frett"
-    },
-    {
-        "slug": "heradsdomstolar",
-        "title": "Héraðsdómstólar",
-        "link": "https://island.is/s/heradsdomstolar/frett"
-    },
-    {
-        "slug": "landsrettur",
-        "title": "Landsréttur",
-        "link": "https://island.is/s/landsrettur/frett"
     },
     {
         "slug": "rannis",
@@ -110,11 +70,6 @@
         "link": "https://island.is/s/sjukratryggingar/frett"
     },
     {
-        "slug": "sak",
-        "title": "Sjúkrahúsið á Akureyri",
-        "link": "https://island.is/s/sak/frett"
-    },
-    {
         "slug": "landlaeknir",
         "title": "Embætti landlæknis",
         "link": "https://island.is/s/landlaeknir/frett"
@@ -125,29 +80,14 @@
         "link": "https://island.is/s/nti/frett"
     },
     {
-        "slug": "hms",
-        "title": "Húsnæðis- og mannvirkjastofnun",
-        "link": "https://island.is/s/hms/frett"
-    },
-    {
         "slug": "utlendingastofnun",
         "title": "Útlendingastofnun",
         "link": "https://island.is/s/utlendingastofnun/frett"
     },
     {
-        "slug": "landskjorstjorn",
-        "title": "Landskjörstjórn",
-        "link": "https://island.is/s/landskjorstjorn/frett"
-    },
-    {
         "slug": "samgongustofa",
         "title": "Samgöngustofa",
         "link": "https://island.is/s/samgongustofa/frett"
-    },
-    {
-        "slug": "land-og-skogur",
-        "title": "Land og skógur",
-        "link": "https://island.is/s/land-og-skogur/frett"
     },
     {
         "slug": "rikissaksoknari",
@@ -165,29 +105,9 @@
         "link": "https://island.is/s/gev/frett"
     },
     {
-        "slug": "geislavarnir-rikisins",
-        "title": "Geislavarnir ríkisins",
-        "link": "https://island.is/s/geislavarnir-rikisins/frett"
-    },
-    {
-        "slug": "hsn",
-        "title": "Heilbrigðisstofnun Norðurlands",
-        "link": "https://island.is/s/hsn/frett"
-    },
-    {
-        "slug": "hsu",
-        "title": "Heilbrigðisstofnun Suðurlands",
-        "link": "https://island.is/s/hsu/frett"
-    },
-    {
         "slug": "rikislogmadur",
         "title": "Ríkislögmaður",
         "link": "https://island.is/s/rikislogmadur/frett"
-    },
-    {
-        "slug": "hsa",
-        "title": "Heilbrigðisstofnun Austurlands",
-        "link": "https://island.is/s/hsa/frett"
     },
     {
         "slug": "sjonstodin",
@@ -203,11 +123,6 @@
         "slug": "umbodsmadur-skuldara",
         "title": "Umboðsmaður skuldara",
         "link": "https://island.is/s/umbodsmadur-skuldara/frett"
-    },
-    {
-        "slug": "hljodbokasafn-islands",
-        "title": "Hljóðbókasafn Íslands",
-        "link": "https://island.is/s/hljodbokasafn-islands/frett"
     },
     {
         "slug": "thjodskjalasafn",
