@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 06 Mar 2025 11:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 12:09:35 +0000</lastBuildDate>
     <item>
       <title>Áhrif samfélagsmiðla á kaupákvarðanir neytenda</title>
       <link>https://skemman.is/handle/1946/49235</link>
       <description>Áhrif samfélagsmiðla á kaupákvarðanir neytenda - Eyþór Aron Wöhler 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49235</guid>
+    </item>
+    <item>
+      <title>Leið að þroskuðu skattkerfi eða dulin menningarleg yfirráð? Áhrif eftirnýlendutíma á starfsemi OECD</title>
+      <link>https://skemman.is/handle/1946/49236</link>
+      <description>Leið að þroskuðu skattkerfi eða dulin menningarleg yfirráð? Áhrif eftirnýlendutíma á starfsemi OECD - Jónas Magnússon 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49236</guid>
+    </item>
+    <item>
+      <title>Beint fráhjartanu að geta tjáð sig með skilningi og tilfinningu</title>
+      <link>https://skemman.is/handle/1946/49237</link>
+      <description>Beint fráhjartanu að geta tjáð sig með skilningi og tilfinningu - Þuríður Haraldsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49237</guid>
     </item>
     <item>
       <title>Geta Ríkislögreglustjóra í aðgerðar- og samhæfingarstjórnun</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49213</link>
       <description>Sjónarmið við túlkun sérstakra tengsla 2. mgr. 36. gr. útl. - Halldóra Ana Purušić 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49213</guid>
-    </item>
-    <item>
-      <title>Markaðssetning sjótengdra ferðaþjónustufyrirtækja á Íslandi</title>
-      <link>https://skemman.is/handle/1946/49203</link>
-      <description>Markaðssetning sjótengdra ferðaþjónustufyrirtækja á Íslandi - Mattías Þorgrímsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49203</guid>
-    </item>
-    <item>
-      <title>Barnamenningarverkefni á sumarhátíðum: frá hugmynd að veruleika</title>
-      <link>https://skemman.is/handle/1946/49209</link>
-      <description>Barnamenningarverkefni á sumarhátíðum: frá hugmynd að veruleika - Ásthildur Guðmundsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49209</guid>
     </item>
   </channel>
 </rss>
