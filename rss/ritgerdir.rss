@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 06 Mar 2025 08:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 09:06:34 +0000</lastBuildDate>
+    <item>
+      <title>Áhrif samfélagsmiðla á kaupákvarðanir neytenda</title>
+      <link>https://skemman.is/handle/1946/49235</link>
+      <description>Áhrif samfélagsmiðla á kaupákvarðanir neytenda - Eyþór Aron Wöhler 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49235</guid>
+    </item>
     <item>
       <title>Geta Ríkislögreglustjóra í aðgerðar- og samhæfingarstjórnun</title>
       <link>https://skemman.is/handle/1946/49234</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49209</link>
       <description>Barnamenningarverkefni á sumarhátíðum: frá hugmynd að veruleika - Ásthildur Guðmundsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49209</guid>
-    </item>
-    <item>
-      <title>Neytendahegðun á snyrtivörumarkaði  ,,Hvaða þættir hafa mest áhrif á kauphegðun neytenda þegar kemur að snyrtivörum á Íslandi?“</title>
-      <link>https://skemman.is/handle/1946/49210</link>
-      <description>Neytendahegðun á snyrtivörumarkaði  ,,Hvaða þættir hafa mest áhrif á kauphegðun neytenda þegar kemur að snyrtivörum á Íslandi?“ - Kristín Ásdís Snorradóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49210</guid>
     </item>
   </channel>
 </rss>
