@@ -1,5 +1,10 @@
 [
     {
+        "slug": "vinnumalastofnun",
+        "title": "Vinnumálastofnun",
+        "link": "https://island.is/s/vinnumalastofnun/frett"
+    },
+    {
         "slug": "hve",
         "title": "Heilbrigðisstofnun Vesturlands",
         "link": "https://island.is/s/hve/frett"
@@ -28,11 +33,6 @@
         "slug": "stafraent-island",
         "title": "Stafrænt Ísland",
         "link": "https://island.is/s/stafraent-island/frett"
-    },
-    {
-        "slug": "vinnumalastofnun",
-        "title": "Vinnumálastofnun",
-        "link": "https://island.is/s/vinnumalastofnun/frett"
     },
     {
         "slug": "rikiskaup",
