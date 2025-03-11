@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 11 Mar 2025 12:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 13:11:09 +0000</lastBuildDate>
+    <item>
+      <title>Formgerð erkitýpunnar: Snertifletir Jungs og Lévi-Strauss</title>
+      <link>https://skemman.is/handle/1946/49238</link>
+      <description>Formgerð erkitýpunnar: Snertifletir Jungs og Lévi-Strauss - Arnar Brynhildarson Einarsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49238</guid>
+    </item>
     <item>
       <title>Áhrif samfélagsmiðla á kaupákvarðanir neytenda</title>
       <link>https://skemman.is/handle/1946/49235</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49212</link>
       <description>Hugtakið „lyf“ : lagaleg greining - Viðar Helgi Guðjohnsen 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49212</guid>
-    </item>
-    <item>
-      <title>Sjónarmið við túlkun sérstakra tengsla 2. mgr. 36. gr. útl.</title>
-      <link>https://skemman.is/handle/1946/49213</link>
-      <description>Sjónarmið við túlkun sérstakra tengsla 2. mgr. 36. gr. útl. - Halldóra Ana Purušić 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49213</guid>
     </item>
   </channel>
 </rss>
