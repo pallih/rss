@@ -1,5 +1,10 @@
 [
     {
+        "slug": "thjodskjalasafn",
+        "title": "Þjóðskjalasafn Íslands",
+        "link": "https://island.is/s/thjodskjalasafn/frett"
+    },
+    {
         "slug": "vinnumalastofnun",
         "title": "Vinnumálastofnun",
         "link": "https://island.is/s/vinnumalastofnun/frett"
@@ -208,11 +213,6 @@
         "slug": "hljodbokasafn-islands",
         "title": "Hljóðbókasafn Íslands",
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
-    },
-    {
-        "slug": "thjodskjalasafn",
-        "title": "Þjóðskjalasafn Íslands",
-        "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
         "slug": "blodbankinn",
