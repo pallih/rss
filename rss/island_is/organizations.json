@@ -1,5 +1,10 @@
 [
     {
+        "slug": "faggilding",
+        "title": "Faggilding - ISAC",
+        "link": "https://island.is/s/faggilding/frett"
+    },
+    {
         "slug": "skipulagsstofnun",
         "title": "Skipulagsstofnun",
         "link": "https://island.is/s/skipulagsstofnun/frett"
@@ -33,11 +38,6 @@
         "slug": "hljodbokasafn-islands",
         "title": "Hljóðbókasafn Íslands",
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
-    },
-    {
-        "slug": "faggilding",
-        "title": "Faggilding - ISAC",
-        "link": "https://island.is/s/faggilding/frett"
     },
     {
         "slug": "fiskistofa",
