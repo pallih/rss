@@ -5,6 +5,41 @@
         "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
+        "slug": "shh",
+        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
+        "link": "https://island.is/s/shh/frett"
+    },
+    {
+        "slug": "rannis",
+        "title": "Rannsóknamiðstöð Íslands",
+        "link": "https://island.is/s/rannis/frett"
+    },
+    {
+        "slug": "land-og-skogur",
+        "title": "Land og skógur",
+        "link": "https://island.is/s/land-og-skogur/frett"
+    },
+    {
+        "slug": "hms",
+        "title": "Húsnæðis- og mannvirkjastofnun",
+        "link": "https://island.is/s/hms/frett"
+    },
+    {
+        "slug": "hljodbokasafn-islands",
+        "title": "Hljóðbókasafn Íslands",
+        "link": "https://island.is/s/hljodbokasafn-islands/frett"
+    },
+    {
+        "slug": "faggilding",
+        "title": "Faggilding - ISAC",
+        "link": "https://island.is/s/faggilding/frett"
+    },
+    {
+        "slug": "fiskistofa",
+        "title": "Fiskistofa",
+        "link": "https://island.is/s/fiskistofa/frett"
+    },
+    {
         "slug": "vinnumalastofnun",
         "title": "Vinnumálastofnun",
         "link": "https://island.is/s/vinnumalastofnun/frett"
@@ -45,16 +80,6 @@
         "link": "https://island.is/s/rikiskaup/frett"
     },
     {
-        "slug": "fiskistofa",
-        "title": "Fiskistofa",
-        "link": "https://island.is/s/fiskistofa/frett"
-    },
-    {
-        "slug": "faggilding",
-        "title": "Faggilding - ISAC",
-        "link": "https://island.is/s/faggilding/frett"
-    },
-    {
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
@@ -83,11 +108,6 @@
         "slug": "landsrettur",
         "title": "Landsréttur",
         "link": "https://island.is/s/landsrettur/frett"
-    },
-    {
-        "slug": "rannis",
-        "title": "Rannís",
-        "link": "https://island.is/s/rannis/frett"
     },
     {
         "slug": "midstod-menntunar-og-skolathjonustu",
@@ -130,11 +150,6 @@
         "link": "https://island.is/s/nti/frett"
     },
     {
-        "slug": "hms",
-        "title": "Húsnæðis- og mannvirkjastofnun",
-        "link": "https://island.is/s/hms/frett"
-    },
-    {
         "slug": "utlendingastofnun",
         "title": "Útlendingastofnun",
         "link": "https://island.is/s/utlendingastofnun/frett"
@@ -150,19 +165,9 @@
         "link": "https://island.is/s/samgongustofa/frett"
     },
     {
-        "slug": "land-og-skogur",
-        "title": "Land og skógur",
-        "link": "https://island.is/s/land-og-skogur/frett"
-    },
-    {
         "slug": "rikissaksoknari",
         "title": "Ríkissaksóknari",
         "link": "https://island.is/s/rikissaksoknari/frett"
-    },
-    {
-        "slug": "shh",
-        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
-        "link": "https://island.is/s/shh/frett"
     },
     {
         "slug": "gev",
@@ -208,11 +213,6 @@
         "slug": "umbodsmadur-skuldara",
         "title": "Umboðsmaður skuldara",
         "link": "https://island.is/s/umbodsmadur-skuldara/frett"
-    },
-    {
-        "slug": "hljodbokasafn-islands",
-        "title": "Hljóðbókasafn Íslands",
-        "link": "https://island.is/s/hljodbokasafn-islands/frett"
     },
     {
         "slug": "blodbankinn",
