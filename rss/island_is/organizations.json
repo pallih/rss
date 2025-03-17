@@ -1,5 +1,10 @@
 [
     {
+        "slug": "skipulagsstofnun",
+        "title": "Skipulagsstofnun",
+        "link": "https://island.is/s/skipulagsstofnun/frett"
+    },
+    {
         "slug": "thjodskjalasafn",
         "title": "Þjóðskjalasafn Íslands",
         "link": "https://island.is/s/thjodskjalasafn/frett"
@@ -93,11 +98,6 @@
         "slug": "tryggingastofnun",
         "title": "Tryggingastofnun",
         "link": "https://island.is/s/tryggingastofnun/frett"
-    },
-    {
-        "slug": "skipulagsstofnun",
-        "title": "Skipulagsstofnun",
-        "link": "https://island.is/s/skipulagsstofnun/frett"
     },
     {
         "slug": "heradsdomstolar",
