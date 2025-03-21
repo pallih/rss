@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 21 Mar 2025 09:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 10:06:23 +0000</lastBuildDate>
     <item>
       <title>Tengsl þjónustuþarfa kvenna við útkomu fæðinga. Framsýn ferilrannsókn á heilsufarsflokkunarkerfi.</title>
       <link>https://skemman.is/handle/1946/49245</link>
@@ -123,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49216</guid>
     </item>
     <item>
-      <title>Andleg líðan foreldra krabbameinssjúkra barna og vinnumarkaðurinn</title>
-      <link>https://skemman.is/handle/1946/49217</link>
-      <description>Andleg líðan foreldra krabbameinssjúkra barna og vinnumarkaðurinn - Rúna Sævarsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49217</guid>
-    </item>
-    <item>
       <title>Markaðsleg áhrif áhrifavalda á íslenskum markaði í samanburði við erlendan markað</title>
       <link>https://skemman.is/handle/1946/49218</link>
       <description>Markaðsleg áhrif áhrifavalda á íslenskum markaði í samanburði við erlendan markað - Tindur Orri Ásbjörnsson 1995-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/49221</link>
       <description>Þjálfarar sem leiðtogar. Hvernig samræmast hugmyndir þjálfara í skylmingum þjónandi forystu - Andri Nikolaysson Mateev 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49221</guid>
+    </item>
+    <item>
+      <title>Er samruni alltaf góður</title>
+      <link>https://skemman.is/handle/1946/49219</link>
+      <description>Er samruni alltaf góður - Guðmundur Pétur Yngvason 1971-; Máni Steinn Þorsteinsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49219</guid>
     </item>
   </channel>
 </rss>
