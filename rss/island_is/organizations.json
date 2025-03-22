@@ -20,6 +20,11 @@
         "link": "https://island.is/s/shh/frett"
     },
     {
+        "slug": "rannis",
+        "title": "Rannsóknamiðstöð Íslands",
+        "link": "https://island.is/s/rannis/frett"
+    },
+    {
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
@@ -83,11 +88,6 @@
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
-    },
-    {
-        "slug": "rettindagaesla-fatlads-folks",
-        "title": "Réttindagæsla fyrir fatlað fólk",
-        "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
         "slug": "tryggingastofnun",
