@@ -1,5 +1,10 @@
 [
     {
+        "slug": "utlendingastofnun",
+        "title": "Útlendingastofnun",
+        "link": "https://island.is/s/utlendingastofnun/frett"
+    },
+    {
         "slug": "hljodbokasafn-islands",
         "title": "Hljóðbókasafn Íslands",
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
@@ -143,11 +148,6 @@
         "slug": "nti",
         "title": "Náttúruhamfaratrygging Íslands",
         "link": "https://island.is/s/nti/frett"
-    },
-    {
-        "slug": "utlendingastofnun",
-        "title": "Útlendingastofnun",
-        "link": "https://island.is/s/utlendingastofnun/frett"
     },
     {
         "slug": "landskjorstjorn",
