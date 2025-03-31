@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 31 Mar 2025 08:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 09:07:04 +0000</lastBuildDate>
+    <item>
+      <title>„Sýna vilja í verki“: Upplifun mæðra starfandi hjá Íslandsbanka af fæðingarorlofi og endurkomu</title>
+      <link>https://skemman.is/handle/1946/49251</link>
+      <description>„Sýna vilja í verki“: Upplifun mæðra starfandi hjá Íslandsbanka af fæðingarorlofi og endurkomu - Sólveig Huld Sveinsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49251</guid>
+    </item>
     <item>
       <title>Þunglyndiseinkenni maka í kjölfar fæðingar og upplifun þeirra á tengslum við barn 6-12 vikum eftir fæðingu. Lýsandi þversniðsrannsókn</title>
       <link>https://skemman.is/handle/1946/49250</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49216</link>
       <description>,,Get ég fengið að máta þetta?" Hvað geta verslanir á Íslandi gert til að koma í veg fyrir að vera notaðar sem mátunarklefar eða sýningarsalir fyrir Boozt? - Ágústa Íris Helgadóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49216</guid>
-    </item>
-    <item>
-      <title>Markaðsleg áhrif áhrifavalda á íslenskum markaði í samanburði við erlendan markað</title>
-      <link>https://skemman.is/handle/1946/49218</link>
-      <description>Markaðsleg áhrif áhrifavalda á íslenskum markaði í samanburði við erlendan markað - Tindur Orri Ásbjörnsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49218</guid>
     </item>
   </channel>
 </rss>
