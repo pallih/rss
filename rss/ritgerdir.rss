@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 31 Mar 2025 17:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 10:07:03 +0000</lastBuildDate>
+    <item>
+      <title>Samfélagshús: Hlutverk samfélagshúsa í eflingu félagslegra tengsla</title>
+      <link>https://skemman.is/handle/1946/49252</link>
+      <description>Samfélagshús: Hlutverk samfélagshúsa í eflingu félagslegra tengsla - Steinunn Rósa Einarsdóttir 1972-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49252</guid>
+    </item>
     <item>
       <title>„Sýna vilja í verki“: Upplifun mæðra starfandi hjá Íslandsbanka af fæðingarorlofi og endurkomu</title>
       <link>https://skemman.is/handle/1946/49251</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49227</link>
       <description>Umsækjendur um alþjóðlega vernd - endurviðtaka hins ábyrga ríkis - Hanna Lísa Hafsteinsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49227</guid>
-    </item>
-    <item>
-      <title>,,Get ég fengið að máta þetta?" Hvað geta verslanir á Íslandi gert til að koma í veg fyrir að vera notaðar sem mátunarklefar eða sýningarsalir fyrir Boozt?</title>
-      <link>https://skemman.is/handle/1946/49216</link>
-      <description>,,Get ég fengið að máta þetta?" Hvað geta verslanir á Íslandi gert til að koma í veg fyrir að vera notaðar sem mátunarklefar eða sýningarsalir fyrir Boozt? - Ágústa Íris Helgadóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49216</guid>
     </item>
   </channel>
 </rss>
