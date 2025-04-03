@@ -1,5 +1,10 @@
 [
     {
+        "slug": "logreglan",
+        "title": "Lögreglan",
+        "link": "https://island.is/s/logreglan/frett"
+    },
+    {
         "slug": "sjonstodin",
         "title": "Sjónstöðin",
         "link": "https://island.is/s/sjonstodin/frett"
@@ -78,11 +83,6 @@
         "slug": "endurupptokudomur",
         "title": "Endurupptökudómur",
         "link": "https://island.is/s/endurupptokudomur/frett"
-    },
-    {
-        "slug": "logreglan",
-        "title": "Lögreglan",
-        "link": "https://island.is/s/logreglan/frett"
     },
     {
         "slug": "stafraent-island",
