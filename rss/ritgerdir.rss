@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 08 Apr 2025 08:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 09:06:46 +0000</lastBuildDate>
+    <item>
+      <title>Stöðumat á aðbúnaði hesta á húsi</title>
+      <link>https://skemman.is/handle/1946/49254</link>
+      <description>Stöðumat á aðbúnaði hesta á húsi - Sigtryggur Veigar Herbertsson 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49254</guid>
+    </item>
     <item>
       <title>,,Og hvenær hittumst við aftur?": Stór, stærri, stærstur. Leikjaspjöld fyrir fullorðna</title>
       <link>https://skemman.is/handle/1946/49253</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49231</link>
       <description>Reference values for physical fitness and  handball skills according to age in Icelandic  elite male handball players - Steinunn Helga Björgólfsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49231</guid>
-    </item>
-    <item>
-      <title>"Why do I have to learn about this?" Understanding Human Rights Education in Icelandic Compulsory Schools</title>
-      <link>https://skemman.is/handle/1946/49232</link>
-      <description>"Why do I have to learn about this?" Understanding Human Rights Education in Icelandic Compulsory Schools - Ársól Clara Arnardóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49232</guid>
     </item>
   </channel>
 </rss>
