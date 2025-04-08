@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 08 Apr 2025 11:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 12:10:11 +0000</lastBuildDate>
     <item>
       <title>Stöðumat á aðbúnaði hesta á húsi</title>
       <link>https://skemman.is/handle/1946/49254</link>
       <description>Stöðumat á aðbúnaði hesta á húsi - Sigtryggur Veigar Herbertsson 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49254</guid>
+    </item>
+    <item>
+      <title>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty</title>
+      <link>https://skemman.is/handle/1946/49255</link>
+      <description>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty - Birta Ösp Rósinberg Harðardóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49255</guid>
     </item>
     <item>
       <title>,,Og hvenær hittumst við aftur?": Stór, stærri, stærstur. Leikjaspjöld fyrir fullorðna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49230</link>
       <description>Reference values for physical fitness and ball throwing velocity  according to age and positions in Icelandic elite male handball players - Steinunn Birta Haraldsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49230</guid>
-    </item>
-    <item>
-      <title>Reference values for physical fitness and  handball skills according to age in Icelandic  elite male handball players</title>
-      <link>https://skemman.is/handle/1946/49231</link>
-      <description>Reference values for physical fitness and  handball skills according to age in Icelandic  elite male handball players - Steinunn Helga Björgólfsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49231</guid>
     </item>
   </channel>
 </rss>
