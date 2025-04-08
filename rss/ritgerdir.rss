@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 08 Apr 2025 13:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 15:06:31 +0000</lastBuildDate>
     <item>
       <title>Stöðumat á aðbúnaði hesta á húsi</title>
       <link>https://skemman.is/handle/1946/49254</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/49255</link>
       <description>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty - Birta Ösp Rósinberg Harðardóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49255</guid>
+    </item>
+    <item>
+      <title>The composition of microbial mats in Landmannalaugar</title>
+      <link>https://skemman.is/handle/1946/49256</link>
+      <description>The composition of microbial mats in Landmannalaugar - Dagbjört Jensdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49256</guid>
+    </item>
+    <item>
+      <title>Political and Economic Stability in Mali: A single case study on Mali</title>
+      <link>https://skemman.is/handle/1946/49257</link>
+      <description>Political and Economic Stability in Mali: A single case study on Mali - Philip Nartey Kofi Botchway 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49257</guid>
     </item>
     <item>
       <title>,,Og hvenær hittumst við aftur?": Stór, stærri, stærstur. Leikjaspjöld fyrir fullorðna</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49233</link>
       <description>Effect of climate risk on real estate prices, evidence from the OECD countries - Patrekur Gísli Guðmundsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49233</guid>
-    </item>
-    <item>
-      <title>Screening for Speech Sound Disorders: Validating the ICS in the Icelandic Context</title>
-      <link>https://skemman.is/handle/1946/49229</link>
-      <description>Screening for Speech Sound Disorders: Validating the ICS in the Icelandic Context - Iðunn Kristínardóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49229</guid>
-    </item>
-    <item>
-      <title>Reference values for physical fitness and ball throwing velocity  according to age and positions in Icelandic elite male handball players</title>
-      <link>https://skemman.is/handle/1946/49230</link>
-      <description>Reference values for physical fitness and ball throwing velocity  according to age and positions in Icelandic elite male handball players - Steinunn Birta Haraldsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49230</guid>
     </item>
   </channel>
 </rss>
