@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Apr 2025 09:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 11:05:40 +0000</lastBuildDate>
+    <item>
+      <title>Samtal um lífsskoðanir: Rýnt í eigin kennslu með nemendum á miðstigi grunnskóla</title>
+      <link>https://skemman.is/handle/1946/49258</link>
+      <description>Samtal um lífsskoðanir: Rýnt í eigin kennslu með nemendum á miðstigi grunnskóla - Hreinn Pálsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49258</guid>
+    </item>
     <item>
       <title>Stöðumat á aðbúnaði hesta á húsi</title>
       <link>https://skemman.is/handle/1946/49254</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49234</link>
       <description>Geta Ríkislögreglustjóra í aðgerðar- og samhæfingarstjórnun - Gunnar Þorsteinsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49234</guid>
-    </item>
-    <item>
-      <title>Effect of climate risk on real estate prices, evidence from the OECD countries</title>
-      <link>https://skemman.is/handle/1946/49233</link>
-      <description>Effect of climate risk on real estate prices, evidence from the OECD countries - Patrekur Gísli Guðmundsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49233</guid>
     </item>
   </channel>
 </rss>
