@@ -25,24 +25,9 @@
         "link": "https://island.is/s/faggilding/frett"
     },
     {
-        "slug": "skipulagsstofnun",
-        "title": "Skipulagsstofnun",
-        "link": "https://island.is/s/skipulagsstofnun/frett"
-    },
-    {
-        "slug": "thjodskjalasafn",
-        "title": "Þjóðskjalasafn Íslands",
-        "link": "https://island.is/s/thjodskjalasafn/frett"
-    },
-    {
         "slug": "shh",
         "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
         "link": "https://island.is/s/shh/frett"
-    },
-    {
-        "slug": "rannis",
-        "title": "Rannsóknamiðstöð Íslands",
-        "link": "https://island.is/s/rannis/frett"
     },
     {
         "slug": "land-og-skogur",
@@ -55,11 +40,6 @@
         "link": "https://island.is/s/hms/frett"
     },
     {
-        "slug": "fiskistofa",
-        "title": "Fiskistofa",
-        "link": "https://island.is/s/fiskistofa/frett"
-    },
-    {
         "slug": "vinnumalastofnun",
         "title": "Vinnumálastofnun",
         "link": "https://island.is/s/vinnumalastofnun/frett"
@@ -68,11 +48,6 @@
         "slug": "hve",
         "title": "Heilbrigðisstofnun Vesturlands",
         "link": "https://island.is/s/hve/frett"
-    },
-    {
-        "slug": "landspitali",
-        "title": "Landspítali",
-        "link": "https://island.is/s/landspitali/frett"
     },
     {
         "slug": "vinnueftirlitid",
@@ -100,29 +75,9 @@
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
-        "slug": "tryggingastofnun",
-        "title": "Tryggingastofnun",
-        "link": "https://island.is/s/tryggingastofnun/frett"
-    },
-    {
-        "slug": "heradsdomstolar",
-        "title": "Héraðsdómstólar",
-        "link": "https://island.is/s/heradsdomstolar/frett"
-    },
-    {
         "slug": "landsrettur",
         "title": "Landsréttur",
         "link": "https://island.is/s/landsrettur/frett"
-    },
-    {
-        "slug": "midstod-menntunar-og-skolathjonustu",
-        "title": "Miðstöð menntunar og skólaþjónustu",
-        "link": "https://island.is/s/midstod-menntunar-og-skolathjonustu/frett"
-    },
-    {
-        "slug": "heradssaksoknari",
-        "title": "Héraðssaksóknari",
-        "link": "https://island.is/s/heradssaksoknari/frett"
     },
     {
         "slug": "bofs",
@@ -150,19 +105,9 @@
         "link": "https://island.is/s/landlaeknir/frett"
     },
     {
-        "slug": "nti",
-        "title": "Náttúruhamfaratrygging Íslands",
-        "link": "https://island.is/s/nti/frett"
-    },
-    {
         "slug": "landskjorstjorn",
         "title": "Landskjörstjórn",
         "link": "https://island.is/s/landskjorstjorn/frett"
-    },
-    {
-        "slug": "samgongustofa",
-        "title": "Samgöngustofa",
-        "link": "https://island.is/s/samgongustofa/frett"
     },
     {
         "slug": "rikissaksoknari",
@@ -175,19 +120,9 @@
         "link": "https://island.is/s/gev/frett"
     },
     {
-        "slug": "geislavarnir-rikisins",
-        "title": "Geislavarnir ríkisins",
-        "link": "https://island.is/s/geislavarnir-rikisins/frett"
-    },
-    {
         "slug": "hsn",
         "title": "Heilbrigðisstofnun Norðurlands",
         "link": "https://island.is/s/hsn/frett"
-    },
-    {
-        "slug": "hsu",
-        "title": "Heilbrigðisstofnun Suðurlands",
-        "link": "https://island.is/s/hsu/frett"
     },
     {
         "slug": "rikislogmadur",
@@ -200,18 +135,8 @@
         "link": "https://island.is/s/hsa/frett"
     },
     {
-        "slug": "visindasidanefnd",
-        "title": "Vísindasiðanefnd",
-        "link": "https://island.is/s/visindasidanefnd/frett"
-    },
-    {
         "slug": "umbodsmadur-skuldara",
         "title": "Umboðsmaður skuldara",
         "link": "https://island.is/s/umbodsmadur-skuldara/frett"
-    },
-    {
-        "slug": "blodbankinn",
-        "title": "Blóðbankinn",
-        "link": "https://island.is/s/blodbankinn/frett"
     }
 ]
