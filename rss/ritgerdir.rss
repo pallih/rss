@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Apr 2025 15:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 16:07:00 +0000</lastBuildDate>
     <item>
       <title>„Þetta er engin glansmynd“: Eigindleg rannsókn um sálræna líðan þríburaforeldra með áherslu á samfélagslegar væntingar</title>
       <link>https://skemman.is/handle/1946/49259</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/49260</link>
       <description>Magma: Frönsk þýðing á hluta bókarinnar Kvika eftir Þóru Hjörleifsdóttur - Emma Françoise Margaret Laigle 1978-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49260</guid>
+    </item>
+    <item>
+      <title>Unraveling the Mystery: On Writing The Mysterious Lighthouse</title>
+      <link>https://skemman.is/handle/1946/49261</link>
+      <description>Unraveling the Mystery: On Writing The Mysterious Lighthouse - Hafdís Lind Hafsteinsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49261</guid>
     </item>
     <item>
       <title>Samtal um lífsskoðanir: Rýnt í eigin kennslu með nemendum á miðstigi grunnskóla</title>
@@ -33,12 +39,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49254</guid>
     </item>
     <item>
-      <title>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty</title>
-      <link>https://skemman.is/handle/1946/49255</link>
-      <description>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty - Birta Ösp Rósinberg Harðardóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49255</guid>
-    </item>
-    <item>
       <title>The composition of microbial mats in Landmannalaugar</title>
       <link>https://skemman.is/handle/1946/49256</link>
       <description>The composition of microbial mats in Landmannalaugar - Dagbjört Jensdóttir 2001-</description>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/49257</link>
       <description>Political and Economic Stability in Mali: A single case study on Mali - Philip Nartey Kofi Botchway 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49257</guid>
+    </item>
+    <item>
+      <title>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty</title>
+      <link>https://skemman.is/handle/1946/49255</link>
+      <description>"En frábær dagur fyrir andasæringu": Femínísk greining á The Exorcist eftir William Peter Blatty - Birta Ösp Rósinberg Harðardóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49255</guid>
     </item>
     <item>
       <title>,,Og hvenær hittumst við aftur?": Stór, stærri, stærstur. Leikjaspjöld fyrir fullorðna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49235</link>
       <description>Áhrif samfélagsmiðla á kaupákvarðanir neytenda - Eyþór Aron Wöhler 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49235</guid>
-    </item>
-    <item>
-      <title>Leið að þroskuðu skattkerfi eða dulin menningarleg yfirráð? Áhrif eftirnýlendutíma á starfsemi OECD</title>
-      <link>https://skemman.is/handle/1946/49236</link>
-      <description>Leið að þroskuðu skattkerfi eða dulin menningarleg yfirráð? Áhrif eftirnýlendutíma á starfsemi OECD - Jónas Magnússon 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49236</guid>
     </item>
   </channel>
 </rss>
