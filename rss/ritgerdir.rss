@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Apr 2025 10:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 11:05:45 +0000</lastBuildDate>
+    <item>
+      <title>Elísabet Jónína Eiríksdóttir (1889-1971): Fátæk sveitastúlka verður róttæk stjórnmálakona</title>
+      <link>https://skemman.is/handle/1946/49262</link>
+      <description>Elísabet Jónína Eiríksdóttir (1889-1971): Fátæk sveitastúlka verður róttæk stjórnmálakona - Aðalheiður Steingrímsdóttir 1953-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49262</guid>
+    </item>
     <item>
       <title>„Þetta er engin glansmynd“: Eigindleg rannsókn um sálræna líðan þríburaforeldra með áherslu á samfélagslegar væntingar</title>
       <link>https://skemman.is/handle/1946/49259</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/49238</link>
       <description>Formgerð erkitýpunnar: Snertifletir Jungs og Lévi-Strauss - Arnar Brynhildarson Einarsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49238</guid>
-    </item>
-    <item>
-      <title>Áhrif samfélagsmiðla á kaupákvarðanir neytenda</title>
-      <link>https://skemman.is/handle/1946/49235</link>
-      <description>Áhrif samfélagsmiðla á kaupákvarðanir neytenda - Eyþór Aron Wöhler 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49235</guid>
     </item>
   </channel>
 </rss>
