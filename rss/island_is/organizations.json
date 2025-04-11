@@ -15,11 +15,6 @@
         "link": "https://island.is/s/utlendingastofnun/frett"
     },
     {
-        "slug": "hljodbokasafn-islands",
-        "title": "Hljóðbókasafn Íslands",
-        "link": "https://island.is/s/hljodbokasafn-islands/frett"
-    },
-    {
         "slug": "faggilding",
         "title": "Faggilding - ISAC",
         "link": "https://island.is/s/faggilding/frett"
@@ -130,11 +125,6 @@
         "link": "https://island.is/s/bofs/frett"
     },
     {
-        "slug": "syslumenn",
-        "title": "Sýslumenn",
-        "link": "https://island.is/s/syslumenn/frett"
-    },
-    {
         "slug": "sjukratryggingar",
         "title": "Sjúkratryggingar",
         "link": "https://island.is/s/sjukratryggingar/frett"
@@ -153,11 +143,6 @@
         "slug": "nti",
         "title": "Náttúruhamfaratrygging Íslands",
         "link": "https://island.is/s/nti/frett"
-    },
-    {
-        "slug": "landskjorstjorn",
-        "title": "Landskjörstjórn",
-        "link": "https://island.is/s/landskjorstjorn/frett"
     },
     {
         "slug": "samgongustofa",
@@ -188,11 +173,6 @@
         "slug": "hsu",
         "title": "Heilbrigðisstofnun Suðurlands",
         "link": "https://island.is/s/hsu/frett"
-    },
-    {
-        "slug": "rikislogmadur",
-        "title": "Ríkislögmaður",
-        "link": "https://island.is/s/rikislogmadur/frett"
     },
     {
         "slug": "hsa",
