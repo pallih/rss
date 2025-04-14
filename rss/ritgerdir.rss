@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 14 Apr 2025 14:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:06:45 +0000</lastBuildDate>
     <item>
       <title>Um aðildarhæfi deilda innan félaga</title>
       <link>https://skemman.is/handle/1946/49269</link>
@@ -87,12 +87,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49277</guid>
     </item>
     <item>
-      <title>Beiting brostinna forsendna vegna hindrana er leiða af Covid-19</title>
-      <link>https://skemman.is/handle/1946/49278</link>
-      <description>Beiting brostinna forsendna vegna hindrana er leiða af Covid-19 - Guðrún Sigríður Arnalds 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49278</guid>
-    </item>
-    <item>
       <title>Virkni foreldra og velferð barna</title>
       <link>https://skemman.is/handle/1946/49280</link>
       <description>Virkni foreldra og velferð barna - Lilja Sól Andersen 2003-</description>
@@ -109,12 +103,6 @@
       <link>https://skemman.is/handle/1946/49282</link>
       <description>Brottvísanir EES-borgara. Mat á beitingu íslenskra stjórnvalda á 95. gr. útlendingalaga nr. 80/2016 með tilliti til mannréttinda. - Lára Pálsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49282</guid>
-    </item>
-    <item>
-      <title>Áhrif styttingar vinnuvikunnar á framleiðni fyrirtækja. Greining á rekstrarlegum þáttum og starfsumhverfi</title>
-      <link>https://skemman.is/handle/1946/49284</link>
-      <description>Áhrif styttingar vinnuvikunnar á framleiðni fyrirtækja. Greining á rekstrarlegum þáttum og starfsumhverfi - Bjarki Arnarsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49284</guid>
     </item>
     <item>
       <title>Tjáningarfrelsi handhafa ákæruvalds</title>
@@ -153,10 +141,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49287</guid>
     </item>
     <item>
-      <title>Áföll barna og viðbrögð skólans</title>
-      <link>https://skemman.is/handle/1946/49286</link>
-      <description>Áföll barna og viðbrögð skólans - Salka Hlín Harðardóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49286</guid>
+      <title>Samfélagsleg umræða um flóttafólk: Birtingamyndir viðhorfa til flóttafólks í athugasemdakerfum</title>
+      <link>https://skemman.is/handle/1946/49291</link>
+      <description>Samfélagsleg umræða um flóttafólk: Birtingamyndir viðhorfa til flóttafólks í athugasemdakerfum - Lara Stevensdóttir Bos 2000-; Sól Dís Gísladóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49291</guid>
+    </item>
+    <item>
+      <title>Breaking the Cycle Early Interventions and Therapeutic Approaches for Preventing Problematic Sexual Behaviors in Children</title>
+      <link>https://skemman.is/handle/1946/49293</link>
+      <description>Breaking the Cycle Early Interventions and Therapeutic Approaches for Preventing Problematic Sexual Behaviors in Children - Celina Kilgren Ridderstråle 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49293</guid>
+    </item>
+    <item>
+      <title>Áhrif styttingar vinnuvikunnar á framleiðni fyrirtækja. Greining á rekstrarlegum þáttum og starfsumhverfi</title>
+      <link>https://skemman.is/handle/1946/49284</link>
+      <description>Áhrif styttingar vinnuvikunnar á framleiðni fyrirtækja. Greining á rekstrarlegum þáttum og starfsumhverfi - Bjarki Arnarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49284</guid>
     </item>
   </channel>
 </rss>
