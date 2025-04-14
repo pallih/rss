@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 14 Apr 2025 10:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 11:05:41 +0000</lastBuildDate>
     <item>
       <title>Um aðildarhæfi deilda innan félaga</title>
       <link>https://skemman.is/handle/1946/49269</link>
@@ -69,12 +69,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49276</guid>
     </item>
     <item>
-      <title>Sérfræðiábyrgð - Bótaábyrgð heilbrigðisstarfsmanna í málum þar sem mistök eiga sér stað</title>
-      <link>https://skemman.is/handle/1946/49275</link>
-      <description>Sérfræðiábyrgð - Bótaábyrgð heilbrigðisstarfsmanna í málum þar sem mistök eiga sér stað - Guðlaug Karen Ingólfsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49275</guid>
-    </item>
-    <item>
       <title>Sérfræðiábyrgð við mannvirkjaframkvæmdir. Hvar liggja mörkin á milli ábyrgðar hönnuða og ábyrgðar byggingarstjóra við framkvæmdir?</title>
       <link>https://skemman.is/handle/1946/49265</link>
       <description>Sérfræðiábyrgð við mannvirkjaframkvæmdir. Hvar liggja mörkin á milli ábyrgðar hönnuða og ábyrgðar byggingarstjóra við framkvæmdir? - Tinna Chloé Kjartansdóttir 2003-</description>
@@ -115,6 +109,12 @@
       <link>https://skemman.is/handle/1946/49282</link>
       <description>Brottvísanir EES-borgara. Mat á beitingu íslenskra stjórnvalda á 95. gr. útlendingalaga nr. 80/2016 með tilliti til mannréttinda. - Lára Pálsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49282</guid>
+    </item>
+    <item>
+      <title>Sérfræðiábyrgð: Bótaábyrgð heilbrigðisstarfsmanna í málum þar sem mistök eiga sér stað</title>
+      <link>https://skemman.is/handle/1946/49275</link>
+      <description>Sérfræðiábyrgð: Bótaábyrgð heilbrigðisstarfsmanna í málum þar sem mistök eiga sér stað - Guðlaug Karen Ingólfsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49275</guid>
     </item>
     <item>
       <title>Elísabet Jónína Eiríksdóttir (1889-1971): Fátæk sveitastúlka verður róttæk stjórnmálakona</title>
