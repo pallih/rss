@@ -1,5 +1,10 @@
 [
     {
+        "slug": "hve",
+        "title": "Heilbrigðisstofnun Vesturlands",
+        "link": "https://island.is/s/hve/frett"
+    },
+    {
         "slug": "logreglan",
         "title": "Lögreglan",
         "link": "https://island.is/s/logreglan/frett"
@@ -40,11 +45,6 @@
         "link": "https://island.is/s/shh/frett"
     },
     {
-        "slug": "rannis",
-        "title": "Rannsóknamiðstöð Íslands",
-        "link": "https://island.is/s/rannis/frett"
-    },
-    {
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
@@ -58,16 +58,6 @@
         "slug": "fiskistofa",
         "title": "Fiskistofa",
         "link": "https://island.is/s/fiskistofa/frett"
-    },
-    {
-        "slug": "vinnumalastofnun",
-        "title": "Vinnumálastofnun",
-        "link": "https://island.is/s/vinnumalastofnun/frett"
-    },
-    {
-        "slug": "hve",
-        "title": "Heilbrigðisstofnun Vesturlands",
-        "link": "https://island.is/s/hve/frett"
     },
     {
         "slug": "landspitali",
