@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 15 Apr 2025 14:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 16:06:11 +0000</lastBuildDate>
     <item>
       <title>Sustained Triptolide Release from Silicone Matrices</title>
       <link>https://skemman.is/handle/1946/49330</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49303</guid>
     </item>
     <item>
-      <title>Sérfræðiábyrgð: Helstu verkefni endurskoðenda og sérfræðiábyrgð þeirra</title>
-      <link>https://skemman.is/handle/1946/49297</link>
-      <description>Sérfræðiábyrgð: Helstu verkefni endurskoðenda og sérfræðiábyrgð þeirra - Lovísa Davíðsdóttir Scheving 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49297</guid>
-    </item>
-    <item>
       <title>Sjálfstæði dómstóla. Sérstaða dómaraembættisins</title>
       <link>https://skemman.is/handle/1946/49299</link>
       <description>Sjálfstæði dómstóla. Sérstaða dómaraembættisins - Friðrik Ómar Þorkelsson 2003-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/49312</link>
       <description>Börn sem beita börn ofbeldi. Tíðni ofbeldis meðal barna á Íslandi og aðferðir til þess að bregðast við breytingum - Katrín Sunneva Einarsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49312</guid>
+    </item>
+    <item>
+      <title>Mótun ungra brotamanna: Áhrif uppeldis og umhverfis</title>
+      <link>https://skemman.is/handle/1946/49310</link>
+      <description>Mótun ungra brotamanna: Áhrif uppeldis og umhverfis - Sindri Karl Kristinsson 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49310</guid>
     </item>
   </channel>
 </rss>
