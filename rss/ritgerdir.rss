@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 16 Apr 2025 13:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 17:05:45 +0000</lastBuildDate>
     <item>
       <title>Sjálfstæði dómstóla - skipun dómara</title>
       <link>https://skemman.is/handle/1946/49355</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49360</guid>
     </item>
     <item>
-      <title>Börn og foreldrar í fangelsi: Áhrif aðskilnaðar á tengslamyndun</title>
-      <link>https://skemman.is/handle/1946/49364</link>
-      <description>Börn og foreldrar í fangelsi: Áhrif aðskilnaðar á tengslamyndun - María Magnúsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49364</guid>
-    </item>
-    <item>
       <title>Ofbeldi í parsamböndum: Tilfinningalegt ofbeldi</title>
       <link>https://skemman.is/handle/1946/49358</link>
       <description>Ofbeldi í parsamböndum: Tilfinningalegt ofbeldi - Saga Rún Vilhjálmsdóttir 2002-</description>
@@ -129,28 +123,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49357</guid>
     </item>
     <item>
-      <title>The Distribution of Diclofenac Sodium in Porcine Skin: A Quantitative Approach Using Franz Diffusion Cells and Tape Stripping</title>
-      <link>https://skemman.is/handle/1946/49375</link>
-      <description>The Distribution of Diclofenac Sodium in Porcine Skin: A Quantitative Approach Using Franz Diffusion Cells and Tape Stripping - Bria Shi-Anne Carrie Robinson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49375</guid>
-    </item>
-    <item>
       <title>Milli veggja fangelsis og samfélags: Félagsleg áhrif afplánunar og vegferð fanga aftur út í samfélagið</title>
       <link>https://skemman.is/handle/1946/49376</link>
       <description>Milli veggja fangelsis og samfélags: Félagsleg áhrif afplánunar og vegferð fanga aftur út í samfélagið - Una Lára Lárusdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49376</guid>
     </item>
     <item>
-      <title>Stórhátíð neysluhyggjunnar. Afleiðingar óhóflegrar neyslu á jólunum</title>
-      <link>https://skemman.is/handle/1946/49377</link>
-      <description>Stórhátíð neysluhyggjunnar. Afleiðingar óhóflegrar neyslu á jólunum - Vala Olsen 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49377</guid>
+      <title>The Distribution of Diclofenac Sodium in Porcine Skin: A Quantitative Approach Using Franz Diffusion Cells and Tape Stripping</title>
+      <link>https://skemman.is/handle/1946/49375</link>
+      <description>The Distribution of Diclofenac Sodium in Porcine Skin: A Quantitative Approach Using Franz Diffusion Cells and Tape Stripping - Bria Shi-Anne Carrie Robinson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49375</guid>
+    </item>
+    <item>
+      <title>Börn og foreldrar í fangelsi: Áhrif aðskilnaðar á tengslamyndun</title>
+      <link>https://skemman.is/handle/1946/49364</link>
+      <description>Börn og foreldrar í fangelsi: Áhrif aðskilnaðar á tengslamyndun - María Magnúsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49364</guid>
     </item>
     <item>
       <title>Vímuefnaröskun mæðra. Tengslamyndun mæðra við börn þeirra</title>
       <link>https://skemman.is/handle/1946/49378</link>
       <description>Vímuefnaröskun mæðra. Tengslamyndun mæðra við börn þeirra - Margrét Íris Einarsdóttir 1999-; Huldís Edda Annelsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49378</guid>
+    </item>
+    <item>
+      <title>Stórhátíð neysluhyggjunnar. Afleiðingar óhóflegrar neyslu á jólunum</title>
+      <link>https://skemman.is/handle/1946/49377</link>
+      <description>Stórhátíð neysluhyggjunnar. Afleiðingar óhóflegrar neyslu á jólunum - Vala Olsen 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49377</guid>
     </item>
     <item>
       <title>Traduzione in islandese e analisi di sei racconti dal libro «Favole al Telefono» di Gianni Rodari</title>
