@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 15:06:41 +0000</lastBuildDate>
     <item>
       <title>Sustainable mass transportation in southwest Iceland: drivers and barriers to train and rail development</title>
       <link>https://skemman.is/handle/1946/49382</link>
@@ -117,6 +117,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49399</guid>
     </item>
     <item>
+      <title>Notkun ICE-FPSQ til mats á fjölskyldustuðningi í geðhjúkrun: Kerfisbundin fræðileg samantekt</title>
+      <link>https://skemman.is/handle/1946/49400</link>
+      <description>Notkun ICE-FPSQ til mats á fjölskyldustuðningi í geðhjúkrun: Kerfisbundin fræðileg samantekt - Steinunn Guðlaug Skúladóttir 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49400</guid>
+    </item>
+    <item>
+      <title>Hávaði á gjörgæslu. Áhrif á heilbirgðisstarfsfólk og leiðir til úrbóta</title>
+      <link>https://skemman.is/handle/1946/49401</link>
+      <description>Hávaði á gjörgæslu. Áhrif á heilbirgðisstarfsfólk og leiðir til úrbóta - Ásta Guðný Sveinsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49401</guid>
+    </item>
+    <item>
       <title>Sjálfstæði dómstóla - skipun dómara</title>
       <link>https://skemman.is/handle/1946/49355</link>
       <description>Sjálfstæði dómstóla - skipun dómara - Erna Birgisdóttir 2003-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/49366</link>
       <description>Í skjóli leyndarhjúps og þagnar: Áhrif geðklofa og geðhvarfasýki á parasambönd og fjölskyldur - Sylvía Lind Gunnarsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49366</guid>
-    </item>
-    <item>
-      <title>Friðhelgi einkalífsins brotin: Áhrif stafræns kynferðisofbeldis á börn og ungmenni</title>
-      <link>https://skemman.is/handle/1946/49367</link>
-      <description>Friðhelgi einkalífsins brotin: Áhrif stafræns kynferðisofbeldis á börn og ungmenni - Anna Guðrún Heimisdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49367</guid>
-    </item>
-    <item>
-      <title>Sjá um aðra en gleymast í ferlinu. Starfsumhverfi og kulnun meðal félagsráðgjafa á Íslandi</title>
-      <link>https://skemman.is/handle/1946/49370</link>
-      <description>Sjá um aðra en gleymast í ferlinu. Starfsumhverfi og kulnun meðal félagsráðgjafa á Íslandi - Jana Rún Hermannsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49370</guid>
     </item>
   </channel>
 </rss>
