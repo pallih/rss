@@ -1,5 +1,10 @@
 [
     {
+        "slug": "land-og-skogur",
+        "title": "Land og skógur",
+        "link": "https://island.is/s/land-og-skogur/frett"
+    },
+    {
         "slug": "shh",
         "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
         "link": "https://island.is/s/shh/frett"
@@ -48,11 +53,6 @@
         "slug": "rannis",
         "title": "Rannsóknamiðstöð Íslands",
         "link": "https://island.is/s/rannis/frett"
-    },
-    {
-        "slug": "land-og-skogur",
-        "title": "Land og skógur",
-        "link": "https://island.is/s/land-og-skogur/frett"
     },
     {
         "slug": "hms",
@@ -123,11 +123,6 @@
         "slug": "heradssaksoknari",
         "title": "Héraðssaksóknari",
         "link": "https://island.is/s/heradssaksoknari/frett"
-    },
-    {
-        "slug": "bofs",
-        "title": "Barna- og fjölskyldustofa",
-        "link": "https://island.is/s/bofs/frett"
     },
     {
         "slug": "syslumenn",
