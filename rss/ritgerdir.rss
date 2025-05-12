@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 11 May 2025 17:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 08:09:23 +0000</lastBuildDate>
     <item>
       <title>Sjúklingafræðsluferlið: Auðkenning hugtaka og vörpun yfir í ICNP</title>
       <link>https://skemman.is/handle/1946/49974</link>
@@ -123,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/49989</guid>
     </item>
     <item>
-      <title>Toward Net-zero Energy Urban Spaces (Strategies For Achieving Sustainable Energy Goals Through Renwable Energy Implementation)</title>
-      <link>https://skemman.is/handle/1946/49988</link>
-      <description>Toward Net-zero Energy Urban Spaces (Strategies For Achieving Sustainable Energy Goals Through Renwable Energy Implementation) - Sara Esfahani Zadeh 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/49988</guid>
-    </item>
-    <item>
       <title>What communication failures are organisations struggling to implement lean Six Sigma practices, and how can they be addressed?</title>
       <link>https://skemman.is/handle/1946/49992</link>
       <description>What communication failures are organisations struggling to implement lean Six Sigma practices, and how can they be addressed? - Heiðar Freyr Steinunnarson 1980-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/49995</link>
       <description>Sjálfsskilningur og listræn tjáning tilfinninga - Sigríður Björk Hafstað 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/49995</guid>
+    </item>
+    <item>
+      <title>Samanburður á rekstri íslenskra og erlendra lággjaldaflugfélaga. Er hægt að reka íslenskt lággjaldaflugfélag eða einfalda rekstrarform þeirra?</title>
+      <link>https://skemman.is/handle/1946/49994</link>
+      <description>Samanburður á rekstri íslenskra og erlendra lággjaldaflugfélaga. Er hægt að reka íslenskt lággjaldaflugfélag eða einfalda rekstrarform þeirra? - Gústav Lúðvíksson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/49994</guid>
     </item>
   </channel>
 </rss>
