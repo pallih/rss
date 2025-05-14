@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 May 2025 11:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 12:10:37 +0000</lastBuildDate>
     <item>
       <title>Atferlismiðuð hreinlætisþjálfun fyrir grunnskólabörn með einhverfu og þroskahömlun: Áhrif á klósettfærni og frumkvæði að notkun salernis</title>
       <link>https://skemman.is/handle/1946/50137</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/50144</link>
       <description>The Experience of Migration in the Narratives of Polish Children Participating in a Music Classes Program in Reykjavik - Magdalena Maria Urbanek 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50144</guid>
+    </item>
+    <item>
+      <title>Hand-Gestures to Robotic Arm Operands: Motion Control via Control Grip</title>
+      <link>https://skemman.is/handle/1946/50145</link>
+      <description>Hand-Gestures to Robotic Arm Operands: Motion Control via Control Grip - Snævar Örn Jónsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50145</guid>
     </item>
     <item>
       <title>Komur barna á bráðamóttökur Landspítala vegna eitrana á árunum 2015-2024</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50095</link>
       <description>Afleiður skyldubundinna losunarheimilda: Verkfæri í áhættustýringu og fjárfestingum - Kolbeinn Tumi Skjöld Magnússon 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50095</guid>
-    </item>
-    <item>
-      <title>„Þetta var bara ein djúpalaug sko“ Upplifun nýliða af móttöku, þjálfun og félagslegum stuðningi á fyrstu mánuðum í starfi</title>
-      <link>https://skemman.is/handle/1946/50096</link>
-      <description>„Þetta var bara ein djúpalaug sko“ Upplifun nýliða af móttöku, þjálfun og félagslegum stuðningi á fyrstu mánuðum í starfi - Dagný Guðsteinsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50096</guid>
     </item>
   </channel>
 </rss>
