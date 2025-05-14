@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 May 2025 14:06:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 16:07:43 +0000</lastBuildDate>
     <item>
       <title>„Grunnforsenda þess að barn mæti í skóla er að barni líði vel“ Skólaforðun: Upplifun og reynsla fagfólks í hafnfirskum grunnskólum</title>
       <link>https://skemman.is/handle/1946/50142</link>
@@ -81,6 +81,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50138</guid>
     </item>
     <item>
+      <title>Áhrif sérhæfðra inngripa á tilfinningavanda barna með ADHD: Samanburðarrannsókn á Snillingunum og Krakkaráðgjöfinni</title>
+      <link>https://skemman.is/handle/1946/50148</link>
+      <description>Áhrif sérhæfðra inngripa á tilfinningavanda barna með ADHD: Samanburðarrannsókn á Snillingunum og Krakkaráðgjöfinni - Alexandra Ásta Sigurðardóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50148</guid>
+    </item>
+    <item>
       <title>Komur barna á bráðamóttökur Landspítala vegna eitrana á árunum 2015-2024</title>
       <link>https://skemman.is/handle/1946/50081</link>
       <description>Komur barna á bráðamóttökur Landspítala vegna eitrana á árunum 2015-2024 - Þórdís Agla Kristinsdóttir 2001-; María Valgarðsdóttir 2002-; Hrafnhildur Ingólfsdóttir 1999-; Guðbjörg Ósk Beck 2002-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50091</link>
       <description>Þróun opinberrar stefnumótunar í málefnum kræklingaræktar 2000-2024 og áhrif hennar á greinina - Stefanía Ingvarsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50091</guid>
-    </item>
-    <item>
-      <title>Staðsetning sjálfbærni í stjórnskipulagi banka: Rannsókn á sjálfbærni í stjórnskipulagi íslenskra viðskiptabanka</title>
-      <link>https://skemman.is/handle/1946/50100</link>
-      <description>Staðsetning sjálfbærni í stjórnskipulagi banka: Rannsókn á sjálfbærni í stjórnskipulagi íslenskra viðskiptabanka - Hrafnhildur Jónsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50100</guid>
     </item>
   </channel>
 </rss>
