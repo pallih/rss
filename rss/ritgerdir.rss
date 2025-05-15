@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 May 2025 11:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 12:10:28 +0000</lastBuildDate>
     <item>
       <title>Áhrif eins leyfisbréfs kennara á leikskólastigið</title>
       <link>https://skemman.is/handle/1946/50162</link>
@@ -135,6 +135,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50169</guid>
     </item>
     <item>
+      <title>Áhrif tveggja útgáfa af Hvatningarleiknum á endurgjöf kennara, hegðun og námsástundun nemenda og hávaða í kennslustofum í 4. bekk</title>
+      <link>https://skemman.is/handle/1946/50171</link>
+      <description>Áhrif tveggja útgáfa af Hvatningarleiknum á endurgjöf kennara, hegðun og námsástundun nemenda og hávaða í kennslustofum í 4. bekk - Alísa Rún Andrésdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50171</guid>
+    </item>
+    <item>
+      <title>Samanburður ólíkra útgáfa Hvatningarleiksins: Áhrif á óæskilega hegðun og námsástundun nemenda, endurgjöf kennara og hávaða í 1. bekk</title>
+      <link>https://skemman.is/handle/1946/50170</link>
+      <description>Samanburður ólíkra útgáfa Hvatningarleiksins: Áhrif á óæskilega hegðun og námsástundun nemenda, endurgjöf kennara og hávaða í 1. bekk - Sylvía Bergmann Halldórsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50170</guid>
+    </item>
+    <item>
       <title>Inngildandi menntun á Austurlandi: Áskoranir og tækifæri í kennslu einhverfra nemenda.</title>
       <link>https://skemman.is/handle/1946/50141</link>
       <description>Inngildandi menntun á Austurlandi: Áskoranir og tækifæri í kennslu einhverfra nemenda. - Ásta Dís Helgadóttir 1999-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50140</link>
       <description>Ferð ekki framhjá byrjunarreit: Er munur á markaðsetningu fyrirtækja í einokunarstöðu og fyrirtækja á samkeppnismarkaði? - Ólafur Sverrir Gunnarsson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50140</guid>
-    </item>
-    <item>
-      <title>Málörvun yngstu barna í leikskóla. Aðferðir og ávinningur.</title>
-      <link>https://skemman.is/handle/1946/50136</link>
-      <description>Málörvun yngstu barna í leikskóla. Aðferðir og ávinningur. - Alda Björk Arnardóttir 1996-; Anita Erla Thorarensen 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50136</guid>
-    </item>
-    <item>
-      <title>Jákvæð áhrif verðbólgu - Er hún einungis slæmt fyrirbæri?</title>
-      <link>https://skemman.is/handle/1946/50139</link>
-      <description>Jákvæð áhrif verðbólgu - Er hún einungis slæmt fyrirbæri? - Matthías Vilhjálmsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50139</guid>
     </item>
   </channel>
 </rss>
