@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 May 2025 12:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 13:14:07 +0000</lastBuildDate>
     <item>
       <title>Greining og birting gagna. Getur Power BI innleiðing stutt við ákvarðanatöku í fyrirtækjum</title>
       <link>https://skemman.is/handle/1946/50182</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/50186</link>
       <description>Mental Imagery in Synesthetes and Non-Synesthetes: A Comparative Study - Hrafnhildur Ólafsdóttir 2000-; Hulda Björk Gunnarsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50186</guid>
+    </item>
+    <item>
+      <title>Tíðni og ábendingar gangsetninga fyrir 39 vikna meðgöngu</title>
+      <link>https://skemman.is/handle/1946/50187</link>
+      <description>Tíðni og ábendingar gangsetninga fyrir 39 vikna meðgöngu - Sigurbjörg Ýr Sigtryggsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50187</guid>
+    </item>
+    <item>
+      <title>Langtímaárangur kransæðahjáveituaðgerða á sláandi hjarta</title>
+      <link>https://skemman.is/handle/1946/50188</link>
+      <description>Langtímaárangur kransæðahjáveituaðgerða á sláandi hjarta - Kristjana Lind Ólafsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50188</guid>
     </item>
     <item>
       <title>Áhrif eins leyfisbréfs kennara á leikskólastigið</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50171</link>
       <description>Áhrif tveggja útgáfa af Hvatningarleiknum á endurgjöf kennara, hegðun og námsástundun nemenda og hávaða í kennslustofum í 4. bekk - Alísa Rún Andrésdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50171</guid>
-    </item>
-    <item>
-      <title>Áhrif beinnar kennslu og fimiþjálfunar með félagalestri á lesfimi nemenda</title>
-      <link>https://skemman.is/handle/1946/50167</link>
-      <description>Áhrif beinnar kennslu og fimiþjálfunar með félagalestri á lesfimi nemenda - Ingibjörg Sóley Guðmundsdóttir 1966-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50167</guid>
-    </item>
-    <item>
-      <title>Hlutdeildarlán í fasteignakaupum: Hvernig hafa hlutdeildarlán breytt aðgengi fyrstu kaupenda að húsnæði, og hvaða áhrif hafa þau haft á fjárhagslega stöðu þessara kaupenda?</title>
-      <link>https://skemman.is/handle/1946/50172</link>
-      <description>Hlutdeildarlán í fasteignakaupum: Hvernig hafa hlutdeildarlán breytt aðgengi fyrstu kaupenda að húsnæði, og hvaða áhrif hafa þau haft á fjárhagslega stöðu þessara kaupenda? - Þorgrímur Goði Þorgrímsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50172</guid>
     </item>
   </channel>
 </rss>
