@@ -1,5 +1,10 @@
 [
     {
+        "slug": "hve",
+        "title": "Heilbrigðisstofnun Vesturlands",
+        "link": "https://island.is/s/hve/frett"
+    },
+    {
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
@@ -8,11 +13,6 @@
         "slug": "shh",
         "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
         "link": "https://island.is/s/shh/frett"
-    },
-    {
-        "slug": "hve",
-        "title": "Heilbrigðisstofnun Vesturlands",
-        "link": "https://island.is/s/hve/frett"
     },
     {
         "slug": "logreglan",

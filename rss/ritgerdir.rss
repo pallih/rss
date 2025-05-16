@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 May 2025 11:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 12:10:57 +0000</lastBuildDate>
     <item>
       <title>Greining og birting gagna. Getur Power BI innleiðing stutt við ákvarðanatöku í fyrirtækjum</title>
       <link>https://skemman.is/handle/1946/50182</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/50184</link>
       <description>Líðan nemenda skiptir höfuðmáli: Starfendarannsókn um leiðir til að skilja líðan og þarfir nemenda til að stuðla að farsælli skólagöngu. - Helena Rós Einarsdóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50184</guid>
+    </item>
+    <item>
+      <title>Fjöltyngd sjálfsmynd nemenda - Samskipti, stuðningur og styrkleikar í skólastarfi</title>
+      <link>https://skemman.is/handle/1946/50185</link>
+      <description>Fjöltyngd sjálfsmynd nemenda - Samskipti, stuðningur og styrkleikar í skólastarfi - Hélène Rún Benjamínsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50185</guid>
+    </item>
+    <item>
+      <title>Mental Imagery in Synesthetes and Non-Synesthetes: A Comparative Study</title>
+      <link>https://skemman.is/handle/1946/50186</link>
+      <description>Mental Imagery in Synesthetes and Non-Synesthetes: A Comparative Study - Hrafnhildur Ólafsdóttir 2000-; Hulda Björk Gunnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50186</guid>
     </item>
     <item>
       <title>Áhrif eins leyfisbréfs kennara á leikskólastigið</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50172</link>
       <description>Hlutdeildarlán í fasteignakaupum: Hvernig hafa hlutdeildarlán breytt aðgengi fyrstu kaupenda að húsnæði, og hvaða áhrif hafa þau haft á fjárhagslega stöðu þessara kaupenda? - Þorgrímur Goði Þorgrímsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50172</guid>
-    </item>
-    <item>
-      <title>„Tími er takmörkuð auðlind“: Greining á stafrænni hæfni háskólakennara við Háskólann á Akureyri</title>
-      <link>https://skemman.is/handle/1946/50169</link>
-      <description>„Tími er takmörkuð auðlind“: Greining á stafrænni hæfni háskólakennara við Háskólann á Akureyri - Helgi Freyr Hafþórsson 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50169</guid>
-    </item>
-    <item>
-      <title>Spegilmynd samfélagsins: Mótvægi tómstunda við útlitsröskun</title>
-      <link>https://skemman.is/handle/1946/50157</link>
-      <description>Spegilmynd samfélagsins: Mótvægi tómstunda við útlitsröskun - Hólmfríður Margrét Benediktsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50157</guid>
     </item>
   </channel>
 </rss>
