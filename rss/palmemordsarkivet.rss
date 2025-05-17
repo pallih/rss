@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 May 2025 17:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 08:07:26 +0000</lastBuildDate>
+    <item>
+      <description>Allmänna tips om Alf Enerström, Israelsson, Miro Baresic</description>
+    </item>
+    <item>
+      <link>https://drive.google.com/file/d/1__rs3u9e3pzx01VvBw2NQAh2ECeRLqB8/view?usp=drive_link</link>
+      <description>Tips om EAP och Alf Enerström</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1__rs3u9e3pzx01VvBw2NQAh2ECeRLqB8/view?usp=drive_link</guid>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1spvDlOdD9fEsvd-nzHRiBgIoe83eimU7/view?usp=drive_link</link>
       <description>Tips om Bertil Wedin</description>
@@ -207,51 +215,6 @@
       <link>https://drive.google.com/file/d/15ACeaFI4NIxM4rtYi_Q_WHsXbwp-tYln/view?usp=drive_link</link>
       <description>Bertil Wedin vill lämna uppgifter om mordet på Olof Palme</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/15ACeaFI4NIxM4rtYi_Q_WHsXbwp-tYln/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1p-oCLuY2fTnHFGIY51Yjk6FOgj5GtUTy/view?usp=drive_link</link>
-      <description>Bertil Wedin vill lämna uppgifter om mordet på Olof Palme</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1p-oCLuY2fTnHFGIY51Yjk6FOgj5GtUTy/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/14cJtQUxAHnXGwPSFHHlLtbcNPMfeKHF9/view?usp=drive_link</link>
-      <description>Bertil Wedin vill lämna uppgifter om mordet på Olof Palme</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/14cJtQUxAHnXGwPSFHHlLtbcNPMfeKHF9/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/15oPCwmokkpDzTX20CRpYyKbaWCn0TeER/view?usp=drive_link</link>
-      <description>Svar på begäran om uppgifter om svensk bosatt på Cypern</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/15oPCwmokkpDzTX20CRpYyKbaWCn0TeER/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1xQUnLs5X_LbnBlagxA4oaBtA2udyxhL_/view?usp=drive_link</link>
-      <description>Begäran om uppgifter om svensk bosatt på Cypern</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1xQUnLs5X_LbnBlagxA4oaBtA2udyxhL_/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1nPOqssE2pez2LtQAF-01MOcDoI5FUtrK/view?usp=drive_link</link>
-      <description>Tips om Bertil Wedin</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1nPOqssE2pez2LtQAF-01MOcDoI5FUtrK/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1KgTvJokXRd15QFOk1SFHSZA3eR58Eks2/view?usp=drive_link</link>
-      <description>PM om Bertil Wedin</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1KgTvJokXRd15QFOk1SFHSZA3eR58Eks2/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1PXrx8Mvsnexb9-wVWeKEvgQmCx_d8BWj/view?usp=drive_link</link>
-      <description>Tidningsartiklar om Bertil Wedin</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1PXrx8Mvsnexb9-wVWeKEvgQmCx_d8BWj/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1wgLGraneUAcaO0FILUiONyeYpmitomu7/view?usp=drive_link</link>
-      <description>Telefonsamtal på mordnatten där meddelandet i telefonsamtalet lyder att Palme är död</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1wgLGraneUAcaO0FILUiONyeYpmitomu7/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1ZQQrevqjzGOJf1qaTx72Gs-PDr-3AI4H/view?usp=drive_link</link>
-      <description>Telefonsamtal på mordnatten där meddelandet i telefonsamtalet lyder att Palme är död</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1ZQQrevqjzGOJf1qaTx72Gs-PDr-3AI4H/view?usp=drive_link</guid>
     </item>
   </channel>
 </rss>
