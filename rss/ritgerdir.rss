@@ -7,24 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 May 2025 09:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 10:07:18 +0000</lastBuildDate>
     <item>
       <title>Gastrointestinal Variation and Flea lnfestation Among Apodemus sylvaticus Across Contrasting Habitats in Iceland</title>
       <link>https://skemman.is/handle/1946/50193</link>
       <description>Gastrointestinal Variation and Flea lnfestation Among Apodemus sylvaticus Across Contrasting Habitats in Iceland - Birta Björk Hauksdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50193</guid>
-    </item>
-    <item>
-      <title>Lokastigsnýrnabilun á Íslandi 2020 – 2024:  Nýgengi, meðferð og afdrif sjúklinga</title>
-      <link>https://skemman.is/handle/1946/50194</link>
-      <description>Lokastigsnýrnabilun á Íslandi 2020 – 2024:  Nýgengi, meðferð og afdrif sjúklinga - Haraldur Orri Arnarsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50194</guid>
-    </item>
-    <item>
-      <title>Graftarkýli í lifur - Faraldsfræði, orsakir, meðferð og afdrif</title>
-      <link>https://skemman.is/handle/1946/50195</link>
-      <description>Graftarkýli í lifur - Faraldsfræði, orsakir, meðferð og afdrif - Edda Sólveig Sigtryggsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50195</guid>
     </item>
     <item>
       <title>Adherence to secondary prevention medication after coronary artery bypass grafting and long-term outcomes</title>
@@ -33,130 +21,142 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50196</guid>
     </item>
     <item>
+      <title>Geðrofslyfjanotkun í kjölfar innlagnar á lyflækningasvið Landspítala</title>
+      <link>https://skemman.is/handle/1946/50200</link>
+      <description>Geðrofslyfjanotkun í kjölfar innlagnar á lyflækningasvið Landspítala - Isabella María Eriksdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50200</guid>
+    </item>
+    <item>
+      <title>Consumption-based energy footprints in the Nordic countries with specific focus on spatial aspects and issues related to urban development</title>
+      <link>https://skemman.is/handle/1946/50199</link>
+      <description>Consumption-based energy footprints in the Nordic countries with specific focus on spatial aspects and issues related to urban development - Janne Petteri Kangaspunta 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50199</guid>
+    </item>
+    <item>
+      <title>Lokastigsnýrnabilun á Íslandi 2020 – 2024:  Nýgengi, meðferð og afdrif sjúklinga</title>
+      <link>https://skemman.is/handle/1946/50194</link>
+      <description>Lokastigsnýrnabilun á Íslandi 2020 – 2024:  Nýgengi, meðferð og afdrif sjúklinga - Haraldur Orri Arnarsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50194</guid>
+    </item>
+    <item>
+      <title>Notkun ljósabekkja á Íslandi 2004-2024: Áhrif lagasetningar og tengsl við húðkrabbamein</title>
+      <link>https://skemman.is/handle/1946/50198</link>
+      <description>Notkun ljósabekkja á Íslandi 2004-2024: Áhrif lagasetningar og tengsl við húðkrabbamein - Sandra Mist Úlfarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50198</guid>
+    </item>
+    <item>
+      <title>Graftarkýli í lifur - Faraldsfræði, orsakir, meðferð og afdrif</title>
+      <link>https://skemman.is/handle/1946/50195</link>
+      <description>Graftarkýli í lifur - Faraldsfræði, orsakir, meðferð og afdrif - Edda Sólveig Sigtryggsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50195</guid>
+    </item>
+    <item>
       <title>Effect of polymer size on polystyrene solubility</title>
       <link>https://skemman.is/handle/1946/50197</link>
       <description>Effect of polymer size on polystyrene solubility - Kristín Ösp Benediktsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50197</guid>
     </item>
     <item>
+      <title>Mæði hjá einstaklingum með offitu</title>
+      <link>https://skemman.is/handle/1946/50201</link>
+      <description>Mæði hjá einstaklingum með offitu - Unnur María Agnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50201</guid>
+    </item>
+    <item>
+      <title>Flip flop ferðamenn: Rannsókn á upplýsingagjöf ferðaþjónustufyrirtækja til ferðamanna</title>
+      <link>https://skemman.is/handle/1946/50205</link>
+      <description>Flip flop ferðamenn: Rannsókn á upplýsingagjöf ferðaþjónustufyrirtækja til ferðamanna - Eiríkur Þór Heiðarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50205</guid>
+    </item>
+    <item>
+      <title>Viðhorf til fiskeldis á Vestfjörðum og ímynd Vestfjarða sem áfangastaður</title>
+      <link>https://skemman.is/handle/1946/50207</link>
+      <description>Viðhorf til fiskeldis á Vestfjörðum og ímynd Vestfjarða sem áfangastaður - Jelena Rós Valsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50207</guid>
+    </item>
+    <item>
+      <title>Tækifæri eða ógn? Viðhorf íbúa Akraness til fyrirhugaðar hóteluppbyggingar á Jaðarsbökkum</title>
+      <link>https://skemman.is/handle/1946/50203</link>
+      <description>Tækifæri eða ógn? Viðhorf íbúa Akraness til fyrirhugaðar hóteluppbyggingar á Jaðarsbökkum - Erna Björt Elíasdóttir 2002-; Erika Bjarkadóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50203</guid>
+    </item>
+    <item>
+      <title>Computational Screening of 2D Doped Transition  Metal Disulfide for Electrocatalytic Nitrogen Reduction  Reaction</title>
+      <link>https://skemman.is/handle/1946/50206</link>
+      <description>Computational Screening of 2D Doped Transition  Metal Disulfide for Electrocatalytic Nitrogen Reduction  Reaction - Viko Tegara 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50206</guid>
+    </item>
+    <item>
+      <title>The Role of The Melanoma-Predisposing Variant E318K In MITF Function</title>
+      <link>https://skemman.is/handle/1946/50204</link>
+      <description>The Role of The Melanoma-Predisposing Variant E318K In MITF Function - Ásdís Karen Árnadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50204</guid>
+    </item>
+    <item>
+      <title>Áhrif þjónustuþátta á ánægju hótelgesta</title>
+      <link>https://skemman.is/handle/1946/50202</link>
+      <description>Áhrif þjónustuþátta á ánægju hótelgesta - Ingibjörg Magna Hilmarsdóttir Christensen 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50202</guid>
+    </item>
+    <item>
+      <title>Pre-use Phase Emissions of Residential  Neighborhood with Different Degrees of Sharing, A Case Study in Reykjavík, Iceland</title>
+      <link>https://skemman.is/handle/1946/50208</link>
+      <description>Pre-use Phase Emissions of Residential  Neighborhood with Different Degrees of Sharing, A Case Study in Reykjavík, Iceland - Barbora Ochotná 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50208</guid>
+    </item>
+    <item>
+      <title>Nikótínpúðar. Algengi nikótínpúða notkunar</title>
+      <link>https://skemman.is/handle/1946/50209</link>
+      <description>Nikótínpúðar. Algengi nikótínpúða notkunar - Jóna Kolbrún Helgadóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50209</guid>
+    </item>
+    <item>
+      <title>Glerefnasamsetning bólstrabergs og móbergs úr Vatnafjöllum og nágrenni: Samanburður við Heklu og Kötlu</title>
+      <link>https://skemman.is/handle/1946/50210</link>
+      <description>Glerefnasamsetning bólstrabergs og móbergs úr Vatnafjöllum og nágrenni: Samanburður við Heklu og Kötlu - Þorbjörg Anna Gísladóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50210</guid>
+    </item>
+    <item>
+      <title>Áhrif einstaklingsráðgjafar og hópmeðferðar á tilfinningastjórnun barna með ADHD: Samanburður á tveimur sálfræðilegum inngripum fyrir 9 til 12 ára börn</title>
+      <link>https://skemman.is/handle/1946/50211</link>
+      <description>Áhrif einstaklingsráðgjafar og hópmeðferðar á tilfinningastjórnun barna með ADHD: Samanburður á tveimur sálfræðilegum inngripum fyrir 9 til 12 ára börn - Kristín Ása Vilhjálmsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50211</guid>
+    </item>
+    <item>
+      <title>Surveying the parasitofauna of Sebastes norvegicus: uncovering potential biological tags for stock identification</title>
+      <link>https://skemman.is/handle/1946/50212</link>
+      <description>Surveying the parasitofauna of Sebastes norvegicus: uncovering potential biological tags for stock identification - Konný Íris Káradóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50212</guid>
+    </item>
+    <item>
+      <title>Membrane ProcesSilica Removal from Geothermal Fluids Towards Valuable Metal Extraction</title>
+      <link>https://skemman.is/handle/1946/50213</link>
+      <description>Membrane ProcesSilica Removal from Geothermal Fluids Towards Valuable Metal Extraction - Daniel Felipe Escobar Vargas 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50213</guid>
+    </item>
+    <item>
+      <title>Barnavernd; Hlutverk leikskóla í farsæld og vernd barna</title>
+      <link>https://skemman.is/handle/1946/50214</link>
+      <description>Barnavernd; Hlutverk leikskóla í farsæld og vernd barna - Nejira Zahirovic 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50214</guid>
+    </item>
+    <item>
+      <title>Controls of ice surface structures during the 1991 surge of Skeiðarárjökull on the post-surge glacial landsystem</title>
+      <link>https://skemman.is/handle/1946/50215</link>
+      <description>Controls of ice surface structures during the 1991 surge of Skeiðarárjökull on the post-surge glacial landsystem - Chelsea J. Hill 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50215</guid>
+    </item>
+    <item>
+      <title>Forprófun á foreldramatskvarða um félagshæfni og hegðun 6-15 ára barna og ungmenna</title>
+      <link>https://skemman.is/handle/1946/50216</link>
+      <description>Forprófun á foreldramatskvarða um félagshæfni og hegðun 6-15 ára barna og ungmenna - Kristín Erna Sigurjónsdóttir Waage 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50216</guid>
+    </item>
+    <item>
       <title>Psilocybin in the treatment of depression: A systematic review of efficacy, safety, and associated outcomes</title>
       <link>https://skemman.is/handle/1946/50190</link>
       <description>Psilocybin in the treatment of depression: A systematic review of efficacy, safety, and associated outcomes - Hjalti Gunnlaugur Skúlason 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50190</guid>
-    </item>
-    <item>
-      <title>Fjöltyngd sjálfsmynd nemenda - Samskipti, stuðningur og styrkleikar í skólastarfi</title>
-      <link>https://skemman.is/handle/1946/50185</link>
-      <description>Fjöltyngd sjálfsmynd nemenda - Samskipti, stuðningur og styrkleikar í skólastarfi - Hélène Rún Benjamínsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50185</guid>
-    </item>
-    <item>
-      <title>Líðan nemenda skiptir höfuðmáli: Starfendarannsókn um leiðir til að skilja líðan og þarfir nemenda til að stuðla að farsælli skólagöngu.</title>
-      <link>https://skemman.is/handle/1946/50184</link>
-      <description>Líðan nemenda skiptir höfuðmáli: Starfendarannsókn um leiðir til að skilja líðan og þarfir nemenda til að stuðla að farsælli skólagöngu. - Helena Rós Einarsdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50184</guid>
-    </item>
-    <item>
-      <title>Stakeholder Perspectives on Degrowth in Iceland´s Fashion Industry</title>
-      <link>https://skemman.is/handle/1946/50191</link>
-      <description>Stakeholder Perspectives on Degrowth in Iceland´s Fashion Industry - Daniel Thomas Esparza 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50191</guid>
-    </item>
-    <item>
-      <title>Tíðni og ábendingar gangsetninga fyrir 39 vikna meðgöngu</title>
-      <link>https://skemman.is/handle/1946/50187</link>
-      <description>Tíðni og ábendingar gangsetninga fyrir 39 vikna meðgöngu - Sigurbjörg Ýr Sigtryggsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50187</guid>
-    </item>
-    <item>
-      <title>Langtímaárangur kransæðahjáveituaðgerða á sláandi hjarta</title>
-      <link>https://skemman.is/handle/1946/50188</link>
-      <description>Langtímaárangur kransæðahjáveituaðgerða á sláandi hjarta - Kristjana Lind Ólafsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50188</guid>
-    </item>
-    <item>
-      <title>Breytingar á virkni í atferlisvirkjunarmeðferð við þunglyndi og áhrif alvarlegra lífsatburða í æsku á þær breytingar</title>
-      <link>https://skemman.is/handle/1946/50189</link>
-      <description>Breytingar á virkni í atferlisvirkjunarmeðferð við þunglyndi og áhrif alvarlegra lífsatburða í æsku á þær breytingar - Kolbrún Jónsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50189</guid>
-    </item>
-    <item>
-      <title>Mental Imagery in Synesthetes and Non-Synesthetes: A Comparative Study</title>
-      <link>https://skemman.is/handle/1946/50186</link>
-      <description>Mental Imagery in Synesthetes and Non-Synesthetes: A Comparative Study - Hrafnhildur Ólafsdóttir 2000-; Hulda Björk Gunnarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50186</guid>
-    </item>
-    <item>
-      <title>Greining og birting gagna. Getur Power BI innleiðing stutt við ákvarðanatöku í fyrirtækjum</title>
-      <link>https://skemman.is/handle/1946/50182</link>
-      <description>Greining og birting gagna. Getur Power BI innleiðing stutt við ákvarðanatöku í fyrirtækjum - Marteinn Snævarr Sigurðsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50182</guid>
-    </item>
-    <item>
-      <title>Stuðningur til sjálfstæðis - Handbók í starfi með fötluðu fólki</title>
-      <link>https://skemman.is/handle/1946/50183</link>
-      <description>Stuðningur til sjálfstæðis - Handbók í starfi með fötluðu fólki - Hrafnhildur Jónsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50183</guid>
-    </item>
-    <item>
-      <title>Spinal Muscular Atrophy in Iceland: A Retrospective Study of Prevalence, Incidence, and Treatment Response in Adults</title>
-      <link>https://skemman.is/handle/1946/50192</link>
-      <description>Spinal Muscular Atrophy in Iceland: A Retrospective Study of Prevalence, Incidence, and Treatment Response in Adults - Anna Sif Mainka Sveinsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50192</guid>
-    </item>
-    <item>
-      <title>Local Threads, Global Impact: Community Perspectives on  Fashion Waste Management in Iceland</title>
-      <link>https://skemman.is/handle/1946/50179</link>
-      <description>Local Threads, Global Impact: Community Perspectives on  Fashion Waste Management in Iceland - Yerim Kim 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50179</guid>
-    </item>
-    <item>
-      <title>Áhrif eins leyfisbréfs kennara á leikskólastigið</title>
-      <link>https://skemman.is/handle/1946/50162</link>
-      <description>Áhrif eins leyfisbréfs kennara á leikskólastigið - Guðmunda Vala Jónasdóttir 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50162</guid>
-    </item>
-    <item>
-      <title>Jákvæð endurgjöf og hrós í störfum grunnskólakennara</title>
-      <link>https://skemman.is/handle/1946/50161</link>
-      <description>Jákvæð endurgjöf og hrós í störfum grunnskólakennara - Guðmunda Gunnlaugsdóttir 1968-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50161</guid>
-    </item>
-    <item>
-      <title>Að endurheimta starfsgleði í gegnum listiðkun og sjálfsrækt: Starfendarannsókn sjónlistakennara á grunnskólastigi</title>
-      <link>https://skemman.is/handle/1946/50159</link>
-      <description>Að endurheimta starfsgleði í gegnum listiðkun og sjálfsrækt: Starfendarannsókn sjónlistakennara á grunnskólastigi - Arite Fricke 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50159</guid>
-    </item>
-    <item>
-      <title>Sýn leikskólabarna á ærslaleik og hlutverk kennara í leiknum</title>
-      <link>https://skemman.is/handle/1946/50160</link>
-      <description>Sýn leikskólabarna á ærslaleik og hlutverk kennara í leiknum - Atli Sævar Ágústsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50160</guid>
-    </item>
-    <item>
-      <title>Vitsmunaleg áskorun og samræða í kennslu samfélagsgreina á unglingastigi</title>
-      <link>https://skemman.is/handle/1946/50163</link>
-      <description>Vitsmunaleg áskorun og samræða í kennslu samfélagsgreina á unglingastigi - Victor Gísli E. Skúlason 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50163</guid>
-    </item>
-    <item>
-      <title>Dry-bleeding of Atlantic salmon (Salmo salar): Exsanguination efficacy of dry-bleeding and its impact on fillet quality and storage stability</title>
-      <link>https://skemman.is/handle/1946/50151</link>
-      <description>Dry-bleeding of Atlantic salmon (Salmo salar): Exsanguination efficacy of dry-bleeding and its impact on fillet quality and storage stability - Helena Þórdís Svavarsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50151</guid>
-    </item>
-    <item>
-      <title>Eftirmálalaus fæðing og jákvæð upplifun af fæðingu: Aftursýn ferilrannsókn</title>
-      <link>https://skemman.is/handle/1946/50153</link>
-      <description>Eftirmálalaus fæðing og jákvæð upplifun af fæðingu: Aftursýn ferilrannsókn - Guðríður Lilja Lýðsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50153</guid>
-    </item>
-    <item>
-      <title>Exploring Electronic Health Issues in Developing Countries: Case Study of Komfo Anokye Teaching Hospital (KATH), Ghana</title>
-      <link>https://skemman.is/handle/1946/50152</link>
-      <description>Exploring Electronic Health Issues in Developing Countries: Case Study of Komfo Anokye Teaching Hospital (KATH), Ghana - Benjamin Donkor 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50152</guid>
     </item>
   </channel>
 </rss>
