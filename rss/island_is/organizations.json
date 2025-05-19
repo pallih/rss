@@ -15,6 +15,11 @@
         "link": "https://island.is/s/shh/frett"
     },
     {
+        "slug": "logreglan",
+        "title": "Lögreglan",
+        "link": "https://island.is/s/logreglan/frett"
+    },
+    {
         "slug": "sjonstodin",
         "title": "Sjónstöðin",
         "link": "https://island.is/s/sjonstodin/frett"
@@ -95,9 +100,19 @@
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
+        "slug": "tryggingastofnun",
+        "title": "Tryggingastofnun",
+        "link": "https://island.is/s/tryggingastofnun/frett"
+    },
+    {
         "slug": "heradsdomstolar",
         "title": "Héraðsdómstólar",
         "link": "https://island.is/s/heradsdomstolar/frett"
+    },
+    {
+        "slug": "landsrettur",
+        "title": "Landsréttur",
+        "link": "https://island.is/s/landsrettur/frett"
     },
     {
         "slug": "midstod-menntunar-og-skolathjonustu",
