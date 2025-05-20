@@ -100,6 +100,11 @@
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
+        "slug": "tryggingastofnun",
+        "title": "Tryggingastofnun",
+        "link": "https://island.is/s/tryggingastofnun/frett"
+    },
+    {
         "slug": "heradsdomstolar",
         "title": "Héraðsdómstólar",
         "link": "https://island.is/s/heradsdomstolar/frett"
@@ -128,6 +133,11 @@
         "slug": "syslumenn",
         "title": "Sýslumenn",
         "link": "https://island.is/s/syslumenn/frett"
+    },
+    {
+        "slug": "sjukratryggingar",
+        "title": "Sjúkratryggingar",
+        "link": "https://island.is/s/sjukratryggingar/frett"
     },
     {
         "slug": "sak",
@@ -165,9 +175,19 @@
         "link": "https://island.is/s/gev/frett"
     },
     {
+        "slug": "geislavarnir-rikisins",
+        "title": "Geislavarnir ríkisins",
+        "link": "https://island.is/s/geislavarnir-rikisins/frett"
+    },
+    {
         "slug": "hsn",
         "title": "Heilbrigðisstofnun Norðurlands",
         "link": "https://island.is/s/hsn/frett"
+    },
+    {
+        "slug": "hsu",
+        "title": "Heilbrigðisstofnun Suðurlands",
+        "link": "https://island.is/s/hsu/frett"
     },
     {
         "slug": "rikislogmadur",
