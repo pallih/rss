@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 22 May 2025 11:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 12:10:54 +0000</lastBuildDate>
     <item>
       <title>Hefur viðbót nálastungna (dry needling) við hefðbundna sjúkraþjálfun bættan árangur meðferða í samanburði við hefðbundna sjúkraþjálfun eina og sér? - Samantekt á kerfisbundnum yfirlitum</title>
       <link>https://skemman.is/handle/1946/50321</link>
@@ -87,6 +87,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50333</guid>
     </item>
     <item>
+      <title>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á mætingu og skólafærni nemenda í sértæku skólaúrræði</title>
+      <link>https://skemman.is/handle/1946/50334</link>
+      <description>Áhrif hvatningarkerfis með Beanfee hugbúnaðinum á mætingu og skólafærni nemenda í sértæku skólaúrræði - Hanna Tara Pálmadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50334</guid>
+    </item>
+    <item>
+      <title>Compression of Cell-by-Gene Matrices</title>
+      <link>https://skemman.is/handle/1946/50335</link>
+      <description>Compression of Cell-by-Gene Matrices - Jökull Ari Haraldsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50335</guid>
+    </item>
+    <item>
+      <title>Eru sjálfsvíg helsta dánarorsök ungs fólks á Íslandi?: Röðun dánarorsaka á Íslandi eftir aldri og kyni</title>
+      <link>https://skemman.is/handle/1946/50336</link>
+      <description>Eru sjálfsvíg helsta dánarorsök ungs fólks á Íslandi?: Röðun dánarorsaka á Íslandi eftir aldri og kyni - Tinna Ramdani 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50336</guid>
+    </item>
+    <item>
       <title>Örverustrengir og -mottur á jarðhitasvæðum; bygging þeirra og einangrun stofna</title>
       <link>https://skemman.is/handle/1946/50317</link>
       <description>Örverustrengir og -mottur á jarðhitasvæðum; bygging þeirra og einangrun stofna - Áróra Pála Jóhönnudóttir 2002-</description>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/50308</link>
       <description>Ensemble perception: Does attention influence the extraction of averages? - Margrét Bóthildardóttir 1995-; Eydís Ögn Guðmundsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50308</guid>
-    </item>
-    <item>
-      <title>Finite element model validation of tubular CFRP-metal adhesive joints</title>
-      <link>https://skemman.is/handle/1946/50312</link>
-      <description>Finite element model validation of tubular CFRP-metal adhesive joints - Óðinn Eldon Ragnarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50312</guid>
-    </item>
-    <item>
-      <title>Dissecting the biochemical properties of Human ATG7 isoforms</title>
-      <link>https://skemman.is/handle/1946/50315</link>
-      <description>Dissecting the biochemical properties of Human ATG7 isoforms - Birgitta Ósk Örvarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50315</guid>
-    </item>
-    <item>
-      <title>Effect of CXCR4 oral inhibition in the development of heart failure under pressure overload</title>
-      <link>https://skemman.is/handle/1946/50281</link>
-      <description>Effect of CXCR4 oral inhibition in the development of heart failure under pressure overload - Artemijs Vasjanovics 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50281</guid>
     </item>
   </channel>
 </rss>
