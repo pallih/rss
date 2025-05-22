@@ -40,6 +40,11 @@
         "link": "https://island.is/s/faggilding/frett"
     },
     {
+        "slug": "skipulagsstofnun",
+        "title": "Skipulagsstofnun",
+        "link": "https://island.is/s/skipulagsstofnun/frett"
+    },
+    {
         "slug": "thjodskjalasafn",
         "title": "Þjóðskjalasafn Íslands",
         "link": "https://island.is/s/thjodskjalasafn/frett"
@@ -100,6 +105,11 @@
         "link": "https://island.is/s/tryggingastofnun/frett"
     },
     {
+        "slug": "heradsdomstolar",
+        "title": "Héraðsdómstólar",
+        "link": "https://island.is/s/heradsdomstolar/frett"
+    },
+    {
         "slug": "landsrettur",
         "title": "Landsréttur",
         "link": "https://island.is/s/landsrettur/frett"
@@ -148,6 +158,11 @@
         "slug": "landskjorstjorn",
         "title": "Landskjörstjórn",
         "link": "https://island.is/s/landskjorstjorn/frett"
+    },
+    {
+        "slug": "samgongustofa",
+        "title": "Samgöngustofa",
+        "link": "https://island.is/s/samgongustofa/frett"
     },
     {
         "slug": "rikissaksoknari",
