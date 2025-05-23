@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 May 2025 15:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 16:07:22 +0000</lastBuildDate>
     <item>
       <title>Hvað skýrir NIMBY-viðhorf? Andstaða gegn búsetuúræðum fyrir heimilislausa og flóttafólk á Íslandi.</title>
       <link>https://skemman.is/handle/1946/50358</link>
@@ -135,10 +135,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50369</guid>
     </item>
     <item>
-      <title>A Mokken Scale Analysis of LANIS-1: Psychometric Evaluation of a Screening Tool for Language and Speech Difficulties in Preschool Children</title>
-      <link>https://skemman.is/handle/1946/50376</link>
-      <description>A Mokken Scale Analysis of LANIS-1: Psychometric Evaluation of a Screening Tool for Language and Speech Difficulties in Preschool Children - Patrekur Örn Gestsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50376</guid>
+      <title>Formgerðargreining á foreldramatsútgáfu RCADS-25 í almennu úrtaki grunnskólabarna</title>
+      <link>https://skemman.is/handle/1946/50378</link>
+      <description>Formgerðargreining á foreldramatsútgáfu RCADS-25 í almennu úrtaki grunnskólabarna - Haraldur Rúnar Einarsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50378</guid>
     </item>
     <item>
       <title>Rumination as a Mechanism of Change During Behavioral Activation Treatment for Depression</title>
@@ -153,10 +153,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50360</guid>
     </item>
     <item>
-      <title>Formgerðargreining á foreldramatsútgáfu RCADS-25 í almennu úrtaki grunnskólabarna</title>
-      <link>https://skemman.is/handle/1946/50378</link>
-      <description>Formgerðargreining á foreldramatsútgáfu RCADS-25 í almennu úrtaki grunnskólabarna - Haraldur Rúnar Einarsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50378</guid>
+      <title>A Mokken Scale Analysis of LANIS-1: Psychometric Evaluation of a Screening Tool for Language and Speech Difficulties in Preschool Children</title>
+      <link>https://skemman.is/handle/1946/50376</link>
+      <description>A Mokken Scale Analysis of LANIS-1: Psychometric Evaluation of a Screening Tool for Language and Speech Difficulties in Preschool Children - Patrekur Örn Gestsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50376</guid>
     </item>
   </channel>
 </rss>
