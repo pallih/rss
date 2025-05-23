@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 May 2025 11:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 12:10:35 +0000</lastBuildDate>
     <item>
       <title>Hvað skýrir NIMBY-viðhorf? Andstaða gegn búsetuúræðum fyrir heimilislausa og flóttafólk á Íslandi.</title>
       <link>https://skemman.is/handle/1946/50358</link>
@@ -99,6 +99,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50368</guid>
     </item>
     <item>
+      <title>HACCP analysis in production at Stjörnugrís hf.</title>
+      <link>https://skemman.is/handle/1946/50369</link>
+      <description>HACCP analysis in production at Stjörnugrís hf. - Inga Dóra Kristjánsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50369</guid>
+    </item>
+    <item>
+      <title>Almost Sold Out!: Psychological and marketing drivers of compulsive buying in online fashion</title>
+      <link>https://skemman.is/handle/1946/50370</link>
+      <description>Almost Sold Out!: Psychological and marketing drivers of compulsive buying in online fashion - Helga Soffía Sigurðardóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50370</guid>
+    </item>
+    <item>
       <title>Examining the Effects of Cancer Associated Mutations on FOXA1 Structure and DNA interactions.</title>
       <link>https://skemman.is/handle/1946/50353</link>
       <description>Examining the Effects of Cancer Associated Mutations on FOXA1 Structure and DNA interactions. - Magnea Sól Sigmarsdóttir 1998-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50322</link>
       <description>How stimulus contrast in ensembles affects serial dependence - Kristín Pálmadóttir Thorlacius 2002-; Katrín Rós Bárðardóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50322</guid>
-    </item>
-    <item>
-      <title>Food product development from various seaweed species</title>
-      <link>https://skemman.is/handle/1946/50328</link>
-      <description>Food product development from various seaweed species - Baldur Örn Þórarinsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50328</guid>
-    </item>
-    <item>
-      <title>Tusk Around Iceland as a Potential Vector of Anisakiasis</title>
-      <link>https://skemman.is/handle/1946/50327</link>
-      <description>Tusk Around Iceland as a Potential Vector of Anisakiasis - Hrefna Kristín Rúnarsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50327</guid>
     </item>
   </channel>
 </rss>
