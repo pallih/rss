@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 May 2025 11:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 12:10:33 +0000</lastBuildDate>
     <item>
       <title>Comparing the availability and use of biophysical agents by Icelandic physical therapists to other countries: An integrative review</title>
       <link>https://skemman.is/handle/1946/50384</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50396</guid>
     </item>
     <item>
+      <title>Culture, revenue, recreation, and nature: Navigating challenges in reindeer management in Iceland</title>
+      <link>https://skemman.is/handle/1946/50397</link>
+      <description>Culture, revenue, recreation, and nature: Navigating challenges in reindeer management in Iceland - Jorden Pieter Richard Hendrik Knubben 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50397</guid>
+    </item>
+    <item>
       <title>Hvað skýrir NIMBY-viðhorf? Andstaða gegn búsetuúræðum fyrir heimilislausa og flóttafólk á Íslandi.</title>
       <link>https://skemman.is/handle/1946/50358</link>
       <description>Hvað skýrir NIMBY-viðhorf? Andstaða gegn búsetuúræðum fyrir heimilislausa og flóttafólk á Íslandi. - Katrín Jónsdóttir 1971-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50366</link>
       <description>The effect of EGFL7 on the TGF-β/BMP family - Rakel Karen Hrefnudóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50366</guid>
-    </item>
-    <item>
-      <title>Athafnasvæði daglegs lífs og útivera á grænum svæðum. Könnun meðal eldra fólks á Íslandi</title>
-      <link>https://skemman.is/handle/1946/50364</link>
-      <description>Athafnasvæði daglegs lífs og útivera á grænum svæðum. Könnun meðal eldra fólks á Íslandi - Patrekur Andrés Axelsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50364</guid>
     </item>
   </channel>
 </rss>
