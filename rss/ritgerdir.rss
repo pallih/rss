@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 27 May 2025 14:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 15:11:56 +0000</lastBuildDate>
     <item>
       <title>Home delivered meals and oral nutritional supplements among community-dwelling elderly receiving home nursing care services in the capital area</title>
       <link>https://skemman.is/handle/1946/50414</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/50418</link>
       <description>Hversu raunhæft er að reka lággjaldaflugfélag á Íslandi með áherslu á tengiflug og langflug?: Eigindleg greining á reynslu og viðhorfum til flugrekstrar lággjaldaflugfélaga á Íslandi með áherslu á tengiflug og langflug - Viktor Már Birkisson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50418</guid>
+    </item>
+    <item>
+      <title>Fínhreyfifærni hjá börnum og ungmennum sem hafa fengið bráðaeitilfrumuhvítblæði</title>
+      <link>https://skemman.is/handle/1946/50419</link>
+      <description>Fínhreyfifærni hjá börnum og ungmennum sem hafa fengið bráðaeitilfrumuhvítblæði - Jökull Steinn Ólafsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50419</guid>
     </item>
     <item>
       <title>Bætt heilsutengd lífsgæði samhliða hreyfiseðilsúrræðinu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50407</link>
       <description>Sjálfbært sumarhús : Hönnun og mat á orkuöflun og nýtingu - Oddur Þór Unnsteinsson 2000-; Rannveig Rúna Guðmundsdóttir Saari 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50407</guid>
-    </item>
-    <item>
-      <title>Steinshlíð 11 : Raflagnir í sumarbústað</title>
-      <link>https://skemman.is/handle/1946/50404</link>
-      <description>Steinshlíð 11 : Raflagnir í sumarbústað - Agnar Tryggvason 1998-; Jóhannes Friðrik Ingimundarson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50404</guid>
     </item>
   </channel>
 </rss>
