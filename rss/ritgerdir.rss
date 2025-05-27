@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 27 May 2025 12:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 13:15:59 +0000</lastBuildDate>
     <item>
       <title>Home delivered meals and oral nutritional supplements among community-dwelling elderly receiving home nursing care services in the capital area</title>
       <link>https://skemman.is/handle/1946/50414</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/50411</link>
       <description>Algengi Helicobacter pylori hjá fullorðnum einstaklingum á Íslandi - Jón Bjartur Þorsteinsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50411</guid>
+    </item>
+    <item>
+      <title>Autologous hematopoietic stem cell transplantation in Iceland: A 20-year review of the quality program and the compatibility of long-term stored test vials and transplant bags</title>
+      <link>https://skemman.is/handle/1946/50416</link>
+      <description>Autologous hematopoietic stem cell transplantation in Iceland: A 20-year review of the quality program and the compatibility of long-term stored test vials and transplant bags - Bryndís Huld Þórarinsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50416</guid>
+    </item>
+    <item>
+      <title>Cellular interaction of endothelial cells and pancreatic cancer cells in 3D culture</title>
+      <link>https://skemman.is/handle/1946/50417</link>
+      <description>Cellular interaction of endothelial cells and pancreatic cancer cells in 3D culture - Soffía Guðmundsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50417</guid>
     </item>
     <item>
       <title>Bætt heilsutengd lífsgæði samhliða hreyfiseðilsúrræðinu</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50408</link>
       <description>Raflagnahönnun í fjölbýlishús : Kolbrúnargata 1 - Guðbjartur Óli Kristjánsson 1973-; Magnús Björgvinsson 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50408</guid>
-    </item>
-    <item>
-      <title>Lýsingarhönnun Síldarvinnslan</title>
-      <link>https://skemman.is/handle/1946/50403</link>
-      <description>Lýsingarhönnun Síldarvinnslan - Högni Guðlaugur Jónsson 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50403</guid>
-    </item>
-    <item>
-      <title>Meta-analysis of Somatic Mutations in Lung Cancer</title>
-      <link>https://skemman.is/handle/1946/50386</link>
-      <description>Meta-analysis of Somatic Mutations in Lung Cancer - Þorri Þórarinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50386</guid>
     </item>
   </channel>
 </rss>
