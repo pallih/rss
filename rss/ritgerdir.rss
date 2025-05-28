@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 28 May 2025 11:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 14:11:44 +0000</lastBuildDate>
     <item>
       <title>Umhverfisþættir sem geta verið hindranir eða hvatar hjá börnum með cerebral palsy (CP)</title>
       <link>https://skemman.is/handle/1946/50421</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/50423</link>
       <description>Verklýsing fyrir val á virkni gervihnés eftir aflimun - Freyja Sóllilja Sverrisdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50423</guid>
+    </item>
+    <item>
+      <title>A preliminary study on microbial diversity along a temperature gradient</title>
+      <link>https://skemman.is/handle/1946/50424</link>
+      <description>A preliminary study on microbial diversity along a temperature gradient - Mikael Norðquist 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50424</guid>
+    </item>
+    <item>
+      <title>Effect of cold storage of platelet concentrates on biochemical properties of platelets</title>
+      <link>https://skemman.is/handle/1946/50425</link>
+      <description>Effect of cold storage of platelet concentrates on biochemical properties of platelets - Snædís Vala Kristleifsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50425</guid>
     </item>
     <item>
       <title>Home delivered meals and oral nutritional supplements among community-dwelling elderly receiving home nursing care services in the capital area</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50385</link>
       <description>Lost in Translation? Not Anymore: A Mokken Scale Analysis of the Revised Icelandic Translation of the PHQ-9 - Laufey Ósk Jónsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50385</guid>
-    </item>
-    <item>
-      <title>Áhrif sjúkraþjálfunar á göngugetu og færni einstaklinga í hjólastól eftir heilablóðfall</title>
-      <link>https://skemman.is/handle/1946/50383</link>
-      <description>Áhrif sjúkraþjálfunar á göngugetu og færni einstaklinga í hjólastól eftir heilablóðfall - Arnór Smári Sverrisson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50383</guid>
-    </item>
-    <item>
-      <title>Áhrif ATL2 á framgang brjóstakrabbameins</title>
-      <link>https://skemman.is/handle/1946/50405</link>
-      <description>Áhrif ATL2 á framgang brjóstakrabbameins - Nataliya Shabatura 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50405</guid>
     </item>
   </channel>
 </rss>
