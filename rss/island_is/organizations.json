@@ -1,13 +1,13 @@
 [
     {
-        "slug": "logreglan",
-        "title": "Lögreglan",
-        "link": "https://island.is/s/logreglan/frett"
-    },
-    {
         "slug": "hve",
         "title": "Heilbrigðisstofnun Vesturlands",
         "link": "https://island.is/s/hve/frett"
+    },
+    {
+        "slug": "logreglan",
+        "title": "Lögreglan",
+        "link": "https://island.is/s/logreglan/frett"
     },
     {
         "slug": "land-og-skogur",
