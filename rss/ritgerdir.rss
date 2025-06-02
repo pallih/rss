@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 02 Jun 2025 11:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 12:15:56 +0000</lastBuildDate>
     <item>
       <title>Þróun þrívíðs samræktunarfrumumódels til að meta sértæka virkjun ónæmisfrumna gegn brjóstakrabbameinsfrumum</title>
       <link>https://skemman.is/handle/1946/50430</link>
@@ -37,6 +37,48 @@
       <link>https://skemman.is/handle/1946/50434</link>
       <description>Notkun ómunar við greiningu á beinbrotum barna: Samanburður við röntgenmyndatöku - Margrét K. Olgeirsdóttir Ralston 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50434</guid>
+    </item>
+    <item>
+      <title>Afkomuspá</title>
+      <link>https://skemman.is/handle/1946/50435</link>
+      <description>Afkomuspá - Sigrún Snæfríður Hauksdóttir 2002-; Anna Linda Pálsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50435</guid>
+    </item>
+    <item>
+      <title>Menu Manager</title>
+      <link>https://skemman.is/handle/1946/50436</link>
+      <description>Menu Manager - Elmar Snær Ingólfsson 1996-; Ari Steinn Guðmundsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50436</guid>
+    </item>
+    <item>
+      <title>Fake news detector</title>
+      <link>https://skemman.is/handle/1946/50437</link>
+      <description>Fake news detector - Svavar Bjarki Bjarnason 2001-; Jón Arnar Snorrason 2001-; Jón Stefán Friðriksson 2003-; Sæþór Berg Ásgeirsson 2001-; Þorsteinn Már Höskuldsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50437</guid>
+    </item>
+    <item>
+      <title>Lesa : Lestrarforrit fyrir börn</title>
+      <link>https://skemman.is/handle/1946/50439</link>
+      <description>Lesa : Lestrarforrit fyrir börn - Andrea Helga Jónsdóttir 1997-; Gylfi Thors 1988-; Haukur Aðalsteinsson 2001-; Hildur Bryndís Árnadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50439</guid>
+    </item>
+    <item>
+      <title>Merger Kingdom Defence</title>
+      <link>https://skemman.is/handle/1946/50438</link>
+      <description>Merger Kingdom Defence - Baldur Þór Jónasson 1996-; Bjarni Bærings Halldórsson 2001-; Krummi Poomi Gunnarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50438</guid>
+    </item>
+    <item>
+      <title>Snjallar starfsáætlanir</title>
+      <link>https://skemman.is/handle/1946/50440</link>
+      <description>Snjallar starfsáætlanir - Selma Lind Kristinsdóttir 2002-; Sædís Ósk Einarsdóttir 2002-; Jón Bjarki Gíslason 2002-; Hrafnkell Orri Elvarsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50440</guid>
+    </item>
+    <item>
+      <title>Geðveikt starf</title>
+      <link>https://skemman.is/handle/1946/50441</link>
+      <description>Geðveikt starf - Unnur Ingvarsdóttir Olsen 2002-; Árný Ingvarsdóttir Olsen 2002-; Harpa Jóhannsdóttir 1998-; Sturla Emil Sturluson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50441</guid>
     </item>
     <item>
       <title>Bekkjarstjórnun með Hvatningarleiknum:  Mat á áhrifum tveggja útfærslna á óæskilega hegðun, námsástundun og hávaða í kennslustofum</title>
@@ -115,48 +157,6 @@
       <link>https://skemman.is/handle/1946/50412</link>
       <description>Kransæðarannsóknir með tvíorku-tölvusneiðmyndatækni: Kerfisbundið yfirlit - Tinna Klemenzdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50412</guid>
-    </item>
-    <item>
-      <title>Algengi Helicobacter pylori hjá fullorðnum einstaklingum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/50411</link>
-      <description>Algengi Helicobacter pylori hjá fullorðnum einstaklingum á Íslandi - Jón Bjartur Þorsteinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50411</guid>
-    </item>
-    <item>
-      <title>Autologous hematopoietic stem cell transplantation in Iceland: A 20-year review of the quality program and the compatibility of long-term stored test vials and transplant bags</title>
-      <link>https://skemman.is/handle/1946/50416</link>
-      <description>Autologous hematopoietic stem cell transplantation in Iceland: A 20-year review of the quality program and the compatibility of long-term stored test vials and transplant bags - Bryndís Huld Þórarinsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50416</guid>
-    </item>
-    <item>
-      <title>Cellular interaction of endothelial cells and pancreatic cancer cells in 3D culture</title>
-      <link>https://skemman.is/handle/1946/50417</link>
-      <description>Cellular interaction of endothelial cells and pancreatic cancer cells in 3D culture - Soffía Guðmundsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50417</guid>
-    </item>
-    <item>
-      <title>Hversu raunhæft er að reka lággjaldaflugfélag á Íslandi með áherslu á tengiflug og langflug?: Eigindleg greining á reynslu og viðhorfum til flugrekstrar lággjaldaflugfélaga á Íslandi með áherslu á tengiflug og langflug</title>
-      <link>https://skemman.is/handle/1946/50418</link>
-      <description>Hversu raunhæft er að reka lággjaldaflugfélag á Íslandi með áherslu á tengiflug og langflug?: Eigindleg greining á reynslu og viðhorfum til flugrekstrar lággjaldaflugfélaga á Íslandi með áherslu á tengiflug og langflug - Viktor Már Birkisson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50418</guid>
-    </item>
-    <item>
-      <title>Fínhreyfifærni hjá börnum og ungmennum sem hafa fengið bráðaeitilfrumuhvítblæði</title>
-      <link>https://skemman.is/handle/1946/50419</link>
-      <description>Fínhreyfifærni hjá börnum og ungmennum sem hafa fengið bráðaeitilfrumuhvítblæði - Jökull Steinn Ólafsson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50419</guid>
-    </item>
-    <item>
-      <title>Réttmæti foreldra og kennara við mat á talnafærni barna við upphaf grunnskóla</title>
-      <link>https://skemman.is/handle/1946/50420</link>
-      <description>Réttmæti foreldra og kennara við mat á talnafærni barna við upphaf grunnskóla - Brynhildur Vala Björnsdóttir 2001-; Karen Lind Skúladóttir 2001-; Snæfríður Blær Tindsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50420</guid>
-    </item>
-    <item>
-      <title>Bætt heilsutengd lífsgæði samhliða hreyfiseðilsúrræðinu</title>
-      <link>https://skemman.is/handle/1946/50394</link>
-      <description>Bætt heilsutengd lífsgæði samhliða hreyfiseðilsúrræðinu - India Bríet Böðvarsdóttir Terry 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50394</guid>
     </item>
   </channel>
 </rss>
