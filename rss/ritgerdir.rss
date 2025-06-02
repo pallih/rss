@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 02 Jun 2025 13:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 16:12:34 +0000</lastBuildDate>
+    <item>
+      <title>Fake news detector</title>
+      <link>https://skemman.is/handle/1946/50437</link>
+      <description>Fake news detector - Svavar Bjarki Bjarnason 2001-; Jón Arnar Snorrason 2001-; Jón Stefán Friðriksson 2003-; Sæþór Berg Ásgeirsson 2001-; Þorsteinn Már Höskuldsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50437</guid>
+    </item>
+    <item>
+      <title>Smáforritið Vörn</title>
+      <link>https://skemman.is/handle/1946/50442</link>
+      <description>Smáforritið Vörn - Jóhanna Guðrún Jóhannsdóttir 2000-; Oliver Ormar Ingvarsson 2001-; Agnar Davíð Halldórsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50442</guid>
+    </item>
+    <item>
+      <title>Afkomuspá</title>
+      <link>https://skemman.is/handle/1946/50435</link>
+      <description>Afkomuspá - Sigrún Snæfríður Hauksdóttir 2002-; Anna Linda Pálsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50435</guid>
+    </item>
+    <item>
+      <title>Snjallar starfsáætlanir</title>
+      <link>https://skemman.is/handle/1946/50440</link>
+      <description>Snjallar starfsáætlanir - Selma Lind Kristinsdóttir 2002-; Sædís Ósk Einarsdóttir 2002-; Jón Bjarki Gíslason 2002-; Hrafnkell Orri Elvarsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50440</guid>
+    </item>
     <item>
       <title>Þróun þrívíðs samræktunarfrumumódels til að meta sértæka virkjun ónæmisfrumna gegn brjóstakrabbameinsfrumum</title>
       <link>https://skemman.is/handle/1946/50430</link>
@@ -39,22 +63,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50434</guid>
     </item>
     <item>
-      <title>Afkomuspá</title>
-      <link>https://skemman.is/handle/1946/50435</link>
-      <description>Afkomuspá - Sigrún Snæfríður Hauksdóttir 2002-; Anna Linda Pálsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50435</guid>
-    </item>
-    <item>
-      <title>Menu Manager</title>
-      <link>https://skemman.is/handle/1946/50436</link>
-      <description>Menu Manager - Elmar Snær Ingólfsson 1996-; Ari Steinn Guðmundsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50436</guid>
-    </item>
-    <item>
-      <title>Fake news detector</title>
-      <link>https://skemman.is/handle/1946/50437</link>
-      <description>Fake news detector - Svavar Bjarki Bjarnason 2001-; Jón Arnar Snorrason 2001-; Jón Stefán Friðriksson 2003-; Sæþór Berg Ásgeirsson 2001-; Þorsteinn Már Höskuldsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50437</guid>
+      <title>Diagnostic Accuracy and Predictive Value of Different Measurement Methods for Free Light Chains in Serum</title>
+      <link>https://skemman.is/handle/1946/50447</link>
+      <description>Diagnostic Accuracy and Predictive Value of Different Measurement Methods for Free Light Chains in Serum - Jóhanna Vigdís Guðjónsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50447</guid>
     </item>
     <item>
       <title>Lesa : Lestrarforrit fyrir börn</title>
@@ -63,16 +75,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50439</guid>
     </item>
     <item>
+      <title>Kiddo - Family Calendar : Fjölskyldumiðað dagatalsforrit</title>
+      <link>https://skemman.is/handle/1946/50445</link>
+      <description>Kiddo - Family Calendar : Fjölskyldumiðað dagatalsforrit - Elísabet B Shen Jóhannesdóttir 1997-; Arnar Jónsson 1999-; Sævar Reynisson 1999-; Katrín Tinna Sævarsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50445</guid>
+    </item>
+    <item>
+      <title>Digital aftercare plan in the mobile application Bati</title>
+      <link>https://skemman.is/handle/1946/50443</link>
+      <description>Digital aftercare plan in the mobile application Bati - Kristlind Viktoría L. Sörensen 1992-; Bragi Karl Bjarkason 2002-; Bjarni Gunnar Eiðsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50443</guid>
+    </item>
+    <item>
+      <title>Samþætting samskiptakerfa Bláa Lónsins og Bokun.is</title>
+      <link>https://skemman.is/handle/1946/50446</link>
+      <description>Samþætting samskiptakerfa Bláa Lónsins og Bokun.is - Alessandro Manfrini 1995-; Snorri Már Gunnarsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50446</guid>
+    </item>
+    <item>
+      <title>Slack-Autotask Bot og gagnaöryggi</title>
+      <link>https://skemman.is/handle/1946/50444</link>
+      <description>Slack-Autotask Bot og gagnaöryggi - Júlíus Freyr Liljuson 2003-; Þórdís Matthea Eiríksdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50444</guid>
+    </item>
+    <item>
       <title>Merger Kingdom Defence</title>
       <link>https://skemman.is/handle/1946/50438</link>
       <description>Merger Kingdom Defence - Baldur Þór Jónasson 1996-; Bjarni Bærings Halldórsson 2001-; Krummi Poomi Gunnarsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50438</guid>
     </item>
     <item>
-      <title>Snjallar starfsáætlanir</title>
-      <link>https://skemman.is/handle/1946/50440</link>
-      <description>Snjallar starfsáætlanir - Selma Lind Kristinsdóttir 2002-; Sædís Ósk Einarsdóttir 2002-; Jón Bjarki Gíslason 2002-; Hrafnkell Orri Elvarsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50440</guid>
+      <title>Breytingaskreytingar</title>
+      <link>https://skemman.is/handle/1946/50448</link>
+      <description>Breytingaskreytingar - Ronja Jóhannsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50448</guid>
     </item>
     <item>
       <title>Geðveikt starf</title>
@@ -81,82 +117,46 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50441</guid>
     </item>
     <item>
-      <title>Bekkjarstjórnun með Hvatningarleiknum:  Mat á áhrifum tveggja útfærslna á óæskilega hegðun, námsástundun og hávaða í kennslustofum</title>
-      <link>https://skemman.is/handle/1946/50428</link>
-      <description>Bekkjarstjórnun með Hvatningarleiknum:  Mat á áhrifum tveggja útfærslna á óæskilega hegðun, námsástundun og hávaða í kennslustofum - Daníel Tjörvi Hannesson 2000-; Bryndís Davíðsdóttir 1996-; Sóley Hafsteinsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50428</guid>
+      <title>Menu Manager</title>
+      <link>https://skemman.is/handle/1946/50436</link>
+      <description>Menu Manager - Elmar Snær Ingólfsson 1996-; Ari Steinn Guðmundsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50436</guid>
     </item>
     <item>
-      <title>The effects of Atg7 on cancer progression in Drosophila melanogaster</title>
-      <link>https://skemman.is/handle/1946/50429</link>
-      <description>The effects of Atg7 on cancer progression in Drosophila melanogaster - Kári Hertervig Ísleifsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50429</guid>
+      <title>Cooperative Game-based Vocabulary Learning for Children on the Autism Spectrum</title>
+      <link>https://skemman.is/handle/1946/50452</link>
+      <description>Cooperative Game-based Vocabulary Learning for Children on the Autism Spectrum - Pawel Chodkiewicz 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50452</guid>
     </item>
     <item>
-      <title>Nýgengi skurðsárasýkinga eftir krabbameinsskurðaðgerðir á brjóstum árin 2022-2024</title>
-      <link>https://skemman.is/handle/1946/50427</link>
-      <description>Nýgengi skurðsárasýkinga eftir krabbameinsskurðaðgerðir á brjóstum árin 2022-2024 - Embla Þöll Einarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50427</guid>
+      <title>Challenges and pitfalls while emulating six current Icelandic household routers</title>
+      <link>https://skemman.is/handle/1946/50456</link>
+      <description>Challenges and pitfalls while emulating six current Icelandic household routers - Bergur Halldórsson 1993-; Jóhann Hilmir Gunnarsson 1994-; Kristófer Helgi Sigurðsson 1998-; Oliver Gabríel Figlarski 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50456</guid>
     </item>
     <item>
-      <title>The Effects of adgrl3.1 Mutation on Neuroinflammation in the Zebrafish Brain: Neuroinflammation in ADHD etiology</title>
-      <link>https://skemman.is/handle/1946/50426</link>
-      <description>The Effects of adgrl3.1 Mutation on Neuroinflammation in the Zebrafish Brain: Neuroinflammation in ADHD etiology - Þór Birgisson 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50426</guid>
+      <title>Data Visualization Powered by Artificial Intelligence</title>
+      <link>https://skemman.is/handle/1946/50450</link>
+      <description>Data Visualization Powered by Artificial Intelligence - Adele Alexandra Bernabe Pálsson 2003-; Arnór Gauti Úlfarsson 2003-; Birkir Freyr Konráðsson 2000-; Dagur Már Oddsson 2003-; Guðmundur Örn Arnarsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50450</guid>
     </item>
     <item>
-      <title>Loftslagskvíði og forvarnarmiðuð sjálfbærnikennsla í grunnskóla: Samþætting SEE Learning, Innri þróunarmarkmiðanna, HEARTS og áfallamiðaðrar kennslufræði</title>
-      <link>https://skemman.is/handle/1946/50422</link>
-      <description>Loftslagskvíði og forvarnarmiðuð sjálfbærnikennsla í grunnskóla: Samþætting SEE Learning, Innri þróunarmarkmiðanna, HEARTS og áfallamiðaðrar kennslufræði - Guðný Jórunn Gunnarsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50422</guid>
+      <title>Arion banki: Brottfallslíkan fyrir þjónustuþætti</title>
+      <link>https://skemman.is/handle/1946/50455</link>
+      <description>Arion banki: Brottfallslíkan fyrir þjónustuþætti - Marteinn Hjálmarsson 2001-; Bjarki Þór Björnsson 2002-; Björn Víkingur Borg 2002-; Jóhann Ágúst Hafsteinsson 2002-; Lárus Bergmann Hákonarson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50455</guid>
     </item>
     <item>
-      <title>Effect of cold storage of platelet concentrates on biochemical properties of platelets</title>
-      <link>https://skemman.is/handle/1946/50425</link>
-      <description>Effect of cold storage of platelet concentrates on biochemical properties of platelets - Snædís Vala Kristleifsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50425</guid>
+      <title>Snjallforrit fyrir skimun á lungnasjúkdómum</title>
+      <link>https://skemman.is/handle/1946/50453</link>
+      <description>Snjallforrit fyrir skimun á lungnasjúkdómum - Sigurður P. Ndaw Sigursteinsson 2002-; Grímur Dagur Grímsson 2002-; Kristján Tjörvi Kristjánsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50453</guid>
     </item>
     <item>
-      <title>Verklýsing fyrir val á virkni gervihnés eftir aflimun</title>
-      <link>https://skemman.is/handle/1946/50423</link>
-      <description>Verklýsing fyrir val á virkni gervihnés eftir aflimun - Freyja Sóllilja Sverrisdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50423</guid>
-    </item>
-    <item>
-      <title>A preliminary study on microbial diversity along a temperature gradient</title>
-      <link>https://skemman.is/handle/1946/50424</link>
-      <description>A preliminary study on microbial diversity along a temperature gradient - Mikael Norðquist 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50424</guid>
-    </item>
-    <item>
-      <title>Umhverfisþættir sem geta verið hindranir eða hvatar hjá börnum með cerebral palsy (CP)</title>
-      <link>https://skemman.is/handle/1946/50421</link>
-      <description>Umhverfisþættir sem geta verið hindranir eða hvatar hjá börnum með cerebral palsy (CP) - Særún Þorbergsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50421</guid>
-    </item>
-    <item>
-      <title>Home delivered meals and oral nutritional supplements among community-dwelling elderly receiving home nursing care services in the capital area</title>
-      <link>https://skemman.is/handle/1946/50414</link>
-      <description>Home delivered meals and oral nutritional supplements among community-dwelling elderly receiving home nursing care services in the capital area - Dagmar Björk Heimisdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50414</guid>
-    </item>
-    <item>
-      <title>Characterizing the cell-free DNA of BRCA2-999del5 mutation carriers</title>
-      <link>https://skemman.is/handle/1946/50415</link>
-      <description>Characterizing the cell-free DNA of BRCA2-999del5 mutation carriers - Kamilla Sól Viktorsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50415</guid>
-    </item>
-    <item>
-      <title>Knee Osteoarthritis after an Anterior Cruciate Ligament injury: Effectiveness of an Anterior Cruciate Ligament Reconstruction on future knee arthroplasties</title>
-      <link>https://skemman.is/handle/1946/50413</link>
-      <description>Knee Osteoarthritis after an Anterior Cruciate Ligament injury: Effectiveness of an Anterior Cruciate Ligament Reconstruction on future knee arthroplasties - Aron Óskar Þorleifsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50413</guid>
-    </item>
-    <item>
-      <title>Kransæðarannsóknir með tvíorku-tölvusneiðmyndatækni: Kerfisbundið yfirlit</title>
-      <link>https://skemman.is/handle/1946/50412</link>
-      <description>Kransæðarannsóknir með tvíorku-tölvusneiðmyndatækni: Kerfisbundið yfirlit - Tinna Klemenzdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50412</guid>
+      <title>Framsetning gagna til viðskiptavina Motus</title>
+      <link>https://skemman.is/handle/1946/50451</link>
+      <description>Framsetning gagna til viðskiptavina Motus - Dagur Kári Ólafsson 2003-; Jónas Ingi Þórisson 2002-; Óliver Máni Scheving 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50451</guid>
     </item>
   </channel>
 </rss>

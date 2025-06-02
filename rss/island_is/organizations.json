@@ -5,6 +5,11 @@
         "link": "https://island.is/s/hve/frett"
     },
     {
+        "slug": "logreglan",
+        "title": "Lögreglan",
+        "link": "https://island.is/s/logreglan/frett"
+    },
+    {
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
@@ -23,6 +28,11 @@
         "slug": "utlendingastofnun",
         "title": "Útlendingastofnun",
         "link": "https://island.is/s/utlendingastofnun/frett"
+    },
+    {
+        "slug": "hljodbokasafn-islands",
+        "title": "Hljóðbókasafn Íslands",
+        "link": "https://island.is/s/hljodbokasafn-islands/frett"
     },
     {
         "slug": "faggilding",
@@ -48,6 +58,11 @@
         "slug": "hms",
         "title": "Húsnæðis- og mannvirkjastofnun",
         "link": "https://island.is/s/hms/frett"
+    },
+    {
+        "slug": "fiskistofa",
+        "title": "Fiskistofa",
+        "link": "https://island.is/s/fiskistofa/frett"
     },
     {
         "slug": "vinnumalastofnun",
