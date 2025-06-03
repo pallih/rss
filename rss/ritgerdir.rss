@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 02 Jun 2025 17:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 08:14:04 +0000</lastBuildDate>
+    <item>
+      <title>Samanburður á langtímaáhrifum meðferðar með kaloríuskerðingu og efnaskiptaaðgerða hjá einstaklingum með offitu og sykursýki 2</title>
+      <link>https://skemman.is/handle/1946/50458</link>
+      <description>Samanburður á langtímaáhrifum meðferðar með kaloríuskerðingu og efnaskiptaaðgerða hjá einstaklingum með offitu og sykursýki 2 - Agnes Björk Brynjarsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50458</guid>
+    </item>
+    <item>
+      <title>Réttarmeinafræði banvænna eitrana á Íslandi</title>
+      <link>https://skemman.is/handle/1946/50459</link>
+      <description>Réttarmeinafræði banvænna eitrana á Íslandi - Katla Sigríður Gísladóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50459</guid>
+    </item>
     <item>
       <title>Fake news detector</title>
       <link>https://skemman.is/handle/1946/50437</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50455</link>
       <description>Arion banki: Brottfallslíkan fyrir þjónustuþætti - Marteinn Hjálmarsson 2001-; Bjarki Þór Björnsson 2002-; Björn Víkingur Borg 2002-; Jóhann Ágúst Hafsteinsson 2002-; Lárus Bergmann Hákonarson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50455</guid>
-    </item>
-    <item>
-      <title>Snjallforrit fyrir skimun á lungnasjúkdómum</title>
-      <link>https://skemman.is/handle/1946/50453</link>
-      <description>Snjallforrit fyrir skimun á lungnasjúkdómum - Sigurður P. Ndaw Sigursteinsson 2002-; Grímur Dagur Grímsson 2002-; Kristján Tjörvi Kristjánsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50453</guid>
-    </item>
-    <item>
-      <title>Framsetning gagna til viðskiptavina Motus</title>
-      <link>https://skemman.is/handle/1946/50451</link>
-      <description>Framsetning gagna til viðskiptavina Motus - Dagur Kári Ólafsson 2003-; Jónas Ingi Þórisson 2002-; Óliver Máni Scheving 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50451</guid>
     </item>
   </channel>
 </rss>
