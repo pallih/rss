@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 03 Jun 2025 11:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 12:15:33 +0000</lastBuildDate>
     <item>
       <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
       <link>https://skemman.is/handle/1946/50460</link>
@@ -81,6 +81,54 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50469</guid>
     </item>
     <item>
+      <title>PLAIO - Demo Creator</title>
+      <link>https://skemman.is/handle/1946/50470</link>
+      <description>PLAIO - Demo Creator - Kolbeinn Tumi Sindrason 2002-; Haukur Methúsalem Óskarsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50470</guid>
+    </item>
+    <item>
+      <title>Surgical Outcomes Following Pulmonary Metastasectomy in Iceland</title>
+      <link>https://skemman.is/handle/1946/50471</link>
+      <description>Surgical Outcomes Following Pulmonary Metastasectomy in Iceland - Carlos Magnús Rabelo 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50471</guid>
+    </item>
+    <item>
+      <title>Skilaboðagátt sjúklinga</title>
+      <link>https://skemman.is/handle/1946/50472</link>
+      <description>Skilaboðagátt sjúklinga - Sindri Snær Gunnarsson 2000-; Dagur Þórisson 2003-; Gunnlaugur Eiður Björgvinsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50472</guid>
+    </item>
+    <item>
+      <title>Krakkaveður - Origo og Veðurstofa Íslands</title>
+      <link>https://skemman.is/handle/1946/50473</link>
+      <description>Krakkaveður - Origo og Veðurstofa Íslands - Gissur Már Jónsson 1987-; Guðlaug Sirung Vestmann 1994-; Hallgrímur Jónas Jensson 1982-; Kristinn Friðbjörn Birgisson 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50473</guid>
+    </item>
+    <item>
+      <title>Froskaleikurinn</title>
+      <link>https://skemman.is/handle/1946/50474</link>
+      <description>Froskaleikurinn - Óliver Máni Hilmarsson 2001-; Sigurður Matthías Bjarnason 2003-; Halldór Smári Karlsson 2002-; Rania Roz Ali Wahba 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50474</guid>
+    </item>
+    <item>
+      <title>Porting Stubbur tickets app to React Native codebase</title>
+      <link>https://skemman.is/handle/1946/50475</link>
+      <description>Porting Stubbur tickets app to React Native codebase - Tjörvi Óskarsson 1980-; Arnar Ægisson 1974-; Arnar Daníel Jónsson 1982-; Sverrir Björgvinsson 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50475</guid>
+    </item>
+    <item>
+      <title>Enhancing quality of healthcare suggestions with symptom balancing</title>
+      <link>https://skemman.is/handle/1946/50476</link>
+      <description>Enhancing quality of healthcare suggestions with symptom balancing - Atli Þór Edwald Kristinsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50476</guid>
+    </item>
+    <item>
+      <title>Subster</title>
+      <link>https://skemman.is/handle/1946/50477</link>
+      <description>Subster - Einar Árni Bjarnason 2002-; Daníel Þór Ingólfsson 2003-; Hlynur Ísak Vilmundarson 2002-; Kacper Roman Kaczynski 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50477</guid>
+    </item>
+    <item>
       <title>Fake news detector</title>
       <link>https://skemman.is/handle/1946/50437</link>
       <description>Fake news detector - Svavar Bjarki Bjarnason 2001-; Jón Arnar Snorrason 2001-; Jón Stefán Friðriksson 2003-; Sæþór Berg Ásgeirsson 2001-; Þorsteinn Már Höskuldsson 2003-</description>
@@ -109,54 +157,6 @@
       <link>https://skemman.is/handle/1946/50430</link>
       <description>Þróun þrívíðs samræktunarfrumumódels til að meta sértæka virkjun ónæmisfrumna gegn brjóstakrabbameinsfrumum - Rakel Ragnheiður Jónsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50430</guid>
-    </item>
-    <item>
-      <title>Notkun viðbótarmeðferða á meðgöngu. Fræðileg samantekt með kögunarsniði</title>
-      <link>https://skemman.is/handle/1946/50432</link>
-      <description>Notkun viðbótarmeðferða á meðgöngu. Fræðileg samantekt með kögunarsniði - Margrét Ásta Ívarsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50432</guid>
-    </item>
-    <item>
-      <title>Áverkafræði banvænna höfuðáverka vegna sljórra krafta</title>
-      <link>https://skemman.is/handle/1946/50433</link>
-      <description>Áverkafræði banvænna höfuðáverka vegna sljórra krafta - Þuríður Erna Hvanndal Halldórsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50433</guid>
-    </item>
-    <item>
-      <title>Sögur úti um allt: Innblástur í útinámi til stuðnings ritunarþjálfun</title>
-      <link>https://skemman.is/handle/1946/50431</link>
-      <description>Sögur úti um allt: Innblástur í útinámi til stuðnings ritunarþjálfun - Bergljót Vala Sveinsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50431</guid>
-    </item>
-    <item>
-      <title>Notkun ómunar við greiningu á beinbrotum barna: Samanburður við röntgenmyndatöku</title>
-      <link>https://skemman.is/handle/1946/50434</link>
-      <description>Notkun ómunar við greiningu á beinbrotum barna: Samanburður við röntgenmyndatöku - Margrét K. Olgeirsdóttir Ralston 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50434</guid>
-    </item>
-    <item>
-      <title>Diagnostic Accuracy and Predictive Value of Different Measurement Methods for Free Light Chains in Serum</title>
-      <link>https://skemman.is/handle/1946/50447</link>
-      <description>Diagnostic Accuracy and Predictive Value of Different Measurement Methods for Free Light Chains in Serum - Jóhanna Vigdís Guðjónsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50447</guid>
-    </item>
-    <item>
-      <title>Lesa : Lestrarforrit fyrir börn</title>
-      <link>https://skemman.is/handle/1946/50439</link>
-      <description>Lesa : Lestrarforrit fyrir börn - Andrea Helga Jónsdóttir 1997-; Gylfi Thors 1988-; Haukur Aðalsteinsson 2001-; Hildur Bryndís Árnadóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50439</guid>
-    </item>
-    <item>
-      <title>Kiddo - Family Calendar : Fjölskyldumiðað dagatalsforrit</title>
-      <link>https://skemman.is/handle/1946/50445</link>
-      <description>Kiddo - Family Calendar : Fjölskyldumiðað dagatalsforrit - Elísabet B Shen Jóhannesdóttir 1997-; Arnar Jónsson 1999-; Sævar Reynisson 1999-; Katrín Tinna Sævarsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50445</guid>
-    </item>
-    <item>
-      <title>Digital aftercare plan in the mobile application Bati</title>
-      <link>https://skemman.is/handle/1946/50443</link>
-      <description>Digital aftercare plan in the mobile application Bati - Kristlind Viktoría L. Sörensen 1992-; Bragi Karl Bjarkason 2002-; Bjarni Gunnar Eiðsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50443</guid>
     </item>
   </channel>
 </rss>
