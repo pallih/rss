@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 03 Jun 2025 14:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 16:12:46 +0000</lastBuildDate>
     <item>
       <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
       <link>https://skemman.is/handle/1946/50460</link>
@@ -129,10 +129,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50474</guid>
     </item>
     <item>
-      <title>Solving Breakthrough for the 6x6 board</title>
-      <link>https://skemman.is/handle/1946/50478</link>
-      <description>Solving Breakthrough for the 6x6 board - Kristinn Vikar Jónsson 2003-; Dagur Benjamínsson 2002-; Steinþór Bjarni Steinarsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50478</guid>
+      <title>Parasite communities and their identification in wild and domestic herbivores in Iceland</title>
+      <link>https://skemman.is/handle/1946/50485</link>
+      <description>Parasite communities and their identification in wild and domestic herbivores in Iceland - Janine Grace Lock 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50485</guid>
+    </item>
+    <item>
+      <title>Nærendabrot á sköflungsbeini á Landspítala 1998-2022 (25 ár)</title>
+      <link>https://skemman.is/handle/1946/50483</link>
+      <description>Nærendabrot á sköflungsbeini á Landspítala 1998-2022 (25 ár) - Hlynur Breki Harðarson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50483</guid>
     </item>
     <item>
       <title>Scan Iceland - Vᛟlva :  Architecture and Implementation of a Continuous National Network Scanner</title>
@@ -141,22 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50479</guid>
     </item>
     <item>
-      <title>Fake news detector</title>
-      <link>https://skemman.is/handle/1946/50437</link>
-      <description>Fake news detector - Svavar Bjarki Bjarnason 2001-; Jón Arnar Snorrason 2001-; Jón Stefán Friðriksson 2003-; Sæþór Berg Ásgeirsson 2001-; Þorsteinn Már Höskuldsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50437</guid>
+      <title>ARCANITE: Automated Root Cause Analysis Nexus for Increasing Troubleshooting Efficiency</title>
+      <link>https://skemman.is/handle/1946/50484</link>
+      <description>ARCANITE: Automated Root Cause Analysis Nexus for Increasing Troubleshooting Efficiency - Hilmir Þór Sifjarson Petersen 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50484</guid>
     </item>
     <item>
-      <title>Smáforritið Vörn</title>
-      <link>https://skemman.is/handle/1946/50442</link>
-      <description>Smáforritið Vörn - Jóhanna Guðrún Jóhannsdóttir 2000-; Oliver Ormar Ingvarsson 2001-; Agnar Davíð Halldórsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50442</guid>
-    </item>
-    <item>
-      <title>Afkomuspá</title>
-      <link>https://skemman.is/handle/1946/50435</link>
-      <description>Afkomuspá - Sigrún Snæfríður Hauksdóttir 2002-; Anna Linda Pálsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50435</guid>
+      <title>Automated attack surface mapping for institutions and companies</title>
+      <link>https://skemman.is/handle/1946/50482</link>
+      <description>Automated attack surface mapping for institutions and companies - Snorri Bjarkason 2003-; Róbert Logi Jónsson 2003-; Veigar Elí Grétarsson 2003-; Flóki Nikulásson Blin 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50482</guid>
     </item>
   </channel>
 </rss>
