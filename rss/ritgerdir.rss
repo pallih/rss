@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 03 Jun 2025 09:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 11:10:37 +0000</lastBuildDate>
+    <item>
+      <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
+      <link>https://skemman.is/handle/1946/50460</link>
+      <description>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia - Sara Dögg Th. Lárudóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50460</guid>
+    </item>
     <item>
       <title>Samanburður á langtímaáhrifum meðferðar með kaloríuskerðingu og efnaskiptaaðgerða hjá einstaklingum með offitu og sykursýki 2</title>
       <link>https://skemman.is/handle/1946/50458</link>
@@ -21,10 +27,58 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50459</guid>
     </item>
     <item>
-      <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
-      <link>https://skemman.is/handle/1946/50460</link>
-      <description>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia - Sara Dögg Th. Lárudóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50460</guid>
+      <title>Automatic generation of state space graphs</title>
+      <link>https://skemman.is/handle/1946/50461</link>
+      <description>Automatic generation of state space graphs - Michael Joseph Ericson 1995-; Hrafn Örlygsson 1995-; Sindri Sigþórsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50461</guid>
+    </item>
+    <item>
+      <title>Integrating Discord SDK into EVE Frontier</title>
+      <link>https://skemman.is/handle/1946/50465</link>
+      <description>Integrating Discord SDK into EVE Frontier - Halldór Sigurðsson 1991-; Bjarki Rafn Þórðarson 1991-; Hjörtur Helgi Þorgeirsson 1986-; Ólafur Finnbogi Ólafsson 1989-; Kjartan Elvar Baldvinsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50465</guid>
+    </item>
+    <item>
+      <title>GLP-1 Receptor Agonist use and effects on BMI and mental health</title>
+      <link>https://skemman.is/handle/1946/50466</link>
+      <description>GLP-1 Receptor Agonist use and effects on BMI and mental health - Jóhannes Helgason Thoroddsen 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50466</guid>
+    </item>
+    <item>
+      <title>HomeVital Harmony : Lífsmarkamælingar fyrir sjúklinga í heimahjúkrun</title>
+      <link>https://skemman.is/handle/1946/50463</link>
+      <description>HomeVital Harmony : Lífsmarkamælingar fyrir sjúklinga í heimahjúkrun - Sindri Þór Guðmundsson 1995-; Aron Ingi Jónsson 2000-; Jakub Ingvar Pitak 1999-; Þórir Gunnar Valgeirsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50463</guid>
+    </item>
+    <item>
+      <title>Making a game</title>
+      <link>https://skemman.is/handle/1946/50468</link>
+      <description>Making a game - Ágúst Máni Þorsteinsson 2002-; Daði Rúnarsson 1990-; Hermann Helgi Þrastarson 2001-; Hugi Freyr Álfgeirsson 1999-; Júlía Ósk Tómasdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50468</guid>
+    </item>
+    <item>
+      <title>VeðurLite</title>
+      <link>https://skemman.is/handle/1946/50464</link>
+      <description>VeðurLite - Andri Kristinn Sigurðarson 1989-; Einar Ágúst Jónsson 1999-; Sigurbjörn Sigurbjartsson 1989-; Valmar Guttormsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50464</guid>
+    </item>
+    <item>
+      <title>Showdeck Productions</title>
+      <link>https://skemman.is/handle/1946/50462</link>
+      <description>Showdeck Productions - Valgeir Níls Vignisson 2002-; Viggó Ýmir Hafliðason 2002-; Haraldur Steinar Skúlason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50462</guid>
+    </item>
+    <item>
+      <title>Tegra Contracts</title>
+      <link>https://skemman.is/handle/1946/50467</link>
+      <description>Tegra Contracts - Helgi Hrafn Axelsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50467</guid>
+    </item>
+    <item>
+      <title>Showdeck Works</title>
+      <link>https://skemman.is/handle/1946/50469</link>
+      <description>Showdeck Works - Fannar Gunnsteinsson 2000-; Jón Atli Guðmundsson 1999-; Theódór Breki Svansson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50469</guid>
     </item>
     <item>
       <title>Fake news detector</title>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/50443</link>
       <description>Digital aftercare plan in the mobile application Bati - Kristlind Viktoría L. Sörensen 1992-; Bragi Karl Bjarkason 2002-; Bjarni Gunnar Eiðsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50443</guid>
-    </item>
-    <item>
-      <title>Samþætting samskiptakerfa Bláa Lónsins og Bokun.is</title>
-      <link>https://skemman.is/handle/1946/50446</link>
-      <description>Samþætting samskiptakerfa Bláa Lónsins og Bokun.is - Alessandro Manfrini 1995-; Snorri Már Gunnarsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50446</guid>
-    </item>
-    <item>
-      <title>Slack-Autotask Bot og gagnaöryggi</title>
-      <link>https://skemman.is/handle/1946/50444</link>
-      <description>Slack-Autotask Bot og gagnaöryggi - Júlíus Freyr Liljuson 2003-; Þórdís Matthea Eiríksdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50444</guid>
-    </item>
-    <item>
-      <title>Merger Kingdom Defence</title>
-      <link>https://skemman.is/handle/1946/50438</link>
-      <description>Merger Kingdom Defence - Baldur Þór Jónasson 1996-; Bjarni Bærings Halldórsson 2001-; Krummi Poomi Gunnarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50438</guid>
-    </item>
-    <item>
-      <title>Breytingaskreytingar</title>
-      <link>https://skemman.is/handle/1946/50448</link>
-      <description>Breytingaskreytingar - Ronja Jóhannsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50448</guid>
-    </item>
-    <item>
-      <title>Geðveikt starf</title>
-      <link>https://skemman.is/handle/1946/50441</link>
-      <description>Geðveikt starf - Unnur Ingvarsdóttir Olsen 2002-; Árný Ingvarsdóttir Olsen 2002-; Harpa Jóhannsdóttir 1998-; Sturla Emil Sturluson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50441</guid>
-    </item>
-    <item>
-      <title>Menu Manager</title>
-      <link>https://skemman.is/handle/1946/50436</link>
-      <description>Menu Manager - Elmar Snær Ingólfsson 1996-; Ari Steinn Guðmundsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50436</guid>
-    </item>
-    <item>
-      <title>Cooperative Game-based Vocabulary Learning for Children on the Autism Spectrum</title>
-      <link>https://skemman.is/handle/1946/50452</link>
-      <description>Cooperative Game-based Vocabulary Learning for Children on the Autism Spectrum - Pawel Chodkiewicz 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50452</guid>
-    </item>
-    <item>
-      <title>Challenges and pitfalls while emulating six current Icelandic household routers</title>
-      <link>https://skemman.is/handle/1946/50456</link>
-      <description>Challenges and pitfalls while emulating six current Icelandic household routers - Bergur Halldórsson 1993-; Jóhann Hilmir Gunnarsson 1994-; Kristófer Helgi Sigurðsson 1998-; Oliver Gabríel Figlarski 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50456</guid>
-    </item>
-    <item>
-      <title>Data Visualization Powered by Artificial Intelligence</title>
-      <link>https://skemman.is/handle/1946/50450</link>
-      <description>Data Visualization Powered by Artificial Intelligence - Adele Alexandra Bernabe Pálsson 2003-; Arnór Gauti Úlfarsson 2003-; Birkir Freyr Konráðsson 2000-; Dagur Már Oddsson 2003-; Guðmundur Örn Arnarsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50450</guid>
     </item>
   </channel>
 </rss>
