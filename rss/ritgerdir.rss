@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 04 Jun 2025 13:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 14:10:54 +0000</lastBuildDate>
     <item>
       <title>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu?</title>
       <link>https://skemman.is/handle/1946/50493</link>
@@ -55,6 +55,18 @@
       <link>https://skemman.is/handle/1946/50497</link>
       <description>Er endurfjárfesting hagnaðar áhrifarík leið til að hámarka  verðmæti fyrirtækis til lengri tíma litið? - Sigurður Bjartur Hallsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50497</guid>
+    </item>
+    <item>
+      <title>Lyfjaávísanir á væga ópíóíða á heilsugæslum á höfuðborgarsvæðinu: Þróun og tengsl við sjúkdóma á 15 ára tímabili.</title>
+      <link>https://skemman.is/handle/1946/50498</link>
+      <description>Lyfjaávísanir á væga ópíóíða á heilsugæslum á höfuðborgarsvæðinu: Þróun og tengsl við sjúkdóma á 15 ára tímabili. - Eva Sól Einarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50498</guid>
+    </item>
+    <item>
+      <title>Samanburður milli kviðsjár- og þjarkaaðgerða við ristilpokabólgu (diverticulitis)</title>
+      <link>https://skemman.is/handle/1946/50499</link>
+      <description>Samanburður milli kviðsjár- og þjarkaaðgerða við ristilpokabólgu (diverticulitis) - Brynja Sævarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50499</guid>
     </item>
     <item>
       <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50472</link>
       <description>Skilaboðagátt sjúklinga - Sindri Snær Gunnarsson 2000-; Dagur Þórisson 2003-; Gunnlaugur Eiður Björgvinsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50472</guid>
-    </item>
-    <item>
-      <title>Showdeck Works</title>
-      <link>https://skemman.is/handle/1946/50469</link>
-      <description>Showdeck Works - Fannar Gunnsteinsson 2000-; Jón Atli Guðmundsson 1999-; Theódór Breki Svansson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50469</guid>
-    </item>
-    <item>
-      <title>Porting Stubbur tickets app to React Native codebase</title>
-      <link>https://skemman.is/handle/1946/50475</link>
-      <description>Porting Stubbur tickets app to React Native codebase - Tjörvi Óskarsson 1980-; Arnar Ægisson 1974-; Arnar Daníel Jónsson 1982-; Sverrir Björgvinsson 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50475</guid>
     </item>
   </channel>
 </rss>
