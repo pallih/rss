@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 04 Jun 2025 08:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 09:11:49 +0000</lastBuildDate>
     <item>
       <title>Samanburður beinþéttnimælinga milli tveggja beinþéttnimælitækja: GE Lunar iDXA og Hologic Horizon A</title>
       <link>https://skemman.is/handle/1946/50490</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/50492</link>
       <description>The role of distinct BRCA1 splice forms on double strand break repair and drug sensitivity of breast and ovarian cancer cell lines - Katrín Kristjánsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50492</guid>
+    </item>
+    <item>
+      <title>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu?</title>
+      <link>https://skemman.is/handle/1946/50493</link>
+      <description>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu? - Kristín Helga Þrastardóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50493</guid>
     </item>
     <item>
       <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50485</link>
       <description>Parasite communities and their identification in wild and domestic herbivores in Iceland - Janine Grace Lock 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50485</guid>
-    </item>
-    <item>
-      <title>Nærendabrot á sköflungsbeini á Landspítala 1998-2022 (25 ár)</title>
-      <link>https://skemman.is/handle/1946/50483</link>
-      <description>Nærendabrot á sköflungsbeini á Landspítala 1998-2022 (25 ár) - Hlynur Breki Harðarson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50483</guid>
     </item>
   </channel>
 </rss>
