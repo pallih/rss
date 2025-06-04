@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 03 Jun 2025 17:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 08:13:40 +0000</lastBuildDate>
+    <item>
+      <title>Samanburður beinþéttnimælinga milli tveggja beinþéttnimælitækja: GE Lunar iDXA og Hologic Horizon A</title>
+      <link>https://skemman.is/handle/1946/50490</link>
+      <description>Samanburður beinþéttnimælinga milli tveggja beinþéttnimælitækja: GE Lunar iDXA og Hologic Horizon A - Þórdís Hrönn Magnúsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50490</guid>
+    </item>
+    <item>
+      <title>Greining pensilínofnæmis á Íslandi - Getum við gert betur?</title>
+      <link>https://skemman.is/handle/1946/50491</link>
+      <description>Greining pensilínofnæmis á Íslandi - Getum við gert betur? - Alrún María Skarphéðinsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50491</guid>
+    </item>
+    <item>
+      <title>The role of distinct BRCA1 splice forms on double strand break repair and drug sensitivity of breast and ovarian cancer cell lines</title>
+      <link>https://skemman.is/handle/1946/50492</link>
+      <description>The role of distinct BRCA1 splice forms on double strand break repair and drug sensitivity of breast and ovarian cancer cell lines - Katrín Kristjánsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50492</guid>
+    </item>
     <item>
       <title>Analysis of Cell-Free DNA in the Precursor Stage of Waldenström's Macroglobulinemia</title>
       <link>https://skemman.is/handle/1946/50460</link>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/50483</link>
       <description>Nærendabrot á sköflungsbeini á Landspítala 1998-2022 (25 ár) - Hlynur Breki Harðarson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50483</guid>
-    </item>
-    <item>
-      <title>Scan Iceland - Vᛟlva :  Architecture and Implementation of a Continuous National Network Scanner</title>
-      <link>https://skemman.is/handle/1946/50479</link>
-      <description>Scan Iceland - Vᛟlva :  Architecture and Implementation of a Continuous National Network Scanner - Marteinn Lundi Kjartansson 2002-; Emilía Maidland 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50479</guid>
-    </item>
-    <item>
-      <title>ARCANITE: Automated Root Cause Analysis Nexus for Increasing Troubleshooting Efficiency</title>
-      <link>https://skemman.is/handle/1946/50484</link>
-      <description>ARCANITE: Automated Root Cause Analysis Nexus for Increasing Troubleshooting Efficiency - Hilmir Þór Sifjarson Petersen 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50484</guid>
-    </item>
-    <item>
-      <title>Automated attack surface mapping for institutions and companies</title>
-      <link>https://skemman.is/handle/1946/50482</link>
-      <description>Automated attack surface mapping for institutions and companies - Snorri Bjarkason 2003-; Róbert Logi Jónsson 2003-; Veigar Elí Grétarsson 2003-; Flóki Nikulásson Blin 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50482</guid>
     </item>
   </channel>
 </rss>
