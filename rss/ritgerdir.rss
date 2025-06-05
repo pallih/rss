@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 05 Jun 2025 10:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 11:10:44 +0000</lastBuildDate>
     <item>
       <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
       <link>https://skemman.is/handle/1946/50502</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/50505</link>
       <description>Fjöldi inngripa i fæðingu og tengsl við neikvæða fæðingarupplifun kvenna: aftursýn ferilrannsókn - Hulda María Albertsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50505</guid>
+    </item>
+    <item>
+      <title>Reykingar meðal sjúklinga með kransæðastílfu: Samanburður við almennt þýði</title>
+      <link>https://skemman.is/handle/1946/50506</link>
+      <description>Reykingar meðal sjúklinga með kransæðastílfu: Samanburður við almennt þýði - Eiríkur Kúld Viktorsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50506</guid>
+    </item>
+    <item>
+      <title>Raflagnahönnun snjallheimilis : Virkisás 25</title>
+      <link>https://skemman.is/handle/1946/50507</link>
+      <description>Raflagnahönnun snjallheimilis : Virkisás 25 - Jónas Marteinsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50507</guid>
     </item>
     <item>
       <title>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50463</link>
       <description>HomeVital Harmony : Lífsmarkamælingar fyrir sjúklinga í heimahjúkrun - Sindri Þór Guðmundsson 1995-; Aron Ingi Jónsson 2000-; Jakub Ingvar Pitak 1999-; Þórir Gunnar Valgeirsson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50463</guid>
-    </item>
-    <item>
-      <title>Making a game</title>
-      <link>https://skemman.is/handle/1946/50468</link>
-      <description>Making a game - Ágúst Máni Þorsteinsson 2002-; Daði Rúnarsson 1990-; Hermann Helgi Þrastarson 2001-; Hugi Freyr Álfgeirsson 1999-; Júlía Ósk Tómasdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50468</guid>
-    </item>
-    <item>
-      <title>VeðurLite</title>
-      <link>https://skemman.is/handle/1946/50464</link>
-      <description>VeðurLite - Andri Kristinn Sigurðarson 1989-; Einar Ágúst Jónsson 1999-; Sigurbjörn Sigurbjartsson 1989-; Valmar Guttormsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50464</guid>
     </item>
   </channel>
 </rss>
