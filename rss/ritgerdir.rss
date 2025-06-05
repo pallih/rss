@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 05 Jun 2025 11:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 12:15:45 +0000</lastBuildDate>
     <item>
       <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
       <link>https://skemman.is/handle/1946/50502</link>
@@ -27,16 +27,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50503</guid>
     </item>
     <item>
-      <title>Breast cancer whole-slide images used to predict homologous recombination deficiency, BRCA2 999del5 and TP53 mutations via weakly supervised deep learning</title>
-      <link>https://skemman.is/handle/1946/50504</link>
-      <description>Breast cancer whole-slide images used to predict homologous recombination deficiency, BRCA2 999del5 and TP53 mutations via weakly supervised deep learning - Ýr Ý Nhu Tran 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50504</guid>
-    </item>
-    <item>
       <title>Fjöldi inngripa i fæðingu og tengsl við neikvæða fæðingarupplifun kvenna: aftursýn ferilrannsókn</title>
       <link>https://skemman.is/handle/1946/50505</link>
       <description>Fjöldi inngripa i fæðingu og tengsl við neikvæða fæðingarupplifun kvenna: aftursýn ferilrannsókn - Hulda María Albertsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50505</guid>
+    </item>
+    <item>
+      <title>Breast cancer whole-slide images used to predict homologous recombination deficiency, BRCA2 999del5 and TP53 mutations via weakly supervised deep learning</title>
+      <link>https://skemman.is/handle/1946/50504</link>
+      <description>Breast cancer whole-slide images used to predict homologous recombination deficiency, BRCA2 999del5 and TP53 mutations via weakly supervised deep learning - Ýr Ý Nhu Tran 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50504</guid>
     </item>
     <item>
       <title>Reykingar meðal sjúklinga með kransæðastílfu: Samanburður við almennt þýði</title>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/50507</link>
       <description>Raflagnahönnun snjallheimilis : Virkisás 25 - Jónas Marteinsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50507</guid>
+    </item>
+    <item>
+      <title>Varaaflskerfi hjá Norðurál Grundartanga : uppfærsla á varaaflskerfum</title>
+      <link>https://skemman.is/handle/1946/50508</link>
+      <description>Varaaflskerfi hjá Norðurál Grundartanga : uppfærsla á varaaflskerfum - Leó Snær Guðmundsson 1998-; Hallur Bjarnason 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50508</guid>
     </item>
     <item>
       <title>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50466</link>
       <description>GLP-1 Receptor Agonist use and effects on BMI and mental health - Jóhannes Helgason Thoroddsen 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50466</guid>
-    </item>
-    <item>
-      <title>HomeVital Harmony : Lífsmarkamælingar fyrir sjúklinga í heimahjúkrun</title>
-      <link>https://skemman.is/handle/1946/50463</link>
-      <description>HomeVital Harmony : Lífsmarkamælingar fyrir sjúklinga í heimahjúkrun - Sindri Þór Guðmundsson 1995-; Aron Ingi Jónsson 2000-; Jakub Ingvar Pitak 1999-; Þórir Gunnar Valgeirsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50463</guid>
     </item>
   </channel>
 </rss>

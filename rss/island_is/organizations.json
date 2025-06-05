@@ -50,11 +50,6 @@
         "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
-        "slug": "rannis",
-        "title": "Rannsóknamiðstöð Íslands",
-        "link": "https://island.is/s/rannis/frett"
-    },
-    {
         "slug": "hms",
         "title": "Húsnæðis- og mannvirkjastofnun",
         "link": "https://island.is/s/hms/frett"
@@ -78,11 +73,6 @@
         "slug": "vinnueftirlitid",
         "title": "Vinnueftirlitið",
         "link": "https://island.is/s/vinnueftirlitid/frett"
-    },
-    {
-        "slug": "endurupptokudomur",
-        "title": "Endurupptökudómur",
-        "link": "https://island.is/s/endurupptokudomur/frett"
     },
     {
         "slug": "stafraent-island",
@@ -145,11 +135,6 @@
         "link": "https://island.is/s/sak/frett"
     },
     {
-        "slug": "landlaeknir",
-        "title": "Embætti landlæknis",
-        "link": "https://island.is/s/landlaeknir/frett"
-    },
-    {
         "slug": "nti",
         "title": "Náttúruhamfaratrygging Íslands",
         "link": "https://island.is/s/nti/frett"
@@ -168,11 +153,6 @@
         "slug": "rikissaksoknari",
         "title": "Ríkissaksóknari",
         "link": "https://island.is/s/rikissaksoknari/frett"
-    },
-    {
-        "slug": "gev",
-        "title": "Gæða- og eftirlitsstofnun velferðarmála",
-        "link": "https://island.is/s/gev/frett"
     },
     {
         "slug": "geislavarnir-rikisins",
