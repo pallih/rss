@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 05 Jun 2025 13:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 14:11:29 +0000</lastBuildDate>
     <item>
       <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
       <link>https://skemman.is/handle/1946/50502</link>
@@ -55,6 +55,24 @@
       <link>https://skemman.is/handle/1946/50508</link>
       <description>Varaaflskerfi hjá Norðurál Grundartanga : uppfærsla á varaaflskerfum - Leó Snær Guðmundsson 1998-; Hallur Bjarnason 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50508</guid>
+    </item>
+    <item>
+      <title>Hefur ástæða aukinnar þjónustuþarfar áhrif á útkomu fæðinga hjá konum sem fæða á Landspítala? Framskyggn ferilrannsókn</title>
+      <link>https://skemman.is/handle/1946/50509</link>
+      <description>Hefur ástæða aukinnar þjónustuþarfar áhrif á útkomu fæðinga hjá konum sem fæða á Landspítala? Framskyggn ferilrannsókn - Anna Lilja Valdimarsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50509</guid>
+    </item>
+    <item>
+      <title>Gervigreind í veghönnun</title>
+      <link>https://skemman.is/handle/1946/50510</link>
+      <description>Gervigreind í veghönnun - Sigvaldi Örn Óskarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50510</guid>
+    </item>
+    <item>
+      <title>Hverahlíð 15-21 : Hönnun lagna- og loftræsikerfis</title>
+      <link>https://skemman.is/handle/1946/50511</link>
+      <description>Hverahlíð 15-21 : Hönnun lagna- og loftræsikerfis - Davíð Karlsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50511</guid>
     </item>
     <item>
       <title>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu?</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/50459</link>
       <description>Réttarmeinafræði banvænna eitrana á Íslandi - Katla Sigríður Gísladóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50459</guid>
-    </item>
-    <item>
-      <title>Automatic generation of state space graphs</title>
-      <link>https://skemman.is/handle/1946/50461</link>
-      <description>Automatic generation of state space graphs - Michael Joseph Ericson 1995-; Hrafn Örlygsson 1995-; Sindri Sigþórsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50461</guid>
-    </item>
-    <item>
-      <title>Integrating Discord SDK into EVE Frontier</title>
-      <link>https://skemman.is/handle/1946/50465</link>
-      <description>Integrating Discord SDK into EVE Frontier - Halldór Sigurðsson 1991-; Bjarki Rafn Þórðarson 1991-; Hjörtur Helgi Þorgeirsson 1986-; Ólafur Finnbogi Ólafsson 1989-; Kjartan Elvar Baldvinsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50465</guid>
-    </item>
-    <item>
-      <title>GLP-1 Receptor Agonist use and effects on BMI and mental health</title>
-      <link>https://skemman.is/handle/1946/50466</link>
-      <description>GLP-1 Receptor Agonist use and effects on BMI and mental health - Jóhannes Helgason Thoroddsen 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50466</guid>
     </item>
   </channel>
 </rss>
