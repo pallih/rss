@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jun 2025 14:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 15:06:22 +0000</lastBuildDate>
     <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
       <link>https://skemman.is/handle/1946/50518</link>
@@ -55,6 +55,18 @@
       <link>https://skemman.is/handle/1946/50524</link>
       <description>Greining á þjálfunarhermi orkustjórnkerfis Landsvirkjunar - Jón Davíð Hreinsson 1969-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50524</guid>
+    </item>
+    <item>
+      <title>Overview of immunoglobulin use from 2019 to 2024 and personalised approach through IgXpert clinical support system</title>
+      <link>https://skemman.is/handle/1946/50525</link>
+      <description>Overview of immunoglobulin use from 2019 to 2024 and personalised approach through IgXpert clinical support system - Elín Ósk Björnsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50525</guid>
+    </item>
+    <item>
+      <title>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu</title>
+      <link>https://skemman.is/handle/1946/50526</link>
+      <description>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu - Kristín Ylfa Guðmundsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50526</guid>
     </item>
     <item>
       <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50514</link>
       <description>Ruv.is : líka fyrir ungt fólk - Halldóra Bergljót Jónsdóttir 2003-; Alexía Margrét Axelsdóttir 2004-; Gunnhildur Ásgeirsdóttir 2002-; Kjartan Ingi Karlsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50514</guid>
-    </item>
-    <item>
-      <title>Vinnubekkur fyrir glerblásun</title>
-      <link>https://skemman.is/handle/1946/50515</link>
-      <description>Vinnubekkur fyrir glerblásun - Ólafur Magnús Oddsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50515</guid>
-    </item>
-    <item>
-      <title>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu?</title>
-      <link>https://skemman.is/handle/1946/50493</link>
-      <description>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu? - Kristín Helga Þrastardóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50493</guid>
     </item>
   </channel>
 </rss>
