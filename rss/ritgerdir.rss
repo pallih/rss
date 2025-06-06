@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jun 2025 13:14:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 14:06:59 +0000</lastBuildDate>
     <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
       <link>https://skemman.is/handle/1946/50518</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/50522</link>
       <description>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024 - Snædís Óskarsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50522</guid>
+    </item>
+    <item>
+      <title>Notkun Tranexamic sýru (Cyklocapron) í opnum aðgerðum á Kvennadeild Landspítala</title>
+      <link>https://skemman.is/handle/1946/50523</link>
+      <description>Notkun Tranexamic sýru (Cyklocapron) í opnum aðgerðum á Kvennadeild Landspítala - Áslaug Ingileif Halldórsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50523</guid>
+    </item>
+    <item>
+      <title>Greining á þjálfunarhermi orkustjórnkerfis Landsvirkjunar</title>
+      <link>https://skemman.is/handle/1946/50524</link>
+      <description>Greining á þjálfunarhermi orkustjórnkerfis Landsvirkjunar - Jón Davíð Hreinsson 1969-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50524</guid>
     </item>
     <item>
       <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50493</link>
       <description>Notkun amínóglýkósíða hjá börnum á Barnaspítala Hringsins 2012-2024: Er þörf á skimun fyrir erfðabreytileika og mati á hættu á meðferðartengdri heyrnarskerðingu? - Kristín Helga Þrastardóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50493</guid>
-    </item>
-    <item>
-      <title>The role of distinct BRCA1 splice forms on double strand break repair and drug sensitivity of breast and ovarian cancer cell lines</title>
-      <link>https://skemman.is/handle/1946/50492</link>
-      <description>The role of distinct BRCA1 splice forms on double strand break repair and drug sensitivity of breast and ovarian cancer cell lines - Katrín Kristjánsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50492</guid>
-    </item>
-    <item>
-      <title>Samanburður beinþéttnimælinga milli tveggja beinþéttnimælitækja: GE Lunar iDXA og Hologic Horizon A</title>
-      <link>https://skemman.is/handle/1946/50490</link>
-      <description>Samanburður beinþéttnimælinga milli tveggja beinþéttnimælitækja: GE Lunar iDXA og Hologic Horizon A - Þórdís Hrönn Magnúsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50490</guid>
     </item>
   </channel>
 </rss>
