@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 06 Jun 2025 10:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 11:06:24 +0000</lastBuildDate>
     <item>
       <title>Áföll í æsku og fæðingarupplifun kvenna Aftursýn ferilrannsókn</title>
       <link>https://skemman.is/handle/1946/50517</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/50520</link>
       <description>Tölvusneiðmyndir af lungnaslagæðum hjá ófrískum konum. Geislaskammtar og hlutfall jákvæðra niðurstaðna. - Elva Sól Ottesen Guðlaugsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50520</guid>
+    </item>
+    <item>
+      <title>Áhættuþættir fyrir samtíma og ósamtíma æxlum í ristli og endaþarmi</title>
+      <link>https://skemman.is/handle/1946/50521</link>
+      <description>Áhættuþættir fyrir samtíma og ósamtíma æxlum í ristli og endaþarmi - Kristín Brynja Þorvaldsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50521</guid>
     </item>
     <item>
       <title>Hefur ástæða aukinnar þjónustuþarfar áhrif á útkomu fæðinga hjá konum sem fæða á Landspítala? Framskyggn ferilrannsókn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50491</link>
       <description>Greining pensilínofnæmis á Íslandi - Getum við gert betur? - Alrún María Skarphéðinsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50491</guid>
-    </item>
-    <item>
-      <title>Happdrættiskerfi fyrir félagasamtök</title>
-      <link>https://skemman.is/handle/1946/50494</link>
-      <description>Happdrættiskerfi fyrir félagasamtök - Lovísa Baldvinsdóttir 1997-; Esther Ír Steinarsdóttir 1978-; Rebekka Logadóttir 1990-; Lára Amelía Kowalczyk 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50494</guid>
     </item>
   </channel>
 </rss>
