@@ -7,42 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jun 2025 13:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 15:11:41 +0000</lastBuildDate>
     <item>
       <title>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland</title>
       <link>https://skemman.is/handle/1946/50527</link>
       <description>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland - Þórunn Perla Jóhannsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50527</guid>
-    </item>
-    <item>
-      <title>Aðgerðir vegna meinvarpa hjá sjúklingum sem gengust undir aðgerð á endaþarmskrabbameini á Íslandi 2010-2019</title>
-      <link>https://skemman.is/handle/1946/50528</link>
-      <description>Aðgerðir vegna meinvarpa hjá sjúklingum sem gengust undir aðgerð á endaþarmskrabbameini á Íslandi 2010-2019 - Erla Figueras Eriksdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50528</guid>
-    </item>
-    <item>
-      <title>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024</title>
-      <link>https://skemman.is/handle/1946/50529</link>
-      <description>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024 - Maríanna Björg Ingvaldsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50529</guid>
-    </item>
-    <item>
-      <title>Áhrif atferlisíhlutunar á snjallsímanotkun framhaldsskólanema í lífsleiknití,mum: Geta símaklefar og lukkuhjól dregið úr notkun snjallsíma í kennslustundum?</title>
-      <link>https://skemman.is/handle/1946/50530</link>
-      <description>Áhrif atferlisíhlutunar á snjallsímanotkun framhaldsskólanema í lífsleiknití,mum: Geta símaklefar og lukkuhjól dregið úr notkun snjallsíma í kennslustundum? - Kristín Anna Svavarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50530</guid>
-    </item>
-    <item>
-      <title>The Effects of Physical Therapy on Concussion Symptoms in Mild Traumatic Brain Injury: A retrospective study</title>
-      <link>https://skemman.is/handle/1946/50531</link>
-      <description>The Effects of Physical Therapy on Concussion Symptoms in Mild Traumatic Brain Injury: A retrospective study - Ásgeir Kristjánsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50531</guid>
-    </item>
-    <item>
-      <title>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum</title>
-      <link>https://skemman.is/handle/1946/50532</link>
-      <description>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum - Inga Lilja Ingadóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50532</guid>
     </item>
     <item>
       <title>Notkun og árangur GLP-1 viðtakaörva hjá börnum með offitu eftir nýlegar ábendingar</title>
@@ -51,10 +21,94 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50533</guid>
     </item>
     <item>
+      <title>Áhrif atferlisíhlutunar á snjallsímanotkun framhaldsskólanema í lífsleiknití,mum: Geta símaklefar og lukkuhjól dregið úr notkun snjallsíma í kennslustundum?</title>
+      <link>https://skemman.is/handle/1946/50530</link>
+      <description>Áhrif atferlisíhlutunar á snjallsímanotkun framhaldsskólanema í lífsleiknití,mum: Geta símaklefar og lukkuhjól dregið úr notkun snjallsíma í kennslustundum? - Kristín Anna Svavarsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50530</guid>
+    </item>
+    <item>
+      <title>Aðgerðir vegna meinvarpa hjá sjúklingum sem gengust undir aðgerð á endaþarmskrabbameini á Íslandi 2010-2019</title>
+      <link>https://skemman.is/handle/1946/50528</link>
+      <description>Aðgerðir vegna meinvarpa hjá sjúklingum sem gengust undir aðgerð á endaþarmskrabbameini á Íslandi 2010-2019 - Erla Figueras Eriksdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50528</guid>
+    </item>
+    <item>
+      <title>The Effects of Physical Therapy on Concussion Symptoms in Mild Traumatic Brain Injury: A retrospective study</title>
+      <link>https://skemman.is/handle/1946/50531</link>
+      <description>The Effects of Physical Therapy on Concussion Symptoms in Mild Traumatic Brain Injury: A retrospective study - Ásgeir Kristjánsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50531</guid>
+    </item>
+    <item>
+      <title>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024</title>
+      <link>https://skemman.is/handle/1946/50529</link>
+      <description>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024 - Maríanna Björg Ingvaldsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50529</guid>
+    </item>
+    <item>
+      <title>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum</title>
+      <link>https://skemman.is/handle/1946/50532</link>
+      <description>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum - Inga Lilja Ingadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50532</guid>
+    </item>
+    <item>
+      <title>Meðábyrgð í ökutækjatjónum : mismunandi afleiðingar ólíkrar háttsemi</title>
+      <link>https://skemman.is/handle/1946/50535</link>
+      <description>Meðábyrgð í ökutækjatjónum : mismunandi afleiðingar ólíkrar háttsemi - Óskar Freyr Jóhannsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50535</guid>
+    </item>
+    <item>
+      <title>Lagaumhverfi rafrænna undirskrifta : geta formkröfur íslenskra laga hindrað réttaráhrif rafrænna undirskrifta?“</title>
+      <link>https://skemman.is/handle/1946/50538</link>
+      <description>Lagaumhverfi rafrænna undirskrifta : geta formkröfur íslenskra laga hindrað réttaráhrif rafrænna undirskrifta?“ - Rut Pétursdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50538</guid>
+    </item>
+    <item>
+      <title>Skattlagning rafmynta : er þörf á lagabreytingu?</title>
+      <link>https://skemman.is/handle/1946/50540</link>
+      <description>Skattlagning rafmynta : er þörf á lagabreytingu? - Róbert Daði Sigurþórsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50540</guid>
+    </item>
+    <item>
+      <title>Analyzing sexual violence narratives from survivors in a virtual reality courtroom</title>
+      <link>https://skemman.is/handle/1946/50539</link>
+      <description>Analyzing sexual violence narratives from survivors in a virtual reality courtroom - Amíra Sól Jóhannsdóttir 2003-; Rakel Jóna B. Davíðsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50539</guid>
+    </item>
+    <item>
+      <title>Brottfall í yngri flokkum kvenna í handknattleik : 4. flokkur og 5. flokkur : hvað hefur áhrif á brottfall kvenna úr yngri flokkum í handknattleik?</title>
+      <link>https://skemman.is/handle/1946/50541</link>
+      <description>Brottfall í yngri flokkum kvenna í handknattleik : 4. flokkur og 5. flokkur : hvað hefur áhrif á brottfall kvenna úr yngri flokkum í handknattleik? - Lovísa Sigríður Hansdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50541</guid>
+    </item>
+    <item>
+      <title>"Léttara Líf" : mælingar á líkamssamsetningu og líkamlegu atgervi einstaklinga sem lifa með offitu</title>
+      <link>https://skemman.is/handle/1946/50536</link>
+      <description>"Léttara Líf" : mælingar á líkamssamsetningu og líkamlegu atgervi einstaklinga sem lifa með offitu - Heiðrún Huld Gestsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50536</guid>
+    </item>
+    <item>
       <title>Feeling the performance : experiencing Rómeó &lt;3 Júlía by Iceland Dance Company through the phenomenological lens.</title>
       <link>https://skemman.is/handle/1946/50534</link>
       <description>Feeling the performance : experiencing Rómeó &lt;3 Júlía by Iceland Dance Company through the phenomenological lens. - Alona Perepelytsia 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50534</guid>
+    </item>
+    <item>
+      <title>Líkamlegt atgervi í yngri flokkum knattspyrnu eftir fæðingardegi og getustigi</title>
+      <link>https://skemman.is/handle/1946/50537</link>
+      <description>Líkamlegt atgervi í yngri flokkum knattspyrnu eftir fæðingardegi og getustigi - Sverrir Þór Kristinsson 2003-; Haraldur Ingi Ólafsson Morthens 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50537</guid>
+    </item>
+    <item>
+      <title>Mansal samkvæmt 227. gr. a. alm. hgl. : áskoranir lögreglu og ákæruvalds</title>
+      <link>https://skemman.is/handle/1946/50542</link>
+      <description>Mansal samkvæmt 227. gr. a. alm. hgl. : áskoranir lögreglu og ákæruvalds - Stefán Viðar Stefánsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50542</guid>
+    </item>
+    <item>
+      <title>Psychometric evaluation of the Pregnancy related Anxiety Scale (PrAS) : a pilot study of an Icelandic translation</title>
+      <link>https://skemman.is/handle/1946/50543</link>
+      <description>Psychometric evaluation of the Pregnancy related Anxiety Scale (PrAS) : a pilot study of an Icelandic translation - Írena Björt Magnúsdóttir 2001-; Kolbrún Ýr Sigurgeirsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50543</guid>
     </item>
     <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/50523</link>
       <description>Notkun Tranexamic sýru (Cyklocapron) í opnum aðgerðum á Kvennadeild Landspítala - Áslaug Ingileif Halldórsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50523</guid>
-    </item>
-    <item>
-      <title>Greining á þjálfunarhermi orkustjórnkerfis Landsvirkjunar</title>
-      <link>https://skemman.is/handle/1946/50524</link>
-      <description>Greining á þjálfunarhermi orkustjórnkerfis Landsvirkjunar - Jón Davíð Hreinsson 1969-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50524</guid>
-    </item>
-    <item>
-      <title>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024</title>
-      <link>https://skemman.is/handle/1946/50522</link>
-      <description>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024 - Snædís Óskarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50522</guid>
-    </item>
-    <item>
-      <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
-      <link>https://skemman.is/handle/1946/50502</link>
-      <description>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á? - Kristjana Oddný Björgvinsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50502</guid>
-    </item>
-    <item>
-      <title>SSRI/SNRI meðferð á meðgöngu og áhrif á nýbura</title>
-      <link>https://skemman.is/handle/1946/50501</link>
-      <description>SSRI/SNRI meðferð á meðgöngu og áhrif á nýbura - Kolka Magnúsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50501</guid>
-    </item>
-    <item>
-      <title>Samanburður svefnmælinga úr snjallúrum, svefndagbókum og svefnmælitækjum hjá einstaklingum með svefnleysi og heilbrigðum</title>
-      <link>https://skemman.is/handle/1946/50503</link>
-      <description>Samanburður svefnmælinga úr snjallúrum, svefndagbókum og svefnmælitækjum hjá einstaklingum með svefnleysi og heilbrigðum - Katrín María Ólafsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50503</guid>
-    </item>
-    <item>
-      <title>Fjöldi inngripa i fæðingu og tengsl við neikvæða fæðingarupplifun kvenna: aftursýn ferilrannsókn</title>
-      <link>https://skemman.is/handle/1946/50505</link>
-      <description>Fjöldi inngripa i fæðingu og tengsl við neikvæða fæðingarupplifun kvenna: aftursýn ferilrannsókn - Hulda María Albertsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50505</guid>
-    </item>
-    <item>
-      <title>Breast cancer whole-slide images used to predict homologous recombination deficiency, BRCA2 999del5 and TP53 mutations via weakly supervised deep learning</title>
-      <link>https://skemman.is/handle/1946/50504</link>
-      <description>Breast cancer whole-slide images used to predict homologous recombination deficiency, BRCA2 999del5 and TP53 mutations via weakly supervised deep learning - Ýr Ý Nhu Tran 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50504</guid>
-    </item>
-    <item>
-      <title>Reykingar meðal sjúklinga með kransæðastílfu: Samanburður við almennt þýði</title>
-      <link>https://skemman.is/handle/1946/50506</link>
-      <description>Reykingar meðal sjúklinga með kransæðastílfu: Samanburður við almennt þýði - Eiríkur Kúld Viktorsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50506</guid>
-    </item>
-    <item>
-      <title>Raflagnahönnun snjallheimilis : Virkisás 25</title>
-      <link>https://skemman.is/handle/1946/50507</link>
-      <description>Raflagnahönnun snjallheimilis : Virkisás 25 - Jónas Marteinsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50507</guid>
     </item>
   </channel>
 </rss>
