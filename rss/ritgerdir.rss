@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jun 2025 08:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 09:12:28 +0000</lastBuildDate>
     <item>
       <title>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland</title>
       <link>https://skemman.is/handle/1946/50527</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/50528</link>
       <description>Aðgerðir vegna meinvarpa hjá sjúklingum sem gengust undir aðgerð á endaþarmskrabbameini á Íslandi 2010-2019 - Erla Figueras Eriksdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50528</guid>
+    </item>
+    <item>
+      <title>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024</title>
+      <link>https://skemman.is/handle/1946/50529</link>
+      <description>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024 - Maríanna Björg Ingvaldsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50529</guid>
     </item>
     <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
@@ -57,12 +63,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50525</guid>
     </item>
     <item>
-      <title>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024</title>
-      <link>https://skemman.is/handle/1946/50522</link>
-      <description>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024 - Snædís Óskarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50522</guid>
-    </item>
-    <item>
       <title>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu</title>
       <link>https://skemman.is/handle/1946/50526</link>
       <description>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu - Kristín Ylfa Guðmundsdóttir 2002-</description>
@@ -79,6 +79,12 @@
       <link>https://skemman.is/handle/1946/50524</link>
       <description>Greining á þjálfunarhermi orkustjórnkerfis Landsvirkjunar - Jón Davíð Hreinsson 1969-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50524</guid>
+    </item>
+    <item>
+      <title>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024</title>
+      <link>https://skemman.is/handle/1946/50522</link>
+      <description>Nýgengi og áhættuþættir fyrirburaaugnsjúkdóms á Íslandi: 2009-2024 - Snædís Óskarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50522</guid>
     </item>
     <item>
       <title>Könnun á þekkingu viðbragðsaðila og vilja þeirra til að taka þátt í aðgerðum vegna geislaslysa. Hvað hefur áhrif þar á?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50511</link>
       <description>Hverahlíð 15-21 : Hönnun lagna- og loftræsikerfis - Davíð Karlsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50511</guid>
-    </item>
-    <item>
-      <title>Gervigreind í veghönnun</title>
-      <link>https://skemman.is/handle/1946/50510</link>
-      <description>Gervigreind í veghönnun - Sigvaldi Örn Óskarsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50510</guid>
     </item>
   </channel>
 </rss>
