@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jun 2025 11:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 13:20:53 +0000</lastBuildDate>
     <item>
       <title>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland</title>
       <link>https://skemman.is/handle/1946/50527</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/50532</link>
       <description>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum - Inga Lilja Ingadóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50532</guid>
+    </item>
+    <item>
+      <title>Notkun og árangur GLP-1 viðtakaörva hjá börnum með offitu eftir nýlegar ábendingar</title>
+      <link>https://skemman.is/handle/1946/50533</link>
+      <description>Notkun og árangur GLP-1 viðtakaörva hjá börnum með offitu eftir nýlegar ábendingar - Helena Björk Arnarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50533</guid>
+    </item>
+    <item>
+      <title>Feeling the performance : experiencing Rómeó &lt;3 Júlía by Iceland Dance Company through the phenomenological lens.</title>
+      <link>https://skemman.is/handle/1946/50534</link>
+      <description>Feeling the performance : experiencing Rómeó &lt;3 Júlía by Iceland Dance Company through the phenomenological lens. - Alona Perepelytsia 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50534</guid>
     </item>
     <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/50507</link>
       <description>Raflagnahönnun snjallheimilis : Virkisás 25 - Jónas Marteinsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50507</guid>
-    </item>
-    <item>
-      <title>Lýsing í Hvalfjarðargöngum</title>
-      <link>https://skemman.is/handle/1946/50516</link>
-      <description>Lýsing í Hvalfjarðargöngum - Hafþór Jón Sigurðsson 1997-; Máni Hafsteinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50516</guid>
-    </item>
-    <item>
-      <title>Hefur ástæða aukinnar þjónustuþarfar áhrif á útkomu fæðinga hjá konum sem fæða á Landspítala? Framskyggn ferilrannsókn</title>
-      <link>https://skemman.is/handle/1946/50509</link>
-      <description>Hefur ástæða aukinnar þjónustuþarfar áhrif á útkomu fæðinga hjá konum sem fæða á Landspítala? Framskyggn ferilrannsókn - Anna Lilja Valdimarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50509</guid>
     </item>
   </channel>
 </rss>
