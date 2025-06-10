@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jun 2025 09:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 11:10:34 +0000</lastBuildDate>
     <item>
       <title>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland</title>
       <link>https://skemman.is/handle/1946/50527</link>
@@ -25,6 +25,24 @@
       <link>https://skemman.is/handle/1946/50529</link>
       <description>Jákvæðar blóðræktanir á Barnaspítala Hringsins 2006-2024 - Maríanna Björg Ingvaldsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50529</guid>
+    </item>
+    <item>
+      <title>Áhrif atferlisíhlutunar á snjallsímanotkun framhaldsskólanema í lífsleiknití,mum: Geta símaklefar og lukkuhjól dregið úr notkun snjallsíma í kennslustundum?</title>
+      <link>https://skemman.is/handle/1946/50530</link>
+      <description>Áhrif atferlisíhlutunar á snjallsímanotkun framhaldsskólanema í lífsleiknití,mum: Geta símaklefar og lukkuhjól dregið úr notkun snjallsíma í kennslustundum? - Kristín Anna Svavarsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50530</guid>
+    </item>
+    <item>
+      <title>The Effects of Physical Therapy on Concussion Symptoms in Mild Traumatic Brain Injury: A retrospective study</title>
+      <link>https://skemman.is/handle/1946/50531</link>
+      <description>The Effects of Physical Therapy on Concussion Symptoms in Mild Traumatic Brain Injury: A retrospective study - Ásgeir Kristjánsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50531</guid>
+    </item>
+    <item>
+      <title>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum</title>
+      <link>https://skemman.is/handle/1946/50532</link>
+      <description>Áhrif liðleika og styrks í aftanálærisvöðvum á ökklameiðsl í hópfimleikum - Inga Lilja Ingadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50532</guid>
     </item>
     <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/50509</link>
       <description>Hefur ástæða aukinnar þjónustuþarfar áhrif á útkomu fæðinga hjá konum sem fæða á Landspítala? Framskyggn ferilrannsókn - Anna Lilja Valdimarsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50509</guid>
-    </item>
-    <item>
-      <title>Varaaflskerfi hjá Norðurál Grundartanga : uppfærsla á varaaflskerfum</title>
-      <link>https://skemman.is/handle/1946/50508</link>
-      <description>Varaaflskerfi hjá Norðurál Grundartanga : uppfærsla á varaaflskerfum - Leó Snær Guðmundsson 1998-; Hallur Bjarnason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50508</guid>
-    </item>
-    <item>
-      <title>Hönnun lagna- og loftræsikerfis ásamt orkulíkani</title>
-      <link>https://skemman.is/handle/1946/50513</link>
-      <description>Hönnun lagna- og loftræsikerfis ásamt orkulíkani - Hilmar Adam Jóhannsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50513</guid>
-    </item>
-    <item>
-      <title>Hverahlíð 15-21 : Hönnun lagna- og loftræsikerfis</title>
-      <link>https://skemman.is/handle/1946/50511</link>
-      <description>Hverahlíð 15-21 : Hönnun lagna- og loftræsikerfis - Davíð Karlsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50511</guid>
     </item>
   </channel>
 </rss>
