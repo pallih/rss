@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jun 2025 15:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 16:12:34 +0000</lastBuildDate>
     <item>
       <title>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland</title>
       <link>https://skemman.is/handle/1946/50527</link>
@@ -111,6 +111,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50543</guid>
     </item>
     <item>
+      <title>Substance use among children of formerly and currently incarcerated parents in Iceland : can self-esteem serve as a protective factor?</title>
+      <link>https://skemman.is/handle/1946/50544</link>
+      <description>Substance use among children of formerly and currently incarcerated parents in Iceland : can self-esteem serve as a protective factor? - Ásdís Birna Bjarkadóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50544</guid>
+    </item>
+    <item>
       <title>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn.</title>
       <link>https://skemman.is/handle/1946/50518</link>
       <description>„Ég var svo mikið að reyna að gera mitt allra besta“ Upplifun og reynsla erlendra ljósmæðra af því að starfa í íslensku heilbrigðiskerfi. Eigindleg viðtalsrannsókn. - Sara Björg Pétursdóttir 1988-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50526</link>
       <description>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu - Kristín Ylfa Guðmundsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50526</guid>
-    </item>
-    <item>
-      <title>Notkun Tranexamic sýru (Cyklocapron) í opnum aðgerðum á Kvennadeild Landspítala</title>
-      <link>https://skemman.is/handle/1946/50523</link>
-      <description>Notkun Tranexamic sýru (Cyklocapron) í opnum aðgerðum á Kvennadeild Landspítala - Áslaug Ingileif Halldórsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50523</guid>
     </item>
   </channel>
 </rss>

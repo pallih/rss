@@ -1,5 +1,10 @@
 [
     {
+        "slug": "landspitali",
+        "title": "Landspítali",
+        "link": "https://island.is/s/landspitali/frett"
+    },
+    {
         "slug": "hve",
         "title": "Heilbrigðisstofnun Vesturlands",
         "link": "https://island.is/s/hve/frett"
@@ -68,11 +73,6 @@
         "slug": "vinnumalastofnun",
         "title": "Vinnumálastofnun",
         "link": "https://island.is/s/vinnumalastofnun/frett"
-    },
-    {
-        "slug": "landspitali",
-        "title": "Landspítali",
-        "link": "https://island.is/s/landspitali/frett"
     },
     {
         "slug": "vinnueftirlitid",
