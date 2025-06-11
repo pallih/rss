@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Jun 2025 17:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 08:09:03 +0000</lastBuildDate>
+    <item>
+      <title>Syntheses of α,α,α-Tris(o-aminophenyl)-β-(o-N-triphenylmethylaminophenyl)porphyrin and and potassium µ-L-leucinato-η²-disulfido-di-µ-sulfido-bis[oxomolybdate(V)] monohydrate</title>
+      <link>https://skemman.is/handle/1946/50545</link>
+      <description>Syntheses of α,α,α-Tris(o-aminophenyl)-β-(o-N-triphenylmethylaminophenyl)porphyrin and and potassium µ-L-leucinato-η²-disulfido-di-µ-sulfido-bis[oxomolybdate(V)] monohydrate - Inga Árný Gunnarsdóttir Kondrup 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50545</guid>
+    </item>
     <item>
       <title>Association Between Adverse Childhood Experiences and Migraine Among Women in Iceland</title>
       <link>https://skemman.is/handle/1946/50527</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/50525</link>
       <description>Overview of immunoglobulin use from 2019 to 2024 and personalised approach through IgXpert clinical support system - Elín Ósk Björnsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50525</guid>
-    </item>
-    <item>
-      <title>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu</title>
-      <link>https://skemman.is/handle/1946/50526</link>
-      <description>Öndunaraðstoð og stuðningur eftir fæðingu hjá fyrirburum fæddum fyrir 32 viku meðgöngu - Kristín Ylfa Guðmundsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50526</guid>
     </item>
   </channel>
 </rss>
