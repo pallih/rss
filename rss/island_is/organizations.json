@@ -1,5 +1,10 @@
 [
     {
+        "slug": "umbodsmadur-skuldara",
+        "title": "Umboðsmaður skuldara",
+        "link": "https://island.is/s/umbodsmadur-skuldara/frett"
+    },
+    {
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
@@ -203,11 +208,6 @@
         "slug": "visindasidanefnd",
         "title": "Vísindasiðanefnd",
         "link": "https://island.is/s/visindasidanefnd/frett"
-    },
-    {
-        "slug": "umbodsmadur-skuldara",
-        "title": "Umboðsmaður skuldara",
-        "link": "https://island.is/s/umbodsmadur-skuldara/frett"
     },
     {
         "slug": "blodbankinn",
