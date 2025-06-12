@@ -1,5 +1,10 @@
 [
     {
+        "slug": "logreglan",
+        "title": "Lögreglan",
+        "link": "https://island.is/s/logreglan/frett"
+    },
+    {
         "slug": "umbodsmadur-skuldara",
         "title": "Umboðsmaður skuldara",
         "link": "https://island.is/s/umbodsmadur-skuldara/frett"
@@ -18,11 +23,6 @@
         "slug": "hve",
         "title": "Heilbrigðisstofnun Vesturlands",
         "link": "https://island.is/s/hve/frett"
-    },
-    {
-        "slug": "logreglan",
-        "title": "Lögreglan",
-        "link": "https://island.is/s/logreglan/frett"
     },
     {
         "slug": "shh",

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 12 Jun 2025 13:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 15:07:17 +0000</lastBuildDate>
     <item>
       <title>Er marktækur munur á geislunarvísum og geislaskömmtum á milli kynja? Gæðarannsókn</title>
       <link>https://skemman.is/handle/1946/50601</link>
@@ -57,6 +57,60 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/50594</guid>
     </item>
     <item>
+      <title>Patient satisfaction with treatment at early intervention services for bipolar disorder in Iceland : a cross-sectional study</title>
+      <link>https://skemman.is/handle/1946/50616</link>
+      <description>Patient satisfaction with treatment at early intervention services for bipolar disorder in Iceland : a cross-sectional study - Birta María Aðalsteinsdóttir 1997-; Katharina Sibylla Jóhannsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50616</guid>
+    </item>
+    <item>
+      <title>Exploring the effects of previous experiences of sexual adverse life events and resilience on psychological distress among Icelandic breast cancer patients</title>
+      <link>https://skemman.is/handle/1946/50614</link>
+      <description>Exploring the effects of previous experiences of sexual adverse life events and resilience on psychological distress among Icelandic breast cancer patients - Sóley Breiðfjörð Jónsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50614</guid>
+    </item>
+    <item>
+      <title>Timing, type, and severity of abuse as predictors of prenatal distress, and the role of perceived social support and suffering</title>
+      <link>https://skemman.is/handle/1946/50611</link>
+      <description>Timing, type, and severity of abuse as predictors of prenatal distress, and the role of perceived social support and suffering - Júlía Ýr Ársælsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50611</guid>
+    </item>
+    <item>
+      <title>The prevalence of psychological skills training and mindfulness in Icelandic sports</title>
+      <link>https://skemman.is/handle/1946/50618</link>
+      <description>The prevalence of psychological skills training and mindfulness in Icelandic sports - Snorri Steinn Gíslason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50618</guid>
+    </item>
+    <item>
+      <title>Eignfærsla leikmannasamninga í ársreikningum íslenskra knattspyrnuliða</title>
+      <link>https://skemman.is/handle/1946/50612</link>
+      <description>Eignfærsla leikmannasamninga í ársreikningum íslenskra knattspyrnuliða - Sævar Þór Sveinsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50612</guid>
+    </item>
+    <item>
+      <title>Viðskiptavinamiðað vörumerkjavirði íslenskra knattspyrnufélaga : hvaða félag býr yfir sterkasta viðskiptavinamiðaða vörumerkinu í íslenskri karlaknattspyrnu?</title>
+      <link>https://skemman.is/handle/1946/50617</link>
+      <description>Viðskiptavinamiðað vörumerkjavirði íslenskra knattspyrnufélaga : hvaða félag býr yfir sterkasta viðskiptavinamiðaða vörumerkinu í íslenskri karlaknattspyrnu? - Jóhann Karl Valdimarsson 2001-; Arnar Freyr Sigurgeirsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50617</guid>
+    </item>
+    <item>
+      <title>Nikótínnotkun á meðgöngu og möguleg áhrif á nýbura</title>
+      <link>https://skemman.is/handle/1946/50613</link>
+      <description>Nikótínnotkun á meðgöngu og möguleg áhrif á nýbura - Daníela Björg Stefánsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50613</guid>
+    </item>
+    <item>
+      <title>Áhrif launaþaks á samkeppni í íþróttum : hvernig myndi innleiðing launaþaks hafa áhrif á samkeppni milli íþróttaliða?</title>
+      <link>https://skemman.is/handle/1946/50615</link>
+      <description>Áhrif launaþaks á samkeppni í íþróttum : hvernig myndi innleiðing launaþaks hafa áhrif á samkeppni milli íþróttaliða? - Máni Elvar Traustason 2002-; Gunnar Magnús Gunnarsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50615</guid>
+    </item>
+    <item>
+      <title>Viðhorf starfsfólks og stjórnenda Íslandsbanka til fjarvinnu</title>
+      <link>https://skemman.is/handle/1946/50619</link>
+      <description>Viðhorf starfsfólks og stjórnenda Íslandsbanka til fjarvinnu - Thelma Rós Héðinsdóttir 2002-; Helena Freysdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/50619</guid>
+    </item>
+    <item>
       <title>Lyfjaheldni einstaklinga með fjölþættar heilbrigðisáskoranir: Fræðileg samantekt með áherslu á sjúkdóma, fötlun, færniskerðingu og fjöllyfjanotkun</title>
       <link>https://skemman.is/handle/1946/50592</link>
       <description>Lyfjaheldni einstaklinga með fjölþættar heilbrigðisáskoranir: Fræðileg samantekt með áherslu á sjúkdóma, fötlun, færniskerðingu og fjöllyfjanotkun - Melkorka Elín Sigurðardóttir 1998-</description>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/50603</link>
       <description>Marktækifæri í kvennaknattspyrnu : þættir sem hafa áhrif á það hvort að marktækifæri endi með marki eða ekki - Diljá Ósk Snjólfsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/50603</guid>
-    </item>
-    <item>
-      <title>Social media use and cognitive failures</title>
-      <link>https://skemman.is/handle/1946/50607</link>
-      <description>Social media use and cognitive failures - Valgerður Lilja Arnarsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50607</guid>
-    </item>
-    <item>
-      <title>Ehf - gatið : er ehf-gatið vandamál í ljósi lagaumhverfis, gagna og réttlætissjónarmiða um tekjujöfnun í skattkerfinu?</title>
-      <link>https://skemman.is/handle/1946/50610</link>
-      <description>Ehf - gatið : er ehf-gatið vandamál í ljósi lagaumhverfis, gagna og réttlætissjónarmiða um tekjujöfnun í skattkerfinu? - Elísabet Valgeirsdóttir 2003-; Shayne Rheez Palban Espiritu 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50610</guid>
-    </item>
-    <item>
-      <title>Rannsókn á kröfumun á milli stráka og stelpna í 4. flokks fótbolta : er munur á kröfum til kynjanna?</title>
-      <link>https://skemman.is/handle/1946/50602</link>
-      <description>Rannsókn á kröfumun á milli stráka og stelpna í 4. flokks fótbolta : er munur á kröfum til kynjanna? - Sveinn Sær Vattnes Ingólfsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50602</guid>
-    </item>
-    <item>
-      <title>Timing, type, and severity of abuse as predictors of prenatal distress, and the role of perceived social support and suffering</title>
-      <link>https://skemman.is/handle/1946/50611</link>
-      <description>Timing, type, and severity of abuse as predictors of prenatal distress, and the role of perceived social support and suffering - Júlía Ýr Ársælsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50611</guid>
-    </item>
-    <item>
-      <title>Eignfærsla leikmannasamninga í ársreikningum íslenskra knattspyrnuliða</title>
-      <link>https://skemman.is/handle/1946/50612</link>
-      <description>Eignfærsla leikmannasamninga í ársreikningum íslenskra knattspyrnuliða - Sævar Þór Sveinsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50612</guid>
-    </item>
-    <item>
-      <title>Nikótínnotkun á meðgöngu og möguleg áhrif á nýbura</title>
-      <link>https://skemman.is/handle/1946/50613</link>
-      <description>Nikótínnotkun á meðgöngu og möguleg áhrif á nýbura - Daníela Björg Stefánsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50613</guid>
-    </item>
-    <item>
-      <title>Exploring the effects of previous experiences of sexual adverse life events and resilience on psychological distress among Icelandic breast cancer patients</title>
-      <link>https://skemman.is/handle/1946/50614</link>
-      <description>Exploring the effects of previous experiences of sexual adverse life events and resilience on psychological distress among Icelandic breast cancer patients - Sóley Breiðfjörð Jónsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50614</guid>
-    </item>
-    <item>
-      <title>Úrræði vegna vanefnda aðildarríkja í Evrópusambandsrétti : hvaða leiðir eru tiltækar til að taka á viðvarandi brotum ríkja og hversu árangursríkar eru þær?</title>
-      <link>https://skemman.is/handle/1946/50556</link>
-      <description>Úrræði vegna vanefnda aðildarríkja í Evrópusambandsrétti : hvaða leiðir eru tiltækar til að taka á viðvarandi brotum ríkja og hversu árangursríkar eru þær? - Aleksander Jan Strzalka 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50556</guid>
-    </item>
-    <item>
-      <title>Áhrif örverusmits, áburðargjafar og gróðursetningarstaða á lifun og æskuvöxt alaskaaspar og stafafuru</title>
-      <link>https://skemman.is/handle/1946/50549</link>
-      <description>Áhrif örverusmits, áburðargjafar og gróðursetningarstaða á lifun og æskuvöxt alaskaaspar og stafafuru - Salka Einarsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/50549</guid>
     </item>
   </channel>
 </rss>
