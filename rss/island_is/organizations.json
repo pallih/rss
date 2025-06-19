@@ -50,6 +50,11 @@
         "link": "https://island.is/s/faggilding/frett"
     },
     {
+        "slug": "skipulagsstofnun",
+        "title": "Skipulagsstofnun",
+        "link": "https://island.is/s/skipulagsstofnun/frett"
+    },
+    {
         "slug": "thjodskjalasafn",
         "title": "Þjóðskjalasafn Íslands",
         "link": "https://island.is/s/thjodskjalasafn/frett"
@@ -58,6 +63,11 @@
         "slug": "rannis",
         "title": "Rannsóknamiðstöð Íslands",
         "link": "https://island.is/s/rannis/frett"
+    },
+    {
+        "slug": "hms",
+        "title": "Húsnæðis- og mannvirkjastofnun",
+        "link": "https://island.is/s/hms/frett"
     },
     {
         "slug": "fiskistofa",
@@ -80,6 +90,11 @@
         "link": "https://island.is/s/endurupptokudomur/frett"
     },
     {
+        "slug": "stafraent-island",
+        "title": "Stafrænt Ísland",
+        "link": "https://island.is/s/stafraent-island/frett"
+    },
+    {
         "slug": "personuvernd",
         "title": "Persónuvernd",
         "link": "https://island.is/s/personuvernd/frett"
@@ -95,9 +110,19 @@
         "link": "https://island.is/s/tryggingastofnun/frett"
     },
     {
+        "slug": "heradsdomstolar",
+        "title": "Héraðsdómstólar",
+        "link": "https://island.is/s/heradsdomstolar/frett"
+    },
+    {
         "slug": "landsrettur",
         "title": "Landsréttur",
         "link": "https://island.is/s/landsrettur/frett"
+    },
+    {
+        "slug": "midstod-menntunar-og-skolathjonustu",
+        "title": "Miðstöð menntunar og skólaþjónustu",
+        "link": "https://island.is/s/midstod-menntunar-og-skolathjonustu/frett"
     },
     {
         "slug": "heradssaksoknari",
@@ -120,6 +145,11 @@
         "link": "https://island.is/s/sjukratryggingar/frett"
     },
     {
+        "slug": "sak",
+        "title": "Sjúkrahúsið á Akureyri",
+        "link": "https://island.is/s/sak/frett"
+    },
+    {
         "slug": "landlaeknir",
         "title": "Embætti landlæknis",
         "link": "https://island.is/s/landlaeknir/frett"
@@ -133,6 +163,11 @@
         "slug": "landskjorstjorn",
         "title": "Landskjörstjórn",
         "link": "https://island.is/s/landskjorstjorn/frett"
+    },
+    {
+        "slug": "samgongustofa",
+        "title": "Samgöngustofa",
+        "link": "https://island.is/s/samgongustofa/frett"
     },
     {
         "slug": "rikissaksoknari",
