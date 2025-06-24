@@ -95,6 +95,11 @@
         "link": "https://island.is/s/stafraent-island/frett"
     },
     {
+        "slug": "personuvernd",
+        "title": "Persónuvernd",
+        "link": "https://island.is/s/personuvernd/frett"
+    },
+    {
         "slug": "rettindagaesla-fatlads-folks",
         "title": "Réttindagæsla fyrir fatlað fólk",
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
@@ -188,6 +193,11 @@
         "slug": "hsu",
         "title": "Heilbrigðisstofnun Suðurlands",
         "link": "https://island.is/s/hsu/frett"
+    },
+    {
+        "slug": "rikislogmadur",
+        "title": "Ríkislögmaður",
+        "link": "https://island.is/s/rikislogmadur/frett"
     },
     {
         "slug": "hsa",
