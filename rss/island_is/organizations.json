@@ -60,6 +60,11 @@
         "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
+        "slug": "rannis",
+        "title": "Rannsóknamiðstöð Íslands",
+        "link": "https://island.is/s/rannis/frett"
+    },
+    {
         "slug": "hms",
         "title": "Húsnæðis- og mannvirkjastofnun",
         "link": "https://island.is/s/hms/frett"
@@ -88,11 +93,6 @@
         "slug": "stafraent-island",
         "title": "Stafrænt Ísland",
         "link": "https://island.is/s/stafraent-island/frett"
-    },
-    {
-        "slug": "personuvernd",
-        "title": "Persónuvernd",
-        "link": "https://island.is/s/personuvernd/frett"
     },
     {
         "slug": "rettindagaesla-fatlads-folks",
@@ -188,11 +188,6 @@
         "slug": "hsu",
         "title": "Heilbrigðisstofnun Suðurlands",
         "link": "https://island.is/s/hsu/frett"
-    },
-    {
-        "slug": "rikislogmadur",
-        "title": "Ríkislögmaður",
-        "link": "https://island.is/s/rikislogmadur/frett"
     },
     {
         "slug": "hsa",
