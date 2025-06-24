@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 24 Jun 2025 11:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 12:11:31 +0000</lastBuildDate>
     <item>
       <title>Verslunarhættir íslenskra neytenda þegar kemur að netverslun og hefðbundinni verslun</title>
       <link>https://skemman.is/handle/1946/51370</link>
       <description>Verslunarhættir íslenskra neytenda þegar kemur að netverslun og hefðbundinni verslun - Angelique D. Mastache Pétursdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51370</guid>
+    </item>
+    <item>
+      <title>Beyond the Veto: Why the UN Security Council is Failing</title>
+      <link>https://skemman.is/handle/1946/51372</link>
+      <description>Beyond the Veto: Why the UN Security Council is Failing - Saga Roman 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51372</guid>
     </item>
     <item>
       <title>Improving physical activity outcomes through goal setting, prompts, prompt fading, and feedback for individuals with diabetes</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51300</link>
       <description>Understanding adolescent online aggression : longitudinal associations between cyberbullying, cybergossip and emotional development - Karen Ósk Ingadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51300</guid>
-    </item>
-    <item>
-      <title>The role of anomie in the link between perceptions of inequality, social comparisons, relationship satisfaction and commitment : anomie, inequality, and relational outcomes</title>
-      <link>https://skemman.is/handle/1946/51306</link>
-      <description>The role of anomie in the link between perceptions of inequality, social comparisons, relationship satisfaction and commitment : anomie, inequality, and relational outcomes - Gabríel Sólon Sonjuson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51306</guid>
     </item>
   </channel>
 </rss>
