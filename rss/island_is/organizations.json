@@ -1,5 +1,10 @@
 [
     {
+        "slug": "landspitali",
+        "title": "Landspítali",
+        "link": "https://island.is/s/landspitali/frett"
+    },
+    {
         "slug": "logreglan",
         "title": "Lögreglan",
         "link": "https://island.is/s/logreglan/frett"
@@ -13,11 +18,6 @@
         "slug": "land-og-skogur",
         "title": "Land og skógur",
         "link": "https://island.is/s/land-og-skogur/frett"
-    },
-    {
-        "slug": "landspitali",
-        "title": "Landspítali",
-        "link": "https://island.is/s/landspitali/frett"
     },
     {
         "slug": "hve",
