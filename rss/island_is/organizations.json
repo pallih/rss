@@ -5,11 +5,6 @@
         "link": "https://island.is/s/landspitali/frett"
     },
     {
-        "slug": "logreglan",
-        "title": "Lögreglan",
-        "link": "https://island.is/s/logreglan/frett"
-    },
-    {
         "slug": "umbodsmadur-skuldara",
         "title": "Umboðsmaður skuldara",
         "link": "https://island.is/s/umbodsmadur-skuldara/frett"
@@ -20,19 +15,9 @@
         "link": "https://island.is/s/land-og-skogur/frett"
     },
     {
-        "slug": "hve",
-        "title": "Heilbrigðisstofnun Vesturlands",
-        "link": "https://island.is/s/hve/frett"
-    },
-    {
         "slug": "shh",
         "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
         "link": "https://island.is/s/shh/frett"
-    },
-    {
-        "slug": "sjonstodin",
-        "title": "Sjónstöðin",
-        "link": "https://island.is/s/sjonstodin/frett"
     },
     {
         "slug": "utlendingastofnun",
@@ -40,24 +25,9 @@
         "link": "https://island.is/s/utlendingastofnun/frett"
     },
     {
-        "slug": "hljodbokasafn-islands",
-        "title": "Hljóðbókasafn Íslands",
-        "link": "https://island.is/s/hljodbokasafn-islands/frett"
-    },
-    {
         "slug": "faggilding",
         "title": "Faggilding - ISAC",
         "link": "https://island.is/s/faggilding/frett"
-    },
-    {
-        "slug": "skipulagsstofnun",
-        "title": "Skipulagsstofnun",
-        "link": "https://island.is/s/skipulagsstofnun/frett"
-    },
-    {
-        "slug": "thjodskjalasafn",
-        "title": "Þjóðskjalasafn Íslands",
-        "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
         "slug": "rannis",
@@ -105,11 +75,6 @@
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
-        "slug": "tryggingastofnun",
-        "title": "Tryggingastofnun",
-        "link": "https://island.is/s/tryggingastofnun/frett"
-    },
-    {
         "slug": "heradsdomstolar",
         "title": "Héraðsdómstólar",
         "link": "https://island.is/s/heradsdomstolar/frett"
@@ -120,11 +85,6 @@
         "link": "https://island.is/s/landsrettur/frett"
     },
     {
-        "slug": "midstod-menntunar-og-skolathjonustu",
-        "title": "Miðstöð menntunar og skólaþjónustu",
-        "link": "https://island.is/s/midstod-menntunar-og-skolathjonustu/frett"
-    },
-    {
         "slug": "heradssaksoknari",
         "title": "Héraðssaksóknari",
         "link": "https://island.is/s/heradssaksoknari/frett"
@@ -133,16 +93,6 @@
         "slug": "bofs",
         "title": "Barna- og fjölskyldustofa",
         "link": "https://island.is/s/bofs/frett"
-    },
-    {
-        "slug": "syslumenn",
-        "title": "Sýslumenn",
-        "link": "https://island.is/s/syslumenn/frett"
-    },
-    {
-        "slug": "sjukratryggingar",
-        "title": "Sjúkratryggingar",
-        "link": "https://island.is/s/sjukratryggingar/frett"
     },
     {
         "slug": "sak",
@@ -173,16 +123,6 @@
         "slug": "rikissaksoknari",
         "title": "Ríkissaksóknari",
         "link": "https://island.is/s/rikissaksoknari/frett"
-    },
-    {
-        "slug": "gev",
-        "title": "Gæða- og eftirlitsstofnun velferðarmála",
-        "link": "https://island.is/s/gev/frett"
-    },
-    {
-        "slug": "geislavarnir-rikisins",
-        "title": "Geislavarnir ríkisins",
-        "link": "https://island.is/s/geislavarnir-rikisins/frett"
     },
     {
         "slug": "hsn",
