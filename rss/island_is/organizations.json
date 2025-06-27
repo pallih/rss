@@ -45,19 +45,9 @@
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
     },
     {
-        "slug": "faggilding",
-        "title": "Faggilding - ISAC",
-        "link": "https://island.is/s/faggilding/frett"
-    },
-    {
         "slug": "skipulagsstofnun",
         "title": "Skipulagsstofnun",
         "link": "https://island.is/s/skipulagsstofnun/frett"
-    },
-    {
-        "slug": "thjodskjalasafn",
-        "title": "Þjóðskjalasafn Íslands",
-        "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
         "slug": "rannis",
@@ -85,11 +75,6 @@
         "link": "https://island.is/s/vinnueftirlitid/frett"
     },
     {
-        "slug": "endurupptokudomur",
-        "title": "Endurupptökudómur",
-        "link": "https://island.is/s/endurupptokudomur/frett"
-    },
-    {
         "slug": "stafraent-island",
         "title": "Stafrænt Ísland",
         "link": "https://island.is/s/stafraent-island/frett"
@@ -108,11 +93,6 @@
         "slug": "tryggingastofnun",
         "title": "Tryggingastofnun",
         "link": "https://island.is/s/tryggingastofnun/frett"
-    },
-    {
-        "slug": "heradsdomstolar",
-        "title": "Héraðsdómstólar",
-        "link": "https://island.is/s/heradsdomstolar/frett"
     },
     {
         "slug": "landsrettur",
@@ -203,11 +183,6 @@
         "slug": "hsa",
         "title": "Heilbrigðisstofnun Austurlands",
         "link": "https://island.is/s/hsa/frett"
-    },
-    {
-        "slug": "visindasidanefnd",
-        "title": "Vísindasiðanefnd",
-        "link": "https://island.is/s/visindasidanefnd/frett"
     },
     {
         "slug": "blodbankinn",
