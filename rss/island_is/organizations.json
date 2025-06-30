@@ -1,5 +1,10 @@
 [
     {
+        "slug": "shh",
+        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
+        "link": "https://island.is/s/shh/frett"
+    },
+    {
         "slug": "landspitali",
         "title": "Landspítali",
         "link": "https://island.is/s/landspitali/frett"
@@ -23,11 +28,6 @@
         "slug": "hve",
         "title": "Heilbrigðisstofnun Vesturlands",
         "link": "https://island.is/s/hve/frett"
-    },
-    {
-        "slug": "shh",
-        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
-        "link": "https://island.is/s/shh/frett"
     },
     {
         "slug": "sjonstodin",
