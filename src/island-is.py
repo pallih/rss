@@ -63,7 +63,7 @@ def generate_rss(org):
 
         try:
             url = org["link"]
-            page.goto(url)
+            page.goto(url, timeout=0)
 
             page.wait_for_load_state("networkidle")
 
