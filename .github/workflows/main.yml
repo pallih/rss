@@ -46,23 +46,29 @@ jobs:
       #   run: python src/skjalaskrar.py
       - name: Create palmemordsarkivet.rss file
         run: python src/palmemordsaarkivet.py
+        if: always()
       - name: Create ritgerdir.rss file
         run: python src/ritgerdir.py
+        if: always()
       # - name: Create skipulag_rvk.rss file
       #   run: python src/skipulag_rvk.py
       # - name: Create landskjorstjorn.rss file
       #   run: python src/landskjorstjorn.py
       - name: create island_is feeds
         run: python src/island-is.py
+        if: always()
       - name: create readme
         run: python src/create_readme.py
+        if: always()
       - name: Commit changes
+        if: always()
         run: |
           git add .
           git config --global user.email "rssbot@example.com"
           git config --global user.name "RSS þjarkur"
           git commit --allow-empty -m 'uppfærsla'
       - name: Push changes
+        if: always()
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
