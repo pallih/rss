@@ -5,14 +5,59 @@
         "link": "https://island.is/s/land-og-skogur/frett"
     },
     {
+        "slug": "shh",
+        "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
+        "link": "https://island.is/s/shh/frett"
+    },
+    {
         "slug": "landspitali",
         "title": "Landspítali",
         "link": "https://island.is/s/landspitali/frett"
     },
     {
+        "slug": "logreglan",
+        "title": "Lögreglan",
+        "link": "https://island.is/s/logreglan/frett"
+    },
+    {
+        "slug": "umbodsmadur-skuldara",
+        "title": "Umboðsmaður skuldara",
+        "link": "https://island.is/s/umbodsmadur-skuldara/frett"
+    },
+    {
+        "slug": "hve",
+        "title": "Heilbrigðisstofnun Vesturlands",
+        "link": "https://island.is/s/hve/frett"
+    },
+    {
         "slug": "sjonstodin",
         "title": "Sjónstöðin",
         "link": "https://island.is/s/sjonstodin/frett"
+    },
+    {
+        "slug": "utlendingastofnun",
+        "title": "Útlendingastofnun",
+        "link": "https://island.is/s/utlendingastofnun/frett"
+    },
+    {
+        "slug": "hljodbokasafn-islands",
+        "title": "Hljóðbókasafn Íslands",
+        "link": "https://island.is/s/hljodbokasafn-islands/frett"
+    },
+    {
+        "slug": "faggilding",
+        "title": "Faggilding - ISAC",
+        "link": "https://island.is/s/faggilding/frett"
+    },
+    {
+        "slug": "skipulagsstofnun",
+        "title": "Skipulagsstofnun",
+        "link": "https://island.is/s/skipulagsstofnun/frett"
+    },
+    {
+        "slug": "thjodskjalasafn",
+        "title": "Þjóðskjalasafn Íslands",
+        "link": "https://island.is/s/thjodskjalasafn/frett"
     },
     {
         "slug": "rannis",
@@ -35,6 +80,11 @@
         "link": "https://island.is/s/vinnumalastofnun/frett"
     },
     {
+        "slug": "vinnueftirlitid",
+        "title": "Vinnueftirlitið",
+        "link": "https://island.is/s/vinnueftirlitid/frett"
+    },
+    {
         "slug": "endurupptokudomur",
         "title": "Endurupptökudómur",
         "link": "https://island.is/s/endurupptokudomur/frett"
@@ -43,6 +93,26 @@
         "slug": "stafraent-island",
         "title": "Stafrænt Ísland",
         "link": "https://island.is/s/stafraent-island/frett"
+    },
+    {
+        "slug": "personuvernd",
+        "title": "Persónuvernd",
+        "link": "https://island.is/s/personuvernd/frett"
+    },
+    {
+        "slug": "rettindagaesla-fatlads-folks",
+        "title": "Réttindagæsla fyrir fatlað fólk",
+        "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
+    },
+    {
+        "slug": "tryggingastofnun",
+        "title": "Tryggingastofnun",
+        "link": "https://island.is/s/tryggingastofnun/frett"
+    },
+    {
+        "slug": "heradsdomstolar",
+        "title": "Héraðsdómstólar",
+        "link": "https://island.is/s/heradsdomstolar/frett"
     },
     {
         "slug": "landsrettur",
@@ -60,9 +130,29 @@
         "link": "https://island.is/s/heradssaksoknari/frett"
     },
     {
+        "slug": "bofs",
+        "title": "Barna- og fjölskyldustofa",
+        "link": "https://island.is/s/bofs/frett"
+    },
+    {
+        "slug": "syslumenn",
+        "title": "Sýslumenn",
+        "link": "https://island.is/s/syslumenn/frett"
+    },
+    {
+        "slug": "sjukratryggingar",
+        "title": "Sjúkratryggingar",
+        "link": "https://island.is/s/sjukratryggingar/frett"
+    },
+    {
         "slug": "sak",
         "title": "Sjúkrahúsið á Akureyri",
         "link": "https://island.is/s/sak/frett"
+    },
+    {
+        "slug": "landlaeknir",
+        "title": "Embætti landlæknis",
+        "link": "https://island.is/s/landlaeknir/frett"
     },
     {
         "slug": "nti",
@@ -70,14 +160,34 @@
         "link": "https://island.is/s/nti/frett"
     },
     {
+        "slug": "landskjorstjorn",
+        "title": "Landskjörstjórn",
+        "link": "https://island.is/s/landskjorstjorn/frett"
+    },
+    {
         "slug": "samgongustofa",
         "title": "Samgöngustofa",
         "link": "https://island.is/s/samgongustofa/frett"
     },
     {
+        "slug": "rikissaksoknari",
+        "title": "Ríkissaksóknari",
+        "link": "https://island.is/s/rikissaksoknari/frett"
+    },
+    {
         "slug": "gev",
         "title": "Gæða- og eftirlitsstofnun velferðarmála",
         "link": "https://island.is/s/gev/frett"
+    },
+    {
+        "slug": "geislavarnir-rikisins",
+        "title": "Geislavarnir ríkisins",
+        "link": "https://island.is/s/geislavarnir-rikisins/frett"
+    },
+    {
+        "slug": "hsn",
+        "title": "Heilbrigðisstofnun Norðurlands",
+        "link": "https://island.is/s/hsn/frett"
     },
     {
         "slug": "hsu",
@@ -90,8 +200,18 @@
         "link": "https://island.is/s/rikislogmadur/frett"
     },
     {
+        "slug": "hsa",
+        "title": "Heilbrigðisstofnun Austurlands",
+        "link": "https://island.is/s/hsa/frett"
+    },
+    {
         "slug": "visindasidanefnd",
         "title": "Vísindasiðanefnd",
         "link": "https://island.is/s/visindasidanefnd/frett"
+    },
+    {
+        "slug": "blodbankinn",
+        "title": "Blóðbankinn",
+        "link": "https://island.is/s/blodbankinn/frett"
     }
 ]
