@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Jul 2025 11:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 12:10:56 +0000</lastBuildDate>
+    <item>
+      <title>Neisti Heilsurækt. Viðskiptaáætlun</title>
+      <link>https://skemman.is/handle/1946/51378</link>
+      <description>Neisti Heilsurækt. Viðskiptaáætlun - Bjarni Þráinsson 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51378</guid>
+    </item>
     <item>
       <title>Carbon Sequestration through Green Urban Infrastructure (Inactive Bio-retention cell &amp; Green Roof) in Cold Climate</title>
       <link>https://skemman.is/handle/1946/51377</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51272</link>
       <description>Frá áföllum í æsku til ofbeldis í nánu sambandi : tengsl sálrænna áfalla í æsku og að verða fyrir ofbeldi í nánu sambandi á fullorðinsárum - Edda Rún Sverrisdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51272</guid>
-    </item>
-    <item>
-      <title>Kraftmiklir Krakkar : lífsstílsmóttaka fyrir börn með offitu og foreldra þeirra á vegum heilsugæslunnar</title>
-      <link>https://skemman.is/handle/1946/51268</link>
-      <description>Kraftmiklir Krakkar : lífsstílsmóttaka fyrir börn með offitu og foreldra þeirra á vegum heilsugæslunnar - Bjarnheiður Böðvarsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51268</guid>
     </item>
   </channel>
 </rss>
