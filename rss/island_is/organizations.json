@@ -5,6 +5,11 @@
         "link": "https://island.is/s/hve/frett"
     },
     {
+        "slug": "land-og-skogur",
+        "title": "Land og skógur",
+        "link": "https://island.is/s/land-og-skogur/frett"
+    },
+    {
         "slug": "shh",
         "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
         "link": "https://island.is/s/shh/frett"
@@ -143,6 +148,11 @@
         "slug": "sak",
         "title": "Sjúkrahúsið á Akureyri",
         "link": "https://island.is/s/sak/frett"
+    },
+    {
+        "slug": "landlaeknir",
+        "title": "Embætti landlæknis",
+        "link": "https://island.is/s/landlaeknir/frett"
     },
     {
         "slug": "nti",
