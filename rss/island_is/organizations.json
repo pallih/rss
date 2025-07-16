@@ -35,11 +35,6 @@
         "link": "https://island.is/s/sjonstodin/frett"
     },
     {
-        "slug": "utlendingastofnun",
-        "title": "Útlendingastofnun",
-        "link": "https://island.is/s/utlendingastofnun/frett"
-    },
-    {
         "slug": "hljodbokasafn-islands",
         "title": "Hljóðbókasafn Íslands",
         "link": "https://island.is/s/hljodbokasafn-islands/frett"
@@ -175,11 +170,6 @@
         "link": "https://island.is/s/rikissaksoknari/frett"
     },
     {
-        "slug": "gev",
-        "title": "Gæða- og eftirlitsstofnun velferðarmála",
-        "link": "https://island.is/s/gev/frett"
-    },
-    {
         "slug": "geislavarnir-rikisins",
         "title": "Geislavarnir ríkisins",
         "link": "https://island.is/s/geislavarnir-rikisins/frett"
@@ -198,11 +188,6 @@
         "slug": "rikislogmadur",
         "title": "Ríkislögmaður",
         "link": "https://island.is/s/rikislogmadur/frett"
-    },
-    {
-        "slug": "hsa",
-        "title": "Heilbrigðisstofnun Austurlands",
-        "link": "https://island.is/s/hsa/frett"
     },
     {
         "slug": "visindasidanefnd",
