@@ -105,6 +105,11 @@
         "link": "https://island.is/s/rettindagaesla-fatlads-folks/frett"
     },
     {
+        "slug": "tryggingastofnun",
+        "title": "Tryggingastofnun",
+        "link": "https://island.is/s/tryggingastofnun/frett"
+    },
+    {
         "slug": "heradsdomstolar",
         "title": "Héraðsdómstólar",
         "link": "https://island.is/s/heradsdomstolar/frett"
@@ -168,6 +173,11 @@
         "slug": "rikissaksoknari",
         "title": "Ríkissaksóknari",
         "link": "https://island.is/s/rikissaksoknari/frett"
+    },
+    {
+        "slug": "gev",
+        "title": "Gæða- og eftirlitsstofnun velferðarmála",
+        "link": "https://island.is/s/gev/frett"
     },
     {
         "slug": "geislavarnir-rikisins",
