@@ -5,6 +5,11 @@
         "link": "https://island.is/s/hve/frett"
     },
     {
+        "slug": "land-og-skogur",
+        "title": "Land og skógur",
+        "link": "https://island.is/s/land-og-skogur/frett"
+    },
+    {
         "slug": "shh",
         "title": "Samskiptamiðstöð heyrnarlausra og heyrnarskertra",
         "link": "https://island.is/s/shh/frett"
@@ -18,6 +23,11 @@
         "slug": "logreglan",
         "title": "Lögreglan",
         "link": "https://island.is/s/logreglan/frett"
+    },
+    {
+        "slug": "umbodsmadur-skuldara",
+        "title": "Umboðsmaður skuldara",
+        "link": "https://island.is/s/umbodsmadur-skuldara/frett"
     },
     {
         "slug": "sjonstodin",
@@ -78,6 +88,11 @@
         "slug": "endurupptokudomur",
         "title": "Endurupptökudómur",
         "link": "https://island.is/s/endurupptokudomur/frett"
+    },
+    {
+        "slug": "stafraent-island",
+        "title": "Stafrænt Ísland",
+        "link": "https://island.is/s/stafraent-island/frett"
     },
     {
         "slug": "personuvernd",
@@ -153,6 +168,11 @@
         "slug": "samgongustofa",
         "title": "Samgöngustofa",
         "link": "https://island.is/s/samgongustofa/frett"
+    },
+    {
+        "slug": "rikissaksoknari",
+        "title": "Ríkissaksóknari",
+        "link": "https://island.is/s/rikissaksoknari/frett"
     },
     {
         "slug": "gev",
