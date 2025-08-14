@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 14 Aug 2025 13:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 14:06:42 +0000</lastBuildDate>
+    <item>
+      <title>Riftun ráðningarsamninga á almennum vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/51382</link>
+      <description>Riftun ráðningarsamninga á almennum vinnumarkaði - Stefán Þ. Hermannsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51382</guid>
+    </item>
     <item>
       <title>Þunglyndi í bata: Til hvers er að vinna með meðferðarörvunartímum sem bakslagsvörn í þunglyndismeðferð</title>
       <link>https://skemman.is/handle/1946/51380</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51369</link>
       <description>Lýðfræði og ríkisvaldið: Áhrif fólksfækkunar á utanríkis- og öryggismál - Stefán Ari Dahl 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51369</guid>
-    </item>
-    <item>
-      <title>Framhaldsskólahjúkrun á höfuðborgarsvæðinu : afturskyggn rannsókn á skráðum samskiptum nemenda við framhaldsskólahjúkrunarfræðinga skólaárin 2022-2024</title>
-      <link>https://skemman.is/handle/1946/51266</link>
-      <description>Framhaldsskólahjúkrun á höfuðborgarsvæðinu : afturskyggn rannsókn á skráðum samskiptum nemenda við framhaldsskólahjúkrunarfræðinga skólaárin 2022-2024 - Ásdís Eckardt 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51266</guid>
     </item>
   </channel>
 </rss>
