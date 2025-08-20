@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 19 Aug 2025 17:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 08:08:08 +0000</lastBuildDate>
+    <item>
+      <title>Réttarstaða vitna: Rými til úrbóta?</title>
+      <link>https://skemman.is/handle/1946/51390</link>
+      <description>Réttarstaða vitna: Rými til úrbóta? - Arngrímur Stefánsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51390</guid>
+    </item>
     <item>
       <title>Er full refsing ónauðsynleg eða skaðleg? Þættir sem hafðir eru til hliðsjónar við ákvörðun refsinga ungmenna á Íslandi og í Noregi</title>
       <link>https://skemman.is/handle/1946/51385</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51365</link>
       <description>Flytjandinn í forgrunni: Rannsókn á reynslu flytjenda af klassískum tónlistarflutningi - Hanna Loftsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51365</guid>
-    </item>
-    <item>
-      <title>Dansað á jaðrinum: Kynbundin jaðarsetning og opinber vanræksla danslistar á Íslandi</title>
-      <link>https://skemman.is/handle/1946/51361</link>
-      <description>Dansað á jaðrinum: Kynbundin jaðarsetning og opinber vanræksla danslistar á Íslandi - Pétur Ármannsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51361</guid>
     </item>
   </channel>
 </rss>
