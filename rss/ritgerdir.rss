@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 29 Aug 2025 13:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 14:06:23 +0000</lastBuildDate>
+    <item>
+      <title>This Paper was not Written by ChatGPT: A Qualitative Exploration of AI Tools across Art, Social Science, and Computer Science</title>
+      <link>https://skemman.is/handle/1946/51392</link>
+      <description>This Paper was not Written by ChatGPT: A Qualitative Exploration of AI Tools across Art, Social Science, and Computer Science - Amber Lim Shin Huei 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51392</guid>
+    </item>
     <item>
       <title>Universalist Aspirations, Strategic Realities: Iceland's Engagement in the Universal Periodic Review</title>
       <link>https://skemman.is/handle/1946/51391</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51359</link>
       <description>Innbrot í netbanka: Hvernig má bæta innlenda löggjöf er varðar netglæpi? - Rakel Eva Guðmundsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51359</guid>
-    </item>
-    <item>
-      <title>Árangursmæling á hlutabréfasjóðnum Stefnir – Innlend hlutabréf hs.</title>
-      <link>https://skemman.is/handle/1946/51357</link>
-      <description>Árangursmæling á hlutabréfasjóðnum Stefnir – Innlend hlutabréf hs. - Björn Ásgeir Ásgeirsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51357</guid>
     </item>
   </channel>
 </rss>
