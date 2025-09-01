@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 01 Sep 2025 10:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 11:05:52 +0000</lastBuildDate>
     <item>
       <title>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna</title>
       <link>https://skemman.is/handle/1946/51394</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/51397</link>
       <description>Íslenska sem erfðamál:  Hvað hvetur yngri kynslóðir í Vesturheimi til að læra eða viðhalda íslenskukunnáttu sinni? - Samuel Harold Wright 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51397</guid>
+    </item>
+    <item>
+      <title>Átök um leigubílaakstur, 1984–1995: Þróun leigubílakerfis Reykjavíkurborgar í alþjóðlegum samanburði</title>
+      <link>https://skemman.is/handle/1946/51398</link>
+      <description>Átök um leigubílaakstur, 1984–1995: Þróun leigubílakerfis Reykjavíkurborgar í alþjóðlegum samanburði - Snorri Alexander Sigfússon 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51398</guid>
     </item>
     <item>
       <title>This Paper was not Written by ChatGPT: A Qualitative Exploration of AI Tools across Art, Social Science, and Computer Science</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51374</link>
       <description>Population of Gladioulus imbricatus under diverse management regimes in SW Estonia - Xenia Charlotte Uffrecht 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51374</guid>
-    </item>
-    <item>
-      <title>Improving physical activity outcomes through goal setting, prompts, prompt fading, and feedback for individuals with diabetes</title>
-      <link>https://skemman.is/handle/1946/51371</link>
-      <description>Improving physical activity outcomes through goal setting, prompts, prompt fading, and feedback for individuals with diabetes - Thelma Rut Óskarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51371</guid>
     </item>
   </channel>
 </rss>
