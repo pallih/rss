@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 02 Sep 2025 14:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 15:06:28 +0000</lastBuildDate>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
       <link>https://skemman.is/handle/1946/51416</link>
@@ -135,6 +135,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51425</guid>
     </item>
     <item>
+      <title>Menning, menntun og myndirnar: Orðræða Íslendinga um kvikmyndir á árunum 1912 til 1930</title>
+      <link>https://skemman.is/handle/1946/51426</link>
+      <description>Menning, menntun og myndirnar: Orðræða Íslendinga um kvikmyndir á árunum 1912 til 1930 - Kolbeinn Rastrick 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51426</guid>
+    </item>
+    <item>
+      <title>Youth Perspectives on Climate Activism in Iceland</title>
+      <link>https://skemman.is/handle/1946/51427</link>
+      <description>Youth Perspectives on Climate Activism in Iceland - Alfred Amoah 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51427</guid>
+    </item>
+    <item>
       <title>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna</title>
       <link>https://skemman.is/handle/1946/51394</link>
       <description>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna - Eiríkur Bergmann Henn 1992-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51393</link>
       <description>Áhrif dreifðrar stjórnsýslu á eftirfylgni: Samanburður á tilfellum í stjórnsýslu umhverfismála - Davíð Örvar Hansson 1982-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51393</guid>
-    </item>
-    <item>
-      <title>Corpi femminili, poteri invisibili. Mammane, streghe, ostriche, e il potere di scegliere</title>
-      <link>https://skemman.is/handle/1946/51395</link>
-      <description>Corpi femminili, poteri invisibili. Mammane, streghe, ostriche, e il potere di scegliere - Guðrún Ósk Sigurðardóttir 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51395</guid>
-    </item>
-    <item>
-      <title>The EEA Grants and Iceland - A Study of Small State Diplomacy and Influence</title>
-      <link>https://skemman.is/handle/1946/51403</link>
-      <description>The EEA Grants and Iceland - A Study of Small State Diplomacy and Influence - Hjörtur Ágústsson 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51403</guid>
     </item>
   </channel>
 </rss>
