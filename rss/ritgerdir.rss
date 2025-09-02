@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 02 Sep 2025 16:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 17:05:43 +0000</lastBuildDate>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
       <link>https://skemman.is/handle/1946/51416</link>
@@ -123,12 +123,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51423</guid>
     </item>
     <item>
-      <title>Melkísedek: Persóna hans, hlutverk og fundur við Abram í 14. kafla Fyrstu Mósebókar</title>
-      <link>https://skemman.is/handle/1946/51424</link>
-      <description>Melkísedek: Persóna hans, hlutverk og fundur við Abram í 14. kafla Fyrstu Mósebókar - Matthías Guðmundsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51424</guid>
-    </item>
-    <item>
       <title>Frá stefnumótun til innleiðingar: Breytingaferli í ljósi mannlegra þátta</title>
       <link>https://skemman.is/handle/1946/51425</link>
       <description>Frá stefnumótun til innleiðingar: Breytingaferli í ljósi mannlegra þátta - Katarzyna Anna Kaczmar 1971-</description>
@@ -145,6 +139,12 @@
       <link>https://skemman.is/handle/1946/51427</link>
       <description>Youth Perspectives on Climate Activism in Iceland - Alfred Amoah 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51427</guid>
+    </item>
+    <item>
+      <title>Melkísedek: Persóna hans, hlutverk og fundur við Abram í 14. kafla Fyrstu Mósebókar</title>
+      <link>https://skemman.is/handle/1946/51424</link>
+      <description>Melkísedek: Persóna hans, hlutverk og fundur við Abram í 14. kafla Fyrstu Mósebókar - Matthías Guðmundsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51424</guid>
     </item>
     <item>
       <title>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna</title>
