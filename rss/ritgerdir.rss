@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 02 Sep 2025 10:07:06 +0000</lastBuildDate>
-    <item>
-      <title>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery</title>
-      <link>https://skemman.is/handle/1946/51405</link>
-      <description>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery - Sebastián Isaac Enault de Cambra 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51405</guid>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 11:05:33 +0000</lastBuildDate>
     <item>
       <title>A Record of Readership: 13th-century Christian monarchic acculturation in Iceland via translated pseudo-historical texts as shown by codicological analysis of manuscripts AM 226 fol. and AM 573 4to.</title>
       <link>https://skemman.is/handle/1946/51406</link>
@@ -31,6 +25,18 @@
       <link>https://skemman.is/handle/1946/51408</link>
       <description>Relational Glue: On Plastic and its Afterlife - Elvar Aron Birgisson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51408</guid>
+    </item>
+    <item>
+      <title>Án handrits. Leikreglur úr spuna fyrir lífið</title>
+      <link>https://skemman.is/handle/1946/51409</link>
+      <description>Án handrits. Leikreglur úr spuna fyrir lífið - Dóra Jóhannsdóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51409</guid>
+    </item>
+    <item>
+      <title>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery</title>
+      <link>https://skemman.is/handle/1946/51405</link>
+      <description>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery - Sebastián Isaac Enault de Cambra 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51405</guid>
     </item>
     <item>
       <title>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51386</link>
       <description>Riftun húsaleigusamnings. Riftun húsaleigusamnings á grundvelli 61. gr. húsaleigulaga nr. 36/1994. - Lárus Ottó Sigurðsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51386</guid>
-    </item>
-    <item>
-      <title>Nútímahlutverk félagsráðgjafa: áhrifaþættir og framtíðaráskoranir</title>
-      <link>https://skemman.is/handle/1946/51383</link>
-      <description>Nútímahlutverk félagsráðgjafa: áhrifaþættir og framtíðaráskoranir - Inga Fanney Rúnarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51383</guid>
     </item>
   </channel>
 </rss>
