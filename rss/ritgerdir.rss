@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 02 Sep 2025 12:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 13:14:09 +0000</lastBuildDate>
     <item>
       <title>„Þú hjálpar þér mest með því að hjálpa öðrum“: Starfsþróun kvenna sem hafa orðið fyrir heimilisofbeldi á uppvaxtarárum</title>
       <link>https://skemman.is/handle/1946/51410</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51420</guid>
     </item>
     <item>
+      <title>Draumar: Hið dulúðuga landslag hugans: Fyrirbærafræði drauma út frá heimspekilegum kenningum</title>
+      <link>https://skemman.is/handle/1946/51421</link>
+      <description>Draumar: Hið dulúðuga landslag hugans: Fyrirbærafræði drauma út frá heimspekilegum kenningum - María Lísa Alexía Jóhannsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51421</guid>
+    </item>
+    <item>
       <title>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna</title>
       <link>https://skemman.is/handle/1946/51394</link>
       <description>Gervigreind og árangursmat starfsfólks. Eigindleg rannsókn á áhrifum AI út frá sjónarhorni fyrirtækja og  velferð starfsmanna - Eiríkur Bergmann Henn 1992-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51399</link>
       <description>Á hreppsins náð:  Frá ómagaflutningi til niðursetu - Páll Halldórsson 1950-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51399</guid>
-    </item>
-    <item>
-      <title>Sælir og blessaðir menn: Söguleg skáldsaga</title>
-      <link>https://skemman.is/handle/1946/51400</link>
-      <description>Sælir og blessaðir menn: Söguleg skáldsaga - Unnar Ingi Sæmundarson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51400</guid>
     </item>
   </channel>
 </rss>
