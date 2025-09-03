@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 Sep 2025 13:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 14:06:14 +0000</lastBuildDate>
     <item>
       <title>Verkjameðferð án lyfja til verkjastillingar fyrir börn með bráða verki á bráðamóttöku: Kögunaryfirlit</title>
       <link>https://skemman.is/handle/1946/51429</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/51437</link>
       <description>On Earth as in Heaven: A Journey on a River with Henry David Thoreau - Þorgerður Ásdís Jóhannsdóttir 1956-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51437</guid>
+    </item>
+    <item>
+      <title>,,Þetta veltur allt á skjalastjóranum, frá A-Ö": ,,Rosalegt hagsmunamál fyrir nemendur að þetta sé varðveitt til framtíðar"</title>
+      <link>https://skemman.is/handle/1946/51438</link>
+      <description>,,Þetta veltur allt á skjalastjóranum, frá A-Ö": ,,Rosalegt hagsmunamál fyrir nemendur að þetta sé varðveitt til framtíðar" - Hjördís Jónsdóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51438</guid>
     </item>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51408</link>
       <description>Relational Glue: On Plastic and its Afterlife - Elvar Aron Birgisson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51408</guid>
-    </item>
-    <item>
-      <title>Hugarburður: Viðtalsrannsókn á upplifun mæðra af röngum upplýsingum um líffræðilegt kyn barns í fósturgreiningu</title>
-      <link>https://skemman.is/handle/1946/51412</link>
-      <description>Hugarburður: Viðtalsrannsókn á upplifun mæðra af röngum upplýsingum um líffræðilegt kyn barns í fósturgreiningu - Iðunn Ósk Ghiselli Grétarsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51412</guid>
     </item>
   </channel>
 </rss>
