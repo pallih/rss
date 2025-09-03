@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 Sep 2025 09:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 10:06:38 +0000</lastBuildDate>
     <item>
       <title>Verkjameðferð án lyfja til verkjastillingar fyrir börn með bráða verki á bráðamóttöku: Kögunaryfirlit</title>
       <link>https://skemman.is/handle/1946/51429</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/51433</link>
       <description>Loftslagsaðgerðir og stjórnsýsluhættir: Áhrif nýskipunar og samhæfðrar umhverfisstefnu í íslenskri stjórnsýslu - Valgerður Árnadóttir 1979-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51433</guid>
+    </item>
+    <item>
+      <title>Börn í leikskóla með annað móðurmál en íslensku: Samræðulestur sem leið til að efla orðaforða</title>
+      <link>https://skemman.is/handle/1946/51434</link>
+      <description>Börn í leikskóla með annað móðurmál en íslensku: Samræðulestur sem leið til að efla orðaforða - Julia Lobanova 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51434</guid>
+    </item>
+    <item>
+      <title>Innleiðing reglna til framkvæmda: Innleiðing fyrirmæla ríkissaksóknara nr. 3/2018 í starf rannsakenda í ofbeldisbrotum gegn fötluðu fólki</title>
+      <link>https://skemman.is/handle/1946/51435</link>
+      <description>Innleiðing reglna til framkvæmda: Innleiðing fyrirmæla ríkissaksóknara nr. 3/2018 í starf rannsakenda í ofbeldisbrotum gegn fötluðu fólki - Jón Þorsteinn Sigurðsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51435</guid>
     </item>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51409</link>
       <description>Án handrits. Leikreglur úr spuna fyrir lífið - Dóra Jóhannsdóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51409</guid>
-    </item>
-    <item>
-      <title>Sameining: Siglufjarðar og Ólafsfjarðar í sveitarfélagið Fjallabyggð</title>
-      <link>https://skemman.is/handle/1946/51423</link>
-      <description>Sameining: Siglufjarðar og Ólafsfjarðar í sveitarfélagið Fjallabyggð - Jón Óðinn Reynisson 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51423</guid>
-    </item>
-    <item>
-      <title>Frá stefnumótun til innleiðingar: Breytingaferli í ljósi mannlegra þátta</title>
-      <link>https://skemman.is/handle/1946/51425</link>
-      <description>Frá stefnumótun til innleiðingar: Breytingaferli í ljósi mannlegra þátta - Katarzyna Anna Kaczmar 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51425</guid>
     </item>
   </channel>
 </rss>
