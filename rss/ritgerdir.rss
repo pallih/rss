@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 Sep 2025 12:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 13:12:07 +0000</lastBuildDate>
     <item>
       <title>Verkjameðferð án lyfja til verkjastillingar fyrir börn með bráða verki á bráðamóttöku: Kögunaryfirlit</title>
       <link>https://skemman.is/handle/1946/51429</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/51436</link>
       <description>Traditional Farming Practices and Ecological Restoration: Challenges of Democratic Participation and Engagement in Iceland’s Battle with Soil Erosion - Marissa Sigrún Pinal 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51436</guid>
+    </item>
+    <item>
+      <title>On Earth as in Heaven: A Journey on a River with Henry David Thoreau</title>
+      <link>https://skemman.is/handle/1946/51437</link>
+      <description>On Earth as in Heaven: A Journey on a River with Henry David Thoreau - Þorgerður Ásdís Jóhannsdóttir 1956-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51437</guid>
     </item>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51412</link>
       <description>Hugarburður: Viðtalsrannsókn á upplifun mæðra af röngum upplýsingum um líffræðilegt kyn barns í fósturgreiningu - Iðunn Ósk Ghiselli Grétarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51412</guid>
-    </item>
-    <item>
-      <title>Afneitunarstefna í opinberri umræðu um stríðsglæpi japanska hersins í seinni heimsstyrjöldinni</title>
-      <link>https://skemman.is/handle/1946/51407</link>
-      <description>Afneitunarstefna í opinberri umræðu um stríðsglæpi japanska hersins í seinni heimsstyrjöldinni - Þórey Einarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51407</guid>
     </item>
   </channel>
 </rss>
