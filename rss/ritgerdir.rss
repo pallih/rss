@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 Sep 2025 15:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 16:07:20 +0000</lastBuildDate>
     <item>
       <title>,,Þetta veltur allt á skjalastjóranum, frá A-Ö": ,,Rosalegt hagsmunamál fyrir nemendur að þetta sé varðveitt til framtíðar"</title>
       <link>https://skemman.is/handle/1946/51438</link>
@@ -63,6 +63,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51437</guid>
     </item>
     <item>
+      <title>Íðorðastarf og þýðingar: Sérstaða Hugtakasafns þýðingamiðstöðvar utanríkisráðuneytisins</title>
+      <link>https://skemman.is/handle/1946/51440</link>
+      <description>Íðorðastarf og þýðingar: Sérstaða Hugtakasafns þýðingamiðstöðvar utanríkisráðuneytisins - Gunnhildur Stefánsdóttir 1962-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51440</guid>
+    </item>
+    <item>
+      <title>Starfsumhverfi stjórnenda í velferðarþjónustu sveitarfélaga í dreifbýli: Helstu áskoranir í starfi</title>
+      <link>https://skemman.is/handle/1946/51439</link>
+      <description>Starfsumhverfi stjórnenda í velferðarþjónustu sveitarfélaga í dreifbýli: Helstu áskoranir í starfi - Sigrún Þórarinsdóttir 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51439</guid>
+    </item>
+    <item>
       <title>Verkjameðferð án lyfja til verkjastillingar fyrir börn með bráða verki á bráðamóttöku: Kögunaryfirlit</title>
       <link>https://skemman.is/handle/1946/51429</link>
       <description>Verkjameðferð án lyfja til verkjastillingar fyrir börn með bráða verki á bráðamóttöku: Kögunaryfirlit - Þórdís Edda Hjartardóttir 1991-</description>
@@ -73,6 +85,12 @@
       <link>https://skemman.is/handle/1946/51428</link>
       <description>„Á miðnætti breytist ég í grasker“: Útlitsyfirhalning í völdum kvikmyndum með Audrey Hepburn - Klaudia Roman 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51428</guid>
+    </item>
+    <item>
+      <title>Gjöfin að styrkja: Tilfinningar, gildi og merking styrktargjafa</title>
+      <link>https://skemman.is/handle/1946/51441</link>
+      <description>Gjöfin að styrkja: Tilfinningar, gildi og merking styrktargjafa - Júlía Bríet Baldursdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51441</guid>
     </item>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/51405</link>
       <description>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery - Sebastián Isaac Enault de Cambra 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51405</guid>
-    </item>
-    <item>
-      <title>„Ég var ekki bara skráningarnúmer“: Ráðgjöf, virkni og valdefling í atvinnuleysi: Rannsókn á vinnumarkaðsúrræðinu Hefjum störf</title>
-      <link>https://skemman.is/handle/1946/51411</link>
-      <description>„Ég var ekki bara skráningarnúmer“: Ráðgjöf, virkni og valdefling í atvinnuleysi: Rannsókn á vinnumarkaðsúrræðinu Hefjum störf - Stella Steingrímsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51411</guid>
-    </item>
-    <item>
-      <title>A Record of Readership: 13th-century Christian monarchic acculturation in Iceland via translated pseudo-historical texts as shown by codicological analysis of manuscripts AM 226 fol. and AM 573 4to.</title>
-      <link>https://skemman.is/handle/1946/51406</link>
-      <description>A Record of Readership: 13th-century Christian monarchic acculturation in Iceland via translated pseudo-historical texts as shown by codicological analysis of manuscripts AM 226 fol. and AM 573 4to. - Eva Margaret Knepper 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51406</guid>
-    </item>
-    <item>
-      <title>Relational Glue: On Plastic and its Afterlife</title>
-      <link>https://skemman.is/handle/1946/51408</link>
-      <description>Relational Glue: On Plastic and its Afterlife - Elvar Aron Birgisson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51408</guid>
     </item>
   </channel>
 </rss>
