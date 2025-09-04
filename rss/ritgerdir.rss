@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 03 Sep 2025 17:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 08:08:26 +0000</lastBuildDate>
+    <item>
+      <title>Gengur Ísland of langt eða of skammt við innleiðingu alþjóðasamninga, reglugerða og laga í umhverfis- og orkumálum</title>
+      <link>https://skemman.is/handle/1946/51442</link>
+      <description>Gengur Ísland of langt eða of skammt við innleiðingu alþjóðasamninga, reglugerða og laga í umhverfis- og orkumálum - Steinar Ingi Kolbeins 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51442</guid>
+    </item>
     <item>
       <title>,,Þetta veltur allt á skjalastjóranum, frá A-Ö": ,,Rosalegt hagsmunamál fyrir nemendur að þetta sé varðveitt til framtíðar"</title>
       <link>https://skemman.is/handle/1946/51438</link>
@@ -31,12 +37,6 @@
       <link>https://skemman.is/handle/1946/51432</link>
       <description>Frá stefnu til framkvæmdar. Greining á breytingastjórnun og stefnumótunarferli við kerfisbreytingar örorku- og endurhæfingarlífeyrisþega - Aron Sveinsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51432</guid>
-    </item>
-    <item>
-      <title>Loftslagsaðgerðir og stjórnsýsluhættir: Áhrif nýskipunar og samhæfðrar umhverfisstefnu í íslenskri stjórnsýslu</title>
-      <link>https://skemman.is/handle/1946/51433</link>
-      <description>Loftslagsaðgerðir og stjórnsýsluhættir: Áhrif nýskipunar og samhæfðrar umhverfisstefnu í íslenskri stjórnsýslu - Valgerður Árnadóttir 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51433</guid>
     </item>
     <item>
       <title>Traditional Farming Practices and Ecological Restoration: Challenges of Democratic Participation and Engagement in Iceland’s Battle with Soil Erosion</title>
@@ -91,6 +91,12 @@
       <link>https://skemman.is/handle/1946/51441</link>
       <description>Gjöfin að styrkja: Tilfinningar, gildi og merking styrktargjafa - Júlía Bríet Baldursdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51441</guid>
+    </item>
+    <item>
+      <title>Loftslagsaðgerðir og stjórnsýsluhættir: Áhrif nýskipunar og samhæfðrar umhverfisstefnu í íslenskri stjórnsýslu</title>
+      <link>https://skemman.is/handle/1946/51433</link>
+      <description>Loftslagsaðgerðir og stjórnsýsluhættir: Áhrif nýskipunar og samhæfðrar umhverfisstefnu í íslenskri stjórnsýslu - Valgerður Árnadóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51433</guid>
     </item>
     <item>
       <title>Volunteerism and Volcanoes: An Interdisciplinary Study on the Icelandic Disaster Response System and the Evacuation of Grindavík</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51410</link>
       <description>„Þú hjálpar þér mest með því að hjálpa öðrum“: Starfsþróun kvenna sem hafa orðið fyrir heimilisofbeldi á uppvaxtarárum - Hrafnhildur Björnsdóttir 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51410</guid>
-    </item>
-    <item>
-      <title>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery</title>
-      <link>https://skemman.is/handle/1946/51405</link>
-      <description>Meteorological and geomorphological influence on harbor seal haul-out distribution behavior using drone imagery - Sebastián Isaac Enault de Cambra 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51405</guid>
     </item>
   </channel>
 </rss>
