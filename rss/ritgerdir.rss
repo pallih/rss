@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 08 Sep 2025 13:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 14:06:22 +0000</lastBuildDate>
     <item>
       <title>Nonrecreational prescription medicine sharing practice (MEDSHARE-Rx Study)</title>
       <link>https://skemman.is/handle/1946/51460</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/51463</link>
       <description>„Áætlanir eru eitt en að stýra verkefnum er allt annað“. Upplifun verkefnastjóra af notkun og innleiðingu gervigreindar - Edda Ýr Georgsdóttir Aspelund 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51463</guid>
+    </item>
+    <item>
+      <title>Í krafti hæglætis: „Þegar við hægjum á sjáum við börnin betur…“</title>
+      <link>https://skemman.is/handle/1946/51464</link>
+      <description>Í krafti hæglætis: „Þegar við hægjum á sjáum við börnin betur…“ - Atli Már Erlendsson 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51464</guid>
     </item>
     <item>
       <title>Samlegðaráhrif safna og grunnskóla: Safnfræðsla á höfuðborgarsvæðinu 2024-2025.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51435</link>
       <description>Innleiðing reglna til framkvæmda: Innleiðing fyrirmæla ríkissaksóknara nr. 3/2018 í starf rannsakenda í ofbeldisbrotum gegn fötluðu fólki - Jón Þorsteinn Sigurðsson 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51435</guid>
-    </item>
-    <item>
-      <title>Frá stefnu til framkvæmdar. Greining á breytingastjórnun og stefnumótunarferli við kerfisbreytingar örorku- og endurhæfingarlífeyrisþega</title>
-      <link>https://skemman.is/handle/1946/51432</link>
-      <description>Frá stefnu til framkvæmdar. Greining á breytingastjórnun og stefnumótunarferli við kerfisbreytingar örorku- og endurhæfingarlífeyrisþega - Aron Sveinsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51432</guid>
     </item>
   </channel>
 </rss>
