@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 12 Sep 2025 08:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 09:06:29 +0000</lastBuildDate>
     <item>
       <title>Þátttaka almennings í hlutafjárútboðum Íslandsbanka</title>
       <link>https://skemman.is/handle/1946/51509</link>
@@ -99,12 +99,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51477</guid>
     </item>
     <item>
-      <title>The Secrets of Colonial Corporate Governance - Behind the Success of the British East India Company</title>
-      <link>https://skemman.is/handle/1946/51480</link>
-      <description>The Secrets of Colonial Corporate Governance - Behind the Success of the British East India Company - Stefán Björgvin Dagbjartsson Gröndal 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51480</guid>
-    </item>
-    <item>
       <title>Viðbrögð stjórnvalda við efnahagsáföllum á 21. öld: Samanburður á viðbrögðum Íslands í alþjóðlegu samhengi</title>
       <link>https://skemman.is/handle/1946/51473</link>
       <description>Viðbrögð stjórnvalda við efnahagsáföllum á 21. öld: Samanburður á viðbrögðum Íslands í alþjóðlegu samhengi - Svavar Egilsson 1997-</description>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/51485</link>
       <description>Blágrænar ofanvatnslausnir smærri sveitarfélaga. - Helga Sigurðardóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51485</guid>
+    </item>
+    <item>
+      <title>Á milli landslags og þéttleika - Samanburður á borgarskipulagi í Efra-Breiðholti og Hlíðarenda</title>
+      <link>https://skemman.is/handle/1946/51484</link>
+      <description>Á milli landslags og þéttleika - Samanburður á borgarskipulagi í Efra-Breiðholti og Hlíðarenda - Ari Kristinn Gunnarsson 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51484</guid>
     </item>
   </channel>
 </rss>
