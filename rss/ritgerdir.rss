@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Sep 2025 17:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 08:08:19 +0000</lastBuildDate>
+    <item>
+      <title>Þátttaka almennings í hlutafjárútboðum Íslandsbanka</title>
+      <link>https://skemman.is/handle/1946/51509</link>
+      <description>Þátttaka almennings í hlutafjárútboðum Íslandsbanka - Valdimar Daði Sævarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51509</guid>
+    </item>
     <item>
       <title>Næringarástand aldraðra á bráðamóttöku - Skimun fyrir næringarástandi eldra fólks við komu á bráðamóttöku</title>
       <link>https://skemman.is/handle/1946/51500</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51485</link>
       <description>Blágrænar ofanvatnslausnir smærri sveitarfélaga. - Helga Sigurðardóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51485</guid>
-    </item>
-    <item>
-      <title>Á milli landslags og þéttleika - Samanburður á borgarskipulagi í Efra-Breiðholti og Hlíðarenda</title>
-      <link>https://skemman.is/handle/1946/51484</link>
-      <description>Á milli landslags og þéttleika - Samanburður á borgarskipulagi í Efra-Breiðholti og Hlíðarenda - Ari Kristinn Gunnarsson 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51484</guid>
     </item>
   </channel>
 </rss>
