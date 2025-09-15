@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Sep 2025 14:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 15:07:16 +0000</lastBuildDate>
     <item>
       <title>Skipulag og skrifræði hjá stóru alþjóðlegu fyrirtæki: Upplifun starfsmanna mismunandi landa</title>
       <link>https://skemman.is/handle/1946/51511</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/51513</link>
       <description>Fatlað fólk og atvinnulíf. Viðhorf fyrirtækja til atvinnuþátttöku fatlaðra einstaklinga - Rut Þorsteinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51513</guid>
+    </item>
+    <item>
+      <title>Stafræn mannfræði. Þróun stafrænnar mannfræði og áskoranir á nútímavettvangi</title>
+      <link>https://skemman.is/handle/1946/51514</link>
+      <description>Stafræn mannfræði. Þróun stafrænnar mannfræði og áskoranir á nútímavettvangi - Margrét Hugrún Gústavsdóttir Björnsson 1970-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51514</guid>
     </item>
     <item>
       <title>Þátttaka almennings í hlutafjárútboðum Íslandsbanka</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51472</link>
       <description>Menningararfleið í læsistengdri skynjun: Vefsíða með hugmyndir og fræðslu. - Maria Alejandra Crespo Cabrera 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51472</guid>
-    </item>
-    <item>
-      <title>Starfsánægja lyfjafræðinga í apótekum og viðhorf til aukinnar lyfjafræðilegrar þjónustu „Þetta er ekki bara að líma miða á pakka og henda honum fram“</title>
-      <link>https://skemman.is/handle/1946/51481</link>
-      <description>Starfsánægja lyfjafræðinga í apótekum og viðhorf til aukinnar lyfjafræðilegrar þjónustu „Þetta er ekki bara að líma miða á pakka og henda honum fram“ - Elínborg Kristjánsdóttir 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51481</guid>
     </item>
   </channel>
 </rss>
