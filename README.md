@@ -18,6 +18,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 - [endurupptokudomur](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/endurupptokudomur.rss)
 - [faggilding](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/faggilding.rss)
 - [fiskistofa](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/fiskistofa.rss)
+- [fsre](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/fsre.rss)
 - [geislavarnir-rikisins](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/geislavarnir-rikisins.rss)
 - [gev](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/gev.rss)
 - [heradsdomstolar](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/heradsdomstolar.rss)
