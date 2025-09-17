@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 17 Sep 2025 09:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 10:06:36 +0000</lastBuildDate>
+    <item>
+      <title>„Mæður með ADHD þær eru bara alveg að drukkna“: Upplifun mæðra með ADHD af móðurhlutverkinu</title>
+      <link>https://skemman.is/handle/1946/51517</link>
+      <description>„Mæður með ADHD þær eru bara alveg að drukkna“: Upplifun mæðra með ADHD af móðurhlutverkinu - Sóley Ágústa Ómarsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51517</guid>
+    </item>
     <item>
       <title>Sparnaður ellilífeyrisþega: Fer sparnaður minnkandi á efri árum?</title>
       <link>https://skemman.is/handle/1946/51515</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51476</link>
       <description>Peningamagnskenningin og fórnarkostnaður peninga - Stefán Baldvin Stefánsson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51476</guid>
-    </item>
-    <item>
-      <title>Mismunandi kennsluaðferðir í stærðfræði: Hvernig er best að beita þeim?</title>
-      <link>https://skemman.is/handle/1946/51479</link>
-      <description>Mismunandi kennsluaðferðir í stærðfræði: Hvernig er best að beita þeim? - Daði Garðarsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51479</guid>
     </item>
   </channel>
 </rss>
