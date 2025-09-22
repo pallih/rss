@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 22 Sep 2025 15:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 16:07:03 +0000</lastBuildDate>
     <item>
       <title>Skólaganga barna með tal- og málröskun: Viðhorf foreldra</title>
       <link>https://skemman.is/handle/1946/51522</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/51523</link>
       <description>Þróun dauðíss við sunnanverðan Kötlujökul - Þyri Erla L. Sigurðardóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51523</guid>
+    </item>
+    <item>
+      <title>Félagstengsl og einmanaleiki framhaldsskólanema: Greining á áhrifaþáttum fyrir líðan ungs fólks</title>
+      <link>https://skemman.is/handle/1946/51524</link>
+      <description>Félagstengsl og einmanaleiki framhaldsskólanema: Greining á áhrifaþáttum fyrir líðan ungs fólks - Sigurbjörg Erla Egilsdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51524</guid>
+    </item>
+    <item>
+      <title>Heilsulæsi ungmenna á tímum samfélagsmiðla</title>
+      <link>https://skemman.is/handle/1946/51525</link>
+      <description>Heilsulæsi ungmenna á tímum samfélagsmiðla - Jóhann Valur Jensson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51525</guid>
     </item>
     <item>
       <title>Hefur líkamssamsetning ungra kvenna í knattspyrnu áhrif á frammistöðu í knattraki og sprett- og þolprófum?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51508</link>
       <description>“If we don’t lead on sustainability, we’ll fall behind on everything else”: Exploring Social Sustainability Practices, Stakeholder Engagement, and Opportunities for Improvement in Icelandic Land-Based Aquaculture - Rut Tómasdóttir 1973-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51508</guid>
-    </item>
-    <item>
-      <title>Fjármögnun og vistkerfi íslenskra frumkvöðla: Tækifæri og áskoranir</title>
-      <link>https://skemman.is/handle/1946/51507</link>
-      <description>Fjármögnun og vistkerfi íslenskra frumkvöðla: Tækifæri og áskoranir - Þorgerður Júlía Halldórsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51507</guid>
-    </item>
-    <item>
-      <title>Hvítsmári sem fóstra fyrir nýgróðursettar birkiplöntur</title>
-      <link>https://skemman.is/handle/1946/51499</link>
-      <description>Hvítsmári sem fóstra fyrir nýgróðursettar birkiplöntur - Eiður Eyþórsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51499</guid>
     </item>
   </channel>
 </rss>
