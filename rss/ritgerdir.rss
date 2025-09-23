@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 23 Sep 2025 13:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 14:06:51 +0000</lastBuildDate>
     <item>
       <title>Orkunotkun við göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Þversniðsrannsókn og áhrif 10 vikna þjálfunaríhlutunar</title>
       <link>https://skemman.is/handle/1946/51531</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/51529</link>
       <description>Advancing Literacy in Ghanaian Junior High School: Curriculum Guidelines for Multimodal English Language Instruction - Judith Asante 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51529</guid>
+    </item>
+    <item>
+      <title>Lífaflfræði göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Samanburður við einstaklinga án sykursýki og áhrif 10 vikna þjálfunaríhlutunar</title>
+      <link>https://skemman.is/handle/1946/51532</link>
+      <description>Lífaflfræði göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Samanburður við einstaklinga án sykursýki og áhrif 10 vikna þjálfunaríhlutunar - Steinunn Bára Birgisdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51532</guid>
     </item>
     <item>
       <title>Skólaganga barna með tal- og málröskun: Viðhorf foreldra</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51500</link>
       <description>Næringarástand aldraðra á bráðamóttöku - Skimun fyrir næringarástandi eldra fólks við komu á bráðamóttöku - Emese Kenderesi 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51500</guid>
-    </item>
-    <item>
-      <title>Viðhorf starfsfólks á fyrirtækjamenningu á tímum jarðhræringa: „Við erum búin að læra svo heilmikið af öllum þessum eldgosum“</title>
-      <link>https://skemman.is/handle/1946/51502</link>
-      <description>Viðhorf starfsfólks á fyrirtækjamenningu á tímum jarðhræringa: „Við erum búin að læra svo heilmikið af öllum þessum eldgosum“ - Guðrún Thelma Matthíasdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51502</guid>
     </item>
   </channel>
 </rss>
