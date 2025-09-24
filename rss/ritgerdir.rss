@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Sep 2025 11:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 12:10:48 +0000</lastBuildDate>
     <item>
       <title>Ábyrgðir og eftirlit við mannvirkjagerð á Íslandi: Greining á vanköntum og tillögur að úrbótum</title>
       <link>https://skemman.is/handle/1946/51533</link>
       <description>Ábyrgðir og eftirlit við mannvirkjagerð á Íslandi: Greining á vanköntum og tillögur að úrbótum - Kjartan Pálsson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51533</guid>
+    </item>
+    <item>
+      <title>Hlutfall úrkasts röntgenmynda af úlnlið og ökkla á Landspítalanum í Fossvogi: Gæðaverkefni á myndgreiningadeild LSH</title>
+      <link>https://skemman.is/handle/1946/51534</link>
+      <description>Hlutfall úrkasts röntgenmynda af úlnlið og ökkla á Landspítalanum í Fossvogi: Gæðaverkefni á myndgreiningadeild LSH - Vigdís Jónsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51534</guid>
     </item>
     <item>
       <title>Orkunotkun við göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Þversniðsrannsókn og áhrif 10 vikna þjálfunaríhlutunar</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51509</link>
       <description>Þátttaka almennings í hlutafjárútboðum Íslandsbanka - Valdimar Daði Sævarsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51509</guid>
-    </item>
-    <item>
-      <title>Fast Instance Detection and Sorting of Salmon Eggs by Viability Status Using Convolutional Neural Networks</title>
-      <link>https://skemman.is/handle/1946/51510</link>
-      <description>Fast Instance Detection and Sorting of Salmon Eggs by Viability Status Using Convolutional Neural Networks - Alexander Patrick Spahr 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51510</guid>
     </item>
   </channel>
 </rss>
