@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 29 Sep 2025 08:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 09:07:58 +0000</lastBuildDate>
+    <item>
+      <title>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots</title>
+      <link>https://skemman.is/handle/1946/51544</link>
+      <description>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots - Adetayo Muhammed Adebimpe 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51544</guid>
+    </item>
+    <item>
+      <title>Post glacial relative sea level changes in West Iceland</title>
+      <link>https://skemman.is/handle/1946/51545</link>
+      <description>Post glacial relative sea level changes in West Iceland - Ka Yan (Hilary) Kwok 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51545</guid>
+    </item>
     <item>
       <title>Rakaþétting vegna kuldabrúa í íslenskum útveggjum - töluleg hermun á áhrifum loftflæðis á innilofti</title>
       <link>https://skemman.is/handle/1946/51538</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51524</link>
       <description>Félagstengsl og einmanaleiki framhaldsskólanema: Greining á áhrifaþáttum fyrir líðan ungs fólks - Sigurbjörg Erla Egilsdóttir 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51524</guid>
-    </item>
-    <item>
-      <title>Heilsulæsi ungmenna á tímum samfélagsmiðla</title>
-      <link>https://skemman.is/handle/1946/51525</link>
-      <description>Heilsulæsi ungmenna á tímum samfélagsmiðla - Jóhann Valur Jensson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51525</guid>
-    </item>
-    <item>
-      <title>Hefur líkamssamsetning ungra kvenna í knattspyrnu áhrif á frammistöðu í knattraki og sprett- og þolprófum?</title>
-      <link>https://skemman.is/handle/1946/51518</link>
-      <description>Hefur líkamssamsetning ungra kvenna í knattspyrnu áhrif á frammistöðu í knattraki og sprett- og þolprófum? - Bjarki Reyr Tryggvason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51518</guid>
     </item>
   </channel>
 </rss>
