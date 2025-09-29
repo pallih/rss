@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 29 Sep 2025 13:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 14:06:52 +0000</lastBuildDate>
     <item>
       <title>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots</title>
       <link>https://skemman.is/handle/1946/51544</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/51545</link>
       <description>Post glacial relative sea level changes in West Iceland - Ka Yan (Hilary) Kwok 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51545</guid>
+    </item>
+    <item>
+      <title>Environmental issues of net pen salmon farming in Iceland: A systematic review</title>
+      <link>https://skemman.is/handle/1946/51546</link>
+      <description>Environmental issues of net pen salmon farming in Iceland: A systematic review - Sunny Jeanne Bieber 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51546</guid>
+    </item>
+    <item>
+      <title>Evaluation of the acid alteration in Sikidang Area, Dieng Geothermal Field, Indonesia</title>
+      <link>https://skemman.is/handle/1946/51547</link>
+      <description>Evaluation of the acid alteration in Sikidang Area, Dieng Geothermal Field, Indonesia - Julia Satriani Kartini Ikrar 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51547</guid>
     </item>
     <item>
       <title>Rakaþétting vegna kuldabrúa í íslenskum útveggjum - töluleg hermun á áhrifum loftflæðis á innilofti</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51521</link>
       <description>,,Mér finnst ég geta allt núna"- Reynsla og sýn nemenda á verkefnið Krakkar með krökkum - Aðalheiður María Þráinsdóttir 1973-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51521</guid>
-    </item>
-    <item>
-      <title>Þróun dauðíss við sunnanverðan Kötlujökul</title>
-      <link>https://skemman.is/handle/1946/51523</link>
-      <description>Þróun dauðíss við sunnanverðan Kötlujökul - Þyri Erla L. Sigurðardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51523</guid>
-    </item>
-    <item>
-      <title>Félagstengsl og einmanaleiki framhaldsskólanema: Greining á áhrifaþáttum fyrir líðan ungs fólks</title>
-      <link>https://skemman.is/handle/1946/51524</link>
-      <description>Félagstengsl og einmanaleiki framhaldsskólanema: Greining á áhrifaþáttum fyrir líðan ungs fólks - Sigurbjörg Erla Egilsdóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51524</guid>
     </item>
   </channel>
 </rss>
