@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Sep 2025 15:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 16:07:39 +0000</lastBuildDate>
+    <item>
+      <title>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða</title>
+      <link>https://skemman.is/handle/1946/51550</link>
+      <description>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða - Margrét Valdimarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51550</guid>
+    </item>
     <item>
       <title>Towards Sustainable Whale Watching in Iceland - Management Opportunities and Constraints</title>
       <link>https://skemman.is/handle/1946/51548</link>
@@ -21,22 +27,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51549</guid>
     </item>
     <item>
-      <title>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða</title>
-      <link>https://skemman.is/handle/1946/51550</link>
-      <description>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða - Margrét Valdimarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51550</guid>
+      <title>Developing a Satellite-Based Methodology to Estimate Built-up Biocapacity for Use in the National Ecological Footprint and Biocapacity Accounts:  A Comparative Study of Pléiades Neo and Sentinel-2 Imagery, Classification Algorithms, and Segmentation Approaches</title>
+      <link>https://skemman.is/handle/1946/51551</link>
+      <description>Developing a Satellite-Based Methodology to Estimate Built-up Biocapacity for Use in the National Ecological Footprint and Biocapacity Accounts:  A Comparative Study of Pléiades Neo and Sentinel-2 Imagery, Classification Algorithms, and Segmentation Approaches - Johanna Louise Van Berkum 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51551</guid>
     </item>
     <item>
       <title>Evaluation of the acid alteration in Sikidang Area, Dieng Geothermal Field, Indonesia</title>
       <link>https://skemman.is/handle/1946/51547</link>
       <description>Evaluation of the acid alteration in Sikidang Area, Dieng Geothermal Field, Indonesia - Julia Satriani Kartini Ikrar 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51547</guid>
-    </item>
-    <item>
-      <title>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots</title>
-      <link>https://skemman.is/handle/1946/51544</link>
-      <description>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots - Adetayo Muhammed Adebimpe 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51544</guid>
     </item>
     <item>
       <title>Post glacial relative sea level changes in West Iceland</title>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/51546</link>
       <description>Environmental issues of net pen salmon farming in Iceland: A systematic review - Sunny Jeanne Bieber 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51546</guid>
+    </item>
+    <item>
+      <title>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots</title>
+      <link>https://skemman.is/handle/1946/51544</link>
+      <description>SBASH: a Framework for Designing and Evaluating RAG and Prompt-Tuned LLM-based Honeypots - Adetayo Muhammed Adebimpe 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51544</guid>
     </item>
     <item>
       <title>Rakaþétting vegna kuldabrúa í íslenskum útveggjum - töluleg hermun á áhrifum loftflæðis á innilofti</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51529</link>
       <description>Advancing Literacy in Ghanaian Junior High School: Curriculum Guidelines for Multimodal English Language Instruction - Judith Asante 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51529</guid>
-    </item>
-    <item>
-      <title>Lífaflfræði göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Samanburður við einstaklinga án sykursýki og áhrif 10 vikna þjálfunaríhlutunar</title>
-      <link>https://skemman.is/handle/1946/51532</link>
-      <description>Lífaflfræði göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Samanburður við einstaklinga án sykursýki og áhrif 10 vikna þjálfunaríhlutunar - Steinunn Bára Birgisdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51532</guid>
     </item>
   </channel>
 </rss>
