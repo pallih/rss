@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 30 Sep 2025 17:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 08:08:45 +0000</lastBuildDate>
+    <item>
+      <title>Risk of malnutrition in hospitalized children: Association with length of stay and readmissions within 30 days</title>
+      <link>https://skemman.is/handle/1946/51552</link>
+      <description>Risk of malnutrition in hospitalized children: Association with length of stay and readmissions within 30 days - Marta Kristjánsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51552</guid>
+    </item>
+    <item>
+      <title>The environmental impacts of beef slaughtering and processing in Iceland assessed using life cycle assessment</title>
+      <link>https://skemman.is/handle/1946/51553</link>
+      <description>The environmental impacts of beef slaughtering and processing in Iceland assessed using life cycle assessment - Edom Kassahun Alemayehu 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51553</guid>
+    </item>
     <item>
       <title>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða</title>
       <link>https://skemman.is/handle/1946/51550</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51530</link>
       <description>„Við erum endalaust að standa í lappirnar og sinna og þjónusta en það þjónustar enginn okkur“:  Áskoranir og tækifæri við innleiðingu farsældarlaganna: Sýn tengiliða í grunnskólum - Þórey Birta Sigurjónsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51530</guid>
-    </item>
-    <item>
-      <title>Að læra í reynslunni þýðir að láta sig gossa: Starfstengd sjálfsrýni um reynslumiðað nám með unglingum</title>
-      <link>https://skemman.is/handle/1946/51526</link>
-      <description>Að læra í reynslunni þýðir að láta sig gossa: Starfstengd sjálfsrýni um reynslumiðað nám með unglingum - Elía Hörpu Önundarson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51526</guid>
-    </item>
-    <item>
-      <title>Advancing Literacy in Ghanaian Junior High School: Curriculum Guidelines for Multimodal English Language Instruction</title>
-      <link>https://skemman.is/handle/1946/51529</link>
-      <description>Advancing Literacy in Ghanaian Junior High School: Curriculum Guidelines for Multimodal English Language Instruction - Judith Asante 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51529</guid>
     </item>
   </channel>
 </rss>
