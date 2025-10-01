@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 01 Oct 2025 15:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 16:07:30 +0000</lastBuildDate>
     <item>
       <title>Biobanking and Microbiomes: The State of the Field and the Need for Microbiodiversity Preservation in Cryocollections</title>
       <link>https://skemman.is/handle/1946/51554</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/51556</link>
       <description>Bioaccessibility of iron from heme iron polypeptides: An in vitro digestibility study - Helena Þórdís Svavarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51556</guid>
+    </item>
+    <item>
+      <title>An Efficient Brain Extraction Method for MRI Scans with Mild to Moderate Neuropathology</title>
+      <link>https://skemman.is/handle/1946/51557</link>
+      <description>An Efficient Brain Extraction Method for MRI Scans with Mild to Moderate Neuropathology - Hjalti Þrastarson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51557</guid>
     </item>
     <item>
       <title>„Hver vill búa sitt ból í slíku umhverfi?“: Viðhorf íbúa til uppbyggingar vindorkuvers á Grjóthálsi í Borgarbyggð</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51535</link>
       <description>Exploring Indicators of Human Wellbeing and Ecological Sustainability  in the Nordic Countries - Marina Ermina 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51535</guid>
-    </item>
-    <item>
-      <title>Orkunotkun við göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Þversniðsrannsókn og áhrif 10 vikna þjálfunaríhlutunar</title>
-      <link>https://skemman.is/handle/1946/51531</link>
-      <description>Orkunotkun við göngu og líkamleg afkastageta einstaklinga með sykursýki af tegund 2 á Íslandi: Þversniðsrannsókn og áhrif 10 vikna þjálfunaríhlutunar - Birgitta Þóra Birgisdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51531</guid>
     </item>
   </channel>
 </rss>
