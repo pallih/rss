@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 01 Oct 2025 12:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 13:13:57 +0000</lastBuildDate>
     <item>
       <title>Biobanking and Microbiomes: The State of the Field and the Need for Microbiodiversity Preservation in Cryocollections</title>
       <link>https://skemman.is/handle/1946/51554</link>
@@ -33,12 +33,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51555</guid>
     </item>
     <item>
-      <title>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða</title>
-      <link>https://skemman.is/handle/1946/51550</link>
-      <description>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða - Margrét Valdimarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51550</guid>
-    </item>
-    <item>
       <title>„Hver vill búa sitt ból í slíku umhverfi?“: Viðhorf íbúa til uppbyggingar vindorkuvers á Grjóthálsi í Borgarbyggð</title>
       <link>https://skemman.is/handle/1946/51549</link>
       <description>„Hver vill búa sitt ból í slíku umhverfi?“: Viðhorf íbúa til uppbyggingar vindorkuvers á Grjóthálsi í Borgarbyggð - Herdís Tómasdóttir 1996-</description>
@@ -49,6 +43,12 @@
       <link>https://skemman.is/handle/1946/51548</link>
       <description>Towards Sustainable Whale Watching in Iceland - Management Opportunities and Constraints - Julia Alexandra Siukonen 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51548</guid>
+    </item>
+    <item>
+      <title>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða</title>
+      <link>https://skemman.is/handle/1946/51550</link>
+      <description>Samanburður á eiginleikum framúrskarandi teyma í íþróttum og atvinnulífi: Áhrifaþættir og yfirfærsla reynslu á milli sviða - Margrét Valdimarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51550</guid>
     </item>
     <item>
       <title>Developing a Satellite-Based Methodology to Estimate Built-up Biocapacity for Use in the National Ecological Footprint and Biocapacity Accounts:  A Comparative Study of Pléiades Neo and Sentinel-2 Imagery, Classification Algorithms, and Segmentation Approaches</title>
