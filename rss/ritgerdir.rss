@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 02 Oct 2025 09:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 10:06:16 +0000</lastBuildDate>
     <item>
       <title>Development of plant-based fish product analogues through stability and focus group testing</title>
       <link>https://skemman.is/handle/1946/51558</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/51559</link>
       <description>Sediment transport capacity along the southern coast of Iceland (2000-2022) - Aleksandra Kallaur 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51559</guid>
+    </item>
+    <item>
+      <title>Antimicrobial coating for silicone medical devices: Development of the activation procedures, ninhydrin and fluorescence assays.</title>
+      <link>https://skemman.is/handle/1946/51560</link>
+      <description>Antimicrobial coating for silicone medical devices: Development of the activation procedures, ninhydrin and fluorescence assays. - Adrián Benedicto Villanueva 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51560</guid>
+    </item>
+    <item>
+      <title>Development of plant-based nuggets from pea protein: Impact of formulation on physicochemical properties</title>
+      <link>https://skemman.is/handle/1946/51561</link>
+      <description>Development of plant-based nuggets from pea protein: Impact of formulation on physicochemical properties - Sana Hassan 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51561</guid>
     </item>
     <item>
       <title>Biobanking and Microbiomes: The State of the Field and the Need for Microbiodiversity Preservation in Cryocollections</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51542</link>
       <description>Find Your Shine : Connecting Spirituality, Improvisation, and Audience Participation in Music Creation and Performance - Vala Sigríður Guðmundsd. Yates 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51542</guid>
-    </item>
-    <item>
-      <title>Hamingjuhópurinn: „Núna er maður miklu hugrakkari“</title>
-      <link>https://skemman.is/handle/1946/51536</link>
-      <description>Hamingjuhópurinn: „Núna er maður miklu hugrakkari“ - Bryndís Ingimundardóttir 1970-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51536</guid>
-    </item>
-    <item>
-      <title>Hlutfall úrkasts röntgenmynda af úlnlið og ökkla á Landspítalanum í Fossvogi: Gæðaverkefni á myndgreiningadeild LSH</title>
-      <link>https://skemman.is/handle/1946/51534</link>
-      <description>Hlutfall úrkasts röntgenmynda af úlnlið og ökkla á Landspítalanum í Fossvogi: Gæðaverkefni á myndgreiningadeild LSH - Vigdís Jónsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51534</guid>
     </item>
   </channel>
 </rss>
