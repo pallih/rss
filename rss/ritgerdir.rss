@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 06 Oct 2025 15:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 16:06:58 +0000</lastBuildDate>
     <item>
       <title>Hamingjuhópurinn - Núna er maður miklu hugrakkari</title>
       <link>https://skemman.is/handle/1946/51563</link>
       <description>Hamingjuhópurinn - Núna er maður miklu hugrakkari - Bryndís Ingimundardóttir 1970-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51563</guid>
+    </item>
+    <item>
+      <title>Investigating the association two large effect loci vgll3 and six6 have on the maturation timing in Wild Atlantic salmon</title>
+      <link>https://skemman.is/handle/1946/51564</link>
+      <description>Investigating the association two large effect loci vgll3 and six6 have on the maturation timing in Wild Atlantic salmon - Ainsworth, Sadie Jeanne 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51564</guid>
     </item>
     <item>
       <title>Af hverju lýðveldi? : hugmyndir, áhrif og ágreiningur við lýðveldisstofnun Íslands</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51539</link>
       <description>Identity : Sound portraits - María Pétursdóttir 1972-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51539</guid>
-    </item>
-    <item>
-      <title>Hreiðrið</title>
-      <link>https://skemman.is/handle/1946/51541</link>
-      <description>Hreiðrið - Melkorka Gunborg Briansdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51541</guid>
     </item>
   </channel>
 </rss>
