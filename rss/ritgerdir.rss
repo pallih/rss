@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 Oct 2025 10:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 11:05:52 +0000</lastBuildDate>
+    <item>
+      <title>Skipulögð brotastarfsemi : réttargrundvöllur, helstu frumbrot, úrræði yfirvalda og dómaframkvæmd</title>
+      <link>https://skemman.is/handle/1946/51578</link>
+      <description>Skipulögð brotastarfsemi : réttargrundvöllur, helstu frumbrot, úrræði yfirvalda og dómaframkvæmd - Ingibjörg Austmann Ingadóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51578</guid>
+    </item>
+    <item>
+      <title>Málamyndahjúskapur í íslenskum rétti : túlkun og beiting 1. og 2. mgr. 92. gr., sbr. 8. mgr. 70. gr. laga um útlendinga nr. 80/2016 með hliðsjón af EES-rétti</title>
+      <link>https://skemman.is/handle/1946/51579</link>
+      <description>Málamyndahjúskapur í íslenskum rétti : túlkun og beiting 1. og 2. mgr. 92. gr., sbr. 8. mgr. 70. gr. laga um útlendinga nr. 80/2016 með hliðsjón af EES-rétti - Angelika Hilla 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51579</guid>
+    </item>
     <item>
       <title>El castellano como lengua global: Su lugar en un mundo de linguae francae</title>
       <link>https://skemman.is/handle/1946/51577</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51554</link>
       <description>Biobanking and Microbiomes: The State of the Field and the Need for Microbiodiversity Preservation in Cryocollections - Darya Chernikhova 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51554</guid>
-    </item>
-    <item>
-      <title>Risk of malnutrition in hospitalized children: Association with length of stay and readmissions within 30 days</title>
-      <link>https://skemman.is/handle/1946/51552</link>
-      <description>Risk of malnutrition in hospitalized children: Association with length of stay and readmissions within 30 days - Marta Kristjánsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51552</guid>
-    </item>
-    <item>
-      <title>The environmental impacts of beef slaughtering and processing in Iceland assessed using life cycle assessment</title>
-      <link>https://skemman.is/handle/1946/51553</link>
-      <description>The environmental impacts of beef slaughtering and processing in Iceland assessed using life cycle assessment - Edom Kassahun Alemayehu 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51553</guid>
     </item>
   </channel>
 </rss>
