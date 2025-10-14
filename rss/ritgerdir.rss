@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 Oct 2025 11:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:11:32 +0000</lastBuildDate>
     <item>
       <title>Skipulögð brotastarfsemi : réttargrundvöllur, helstu frumbrot, úrræði yfirvalda og dómaframkvæmd</title>
       <link>https://skemman.is/handle/1946/51578</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/51579</link>
       <description>Málamyndahjúskapur í íslenskum rétti : túlkun og beiting 1. og 2. mgr. 92. gr., sbr. 8. mgr. 70. gr. laga um útlendinga nr. 80/2016 með hliðsjón af EES-rétti - Angelika Hilla 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51579</guid>
+    </item>
+    <item>
+      <title>Hlutleysi löggiltra fasteigna- og skipasala</title>
+      <link>https://skemman.is/handle/1946/51580</link>
+      <description>Hlutleysi löggiltra fasteigna- og skipasala - Jóna Rún Svavarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51580</guid>
+    </item>
+    <item>
+      <title>Lágmarks verndarráðstafanir 18. gr. flokkunarreglugerðarinnar : hvernig uppfylla íslensk fjármálafyrirtæki skilyrði ákvæðisins?</title>
+      <link>https://skemman.is/handle/1946/51581</link>
+      <description>Lágmarks verndarráðstafanir 18. gr. flokkunarreglugerðarinnar : hvernig uppfylla íslensk fjármálafyrirtæki skilyrði ákvæðisins? - Iðunn Helgadóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51581</guid>
     </item>
     <item>
       <title>El castellano como lengua global: Su lugar en un mundo de linguae francae</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51556</link>
       <description>Bioaccessibility of iron from heme iron polypeptides: An in vitro digestibility study - Helena Þórdís Svavarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51556</guid>
-    </item>
-    <item>
-      <title>An Efficient Brain Extraction Method for MRI Scans with Mild to Moderate Neuropathology</title>
-      <link>https://skemman.is/handle/1946/51557</link>
-      <description>An Efficient Brain Extraction Method for MRI Scans with Mild to Moderate Neuropathology - Hjalti Þrastarson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51557</guid>
-    </item>
-    <item>
-      <title>Biobanking and Microbiomes: The State of the Field and the Need for Microbiodiversity Preservation in Cryocollections</title>
-      <link>https://skemman.is/handle/1946/51554</link>
-      <description>Biobanking and Microbiomes: The State of the Field and the Need for Microbiodiversity Preservation in Cryocollections - Darya Chernikhova 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51554</guid>
     </item>
   </channel>
 </rss>
