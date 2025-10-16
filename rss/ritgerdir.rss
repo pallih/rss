@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 16 Oct 2025 09:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 10:07:17 +0000</lastBuildDate>
     <item>
       <title>The finngálkn: A review of literary sources from the 12th century to the 18th century</title>
       <link>https://skemman.is/handle/1946/51584</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/51586</link>
       <description>Tækifæri til nýsköpunar: Að skapa aðgengilega fræðslu fyrir fatlað fólk - Sif Maríudóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51586</guid>
+    </item>
+    <item>
+      <title>Hamingjuhópurinn - Núna er maður miklu hugrakkari</title>
+      <link>https://skemman.is/handle/1946/51587</link>
+      <description>Hamingjuhópurinn - Núna er maður miklu hugrakkari - Bryndís Ingimundardóttir 1970-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51587</guid>
     </item>
     <item>
       <title>Effects of Azithromycin on kidney cells in culture treated with and without 2,8-Dihydroxyadenine crystals</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51564</link>
       <description>Investigating the association two large effect loci vgll3 and six6 have on the maturation timing in Wild Atlantic salmon - Ainsworth, Sadie Jeanne 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51564</guid>
-    </item>
-    <item>
-      <title>Af hverju lýðveldi? : hugmyndir, áhrif og ágreiningur við lýðveldisstofnun Íslands</title>
-      <link>https://skemman.is/handle/1946/51562</link>
-      <description>Af hverju lýðveldi? : hugmyndir, áhrif og ágreiningur við lýðveldisstofnun Íslands - Eyþór Möller Árnason 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51562</guid>
     </item>
   </channel>
 </rss>
