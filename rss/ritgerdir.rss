@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 Oct 2025 14:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 15:07:20 +0000</lastBuildDate>
     <item>
       <title>Sustained study interest in higher education : the role of personality, motivation, and contextual factors among Icelandic university graduates</title>
       <link>https://skemman.is/handle/1946/51598</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/51602</link>
       <description>Digital health in clozapine care : empowering patients and supporting healthcare professionals - Anna Halldóra N Snorradóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51602</guid>
+    </item>
+    <item>
+      <title>Learning to perceive through action : computer vision in the autonomous empirical reasoning architecture</title>
+      <link>https://skemman.is/handle/1946/51603</link>
+      <description>Learning to perceive through action : computer vision in the autonomous empirical reasoning architecture - Guðmundur Óli Halldórsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51603</guid>
+    </item>
+    <item>
+      <title>Subtle social maneuvering for MetaHumans</title>
+      <link>https://skemman.is/handle/1946/51604</link>
+      <description>Subtle social maneuvering for MetaHumans - Kjartan Már Andersen 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51604</guid>
     </item>
     <item>
       <title>Optimization of cavitation-plasma device for water treatment</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51581</link>
       <description>Lágmarks verndarráðstafanir 18. gr. flokkunarreglugerðarinnar : hvernig uppfylla íslensk fjármálafyrirtæki skilyrði ákvæðisins? - Iðunn Helgadóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51581</guid>
-    </item>
-    <item>
-      <title>Skipulögð brotastarfsemi : réttargrundvöllur, helstu frumbrot, úrræði yfirvalda og dómaframkvæmd</title>
-      <link>https://skemman.is/handle/1946/51578</link>
-      <description>Skipulögð brotastarfsemi : réttargrundvöllur, helstu frumbrot, úrræði yfirvalda og dómaframkvæmd - Ingibjörg Austmann Ingadóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51578</guid>
-    </item>
-    <item>
-      <title>El castellano como lengua global: Su lugar en un mundo de linguae francae</title>
-      <link>https://skemman.is/handle/1946/51577</link>
-      <description>El castellano como lengua global: Su lugar en un mundo de linguae francae - Javier Hualde 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51577</guid>
     </item>
   </channel>
 </rss>
