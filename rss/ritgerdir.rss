@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Oct 2025 11:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 12:11:20 +0000</lastBuildDate>
     <item>
       <title>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur.</title>
       <link>https://skemman.is/handle/1946/51607</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/51608</link>
       <description>Investigating carbon sequestration mechanisms on the Greenland shelf break : implications for Arctic blue carbon cycling - Pia Scaramiglia 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51608</guid>
+    </item>
+    <item>
+      <title>From sea to society : tracing the ecosystem services flow from coastal and marine biodiversity in the trilateral Wadden Sea</title>
+      <link>https://skemman.is/handle/1946/51609</link>
+      <description>From sea to society : tracing the ecosystem services flow from coastal and marine biodiversity in the trilateral Wadden Sea - Wooning, Yara Neville, 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51609</guid>
+    </item>
+    <item>
+      <title>Loftháð og loftfirrt þol afrekskvenna í handknattleik : afkastamælingar á kvennalandsliði Íslands í handknattleik</title>
+      <link>https://skemman.is/handle/1946/51610</link>
+      <description>Loftháð og loftfirrt þol afrekskvenna í handknattleik : afkastamælingar á kvennalandsliði Íslands í handknattleik - Guðmundur Gígjar Sigurbjörnsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51610</guid>
     </item>
     <item>
       <title>Sustained study interest in higher education : the role of personality, motivation, and contextual factors among Icelandic university graduates</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51585</link>
       <description>Áhrif vanrækslu í æsku á fæðuvenjur fullorðinna kvenna á Íslandi. Áfallasaga kvenna. - Ósk Matthildur Arnarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51585</guid>
-    </item>
-    <item>
-      <title>Tækifæri til nýsköpunar: Að skapa aðgengilega fræðslu fyrir fatlað fólk</title>
-      <link>https://skemman.is/handle/1946/51586</link>
-      <description>Tækifæri til nýsköpunar: Að skapa aðgengilega fræðslu fyrir fatlað fólk - Sif Maríudóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51586</guid>
-    </item>
-    <item>
-      <title>Effects of Azithromycin on kidney cells in culture treated with and without 2,8-Dihydroxyadenine crystals</title>
-      <link>https://skemman.is/handle/1946/51582</link>
-      <description>Effects of Azithromycin on kidney cells in culture treated with and without 2,8-Dihydroxyadenine crystals - Elsa Karen Sighvatsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51582</guid>
     </item>
   </channel>
 </rss>
