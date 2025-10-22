@@ -7,18 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Oct 2025 14:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 15:06:43 +0000</lastBuildDate>
     <item>
-      <title>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur.</title>
-      <link>https://skemman.is/handle/1946/51607</link>
-      <description>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur. - Pétur Jóhannes Óskarsson 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51607</guid>
+      <title>Behind the image :  a cognitive-affective approach to examining Iceland's destination image through online media</title>
+      <link>https://skemman.is/handle/1946/51614</link>
+      <description>Behind the image :  a cognitive-affective approach to examining Iceland's destination image through online media - García-Madrid, Álvaro Pastoriza, 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51614</guid>
+    </item>
+    <item>
+      <title>How about we dive deeper? : understanding the role of whale falls in the context of deep-sea species evolution : Azorean case study for conservation guidelines</title>
+      <link>https://skemman.is/handle/1946/51611</link>
+      <description>How about we dive deeper? : understanding the role of whale falls in the context of deep-sea species evolution : Azorean case study for conservation guidelines - Debost--Mallevialle, Juliette Marie, 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51611</guid>
     </item>
     <item>
       <title>Investigating carbon sequestration mechanisms on the Greenland shelf break : implications for Arctic blue carbon cycling</title>
       <link>https://skemman.is/handle/1946/51608</link>
       <description>Investigating carbon sequestration mechanisms on the Greenland shelf break : implications for Arctic blue carbon cycling - Pia Scaramiglia 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51608</guid>
+    </item>
+    <item>
+      <title>Identifying potential cultural losses from future climate change-induced damages to lighthouses across Iceland</title>
+      <link>https://skemman.is/handle/1946/51612</link>
+      <description>Identifying potential cultural losses from future climate change-induced damages to lighthouses across Iceland - Newhook, Joshua, 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51612</guid>
+    </item>
+    <item>
+      <title>Educational outcomes of commercial grizzly bear viewing participants : a case study from Port Hardy, British Columbia, Canada</title>
+      <link>https://skemman.is/handle/1946/51613</link>
+      <description>Educational outcomes of commercial grizzly bear viewing participants : a case study from Port Hardy, British Columbia, Canada - Gilmour, Claire Siobhan, 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51613</guid>
     </item>
     <item>
       <title>From sea to society : tracing the ecosystem services flow from coastal and marine biodiversity in the trilateral Wadden Sea</title>
@@ -33,22 +51,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51610</guid>
     </item>
     <item>
-      <title>How about we dive deeper? : understanding the role of whale falls in the context of deep-sea species evolution : Azorean case study for conservation guidelines</title>
-      <link>https://skemman.is/handle/1946/51611</link>
-      <description>How about we dive deeper? : understanding the role of whale falls in the context of deep-sea species evolution : Azorean case study for conservation guidelines - Debost--Mallevialle, Juliette Marie, 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51611</guid>
-    </item>
-    <item>
-      <title>Identifying potential cultural losses from future climate change-induced damages to lighthouses across Iceland</title>
-      <link>https://skemman.is/handle/1946/51612</link>
-      <description>Identifying potential cultural losses from future climate change-induced damages to lighthouses across Iceland - Newhook, Joshua, 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51612</guid>
-    </item>
-    <item>
-      <title>Educational outcomes of commercial grizzly bear viewing participants : a case study from Port Hardy, British Columbia, Canada</title>
-      <link>https://skemman.is/handle/1946/51613</link>
-      <description>Educational outcomes of commercial grizzly bear viewing participants : a case study from Port Hardy, British Columbia, Canada - Gilmour, Claire Siobhan, 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51613</guid>
+      <title>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur.</title>
+      <link>https://skemman.is/handle/1946/51607</link>
+      <description>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur. - Pétur Jóhannes Óskarsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51607</guid>
     </item>
     <item>
       <title>Sustained study interest in higher education : the role of personality, motivation, and contextual factors among Icelandic university graduates</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51594</link>
       <description>Financial structure and innovation in Icelandic public institutions - Kjartan Tumi Biering 1973-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51594</guid>
-    </item>
-    <item>
-      <title>ESG and exchange rate exposure : evidence from emerging markets</title>
-      <link>https://skemman.is/handle/1946/51593</link>
-      <description>ESG and exchange rate exposure : evidence from emerging markets - Úlfa Dís Kreye Úlfarsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51593</guid>
     </item>
   </channel>
 </rss>
