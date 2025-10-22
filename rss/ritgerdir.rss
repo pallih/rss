@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 21 Oct 2025 17:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 08:09:30 +0000</lastBuildDate>
+    <item>
+      <title>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur.</title>
+      <link>https://skemman.is/handle/1946/51607</link>
+      <description>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur. - Pétur Jóhannes Óskarsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51607</guid>
+    </item>
     <item>
       <title>Sustained study interest in higher education : the role of personality, motivation, and contextual factors among Icelandic university graduates</title>
       <link>https://skemman.is/handle/1946/51598</link>
@@ -21,28 +27,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51597</guid>
     </item>
     <item>
-      <title>The effect of economic policy uncertainty on leverage &amp; the role of ESG : evidence from the US energy sector</title>
-      <link>https://skemman.is/handle/1946/51599</link>
-      <description>The effect of economic policy uncertainty on leverage &amp; the role of ESG : evidence from the US energy sector - Fannar Ingi Fjölnisson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51599</guid>
-    </item>
-    <item>
-      <title>Beyond the dark side : ETFs and market efficiency in the S&amp;P 500</title>
-      <link>https://skemman.is/handle/1946/51600</link>
-      <description>Beyond the dark side : ETFs and market efficiency in the S&amp;P 500 - Borja Bartres Ceriola 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51600</guid>
-    </item>
-    <item>
-      <title>Greener nations, smarter firms? : a study of environmental policy stringency and investment efficiency</title>
-      <link>https://skemman.is/handle/1946/51601</link>
-      <description>Greener nations, smarter firms? : a study of environmental policy stringency and investment efficiency - Katla Jóhannsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51601</guid>
-    </item>
-    <item>
       <title>Digital health in clozapine care : empowering patients and supporting healthcare professionals</title>
       <link>https://skemman.is/handle/1946/51602</link>
       <description>Digital health in clozapine care : empowering patients and supporting healthcare professionals - Anna Halldóra N Snorradóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51602</guid>
+    </item>
+    <item>
+      <title>Employment counselors´ attitudes toward AI implementation : the impact of direct experience</title>
+      <link>https://skemman.is/handle/1946/51606</link>
+      <description>Employment counselors´ attitudes toward AI implementation : the impact of direct experience - Sigríður Agnes Jónasdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51606</guid>
     </item>
     <item>
       <title>Learning to perceive through action : computer vision in the autonomous empirical reasoning architecture</title>
@@ -63,10 +57,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51605</guid>
     </item>
     <item>
-      <title>Employment counselors´ attitudes toward AI implementation : the impact of direct experience</title>
-      <link>https://skemman.is/handle/1946/51606</link>
-      <description>Employment counselors´ attitudes toward AI implementation : the impact of direct experience - Sigríður Agnes Jónasdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51606</guid>
+      <title>The effect of economic policy uncertainty on leverage &amp; the role of ESG : evidence from the US energy sector</title>
+      <link>https://skemman.is/handle/1946/51599</link>
+      <description>The effect of economic policy uncertainty on leverage &amp; the role of ESG : evidence from the US energy sector - Fannar Ingi Fjölnisson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51599</guid>
+    </item>
+    <item>
+      <title>Beyond the dark side : ETFs and market efficiency in the S&amp;P 500</title>
+      <link>https://skemman.is/handle/1946/51600</link>
+      <description>Beyond the dark side : ETFs and market efficiency in the S&amp;P 500 - Borja Bartres Ceriola 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51600</guid>
+    </item>
+    <item>
+      <title>Greener nations, smarter firms? : a study of environmental policy stringency and investment efficiency</title>
+      <link>https://skemman.is/handle/1946/51601</link>
+      <description>Greener nations, smarter firms? : a study of environmental policy stringency and investment efficiency - Katla Jóhannsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51601</guid>
     </item>
     <item>
       <title>Optimization of cavitation-plasma device for water treatment</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51583</link>
       <description>The Unknown Motion: The Performance and Practice of Divination and Prophecy Rituals in the Sagas of Icelanders - Ariya Theprangsimankul 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51583</guid>
-    </item>
-    <item>
-      <title>Hlutleysi löggiltra fasteigna- og skipasala</title>
-      <link>https://skemman.is/handle/1946/51580</link>
-      <description>Hlutleysi löggiltra fasteigna- og skipasala - Jóna Rún Svavarsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51580</guid>
     </item>
   </channel>
 </rss>
