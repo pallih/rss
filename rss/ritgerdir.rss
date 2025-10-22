@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Oct 2025 15:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 16:08:07 +0000</lastBuildDate>
     <item>
       <title>Behind the image :  a cognitive-affective approach to examining Iceland's destination image through online media</title>
       <link>https://skemman.is/handle/1946/51614</link>
@@ -55,6 +55,24 @@
       <link>https://skemman.is/handle/1946/51607</link>
       <description>Samhljómur Kants. Frumspeki náttúrunnar og frumspeki siðlegrar breytni rannsökuð og samhljómur þeirra rökstuddur. - Pétur Jóhannes Óskarsson 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51607</guid>
+    </item>
+    <item>
+      <title>Volunteerism and emergency management in Iceland : examining the role of place attachment and local engagement in search and rescue and disaster relief organizations</title>
+      <link>https://skemman.is/handle/1946/51615</link>
+      <description>Volunteerism and emergency management in Iceland : examining the role of place attachment and local engagement in search and rescue and disaster relief organizations - Pfülb, Christoph, 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51615</guid>
+    </item>
+    <item>
+      <title>Not all those who wander are lost in Aotearoa's wild south : themes in wilderness perceptions in Tāhuna Queenstown, Aotearoa New Zealand</title>
+      <link>https://skemman.is/handle/1946/51616</link>
+      <description>Not all those who wander are lost in Aotearoa's wild south : themes in wilderness perceptions in Tāhuna Queenstown, Aotearoa New Zealand - Nicole Isabelle Cameron Griffin 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51616</guid>
+    </item>
+    <item>
+      <title>Service expansion of the Bergið headspace support centre to Ísafjörður, Westfjords : a case study from remote Iceland</title>
+      <link>https://skemman.is/handle/1946/51617</link>
+      <description>Service expansion of the Bergið headspace support centre to Ísafjörður, Westfjords : a case study from remote Iceland - Morozova, Anna, 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51617</guid>
     </item>
     <item>
       <title>Sustained study interest in higher education : the role of personality, motivation, and contextual factors among Icelandic university graduates</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/51595</link>
       <description>Turnover intentions among Icelandic elementary school teachers : exploring burnout, personality, and self-reported reasons for leaving - Áróra Ósk Einarsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51595</guid>
-    </item>
-    <item>
-      <title>The effect of national culture on default risk in banks : a comparison of Islamic vs conventional banks</title>
-      <link>https://skemman.is/handle/1946/51596</link>
-      <description>The effect of national culture on default risk in banks : a comparison of Islamic vs conventional banks - Erik Hallgrímsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51596</guid>
-    </item>
-    <item>
-      <title>Event-based shrimp detection and behavior analysis using spiking neural networks</title>
-      <link>https://skemman.is/handle/1946/51591</link>
-      <description>Event-based shrimp detection and behavior analysis using spiking neural networks - Kjartan Freyr Hafþórsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51591</guid>
-    </item>
-    <item>
-      <title>Financial structure and innovation in Icelandic public institutions</title>
-      <link>https://skemman.is/handle/1946/51594</link>
-      <description>Financial structure and innovation in Icelandic public institutions - Kjartan Tumi Biering 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51594</guid>
     </item>
   </channel>
 </rss>
