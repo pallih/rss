@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 29 Oct 2025 10:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 11:06:11 +0000</lastBuildDate>
     <item>
       <title>Production of biotech drugs in Iceland.</title>
       <link>https://skemman.is/handle/1946/51627</link>
       <description>Production of biotech drugs in Iceland. - Milena Oyola Aguilar 1971-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51627</guid>
+    </item>
+    <item>
+      <title>Ávinningur af þátttöku í fagsýningum : ávinningur og viðhorf íslenskra fyrirtækja í mannvirkja-, byggingariðnaði og samgöngumálum til fagsýninga á Íslandi</title>
+      <link>https://skemman.is/handle/1946/51628</link>
+      <description>Ávinningur af þátttöku í fagsýningum : ávinningur og viðhorf íslenskra fyrirtækja í mannvirkja-, byggingariðnaði og samgöngumálum til fagsýninga á Íslandi - Guðrún Elsa G. Kristjánsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51628</guid>
     </item>
     <item>
       <title>Combating urban heat islands : assessing the potential of open-loop geothermal heat pump systems in Canada</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51602</link>
       <description>Digital health in clozapine care : empowering patients and supporting healthcare professionals - Anna Halldóra N Snorradóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51602</guid>
-    </item>
-    <item>
-      <title>Employment counselors´ attitudes toward AI implementation : the impact of direct experience</title>
-      <link>https://skemman.is/handle/1946/51606</link>
-      <description>Employment counselors´ attitudes toward AI implementation : the impact of direct experience - Sigríður Agnes Jónasdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51606</guid>
     </item>
   </channel>
 </rss>
