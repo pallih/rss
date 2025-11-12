@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 12 Nov 2025 10:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 11:06:12 +0000</lastBuildDate>
     <item>
       <title>Viðhorf til jafnlaunavottunar: Rannsókn á viðhorfi hagsmunaaðila á jafnlaunavottun á Íslandi</title>
       <link>https://skemman.is/handle/1946/51645</link>
       <description>Viðhorf til jafnlaunavottunar: Rannsókn á viðhorfi hagsmunaaðila á jafnlaunavottun á Íslandi - Steinar Lúðvíksson 1983-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51645</guid>
+    </item>
+    <item>
+      <title>Evaluating dNBR and CBI for Fire Severity Estimation in Fennoscandian Boreal Surface Fires</title>
+      <link>https://skemman.is/handle/1946/51646</link>
+      <description>Evaluating dNBR and CBI for Fire Severity Estimation in Fennoscandian Boreal Surface Fires - Chiara Gherardelli 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51646</guid>
     </item>
     <item>
       <title>Evaluating impacts of hydroclimatic extremes on water use efficiency and carbon use efficiency of northern ecosystems</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51625</link>
       <description>Stjórnunarstílar og starfsánægja : samanburður á mismunandi stjórnunarstílum og mikilvægi þeirra fyrir starfsánægju og framleiðni - Gréta Jóhanna Ingólfsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51625</guid>
-    </item>
-    <item>
-      <title>"Microbial interactions with PET plastic : stress responses, oxidative stress, and biodegradation potential"</title>
-      <link>https://skemman.is/handle/1946/51626</link>
-      <description>"Microbial interactions with PET plastic : stress responses, oxidative stress, and biodegradation potential" - Dudziak, Radoslaw Boleslaw, 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51626</guid>
     </item>
   </channel>
 </rss>
