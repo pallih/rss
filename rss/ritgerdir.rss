@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 13 Nov 2025 15:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:07:55 +0000</lastBuildDate>
     <item>
       <title>Vörumerkjabreyting - Hafa íslensk fyrirtæki sem hafa framkvæmt vörumerkjabreytingu upplifað jákvæð áhrif á rekstur og ímynd?</title>
       <link>https://skemman.is/handle/1946/51651</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/51654</link>
       <description>Viðbrögð íslenskra fyrirtækja við gagnrýni á samfélagsmiðlum - Greining í samræmi við fræðileg viðmið um krísusamskipti - Berglind Ýr Björgvinsdóttir 1999-; Berglind Ýr Björgvinsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51654</guid>
+    </item>
+    <item>
+      <title>Konur í upptökustjórnun: Af hverju eru konur í miklum minnihluta meðal upptökustjóra?</title>
+      <link>https://skemman.is/handle/1946/51655</link>
+      <description>Konur í upptökustjórnun: Af hverju eru konur í miklum minnihluta meðal upptökustjóra? - Helena Sif Gunnarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51655</guid>
     </item>
     <item>
       <title>Evaluating dNBR and CBI for Fire Severity Estimation in Fennoscandian Boreal Surface Fires</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51632</link>
       <description>Exploring rights of nature for Antarctic governance : toward a rights-based approach for representation and protection - Lauenburger, Anna Christin, 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51632</guid>
-    </item>
-    <item>
-      <title>Comparative analysis of space policies for climate mitigation in a securitized Arctic : the cases of EU, Norway, and Sweden</title>
-      <link>https://skemman.is/handle/1946/51630</link>
-      <description>Comparative analysis of space policies for climate mitigation in a securitized Arctic : the cases of EU, Norway, and Sweden - Bilyk, Tetyana 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51630</guid>
     </item>
   </channel>
 </rss>
