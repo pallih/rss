@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 13 Nov 2025 14:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 15:07:43 +0000</lastBuildDate>
     <item>
       <title>Vörumerkjabreyting - Hafa íslensk fyrirtæki sem hafa framkvæmt vörumerkjabreytingu upplifað jákvæð áhrif á rekstur og ímynd?</title>
       <link>https://skemman.is/handle/1946/51651</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/51652</link>
       <description>Lagaumhverfi sýndareigna: Hvernig falla sýndareignir að gildandi íslenskum rétti og ESB regluverki og er þörf á lagabreytingu til að tryggja viðeigandi neytenda- og fjárfestavernd? - Hrefna Sif Gunnarsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51652</guid>
+    </item>
+    <item>
+      <title>Áhrif skóla án aðgreiningar á vinnuumhverfi og líðan kennara</title>
+      <link>https://skemman.is/handle/1946/51653</link>
+      <description>Áhrif skóla án aðgreiningar á vinnuumhverfi og líðan kennara - Laufey Ósk Þórðardóttir 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51653</guid>
+    </item>
+    <item>
+      <title>Viðbrögð íslenskra fyrirtækja við gagnrýni á samfélagsmiðlum - Greining í samræmi við fræðileg viðmið um krísusamskipti</title>
+      <link>https://skemman.is/handle/1946/51654</link>
+      <description>Viðbrögð íslenskra fyrirtækja við gagnrýni á samfélagsmiðlum - Greining í samræmi við fræðileg viðmið um krísusamskipti - Berglind Ýr Björgvinsdóttir 1999-; Berglind Ýr Björgvinsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51654</guid>
     </item>
     <item>
       <title>Evaluating dNBR and CBI for Fire Severity Estimation in Fennoscandian Boreal Surface Fires</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51630</link>
       <description>Comparative analysis of space policies for climate mitigation in a securitized Arctic : the cases of EU, Norway, and Sweden - Bilyk, Tetyana 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51630</guid>
-    </item>
-    <item>
-      <title>Production of biotech drugs in Iceland.</title>
-      <link>https://skemman.is/handle/1946/51627</link>
-      <description>Production of biotech drugs in Iceland. - Aguilar, Milena Oyola 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51627</guid>
-    </item>
-    <item>
-      <title>The Icelandic collective unconscious : a jungian study of word associations and sagas</title>
-      <link>https://skemman.is/handle/1946/51634</link>
-      <description>The Icelandic collective unconscious : a jungian study of word associations and sagas - Þórdís Björg Yngvadóttir 1992-; Bára Bryndís Viggósdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51634</guid>
     </item>
   </channel>
 </rss>
