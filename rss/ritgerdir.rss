@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 14 Nov 2025 09:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 10:07:25 +0000</lastBuildDate>
+    <item>
+      <title>Að snúa skipinu við: Hönnun á vaxtarstefnu Félagsbústaða með jákvæðu sjóðstreymi</title>
+      <link>https://skemman.is/handle/1946/51656</link>
+      <description>Að snúa skipinu við: Hönnun á vaxtarstefnu Félagsbústaða með jákvæðu sjóðstreymi - Daniela Katarzyna Zbikowska 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51656</guid>
+    </item>
+    <item>
+      <title>Navigating our fragmented narratives in search of increased unity</title>
+      <link>https://skemman.is/handle/1946/51657</link>
+      <description>Navigating our fragmented narratives in search of increased unity - Gunnar Grímsson 1963-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51657</guid>
+    </item>
     <item>
       <title>Vörumerkjabreyting - Hafa íslensk fyrirtæki sem hafa framkvæmt vörumerkjabreytingu upplifað jákvæð áhrif á rekstur og ímynd?</title>
       <link>https://skemman.is/handle/1946/51651</link>
@@ -33,12 +45,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51652</guid>
     </item>
     <item>
-      <title>Áhrif skóla án aðgreiningar á vinnuumhverfi og líðan kennara</title>
-      <link>https://skemman.is/handle/1946/51653</link>
-      <description>Áhrif skóla án aðgreiningar á vinnuumhverfi og líðan kennara - Laufey Ósk Þórðardóttir 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51653</guid>
-    </item>
-    <item>
       <title>Viðbrögð íslenskra fyrirtækja við gagnrýni á samfélagsmiðlum - Greining í samræmi við fræðileg viðmið um krísusamskipti</title>
       <link>https://skemman.is/handle/1946/51654</link>
       <description>Viðbrögð íslenskra fyrirtækja við gagnrýni á samfélagsmiðlum - Greining í samræmi við fræðileg viðmið um krísusamskipti - Berglind Ýr Björgvinsdóttir 1999-; Berglind Ýr Björgvinsdóttir 1999-</description>
@@ -49,6 +55,12 @@
       <link>https://skemman.is/handle/1946/51655</link>
       <description>Konur í upptökustjórnun: Af hverju eru konur í miklum minnihluta meðal upptökustjóra? - Helena Sif Gunnarsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51655</guid>
+    </item>
+    <item>
+      <title>Áhrif skóla án aðgreiningar á vinnuumhverfi og líðan kennara</title>
+      <link>https://skemman.is/handle/1946/51653</link>
+      <description>Áhrif skóla án aðgreiningar á vinnuumhverfi og líðan kennara - Laufey Ósk Þórðardóttir 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51653</guid>
     </item>
     <item>
       <title>Evaluating dNBR and CBI for Fire Severity Estimation in Fennoscandian Boreal Surface Fires</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51629</link>
       <description>Seasonality, cognitive vulnerability, and safety threat : seasonal symptoms in relation to rumination, negative habitual thinking, seasonal natural disasters, risk perception, and disaster anxiety - Ásta Guðrún Birgisdóttir 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51629</guid>
-    </item>
-    <item>
-      <title>From law to practice : actualization of Sámi linguistic rights in Finland</title>
-      <link>https://skemman.is/handle/1946/51631</link>
-      <description>From law to practice : actualization of Sámi linguistic rights in Finland - Rauhala, Emilia Victoria, 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51631</guid>
-    </item>
-    <item>
-      <title>Exploring rights of nature for Antarctic governance : toward a rights-based approach for representation and protection</title>
-      <link>https://skemman.is/handle/1946/51632</link>
-      <description>Exploring rights of nature for Antarctic governance : toward a rights-based approach for representation and protection - Lauenburger, Anna Christin, 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51632</guid>
     </item>
   </channel>
 </rss>
