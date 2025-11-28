@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 28 Nov 2025 10:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 11:06:00 +0000</lastBuildDate>
     <item>
       <title>Klæði, skart og kynhlutverk í Laxdæla sögu</title>
       <link>https://skemman.is/handle/1946/51710</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/51711</link>
       <description>Börn með fjölþættan vanda. Þýðisrannsókn úr gagnagrunni sérfræðingateymis Barna- og fjölskyldustofu. - Svandís Lilja Jónasdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51711</guid>
+    </item>
+    <item>
+      <title>Fjölþættur vandi og þjónustukerfin á Íslandi: Upplifun og reynsla ungmenna og fagfólks af þjónustu innan félags-, mennta og heilbrigðiskerfa</title>
+      <link>https://skemman.is/handle/1946/51712</link>
+      <description>Fjölþættur vandi og þjónustukerfin á Íslandi: Upplifun og reynsla ungmenna og fagfólks af þjónustu innan félags-, mennta og heilbrigðiskerfa - Ósk Ágústsdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51712</guid>
     </item>
     <item>
       <title>,,Ofbeldið hætti aldrei heldur breytti bara um form“: Upplifun þolenda af eltihrelli í kjölfar ofbeldis í nánu sambandi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51682</link>
       <description>Ímynd barnaverndar á Íslandi: Upplifun starfsmanna í barnavernd - Alice Vera Biglio 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51682</guid>
-    </item>
-    <item>
-      <title>Samfélagsmiðlar, ungmenni og velferð: Hvar liggja mörkin?: Greining á samfélagsmiðlanotkun og líðan ungmenna</title>
-      <link>https://skemman.is/handle/1946/51685</link>
-      <description>Samfélagsmiðlar, ungmenni og velferð: Hvar liggja mörkin?: Greining á samfélagsmiðlanotkun og líðan ungmenna - Berglind Ósk Ásgrímsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51685</guid>
     </item>
   </channel>
 </rss>
