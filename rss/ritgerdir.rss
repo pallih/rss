@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 17 Dec 2025 08:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 09:09:58 +0000</lastBuildDate>
     <item>
       <title>Rafmynt sem séreign í hjúskap: Réttarstaða í íslenskum rétti</title>
       <link>https://skemman.is/handle/1946/51732</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/51733</link>
       <description>Tjáningarfrelsi opinberra starfsmanna. Takmörkun á tjáningarfrelsi saksóknara með hliðsjón af máli vararíkissaksóknara. - Them Van Pham 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51733</guid>
+    </item>
+    <item>
+      <title>Öryggismenning í Eimskip: Tækifæri til umbóta Greining út frá NOSACQ-50 spurningalistanum</title>
+      <link>https://skemman.is/handle/1946/51734</link>
+      <description>Öryggismenning í Eimskip: Tækifæri til umbóta Greining út frá NOSACQ-50 spurningalistanum - Helga Margrét Óskarsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51734</guid>
+    </item>
+    <item>
+      <title>"Að vaxa úr grasi í skugga vímu" Upplifun og reynsla einstaklinga á að hafa alist upp hjá foreldri með vímuefnaröskun</title>
+      <link>https://skemman.is/handle/1946/51735</link>
+      <description>"Að vaxa úr grasi í skugga vímu" Upplifun og reynsla einstaklinga á að hafa alist upp hjá foreldri með vímuefnaröskun - Hildur María Brynjólfsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51735</guid>
     </item>
     <item>
       <title>Performing leadership: Iceland's gender equality diplomacy within the United Nations</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51711</link>
       <description>Börn með fjölþættan vanda. Þýðisrannsókn úr gagnagrunni sérfræðingateymis Barna- og fjölskyldustofu. - Svandís Lilja Jónasdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51711</guid>
-    </item>
-    <item>
-      <title>Klæði, skart og kynhlutverk í Laxdæla sögu</title>
-      <link>https://skemman.is/handle/1946/51710</link>
-      <description>Klæði, skart og kynhlutverk í Laxdæla sögu - Vesna Pusic 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51710</guid>
-    </item>
-    <item>
-      <title>,,Ofbeldið hætti aldrei heldur breytti bara um form“: Upplifun þolenda af eltihrelli í kjölfar ofbeldis í nánu sambandi</title>
-      <link>https://skemman.is/handle/1946/51709</link>
-      <description>,,Ofbeldið hætti aldrei heldur breytti bara um form“: Upplifun þolenda af eltihrelli í kjölfar ofbeldis í nánu sambandi - Kristbjörg Karen Björnsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51709</guid>
     </item>
   </channel>
 </rss>
