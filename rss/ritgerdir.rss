@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 18 Dec 2025 11:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 12:11:57 +0000</lastBuildDate>
     <item>
       <title>Þögnin í kringum systkinaofbeldi: Viðhorf fagfólks til ósýnilegs ofbeldis innan fjölskyldunnar</title>
       <link>https://skemman.is/handle/1946/51737</link>
@@ -25,6 +25,30 @@
       <link>https://skemman.is/handle/1946/51738</link>
       <description>„Mér fannst ég hvorki tilheyra né vera þörf á mér“ Endurkoma á vinnumarkað eftir fæðingarorlof: Áhrif á sálfræðilega  samninginn - Fanney Valsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51738</guid>
+    </item>
+    <item>
+      <title>Modular Smart Heating Control System</title>
+      <link>https://skemman.is/handle/1946/51739</link>
+      <description>Modular Smart Heating Control System - Gísli Snorri Rúnarsson 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51739</guid>
+    </item>
+    <item>
+      <title>„Ekkert orð er skrípi ef það stendur á réttum stað“ Þýðing á hluta úr Barni náttúrunnar eftir Halldór Laxness með greinargerð</title>
+      <link>https://skemman.is/handle/1946/51740</link>
+      <description>„Ekkert orð er skrípi ef það stendur á réttum stað“ Þýðing á hluta úr Barni náttúrunnar eftir Halldór Laxness með greinargerð - Agnes Ársól Bikowska 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51740</guid>
+    </item>
+    <item>
+      <title>Automatic Toe-In Adjustment System for Vehicles</title>
+      <link>https://skemman.is/handle/1946/51741</link>
+      <description>Automatic Toe-In Adjustment System for Vehicles - Andri Páll Róbertsson 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51741</guid>
+    </item>
+    <item>
+      <title>Tengsl tónlistar og tungumáls: Áhrif tónlistarþjálfunar á málþroska barna</title>
+      <link>https://skemman.is/handle/1946/51742</link>
+      <description>Tengsl tónlistar og tungumáls: Áhrif tónlistarþjálfunar á málþroska barna - Agnes Brá Jónsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51742</guid>
     </item>
     <item>
       <title>"Að vaxa úr grasi í skugga vímu" Upplifun og reynsla einstaklinga á að hafa alist upp hjá foreldri með vímuefnaröskun</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/51719</link>
       <description>Skilyrði ógildingarreglunnar um brostnar forsendur með áherslu á óréttláta réttarskerðingu - Katrín Helga Sigurbergsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51719</guid>
-    </item>
-    <item>
-      <title>Implementation of an Interactive Badge Voting System (IBVS)</title>
-      <link>https://skemman.is/handle/1946/51717</link>
-      <description>Implementation of an Interactive Badge Voting System (IBVS) - Ricardo Silva Pimenta 1978-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51717</guid>
-    </item>
-    <item>
-      <title>Development of a robotic throwing arm for aquaculture</title>
-      <link>https://skemman.is/handle/1946/51716</link>
-      <description>Development of a robotic throwing arm for aquaculture - Andri Hrafn Þorsteinsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51716</guid>
-    </item>
-    <item>
-      <title>Þar sem hringurinn byrjar: Kynslóðatilfærsla ofbeldis og vanrækslu og gildi snemmtækrar íhlutunar</title>
-      <link>https://skemman.is/handle/1946/51715</link>
-      <description>Þar sem hringurinn byrjar: Kynslóðatilfærsla ofbeldis og vanrækslu og gildi snemmtækrar íhlutunar - Alexandra Árnadóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51715</guid>
-    </item>
-    <item>
-      <title>Þegar amma sagði sögur:  Litáískar og íslenskar þjóðsagnaverur</title>
-      <link>https://skemman.is/handle/1946/51714</link>
-      <description>Þegar amma sagði sögur:  Litáískar og íslenskar þjóðsagnaverur - Jolanta Paceviciené 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51714</guid>
     </item>
   </channel>
 </rss>
