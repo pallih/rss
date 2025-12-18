@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 18 Dec 2025 09:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 10:07:22 +0000</lastBuildDate>
     <item>
       <title>Um aðild sjálfstæðra stjórnsýslunefnda á málskotsstigi að dómsmálum: Könnun á aðildarhæfi kæru- og úrskurðarnefnda</title>
       <link>https://skemman.is/handle/1946/51736</link>
       <description>Um aðild sjálfstæðra stjórnsýslunefnda á málskotsstigi að dómsmálum: Könnun á aðildarhæfi kæru- og úrskurðarnefnda - Bjarki Fjalar Guðjónsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51736</guid>
+    </item>
+    <item>
+      <title>Þögnin í kringum systkinaofbeldi: Viðhorf fagfólks til ósýnilegs ofbeldis innan fjölskyldunnar</title>
+      <link>https://skemman.is/handle/1946/51737</link>
+      <description>Þögnin í kringum systkinaofbeldi: Viðhorf fagfólks til ósýnilegs ofbeldis innan fjölskyldunnar - Þórdís Bjarnleifsdóttir 1971-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51737</guid>
     </item>
     <item>
       <title>Rafmynt sem séreign í hjúskap: Réttarstaða í íslenskum rétti</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51713</link>
       <description>„Á milli hjartans og fagmannsins“: Seigla í starfi félagsráðgjafa í barnavernd á landsbyggðinni - Hanna Guðrún Gestsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51713</guid>
-    </item>
-    <item>
-      <title>Fjölþættur vandi og þjónustukerfin á Íslandi: Upplifun og reynsla ungmenna og fagfólks af þjónustu innan félags-, mennta og heilbrigðiskerfa</title>
-      <link>https://skemman.is/handle/1946/51712</link>
-      <description>Fjölþættur vandi og þjónustukerfin á Íslandi: Upplifun og reynsla ungmenna og fagfólks af þjónustu innan félags-, mennta og heilbrigðiskerfa - Ósk Ágústsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51712</guid>
     </item>
   </channel>
 </rss>
