@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 05 Jan 2026 10:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 11:07:08 +0000</lastBuildDate>
     <item>
       <title>Áhrif MeToo á niðurstöður ærumeiðingamála. Beiting sjónarmiðsins um góða trú í tilviki staðhæfinga um kynferðisofbeldi í skjóli MeToo</title>
       <link>https://skemman.is/handle/1946/51754</link>
@@ -81,6 +81,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51765</guid>
     </item>
     <item>
+      <title>Lúther og bændauppreisnin 1525</title>
+      <link>https://skemman.is/handle/1946/51766</link>
+      <description>Lúther og bændauppreisnin 1525 - Guðni Halldórsson 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51766</guid>
+    </item>
+    <item>
       <title>Ghost: Proof-of-Concept Prosthetic Hand</title>
       <link>https://skemman.is/handle/1946/51753</link>
       <description>Ghost: Proof-of-Concept Prosthetic Hand - Jakop Trausti Þórðarson 1989-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51736</link>
       <description>Um aðild sjálfstæðra stjórnsýslunefnda á málskotsstigi að dómsmálum: Könnun á aðildarhæfi kæru- og úrskurðarnefnda - Bjarki Fjalar Guðjónsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51736</guid>
-    </item>
-    <item>
-      <title>Tengsl tónlistar og tungumáls: Áhrif tónlistarþjálfunar á málþroska barna</title>
-      <link>https://skemman.is/handle/1946/51742</link>
-      <description>Tengsl tónlistar og tungumáls: Áhrif tónlistarþjálfunar á málþroska barna - Agnes Brá Jónsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51742</guid>
     </item>
   </channel>
 </rss>
