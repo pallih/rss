@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 06 Jan 2026 17:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:10:00 +0000</lastBuildDate>
+    <item>
+      <title>Leikritið Raddþjófnaðurinn og þrjár sögur</title>
+      <link>https://skemman.is/handle/1946/51799</link>
+      <description>Leikritið Raddþjófnaðurinn og þrjár sögur - Hlín Leifsdóttir 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51799</guid>
+    </item>
+    <item>
+      <title>Sapphism in the Seventeenth Century: Female Writers’ Language Allowing Authentic Sapphic Relationships</title>
+      <link>https://skemman.is/handle/1946/51800</link>
+      <description>Sapphism in the Seventeenth Century: Female Writers’ Language Allowing Authentic Sapphic Relationships - Kiia Julia Sell 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51800</guid>
+    </item>
     <item>
       <title>Líkindaásetningur í manndrápsmálum: Samanburðargreining á orðalagi og skýrleika líkindaásetnings í dómaframkvæmd Norðurlanda</title>
       <link>https://skemman.is/handle/1946/51774</link>
@@ -135,12 +147,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51792</guid>
     </item>
     <item>
-      <title>SVALPEN Svalbard Radar Snow Penetration Experiment</title>
-      <link>https://skemman.is/handle/1946/51791</link>
-      <description>SVALPEN Svalbard Radar Snow Penetration Experiment - Jani Suolinna 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51791</guid>
-    </item>
-    <item>
       <title>The Aesthetics of Subjectivity: Deceptive Detachment in the Works of Franz Kafka</title>
       <link>https://skemman.is/handle/1946/51793</link>
       <description>The Aesthetics of Subjectivity: Deceptive Detachment in the Works of Franz Kafka - Matthías Sólon Regal 1999-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51796</link>
       <description>Underlining the potential drivers of carbon allocation in Kernza® crops - Hugues de Roissart 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51796</guid>
-    </item>
-    <item>
-      <title>Size Matters: A study of fish size in the Early Modern period</title>
-      <link>https://skemman.is/handle/1946/51797</link>
-      <description>Size Matters: A study of fish size in the Early Modern period - Margrét Ólafía G. Nielsen 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51797</guid>
     </item>
   </channel>
 </rss>
