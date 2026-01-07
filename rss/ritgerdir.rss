@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 07 Jan 2026 15:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 16:09:50 +0000</lastBuildDate>
     <item>
       <title>Líðan starfsfólks í samruna og kaupum fyrirtækja: Samanburður á innlendri og erlendri menningu</title>
       <link>https://skemman.is/handle/1946/51802</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/51806</link>
       <description>From Kabul to Reykjavík: Sustainable Value Creation in the Upcycled Fashion Supply Chain of ByNoor: Strategic Analysis of an Upcycled Luxury Brand - Abdul Khalil Khalikyar 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51806</guid>
+    </item>
+    <item>
+      <title>The Picture of Dorian Gray: The Significance of the Soul</title>
+      <link>https://skemman.is/handle/1946/51807</link>
+      <description>The Picture of Dorian Gray: The Significance of the Soul - Hekla Sif Sigurjónsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51807</guid>
     </item>
     <item>
       <title>Hvernig gætu grænir innviðir í deiliskipulagi Nýja Landspítala stuðlað að innleiðingu náttúrumeðferðar sem meðferðarúrræðis á Íslandi til að bæta heilsu og vellíðan sjúklinga?</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51781</link>
       <description>Varkár (sannsaga) - Margrét Bjarnadóttir 1981-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51781</guid>
-    </item>
-    <item>
-      <title>Photo-identification of White-Beaked Dolphins and their relations with Atlantic  Cod and sea surface temperature fluctuations in Skjálfandi Bay, Iceland</title>
-      <link>https://skemman.is/handle/1946/51798</link>
-      <description>Photo-identification of White-Beaked Dolphins and their relations with Atlantic  Cod and sea surface temperature fluctuations in Skjálfandi Bay, Iceland - Lorenzo Rocchi 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51798</guid>
     </item>
   </channel>
 </rss>
