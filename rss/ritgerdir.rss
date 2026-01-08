@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Jan 2026 11:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 12:13:00 +0000</lastBuildDate>
     <item>
       <title>Hvað kostar kennari? Kostnaður kennara í mismunandi aðildarfélögum Kennarasambands Íslands með áherslu á nýundirritaða kjarasamninga</title>
       <link>https://skemman.is/handle/1946/51809</link>
@@ -37,12 +37,6 @@
       <link>https://skemman.is/handle/1946/51802</link>
       <description>Líðan starfsfólks í samruna og kaupum fyrirtækja: Samanburður á innlendri og erlendri menningu - Marta Pavlov 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51802</guid>
-    </item>
-    <item>
-      <title>„Við erum dálítið varðmenn sannleikans". Um hlutverk og ímynd upplýsingafræðinga</title>
-      <link>https://skemman.is/handle/1946/51801</link>
-      <description>„Við erum dálítið varðmenn sannleikans". Um hlutverk og ímynd upplýsingafræðinga - Elísabet Ólöf Björgvinsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51801</guid>
     </item>
     <item>
       <title>Byltingar byggðar á blóði: Kvikmyndir David Cronenberg</title>
@@ -85,6 +79,12 @@
       <link>https://skemman.is/handle/1946/51807</link>
       <description>The Picture of Dorian Gray: The Significance of the Soul - Hekla Sif Sigurjónsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51807</guid>
+    </item>
+    <item>
+      <title>„Við erum dálítið varðmenn sannleikans". Um hlutverk og ímynd upplýsingafræðinga</title>
+      <link>https://skemman.is/handle/1946/51801</link>
+      <description>„Við erum dálítið varðmenn sannleikans". Um hlutverk og ímynd upplýsingafræðinga - Elísabet Ólöf Björgvinsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51801</guid>
     </item>
     <item>
       <title>Hvernig gætu grænir innviðir í deiliskipulagi Nýja Landspítala stuðlað að innleiðingu náttúrumeðferðar sem meðferðarúrræðis á Íslandi til að bæta heilsu og vellíðan sjúklinga?</title>
