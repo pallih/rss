@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Jan 2026 14:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 15:08:47 +0000</lastBuildDate>
     <item>
       <title>Hvað kostar kennari? Kostnaður kennara í mismunandi aðildarfélögum Kennarasambands Íslands með áherslu á nýundirritaða kjarasamninga</title>
       <link>https://skemman.is/handle/1946/51809</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/51810</link>
       <description>Physiologically Based Pharmacokinetic Modeling of Drug Disposition in Undernourished Adolescents - Úrsúla Hanna Kimpfler Karlsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51810</guid>
+    </item>
+    <item>
+      <title>Kostnaður hreyfingarleysis á Íslandi: Sjúkrahússkostnaður og framleiðslutap fyrir valda sjúkdóma</title>
+      <link>https://skemman.is/handle/1946/51812</link>
+      <description>Kostnaður hreyfingarleysis á Íslandi: Sjúkrahússkostnaður og framleiðslutap fyrir valda sjúkdóma - Gunnar Sigurðsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51812</guid>
     </item>
     <item>
       <title>Líðan starfsfólks í samruna og kaupum fyrirtækja: Samanburður á innlendri og erlendri menningu</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51786</link>
       <description>Hvar eiga börnin að vera? Nýja kvennahreyfingin og umræðan um dagvistun barna á áttunda áratug 20. aldar. - Sara Margrét Ragnarsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51786</guid>
-    </item>
-    <item>
-      <title>Í manna minni - greining á seljabúskap út frá Jarðabókum Árna Magnússonar og Páls Vídalíns</title>
-      <link>https://skemman.is/handle/1946/51784</link>
-      <description>Í manna minni - greining á seljabúskap út frá Jarðabókum Árna Magnússonar og Páls Vídalíns - Þóra Kristín Briem 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51784</guid>
     </item>
   </channel>
 </rss>
