@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 08 Jan 2026 17:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 08:10:07 +0000</lastBuildDate>
+    <item>
+      <title>From Points to Performance: Gamification in Academic  Evaluation Systems. A Project Management Case Study at the University of Iceland</title>
+      <link>https://skemman.is/handle/1946/51813</link>
+      <description>From Points to Performance: Gamification in Academic  Evaluation Systems. A Project Management Case Study at the University of Iceland - Andrea Ásgeirsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51813</guid>
+    </item>
+    <item>
+      <title>„Aldrei hafa svo margir hugsað svo mikið um eitthvað sem varðar svo fáa“  Greiningar á stöðu trans barna og ungmenna í Danmörku</title>
+      <link>https://skemman.is/handle/1946/51814</link>
+      <description>„Aldrei hafa svo margir hugsað svo mikið um eitthvað sem varðar svo fáa“  Greiningar á stöðu trans barna og ungmenna í Danmörku - Guðrún Margrét Vilhelmsdóttir 1965-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51814</guid>
+    </item>
     <item>
       <title>Hvað kostar kennari? Kostnaður kennara í mismunandi aðildarfélögum Kennarasambands Íslands með áherslu á nýundirritaða kjarasamninga</title>
       <link>https://skemman.is/handle/1946/51809</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51783</link>
       <description>Fornaldar- og riddarasagnasafnið AM 343 a 4to: Rannsókn á skrift og gerð 15. aldar handrits - Kolbrún Ýr Sigfúsdóttir 1979-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51783</guid>
-    </item>
-    <item>
-      <title>Lifandi borgarumhverfi: frá gráum minimalisma til leikandi borgarrýmis - söguleg þróun, fræðileg gagnrýni og nýjar leiðir í borgarhönnun</title>
-      <link>https://skemman.is/handle/1946/51785</link>
-      <description>Lifandi borgarumhverfi: frá gráum minimalisma til leikandi borgarrýmis - söguleg þróun, fræðileg gagnrýni og nýjar leiðir í borgarhönnun - Anný Tinna Aubertsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51785</guid>
-    </item>
-    <item>
-      <title>Hvar eiga börnin að vera? Nýja kvennahreyfingin og umræðan um dagvistun barna á áttunda áratug 20. aldar.</title>
-      <link>https://skemman.is/handle/1946/51786</link>
-      <description>Hvar eiga börnin að vera? Nýja kvennahreyfingin og umræðan um dagvistun barna á áttunda áratug 20. aldar. - Sara Margrét Ragnarsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51786</guid>
     </item>
   </channel>
 </rss>
