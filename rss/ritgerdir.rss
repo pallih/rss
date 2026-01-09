@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 09 Jan 2026 14:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 15:07:21 +0000</lastBuildDate>
     <item>
       <title>Sparnaður, fjárfestingar og skuldsetningar einstaklinga: Greining á hegðun viðskiptavina Landsbankans</title>
       <link>https://skemman.is/handle/1946/51815</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/51822</link>
       <description>Áhrif húsnæðisverðs á barneignir - Thelma Mist Oddsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51822</guid>
+    </item>
+    <item>
+      <title>Memoria histórica y franquismo en el cine de Pedro Almodóvar</title>
+      <link>https://skemman.is/handle/1946/51823</link>
+      <description>Memoria histórica y franquismo en el cine de Pedro Almodóvar - Marija Malbasa 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51823</guid>
     </item>
     <item>
       <title>Hvað kostar kennari? Kostnaður kennara í mismunandi aðildarfélögum Kennarasambands Íslands með áherslu á nýundirritaða kjarasamninga</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51801</link>
       <description>„Við erum dálítið varðmenn sannleikans". Um hlutverk og ímynd upplýsingafræðinga - Elísabet Ólöf Björgvinsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51801</guid>
-    </item>
-    <item>
-      <title>Hvernig gætu grænir innviðir í deiliskipulagi Nýja Landspítala stuðlað að innleiðingu náttúrumeðferðar sem meðferðarúrræðis á Íslandi til að bæta heilsu og vellíðan sjúklinga?</title>
-      <link>https://skemman.is/handle/1946/51790</link>
-      <description>Hvernig gætu grænir innviðir í deiliskipulagi Nýja Landspítala stuðlað að innleiðingu náttúrumeðferðar sem meðferðarúrræðis á Íslandi til að bæta heilsu og vellíðan sjúklinga? - Þóra Margrét Júlíusdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51790</guid>
     </item>
   </channel>
 </rss>
