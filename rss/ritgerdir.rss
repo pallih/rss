@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 13 Jan 2026 12:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 13:19:44 +0000</lastBuildDate>
     <item>
       <title>Stefnumiðuð nýsköpun - staða stefnumiðaðrar nýsköpunar á Íslandi</title>
       <link>https://skemman.is/handle/1946/51883</link>
@@ -135,6 +135,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51890</guid>
     </item>
     <item>
+      <title>Einelti í frístund : handbók fyrir frístundaleiðbeinendur</title>
+      <link>https://skemman.is/handle/1946/51891</link>
+      <description>Einelti í frístund : handbók fyrir frístundaleiðbeinendur - Birkir Sigurjónsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51891</guid>
+    </item>
+    <item>
       <title>„Það var verið að kenna okkur að vera góðar eiginkonur og húsmæður“: Upplifun kvenna á Kvennaskólanum á Blönduósi</title>
       <link>https://skemman.is/handle/1946/51825</link>
       <description>„Það var verið að kenna okkur að vera góðar eiginkonur og húsmæður“: Upplifun kvenna á Kvennaskólanum á Blönduósi - Hafrún Eva Kristjánsdóttir 1991-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51833</link>
       <description>„Þetta skiptir bara öllu máli og er alveg samofið í starfið“: Hlutverk náms- og starfsráðgjafa í eflingu félags- og tilfinningahæfni nemenda í grunnskólum - Hildur Halldórsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51833</guid>
-    </item>
-    <item>
-      <title>,,Einmanalegt starf að vera mannauðsstjóri“ Upplifun mannauðsstjórnenda af undirbúningi, framkvæmd og eftirfylgni uppsagna á íslenskum vinnumarkaði</title>
-      <link>https://skemman.is/handle/1946/51834</link>
-      <description>,,Einmanalegt starf að vera mannauðsstjóri“ Upplifun mannauðsstjórnenda af undirbúningi, framkvæmd og eftirfylgni uppsagna á íslenskum vinnumarkaði - Alma Guðrún Pálsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51834</guid>
     </item>
   </channel>
 </rss>
