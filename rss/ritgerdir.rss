@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 13 Jan 2026 13:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:09:02 +0000</lastBuildDate>
     <item>
       <title>Stefnumiðuð nýsköpun - staða stefnumiðaðrar nýsköpunar á Íslandi</title>
       <link>https://skemman.is/handle/1946/51883</link>
@@ -141,6 +141,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51891</guid>
     </item>
     <item>
+      <title>Börn, fjölmiðlar og félagsmótun: Eigindleg greining á barnaefni</title>
+      <link>https://skemman.is/handle/1946/51892</link>
+      <description>Börn, fjölmiðlar og félagsmótun: Eigindleg greining á barnaefni - Bryndís Embla Bjarnadóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51892</guid>
+    </item>
+    <item>
       <title>„Það var verið að kenna okkur að vera góðar eiginkonur og húsmæður“: Upplifun kvenna á Kvennaskólanum á Blönduósi</title>
       <link>https://skemman.is/handle/1946/51825</link>
       <description>„Það var verið að kenna okkur að vera góðar eiginkonur og húsmæður“: Upplifun kvenna á Kvennaskólanum á Blönduósi - Hafrún Eva Kristjánsdóttir 1991-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51824</link>
       <description>Þróun viðskipta- og tekjulíkana í tónlistariðnaðinum: Frá hljómplötum til streymis - Oddur Bjarki Hafstein 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51824</guid>
-    </item>
-    <item>
-      <title>„Þetta skiptir bara öllu máli og er alveg samofið í starfið“: Hlutverk náms- og starfsráðgjafa í eflingu félags- og tilfinningahæfni nemenda í grunnskólum</title>
-      <link>https://skemman.is/handle/1946/51833</link>
-      <description>„Þetta skiptir bara öllu máli og er alveg samofið í starfið“: Hlutverk náms- og starfsráðgjafa í eflingu félags- og tilfinningahæfni nemenda í grunnskólum - Hildur Halldórsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51833</guid>
     </item>
   </channel>
 </rss>
