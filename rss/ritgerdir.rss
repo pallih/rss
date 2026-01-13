@@ -7,7 +7,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 13 Jan 2026 11:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 12:13:01 +0000</lastBuildDate>
+    <item>
+      <title>Stefnumiðuð nýsköpun - staða stefnumiðaðrar nýsköpunar á Íslandi</title>
+      <link>https://skemman.is/handle/1946/51883</link>
+      <description>Stefnumiðuð nýsköpun - staða stefnumiðaðrar nýsköpunar á Íslandi - Gísli Vilberg Stefánsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51883</guid>
+    </item>
+    <item>
+      <title>Áhættur og óvissa í rekstri sjávarútvegsfyrirtækja: Hverjir eru helstu óvissu- og áhættuþættir í virðiskeðju íslenskra sjávarútvegsfyrirtækja?</title>
+      <link>https://skemman.is/handle/1946/51882</link>
+      <description>Áhættur og óvissa í rekstri sjávarútvegsfyrirtækja: Hverjir eru helstu óvissu- og áhættuþættir í virðiskeðju íslenskra sjávarútvegsfyrirtækja? - Björgvin Viðar Þórðarson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51882</guid>
+    </item>
+    <item>
+      <title>Viking Age Connectivity as Reflected in Frankish Annalistic Writing: An analysis of connections, diplomatic contacts, and trade as they appear in the Frankish Annals</title>
+      <link>https://skemman.is/handle/1946/51880</link>
+      <description>Viking Age Connectivity as Reflected in Frankish Annalistic Writing: An analysis of connections, diplomatic contacts, and trade as they appear in the Frankish Annals - Pauline Pralle 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51880</guid>
+    </item>
+    <item>
+      <title>Innheimta dómsekta á Íslandi: Skýringar á slökum innheimtuárangri og samanburður við Norðurlönd</title>
+      <link>https://skemman.is/handle/1946/51888</link>
+      <description>Innheimta dómsekta á Íslandi: Skýringar á slökum innheimtuárangri og samanburður við Norðurlönd - Ásta Lilja Ásgeirsdóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51888</guid>
+    </item>
+    <item>
+      <title>„Það er kalt á toppnum“: Upplifun íslenskra kvenna af framkvæmdastjórnarhlutverki í karllægum fyrirtækjum og atvinnugreinum</title>
+      <link>https://skemman.is/handle/1946/51886</link>
+      <description>„Það er kalt á toppnum“: Upplifun íslenskra kvenna af framkvæmdastjórnarhlutverki í karllægum fyrirtækjum og atvinnugreinum - Elsa Kristrún Bjarnadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51886</guid>
+    </item>
+    <item>
+      <title>Heimilislausir með miklar og flóknar þjónustuþarfir. Skaðaminnkandi hugmyndafræði og úrræði á Íslandi og í Danmörku</title>
+      <link>https://skemman.is/handle/1946/51885</link>
+      <description>Heimilislausir með miklar og flóknar þjónustuþarfir. Skaðaminnkandi hugmyndafræði og úrræði á Íslandi og í Danmörku - Fanney Ösp Guðjónsdóttir 2002-; Lydía Líf Örvar 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51885</guid>
+    </item>
+    <item>
+      <title>Sértrúarsöfnuðir samtímans: Náðarvald og áhrifamáttur orða í mótun sjálfsmyndar ungra karla á samfélagsmiðlum</title>
+      <link>https://skemman.is/handle/1946/51881</link>
+      <description>Sértrúarsöfnuðir samtímans: Náðarvald og áhrifamáttur orða í mótun sjálfsmyndar ungra karla á samfélagsmiðlum - Kolbrún Olga Reynisdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51881</guid>
+    </item>
+    <item>
+      <title>Fjárþurfi Þjóðarsport: Staða rekstrar og vinsælda handknattleiks á Íslandi</title>
+      <link>https://skemman.is/handle/1946/51884</link>
+      <description>Fjárþurfi Þjóðarsport: Staða rekstrar og vinsælda handknattleiks á Íslandi - Erlendur Guðmundsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51884</guid>
+    </item>
     <item>
       <title>„En þú lítur ekki út fyrir að vera það“: Upplifun seinhverfra kvenna og kvára af kynjuðum staðalímyndum um einhverft fólk</title>
       <link>https://skemman.is/handle/1946/51878</link>
@@ -69,16 +117,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51869</guid>
     </item>
     <item>
-      <title>Viking Age Connectivity as Reflected in Frankish Annalistic Writing: An analysis of connections, diplomatic contacts, and trade as they appear in the Frankish Annals</title>
-      <link>https://skemman.is/handle/1946/51880</link>
-      <description>Viking Age Connectivity as Reflected in Frankish Annalistic Writing: An analysis of connections, diplomatic contacts, and trade as they appear in the Frankish Annals - Pauline Pralle 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51880</guid>
+      <title>„Ekki gæluverkefni heldur nauðsyn“ – Mannlegar frásagnir, fagleg vinnubrögð og samfélagslegur ávinningur í Ljósablaðinu 2025</title>
+      <link>https://skemman.is/handle/1946/51887</link>
+      <description>„Ekki gæluverkefni heldur nauðsyn“ – Mannlegar frásagnir, fagleg vinnubrögð og samfélagslegur ávinningur í Ljósablaðinu 2025 - Rósa Margrét Tryggvadóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51887</guid>
     </item>
     <item>
-      <title>Sértrúarsöfnuðir samtímans: Náðarvald og áhrifamáttur orða í mótun sjálfsmyndar ungra karla á samfélagsmiðlum</title>
-      <link>https://skemman.is/handle/1946/51881</link>
-      <description>Sértrúarsöfnuðir samtímans: Náðarvald og áhrifamáttur orða í mótun sjálfsmyndar ungra karla á samfélagsmiðlum - Kolbrún Olga Reynisdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51881</guid>
+      <title>Tröllin í steinunum: Leirmótun, menningararfur og skapandi nám á yngsta stigi</title>
+      <link>https://skemman.is/handle/1946/51889</link>
+      <description>Tröllin í steinunum: Leirmótun, menningararfur og skapandi nám á yngsta stigi - Þorbjörg Kristinsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51889</guid>
+    </item>
+    <item>
+      <title>„Fyrir einhvern svona gáfaðan ertu ótrúlega heimskur“ Birtingarmynd ADHD í ADHD: Bannað að... bókaflokknum</title>
+      <link>https://skemman.is/handle/1946/51890</link>
+      <description>„Fyrir einhvern svona gáfaðan ertu ótrúlega heimskur“ Birtingarmynd ADHD í ADHD: Bannað að... bókaflokknum - Rebekka Margrét Elínardóttir Kjartansdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51890</guid>
     </item>
     <item>
       <title>„Það var verið að kenna okkur að vera góðar eiginkonur og húsmæður“: Upplifun kvenna á Kvennaskólanum á Blönduósi</title>
@@ -103,60 +157,6 @@
       <link>https://skemman.is/handle/1946/51834</link>
       <description>,,Einmanalegt starf að vera mannauðsstjóri“ Upplifun mannauðsstjórnenda af undirbúningi, framkvæmd og eftirfylgni uppsagna á íslenskum vinnumarkaði - Alma Guðrún Pálsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51834</guid>
-    </item>
-    <item>
-      <title>,,Svona er bara að vera kona‘‘: Rannsókn á reynslu kvenna af afskrift líkamlegra einkenna þeirra innan heilbrigðiskerfisins.</title>
-      <link>https://skemman.is/handle/1946/51827</link>
-      <description>,,Svona er bara að vera kona‘‘: Rannsókn á reynslu kvenna af afskrift líkamlegra einkenna þeirra innan heilbrigðiskerfisins. - Sannija Brunovska 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51827</guid>
-    </item>
-    <item>
-      <title>Þróun möguleika ungs fólks til kaupa á fyrstu fasteign</title>
-      <link>https://skemman.is/handle/1946/51835</link>
-      <description>Þróun möguleika ungs fólks til kaupa á fyrstu fasteign - Íris Gunnarsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51835</guid>
-    </item>
-    <item>
-      <title>Tengsl persónulegra gilda við afstöðu til inngöngu Íslands í Evrópusambandið</title>
-      <link>https://skemman.is/handle/1946/51831</link>
-      <description>Tengsl persónulegra gilda við afstöðu til inngöngu Íslands í Evrópusambandið - Dagmar Linda Steinbergsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51831</guid>
-    </item>
-    <item>
-      <title>Þróun starfa hjá Reykjavíkurborg: Starfsmatskerfið og notkun þess</title>
-      <link>https://skemman.is/handle/1946/51826</link>
-      <description>Þróun starfa hjá Reykjavíkurborg: Starfsmatskerfið og notkun þess - Auður Björgvinsdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51826</guid>
-    </item>
-    <item>
-      <title>Áhrif starfsumhverfis á veikindafjarvistir hjá Reykjavíkurborg</title>
-      <link>https://skemman.is/handle/1946/51828</link>
-      <description>Áhrif starfsumhverfis á veikindafjarvistir hjá Reykjavíkurborg - Harpa Hrund Berndsen 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51828</guid>
-    </item>
-    <item>
-      <title>Stafrænar leiðir til að breyta heiminum: #MeToo og #BlackLivesMatter</title>
-      <link>https://skemman.is/handle/1946/51830</link>
-      <description>Stafrænar leiðir til að breyta heiminum: #MeToo og #BlackLivesMatter - Árný Stella Sveinbjörnsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51830</guid>
-    </item>
-    <item>
-      <title>Neysluhættir sem tjáning: Viðhorf og merking neyslu meðal ungs fólks</title>
-      <link>https://skemman.is/handle/1946/51829</link>
-      <description>Neysluhættir sem tjáning: Viðhorf og merking neyslu meðal ungs fólks - Eva Björk Schram 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51829</guid>
-    </item>
-    <item>
-      <title>Rafrænar kosningar og kosningaþátttaka</title>
-      <link>https://skemman.is/handle/1946/51851</link>
-      <description>Rafrænar kosningar og kosningaþátttaka - Daníel Arason 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51851</guid>
-    </item>
-    <item>
-      <title>Tölvuleikjapólitík: Hliðvöktun nördakarlmennsku og uppgangur öfgahægris innan  tölvuleikjasamfélaga</title>
-      <link>https://skemman.is/handle/1946/51848</link>
-      <description>Tölvuleikjapólitík: Hliðvöktun nördakarlmennsku og uppgangur öfgahægris innan  tölvuleikjasamfélaga - Ingi Þórisson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51848</guid>
     </item>
   </channel>
 </rss>
