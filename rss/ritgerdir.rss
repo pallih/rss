@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 14 Jan 2026 12:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 13:19:33 +0000</lastBuildDate>
     <item>
       <title>Samframleiðsla í kvikmyndagerð: reynsla íslenskra fagaðila í þverþjóðlegu samstarfi</title>
       <link>https://skemman.is/handle/1946/51902</link>
@@ -123,6 +123,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51916</guid>
     </item>
     <item>
+      <title>Physical Activity, Sleep and Sleepiness in Airline Pilots</title>
+      <link>https://skemman.is/handle/1946/51917</link>
+      <description>Physical Activity, Sleep and Sleepiness in Airline Pilots - Sara Vöggsdóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51917</guid>
+    </item>
+    <item>
       <title>Stefnumiðuð nýsköpun - staða stefnumiðaðrar nýsköpunar á Íslandi</title>
       <link>https://skemman.is/handle/1946/51883</link>
       <description>Stefnumiðuð nýsköpun - staða stefnumiðaðrar nýsköpunar á Íslandi - Gísli Vilberg Stefánsson 1994-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51886</link>
       <description>„Það er kalt á toppnum“: Upplifun íslenskra kvenna af framkvæmdastjórnarhlutverki í karllægum fyrirtækjum og atvinnugreinum - Elsa Kristrún Bjarnadóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51886</guid>
-    </item>
-    <item>
-      <title>Heimilislausir með miklar og flóknar þjónustuþarfir. Skaðaminnkandi hugmyndafræði og úrræði á Íslandi og í Danmörku</title>
-      <link>https://skemman.is/handle/1946/51885</link>
-      <description>Heimilislausir með miklar og flóknar þjónustuþarfir. Skaðaminnkandi hugmyndafræði og úrræði á Íslandi og í Danmörku - Fanney Ösp Guðjónsdóttir 2002-; Lydía Líf Örvar 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51885</guid>
     </item>
   </channel>
 </rss>
