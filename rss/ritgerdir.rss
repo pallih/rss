@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Jan 2026 14:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:08:55 +0000</lastBuildDate>
     <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
       <link>https://skemman.is/handle/1946/51918</link>
@@ -87,16 +87,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51923</guid>
     </item>
     <item>
-      <title>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum</title>
-      <link>https://skemman.is/handle/1946/51931</link>
-      <description>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum - Emil Grettir Ólafsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51931</guid>
-    </item>
-    <item>
-      <title>Nýting sólarorku í Reykjavík</title>
-      <link>https://skemman.is/handle/1946/51932</link>
-      <description>Nýting sólarorku í Reykjavík - Snorri Þorsteinsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51932</guid>
+      <title>„Þau eru ekki að hugsa um mig sem manneskju, þau eru að hugsa um mig sem konu.“ Eigindleg rannsókn um upplifun karla og kvenna í tengslum við valið barnleysi.</title>
+      <link>https://skemman.is/handle/1946/51934</link>
+      <description>„Þau eru ekki að hugsa um mig sem manneskju, þau eru að hugsa um mig sem konu.“ Eigindleg rannsókn um upplifun karla og kvenna í tengslum við valið barnleysi. - Eyrún Alda Elvarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51934</guid>
     </item>
     <item>
       <title>Forsendur endurbóta og viðhalds mannvirkja sem snerta  innivist og orkunotkun á Íslandi</title>
@@ -105,10 +99,52 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51933</guid>
     </item>
     <item>
-      <title>„Þau eru ekki að hugsa um mig sem manneskju, þau eru að hugsa um mig sem konu.“ Eigindleg rannsókn um upplifun karla og kvenna í tengslum við valið barnleysi.</title>
-      <link>https://skemman.is/handle/1946/51934</link>
-      <description>„Þau eru ekki að hugsa um mig sem manneskju, þau eru að hugsa um mig sem konu.“ Eigindleg rannsókn um upplifun karla og kvenna í tengslum við valið barnleysi. - Eyrún Alda Elvarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51934</guid>
+      <title>Nýting sólarorku í Reykjavík</title>
+      <link>https://skemman.is/handle/1946/51932</link>
+      <description>Nýting sólarorku í Reykjavík - Snorri Þorsteinsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51932</guid>
+    </item>
+    <item>
+      <title>Niðurbeygja í steyptum plötum samkvæmt Eurocode 2 1992-1-1:2023 : umfjöllun á orsökum og stjórnun niðurbeygju í steinsteyptum gólfplötum</title>
+      <link>https://skemman.is/handle/1946/51938</link>
+      <description>Niðurbeygja í steyptum plötum samkvæmt Eurocode 2 1992-1-1:2023 : umfjöllun á orsökum og stjórnun niðurbeygju í steinsteyptum gólfplötum - Finnur Þór Orrason 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51938</guid>
+    </item>
+    <item>
+      <title>Ugluklettur 1 : burðarþolshönnun á leikskóla fyrir Borgarbyggð</title>
+      <link>https://skemman.is/handle/1946/51937</link>
+      <description>Ugluklettur 1 : burðarþolshönnun á leikskóla fyrir Borgarbyggð - Kristófer Atli Brynjólfsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51937</guid>
+    </item>
+    <item>
+      <title>Burðarþolsgreining steypts einbýlishúss</title>
+      <link>https://skemman.is/handle/1946/51936</link>
+      <description>Burðarþolsgreining steypts einbýlishúss - Dafina Elshani 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51936</guid>
+    </item>
+    <item>
+      <title>Endurbætur á deigluhitara</title>
+      <link>https://skemman.is/handle/1946/51939</link>
+      <description>Endurbætur á deigluhitara - Ólafur Þór Pétursson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51939</guid>
+    </item>
+    <item>
+      <title>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum</title>
+      <link>https://skemman.is/handle/1946/51931</link>
+      <description>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum - Emil Grettir Ólafsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51931</guid>
+    </item>
+    <item>
+      <title>Hönnun stálþilsbryggju á Íslandi</title>
+      <link>https://skemman.is/handle/1946/51935</link>
+      <description>Hönnun stálþilsbryggju á Íslandi - Baldvin Ingi Hermannsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51935</guid>
+    </item>
+    <item>
+      <title>Greining orkunotkunar á íbúðarhúsum : samanburður orkunotkunar eldri og nýrri íbúðarhúsa</title>
+      <link>https://skemman.is/handle/1946/51940</link>
+      <description>Greining orkunotkunar á íbúðarhúsum : samanburður orkunotkunar eldri og nýrri íbúðarhúsa - Róbert Gunnar Einarsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51940</guid>
     </item>
     <item>
       <title>Samframleiðsla í kvikmyndagerð: reynsla íslenskra fagaðila í þverþjóðlegu samstarfi</title>
@@ -121,42 +157,6 @@
       <link>https://skemman.is/handle/1946/51903</link>
       <description>Áhrif fátæktar á þátttöku barna í íþrótta - og tómstundastarfi - Auður Tiya Pálmadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51903</guid>
-    </item>
-    <item>
-      <title>Áhrif stýrivaxta Seðlabankans á þróun íbúðaverðs á Íslandi á árunum 2015 - 2025</title>
-      <link>https://skemman.is/handle/1946/51901</link>
-      <description>Áhrif stýrivaxta Seðlabankans á þróun íbúðaverðs á Íslandi á árunum 2015 - 2025 - Bjarni Benedikt Einarsson 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51901</guid>
-    </item>
-    <item>
-      <title>Frá valdbeytingu til valdeflingar: Framtíðarsýn um félagsráðgjöf og mannúðlega löggæslu</title>
-      <link>https://skemman.is/handle/1946/51899</link>
-      <description>Frá valdbeytingu til valdeflingar: Framtíðarsýn um félagsráðgjöf og mannúðlega löggæslu - Elísa Eir Ástudóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51899</guid>
-    </item>
-    <item>
-      <title>Endurmat barna og lýðræði í leikskólastarfi: Raddir barna sem grundvöllur lýðræðis í leikskóla</title>
-      <link>https://skemman.is/handle/1946/51900</link>
-      <description>Endurmat barna og lýðræði í leikskólastarfi: Raddir barna sem grundvöllur lýðræðis í leikskóla - Hekla Baldursdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51900</guid>
-    </item>
-    <item>
-      <title>Frá eftirliti til ábyrgðar : tillaga að nýju ábyrgðarkerfi í mannvirkjagerð á Íslandi</title>
-      <link>https://skemman.is/handle/1946/51904</link>
-      <description>Frá eftirliti til ábyrgðar : tillaga að nýju ábyrgðarkerfi í mannvirkjagerð á Íslandi - Finnur Helgason 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51904</guid>
-    </item>
-    <item>
-      <title>Viðbygging við Grunnskólann í Þorlákshöfn : Egilsbraut 35, 815 Þorlákshöfn</title>
-      <link>https://skemman.is/handle/1946/51905</link>
-      <description>Viðbygging við Grunnskólann í Þorlákshöfn : Egilsbraut 35, 815 Þorlákshöfn - Arnór Smári Friðriksson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51905</guid>
-    </item>
-    <item>
-      <title>Hvað stendur 10-12 ára börnum til boða  varðandi tómstundir í Reykjavík?</title>
-      <link>https://skemman.is/handle/1946/51898</link>
-      <description>Hvað stendur 10-12 ára börnum til boða  varðandi tómstundir í Reykjavík? - Baldur Haraldsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51898</guid>
     </item>
   </channel>
 </rss>
