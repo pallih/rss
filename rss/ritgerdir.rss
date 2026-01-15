@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Jan 2026 08:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 09:10:13 +0000</lastBuildDate>
+    <item>
+      <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
+      <link>https://skemman.is/handle/1946/51918</link>
+      <description>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé - Hilmir Hreiðarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51918</guid>
+    </item>
     <item>
       <title>Samframleiðsla í kvikmyndagerð: reynsla íslenskra fagaðila í þverþjóðlegu samstarfi</title>
       <link>https://skemman.is/handle/1946/51902</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51888</link>
       <description>Innheimta dómsekta á Íslandi: Skýringar á slökum innheimtuárangri og samanburður við Norðurlönd - Ásta Lilja Ásgeirsdóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51888</guid>
-    </item>
-    <item>
-      <title>„Það er kalt á toppnum“: Upplifun íslenskra kvenna af framkvæmdastjórnarhlutverki í karllægum fyrirtækjum og atvinnugreinum</title>
-      <link>https://skemman.is/handle/1946/51886</link>
-      <description>„Það er kalt á toppnum“: Upplifun íslenskra kvenna af framkvæmdastjórnarhlutverki í karllægum fyrirtækjum og atvinnugreinum - Elsa Kristrún Bjarnadóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51886</guid>
     </item>
   </channel>
 </rss>
