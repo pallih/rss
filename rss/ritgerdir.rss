@@ -7,12 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Jan 2026 09:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 10:07:52 +0000</lastBuildDate>
     <item>
       <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
       <link>https://skemman.is/handle/1946/51941</link>
       <description>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd? - Natalía Sigurðardóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51941</guid>
+    </item>
+    <item>
+      <title>Vatns- og hitaveita í Hamborg</title>
+      <link>https://skemman.is/handle/1946/51942</link>
+      <description>Vatns- og hitaveita í Hamborg - Aron Máni Nindel Haraldsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51942</guid>
+    </item>
+    <item>
+      <title>Skekkjur í RTK-drónamælingum</title>
+      <link>https://skemman.is/handle/1946/51943</link>
+      <description>Skekkjur í RTK-drónamælingum - Jóhann Karl Farestveit 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51943</guid>
+    </item>
+    <item>
+      <title>Assessment of AI-enabled risk analysis for a turnkey project in Iceland</title>
+      <link>https://skemman.is/handle/1946/51944</link>
+      <description>Assessment of AI-enabled risk analysis for a turnkey project in Iceland - Melkorka María Guðmundsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51944</guid>
     </item>
     <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/51931</link>
       <description>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum - Emil Grettir Ólafsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51931</guid>
-    </item>
-    <item>
-      <title>Hönnun stálþilsbryggju á Íslandi</title>
-      <link>https://skemman.is/handle/1946/51935</link>
-      <description>Hönnun stálþilsbryggju á Íslandi - Baldvin Ingi Hermannsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51935</guid>
-    </item>
-    <item>
-      <title>Greining orkunotkunar á íbúðarhúsum : samanburður orkunotkunar eldri og nýrri íbúðarhúsa</title>
-      <link>https://skemman.is/handle/1946/51940</link>
-      <description>Greining orkunotkunar á íbúðarhúsum : samanburður orkunotkunar eldri og nýrri íbúðarhúsa - Róbert Gunnar Einarsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51940</guid>
-    </item>
-    <item>
-      <title>Samframleiðsla í kvikmyndagerð: reynsla íslenskra fagaðila í þverþjóðlegu samstarfi</title>
-      <link>https://skemman.is/handle/1946/51902</link>
-      <description>Samframleiðsla í kvikmyndagerð: reynsla íslenskra fagaðila í þverþjóðlegu samstarfi - Blerina Shillova 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51902</guid>
     </item>
   </channel>
 </rss>
