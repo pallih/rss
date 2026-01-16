@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Jan 2026 13:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 14:08:08 +0000</lastBuildDate>
     <item>
       <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
       <link>https://skemman.is/handle/1946/51941</link>
@@ -81,6 +81,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51952</guid>
     </item>
     <item>
+      <title>Frequency and Severity Prediction of Emergency Incidents from Socio-Demographic Data</title>
+      <link>https://skemman.is/handle/1946/51953</link>
+      <description>Frequency and Severity Prediction of Emergency Incidents from Socio-Demographic Data - Sigmundur Kornelíusson 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51953</guid>
+    </item>
+    <item>
+      <title>Lifa, Læra, Þrífast: Stafrænt úrræði - Heildræn vellíðunarþjálfun</title>
+      <link>https://skemman.is/handle/1946/51954</link>
+      <description>Lifa, Læra, Þrífast: Stafrænt úrræði - Heildræn vellíðunarþjálfun - Björn Leví Björnsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51954</guid>
+    </item>
+    <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
       <link>https://skemman.is/handle/1946/51918</link>
       <description>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé - Hilmir Hreiðarsson 2000-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51920</link>
       <description>Miðborgarleikskóli, Njálsgata 89 - Mariam Eradze 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51920</guid>
-    </item>
-    <item>
-      <title>Hæstiréttur Íslands : 101 Reykjavík</title>
-      <link>https://skemman.is/handle/1946/51925</link>
-      <description>Hæstiréttur Íslands : 101 Reykjavík - Ragnheiður Elísa Guðnadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51925</guid>
-    </item>
-    <item>
-      <title>Hönnun lagna- og loftræsikerfis í Dvergadal 7</title>
-      <link>https://skemman.is/handle/1946/51923</link>
-      <description>Hönnun lagna- og loftræsikerfis í Dvergadal 7 - Jóhanna Lilja Pálsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51923</guid>
     </item>
   </channel>
 </rss>
