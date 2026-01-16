@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Jan 2026 15:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 16:08:50 +0000</lastBuildDate>
     <item>
       <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
       <link>https://skemman.is/handle/1946/51941</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51954</guid>
     </item>
     <item>
+      <title>Kynjaðar kappræður: Innihaldsgreining á truflunum í leiðtogaumræðum fyrir alþingiskosningar 2024</title>
+      <link>https://skemman.is/handle/1946/51955</link>
+      <description>Kynjaðar kappræður: Innihaldsgreining á truflunum í leiðtogaumræðum fyrir alþingiskosningar 2024 - Gréta Jónsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51955</guid>
+    </item>
+    <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
       <link>https://skemman.is/handle/1946/51918</link>
       <description>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé - Hilmir Hreiðarsson 2000-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51930</link>
       <description>Hönnun lagna- og loftræsiskerfis í fjórbýli : Stöðvarhvarf 2 - Kristófer Tjörvi Einarsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51930</guid>
-    </item>
-    <item>
-      <title>Miðborgarleikskóli, Njálsgata 89</title>
-      <link>https://skemman.is/handle/1946/51920</link>
-      <description>Miðborgarleikskóli, Njálsgata 89 - Mariam Eradze 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51920</guid>
     </item>
   </channel>
 </rss>
