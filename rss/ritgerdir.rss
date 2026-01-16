@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 15 Jan 2026 17:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:09:38 +0000</lastBuildDate>
+    <item>
+      <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
+      <link>https://skemman.is/handle/1946/51941</link>
+      <description>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd? - Natalía Sigurðardóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51941</guid>
+    </item>
     <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
       <link>https://skemman.is/handle/1946/51918</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51902</link>
       <description>Samframleiðsla í kvikmyndagerð: reynsla íslenskra fagaðila í þverþjóðlegu samstarfi - Blerina Shillova 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51902</guid>
-    </item>
-    <item>
-      <title>Áhrif fátæktar á þátttöku barna í íþrótta - og tómstundastarfi</title>
-      <link>https://skemman.is/handle/1946/51903</link>
-      <description>Áhrif fátæktar á þátttöku barna í íþrótta - og tómstundastarfi - Auður Tiya Pálmadóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51903</guid>
     </item>
   </channel>
 </rss>
