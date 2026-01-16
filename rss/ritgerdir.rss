@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 16 Jan 2026 10:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:06:55 +0000</lastBuildDate>
     <item>
       <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
       <link>https://skemman.is/handle/1946/51941</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/51944</link>
       <description>Assessment of AI-enabled risk analysis for a turnkey project in Iceland - Melkorka María Guðmundsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51944</guid>
+    </item>
+    <item>
+      <title>Hálf höll : burðarþolshönnun á stálvirki</title>
+      <link>https://skemman.is/handle/1946/51945</link>
+      <description>Hálf höll : burðarþolshönnun á stálvirki - Edvard Aron A. Larsen 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51945</guid>
+    </item>
+    <item>
+      <title>Burðarvirkishönnun á iðnaðarhúsnæði</title>
+      <link>https://skemman.is/handle/1946/51946</link>
+      <description>Burðarvirkishönnun á iðnaðarhúsnæði - Grétar Þór Sindrason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51946</guid>
     </item>
     <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51936</link>
       <description>Burðarþolsgreining steypts einbýlishúss - Dafina Elshani 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51936</guid>
-    </item>
-    <item>
-      <title>Endurbætur á deigluhitara</title>
-      <link>https://skemman.is/handle/1946/51939</link>
-      <description>Endurbætur á deigluhitara - Ólafur Þór Pétursson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51939</guid>
-    </item>
-    <item>
-      <title>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum</title>
-      <link>https://skemman.is/handle/1946/51931</link>
-      <description>Samanburður efniskostnaðar á mismunandi vægisstífum stálrömmum - Emil Grettir Ólafsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51931</guid>
     </item>
   </channel>
 </rss>
