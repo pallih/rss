@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 Jan 2026 10:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 11:08:11 +0000</lastBuildDate>
     <item>
       <title>Development of an Oil-sampling Device for Transformers</title>
       <link>https://skemman.is/handle/1946/51956</link>
@@ -19,6 +19,42 @@
       <link>https://skemman.is/handle/1946/51957</link>
       <description>Modeling the Spatiotemporal Distribution of Atlantic Cod (Gadus morhua) in Icelandic Waters Using INLA-SPDE - Yang Han 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51957</guid>
+    </item>
+    <item>
+      <title>Hydropower plant in Húsá</title>
+      <link>https://skemman.is/handle/1946/51958</link>
+      <description>Hydropower plant in Húsá - Sara Arndís Thorarensen 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51958</guid>
+    </item>
+    <item>
+      <title>Hjúkrunarheimili í Árborg : 800 Selfoss</title>
+      <link>https://skemman.is/handle/1946/51959</link>
+      <description>Hjúkrunarheimili í Árborg : 800 Selfoss - Sindri Þór Haraldsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51959</guid>
+    </item>
+    <item>
+      <title>Lindakirkja, Uppsölum 3, 201 Kópavogi</title>
+      <link>https://skemman.is/handle/1946/51960</link>
+      <description>Lindakirkja, Uppsölum 3, 201 Kópavogi - Gunnar Jóhannesson 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51960</guid>
+    </item>
+    <item>
+      <title>Þróun á búnaði í fisk afhausara sem eykur verðmæti afurðar</title>
+      <link>https://skemman.is/handle/1946/51961</link>
+      <description>Þróun á búnaði í fisk afhausara sem eykur verðmæti afurðar - Benedikt Birkir Hauksson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51961</guid>
+    </item>
+    <item>
+      <title>Gerðarbrunnur 52</title>
+      <link>https://skemman.is/handle/1946/51962</link>
+      <description>Gerðarbrunnur 52 - Reynir Páll Waagfjörð Magnússon 1987-; Egill Örn Bjarnason 1982-; Heiðar Gauti Jóhannsson 2002-; Jónas Hjartarson 1993-; Kristján Árnason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51962</guid>
+    </item>
+    <item>
+      <title>Nestún 7, BI LOK1005, Lokaverkefni</title>
+      <link>https://skemman.is/handle/1946/51963</link>
+      <description>Nestún 7, BI LOK1005, Lokaverkefni - Bjarnveig Rós Bjarnadóttir 1993-; Einar Ólason 1992-; Hafsteinn Logi Sigurðarson 1993-; Sæmundur Jónsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51963</guid>
     </item>
     <item>
       <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
@@ -121,42 +157,6 @@
       <link>https://skemman.is/handle/1946/51922</link>
       <description>Kvíði grunnskólabarna - Kolbrún Hanna Árnadóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51922</guid>
-    </item>
-    <item>
-      <title>Nónstapi : hótel</title>
-      <link>https://skemman.is/handle/1946/51919</link>
-      <description>Nónstapi : hótel - Kristinn Sigvaldason 1965-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51919</guid>
-    </item>
-    <item>
-      <title>Hönnunarsafn Íslands</title>
-      <link>https://skemman.is/handle/1946/51921</link>
-      <description>Hönnunarsafn Íslands - Óttar Bergmann Kristinsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51921</guid>
-    </item>
-    <item>
-      <title>Hönnun skiptistöðvar við Krossmóa : hvaða útfærsla skiptistöðvar hentar best svo hún verði aðgengileg, örugg og samþætt við umhverfið</title>
-      <link>https://skemman.is/handle/1946/51929</link>
-      <description>Hönnun skiptistöðvar við Krossmóa : hvaða útfærsla skiptistöðvar hentar best svo hún verði aðgengileg, örugg og samþætt við umhverfið - Einar Örn Andrésson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51929</guid>
-    </item>
-    <item>
-      <title>Battery cycling station : programmable electronic load in a charging station</title>
-      <link>https://skemman.is/handle/1946/51928</link>
-      <description>Battery cycling station : programmable electronic load in a charging station - Jóhann Bjarki Birgisson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51928</guid>
-    </item>
-    <item>
-      <title>Umhverfisáhrif byggingarframkvæmda og flutnings byggingarefna : Tryggvagata 10-12 á Selfossi</title>
-      <link>https://skemman.is/handle/1946/51926</link>
-      <description>Umhverfisáhrif byggingarframkvæmda og flutnings byggingarefna : Tryggvagata 10-12 á Selfossi - Kristrún Huang Ólafsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51926</guid>
-    </item>
-    <item>
-      <title>Moskan í Reykjavík : Stekkjarbakki 3</title>
-      <link>https://skemman.is/handle/1946/51927</link>
-      <description>Moskan í Reykjavík : Stekkjarbakki 3 - Gunnur Rún Hafsteinsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51927</guid>
     </item>
   </channel>
 </rss>
