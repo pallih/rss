@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 19 Jan 2026 09:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 10:09:45 +0000</lastBuildDate>
+    <item>
+      <title>Development of an Oil-sampling Device for Transformers</title>
+      <link>https://skemman.is/handle/1946/51956</link>
+      <description>Development of an Oil-sampling Device for Transformers - Bragi Benediktsson 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51956</guid>
+    </item>
+    <item>
+      <title>Modeling the Spatiotemporal Distribution of Atlantic Cod (Gadus morhua) in Icelandic Waters Using INLA-SPDE</title>
+      <link>https://skemman.is/handle/1946/51957</link>
+      <description>Modeling the Spatiotemporal Distribution of Atlantic Cod (Gadus morhua) in Icelandic Waters Using INLA-SPDE - Yang Han 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51957</guid>
+    </item>
     <item>
       <title>Ígrunduð þemagreining: Hvernig er ígrunduð þemagreining framkvæmd?</title>
       <link>https://skemman.is/handle/1946/51941</link>
@@ -51,40 +63,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/51946</guid>
     </item>
     <item>
-      <title>Samanburður krosslímdra og rammatimbureininga í timburháhýsum : með tilliti til efnisnýtingar miðað við burðargetu sem fall af hæð.</title>
-      <link>https://skemman.is/handle/1946/51948</link>
-      <description>Samanburður krosslímdra og rammatimbureininga í timburháhýsum : með tilliti til efnisnýtingar miðað við burðargetu sem fall af hæð. - Einar Þór Jóhannsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51948</guid>
-    </item>
-    <item>
-      <title>Hönnun lagna- og loftræsikerfis í líkamsrækt : hönnun lagna- og loftræstikerfis</title>
-      <link>https://skemman.is/handle/1946/51949</link>
-      <description>Hönnun lagna- og loftræsikerfis í líkamsrækt : hönnun lagna- og loftræstikerfis - Alexander Gísli Hlynsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51949</guid>
-    </item>
-    <item>
       <title>Fatlað fólk og atvinnulíf: Viðhorf fyrirtækja til atvinnuþátttöku fatlaðra einstaklinga</title>
       <link>https://skemman.is/handle/1946/51950</link>
       <description>Fatlað fólk og atvinnulíf: Viðhorf fyrirtækja til atvinnuþátttöku fatlaðra einstaklinga - Rut Þorsteinsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51950</guid>
-    </item>
-    <item>
-      <title>Burðarþolshönnun fjölbýlishúss með bílakjallara</title>
-      <link>https://skemman.is/handle/1946/51951</link>
-      <description>Burðarþolshönnun fjölbýlishúss með bílakjallara - Andri Steinn Sigurjónsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51951</guid>
-    </item>
-    <item>
-      <title>Holtabrekka leikskóli í Urriðaholti</title>
-      <link>https://skemman.is/handle/1946/51952</link>
-      <description>Holtabrekka leikskóli í Urriðaholti - Birta Sif Gunnlaugsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51952</guid>
-    </item>
-    <item>
-      <title>Frequency and Severity Prediction of Emergency Incidents from Socio-Demographic Data</title>
-      <link>https://skemman.is/handle/1946/51953</link>
-      <description>Frequency and Severity Prediction of Emergency Incidents from Socio-Demographic Data - Sigmundur Kornelíusson 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51953</guid>
     </item>
     <item>
       <title>Lifa, Læra, Þrífast: Stafrænt úrræði - Heildræn vellíðunarþjálfun</title>
@@ -97,6 +79,36 @@
       <link>https://skemman.is/handle/1946/51955</link>
       <description>Kynjaðar kappræður: Innihaldsgreining á truflunum í leiðtogaumræðum fyrir alþingiskosningar 2024 - Gréta Jónsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51955</guid>
+    </item>
+    <item>
+      <title>Frequency and Severity Prediction of Emergency Incidents from Socio-Demographic Data</title>
+      <link>https://skemman.is/handle/1946/51953</link>
+      <description>Frequency and Severity Prediction of Emergency Incidents from Socio-Demographic Data - Sigmundur Kornelíusson 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51953</guid>
+    </item>
+    <item>
+      <title>Samanburður krosslímdra og rammatimbureininga í timburháhýsum : með tilliti til efnisnýtingar miðað við burðargetu sem fall af hæð.</title>
+      <link>https://skemman.is/handle/1946/51948</link>
+      <description>Samanburður krosslímdra og rammatimbureininga í timburháhýsum : með tilliti til efnisnýtingar miðað við burðargetu sem fall af hæð. - Einar Þór Jóhannsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51948</guid>
+    </item>
+    <item>
+      <title>Hönnun lagna- og loftræsikerfis í líkamsrækt : hönnun lagna- og loftræstikerfis</title>
+      <link>https://skemman.is/handle/1946/51949</link>
+      <description>Hönnun lagna- og loftræsikerfis í líkamsrækt : hönnun lagna- og loftræstikerfis - Alexander Gísli Hlynsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51949</guid>
+    </item>
+    <item>
+      <title>Burðarþolshönnun fjölbýlishúss með bílakjallara</title>
+      <link>https://skemman.is/handle/1946/51951</link>
+      <description>Burðarþolshönnun fjölbýlishúss með bílakjallara - Andri Steinn Sigurjónsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51951</guid>
+    </item>
+    <item>
+      <title>Holtabrekka leikskóli í Urriðaholti</title>
+      <link>https://skemman.is/handle/1946/51952</link>
+      <description>Holtabrekka leikskóli í Urriðaholti - Birta Sif Gunnlaugsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51952</guid>
     </item>
     <item>
       <title>Kostnaðar- og ábatagreining greiðslumiðlunar: Samanburður á greiðslukortum og reiðufé</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51927</link>
       <description>Moskan í Reykjavík : Stekkjarbakki 3 - Gunnur Rún Hafsteinsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51927</guid>
-    </item>
-    <item>
-      <title>Miðbæjarleikskóli og fjölskyldumiðstöð : 101 Reykjavík</title>
-      <link>https://skemman.is/handle/1946/51924</link>
-      <description>Miðbæjarleikskóli og fjölskyldumiðstöð : 101 Reykjavík - Kolfinna Þöll Þórðardóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51924</guid>
-    </item>
-    <item>
-      <title>Hönnun lagna- og loftræsiskerfis í fjórbýli : Stöðvarhvarf 2</title>
-      <link>https://skemman.is/handle/1946/51930</link>
-      <description>Hönnun lagna- og loftræsiskerfis í fjórbýli : Stöðvarhvarf 2 - Kristófer Tjörvi Einarsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51930</guid>
     </item>
   </channel>
 </rss>
