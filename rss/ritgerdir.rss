@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 13:21:51 +0000</lastBuildDate>
     <item>
       <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
       <link>https://skemman.is/handle/1946/51989</link>
@@ -49,6 +49,18 @@
       <link>https://skemman.is/handle/1946/51995</link>
       <description>Hvað kostar ókeypis orka? : áhrif vindorku á verðmyndun á íslenskum raforkumarkaði - Hanna Regína Einarsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51995</guid>
+    </item>
+    <item>
+      <title>Þjónustugæði : áhrif þeirra á viðskiptatryggð í apótekum</title>
+      <link>https://skemman.is/handle/1946/51996</link>
+      <description>Þjónustugæði : áhrif þeirra á viðskiptatryggð í apótekum - Sóley Björk Gísladóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51996</guid>
+    </item>
+    <item>
+      <title>Þjónustustjórnun flugfarþega Icelandair yfir Atlantshafið : greining á þjónustuupplifun um borð meðal tengifarþega</title>
+      <link>https://skemman.is/handle/1946/51997</link>
+      <description>Þjónustustjórnun flugfarþega Icelandair yfir Atlantshafið : greining á þjónustuupplifun um borð meðal tengifarþega - Allan Fernando Helgason 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51997</guid>
     </item>
     <item>
       <title>Þróun íslenskrar dómaframkvæmdar um sérstakt hæfi dómara : hefur orðið marktæk þróun sem ber með sér að kröfur dómstóla til sérstaks hæfis dómara séu orðnar strangari?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51956</link>
       <description>Development of an Oil-sampling Device for Transformers - Bragi Benediktsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51956</guid>
-    </item>
-    <item>
-      <title>Modeling the Spatiotemporal Distribution of Atlantic Cod (Gadus morhua) in Icelandic Waters Using INLA-SPDE</title>
-      <link>https://skemman.is/handle/1946/51957</link>
-      <description>Modeling the Spatiotemporal Distribution of Atlantic Cod (Gadus morhua) in Icelandic Waters Using INLA-SPDE - Yang Han 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51957</guid>
-    </item>
-    <item>
-      <title>Nestún 7, BI LOK1005, Lokaverkefni</title>
-      <link>https://skemman.is/handle/1946/51963</link>
-      <description>Nestún 7, BI LOK1005, Lokaverkefni - Bjarnveig Rós Bjarnadóttir 1993-; Einar Ólason 1992-; Hafsteinn Logi Sigurðarson 1993-; Sæmundur Jónsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51963</guid>
     </item>
   </channel>
 </rss>
