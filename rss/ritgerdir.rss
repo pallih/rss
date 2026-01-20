@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Jan 2026 08:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 09:13:20 +0000</lastBuildDate>
+    <item>
+      <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
+      <link>https://skemman.is/handle/1946/51989</link>
+      <description>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis - Bergur Bjartmarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51989</guid>
+    </item>
     <item>
       <title>Þróun íslenskrar dómaframkvæmdar um sérstakt hæfi dómara : hefur orðið marktæk þróun sem ber með sér að kröfur dómstóla til sérstaks hæfis dómara séu orðnar strangari?</title>
       <link>https://skemman.is/handle/1946/51967</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51976</link>
       <description>Reykjahvoll 29 : raflagnahönnun í einbýlishúsi - Sverrir Hjaltested 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51976</guid>
-    </item>
-    <item>
-      <title>Raflagnahönnun og hússtjórnarkerfi : Margrétarhagi</title>
-      <link>https://skemman.is/handle/1946/51974</link>
-      <description>Raflagnahönnun og hússtjórnarkerfi : Margrétarhagi - Sigurður Traustason 1998-; Elvar Þór Bjarnason 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51974</guid>
     </item>
   </channel>
 </rss>
