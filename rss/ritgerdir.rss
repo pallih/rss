@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Jan 2026 10:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:08:38 +0000</lastBuildDate>
     <item>
       <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
       <link>https://skemman.is/handle/1946/51989</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/51990</link>
       <description>Parental experiences of ableism : a comparison between visible and invisible disabilities - Silja Karen Sveinsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51990</guid>
+    </item>
+    <item>
+      <title>ADHD as a determinant of alcohol and substance use among Icelandic university students</title>
+      <link>https://skemman.is/handle/1946/51991</link>
+      <description>ADHD as a determinant of alcohol and substance use among Icelandic university students - Thelma Rut Elíasdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51991</guid>
+    </item>
+    <item>
+      <title>Comparison of extraction efficiency using ethanol and methanol for the extraction of mycosporin-like amino acids (MAAs) from Palmaria palmata</title>
+      <link>https://skemman.is/handle/1946/51992</link>
+      <description>Comparison of extraction efficiency using ethanol and methanol for the extraction of mycosporin-like amino acids (MAAs) from Palmaria palmata - Muhammad Umar 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51992</guid>
     </item>
     <item>
       <title>Þróun íslenskrar dómaframkvæmdar um sérstakt hæfi dómara : hefur orðið marktæk þróun sem ber með sér að kröfur dómstóla til sérstaks hæfis dómara séu orðnar strangari?</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51961</link>
       <description>Þróun á búnaði í fisk afhausara sem eykur verðmæti afurðar - Benedikt Birkir Hauksson 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51961</guid>
-    </item>
-    <item>
-      <title>Hjúkrunarheimili í Árborg : 800 Selfoss</title>
-      <link>https://skemman.is/handle/1946/51959</link>
-      <description>Hjúkrunarheimili í Árborg : 800 Selfoss - Sindri Þór Haraldsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51959</guid>
-    </item>
-    <item>
-      <title>Lindakirkja, Uppsölum 3, 201 Kópavogi</title>
-      <link>https://skemman.is/handle/1946/51960</link>
-      <description>Lindakirkja, Uppsölum 3, 201 Kópavogi - Gunnar Jóhannesson 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51960</guid>
     </item>
   </channel>
 </rss>
