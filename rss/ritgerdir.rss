@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Jan 2026 11:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 12:13:14 +0000</lastBuildDate>
     <item>
       <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
       <link>https://skemman.is/handle/1946/51989</link>
@@ -31,6 +31,24 @@
       <link>https://skemman.is/handle/1946/51992</link>
       <description>Comparison of extraction efficiency using ethanol and methanol for the extraction of mycosporin-like amino acids (MAAs) from Palmaria palmata - Muhammad Umar 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51992</guid>
+    </item>
+    <item>
+      <title>Structural design of a concrete building</title>
+      <link>https://skemman.is/handle/1946/51993</link>
+      <description>Structural design of a concrete building - Ahmed Atef Mohamed Sorour 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51993</guid>
+    </item>
+    <item>
+      <title>Public-private partnerships in Iceland : advantages, challenges, and opportunities</title>
+      <link>https://skemman.is/handle/1946/51994</link>
+      <description>Public-private partnerships in Iceland : advantages, challenges, and opportunities - Jón Þór Jóhannsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51994</guid>
+    </item>
+    <item>
+      <title>Hvað kostar ókeypis orka? : áhrif vindorku á verðmyndun á íslenskum raforkumarkaði</title>
+      <link>https://skemman.is/handle/1946/51995</link>
+      <description>Hvað kostar ókeypis orka? : áhrif vindorku á verðmyndun á íslenskum raforkumarkaði - Hanna Regína Einarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/51995</guid>
     </item>
     <item>
       <title>Þróun íslenskrar dómaframkvæmdar um sérstakt hæfi dómara : hefur orðið marktæk þróun sem ber með sér að kröfur dómstóla til sérstaks hæfis dómara séu orðnar strangari?</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/51963</link>
       <description>Nestún 7, BI LOK1005, Lokaverkefni - Bjarnveig Rós Bjarnadóttir 1993-; Einar Ólason 1992-; Hafsteinn Logi Sigurðarson 1993-; Sæmundur Jónsson 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51963</guid>
-    </item>
-    <item>
-      <title>Gerðarbrunnur 52</title>
-      <link>https://skemman.is/handle/1946/51962</link>
-      <description>Gerðarbrunnur 52 - Reynir Páll Waagfjörð Magnússon 1987-; Egill Örn Bjarnason 1982-; Heiðar Gauti Jóhannsson 2002-; Jónas Hjartarson 1993-; Kristján Árnason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51962</guid>
-    </item>
-    <item>
-      <title>Hydropower plant in Húsá</title>
-      <link>https://skemman.is/handle/1946/51958</link>
-      <description>Hydropower plant in Húsá - Sara Arndís Thorarensen 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51958</guid>
-    </item>
-    <item>
-      <title>Þróun á búnaði í fisk afhausara sem eykur verðmæti afurðar</title>
-      <link>https://skemman.is/handle/1946/51961</link>
-      <description>Þróun á búnaði í fisk afhausara sem eykur verðmæti afurðar - Benedikt Birkir Hauksson 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51961</guid>
     </item>
   </channel>
 </rss>
