@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 20 Jan 2026 17:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:10:20 +0000</lastBuildDate>
+    <item>
+      <title>Effects of Iron Oxide Nanoparticles on Early Development in Atlantic Salmon (Salmo salar)</title>
+      <link>https://skemman.is/handle/1946/52002</link>
+      <description>Effects of Iron Oxide Nanoparticles on Early Development in Atlantic Salmon (Salmo salar) - Guðfinna Dís Sveinsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52002</guid>
+    </item>
     <item>
       <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
       <link>https://skemman.is/handle/1946/51989</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51986</link>
       <description>Aukið ræktunarland : lækkun grunnvatnsstöðu með úrdælingu - Vésteinn Karl Vésteinsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51986</guid>
-    </item>
-    <item>
-      <title>Tæknivætt snjallheimili með áherslu á orkunýtni</title>
-      <link>https://skemman.is/handle/1946/51984</link>
-      <description>Tæknivætt snjallheimili með áherslu á orkunýtni - Ívan Kumar Bonifacius 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51984</guid>
     </item>
   </channel>
 </rss>
