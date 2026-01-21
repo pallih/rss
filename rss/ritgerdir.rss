@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 21 Jan 2026 10:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 11:08:49 +0000</lastBuildDate>
     <item>
       <title>Effects of Iron Oxide Nanoparticles on Early Development in Atlantic Salmon (Salmo salar)</title>
       <link>https://skemman.is/handle/1946/52002</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/52003</link>
       <description>Brúarsmiðir í leikskólum Reykjavíkur: Hlutverk brúarsmiða í að efla tengsl milli fjöltyngdra barna, foreldra og starfsfólks. - Magdalena Elísabet Andrésdóttir 1975-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52003</guid>
+    </item>
+    <item>
+      <title>Svefnmynstur íslenskra 12 ára stúlkna og tengsl við getu í knattspyrnu</title>
+      <link>https://skemman.is/handle/1946/52004</link>
+      <description>Svefnmynstur íslenskra 12 ára stúlkna og tengsl við getu í knattspyrnu - Adna Mesetovic 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52004</guid>
     </item>
     <item>
       <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51982</link>
       <description>Stafræn nauðgun gegn börnum? : gefur dómur Hæstaréttar 31. janúar 2024 í máli nr. 31/2023 tilefni til breytinga á almennum hegningarlögum nr. 19/1940? - Thelma Yngvadóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51982</guid>
-    </item>
-    <item>
-      <title>Lokaverkefni í byggingariðnfræði : Brekadalur 58</title>
-      <link>https://skemman.is/handle/1946/51988</link>
-      <description>Lokaverkefni í byggingariðnfræði : Brekadalur 58 - Andri Steinn Gunnarsson 1996-; Daníel Aron Jónsson 1999-; Fannar Ingi Arnbjörnsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51988</guid>
     </item>
   </channel>
 </rss>
