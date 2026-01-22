@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 22 Jan 2026 15:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 16:11:12 +0000</lastBuildDate>
     <item>
       <title>Hagkvæmnigreining brunavarna í timbureiningahúsum</title>
       <link>https://skemman.is/handle/1946/52006</link>
@@ -25,6 +25,24 @@
       <link>https://skemman.is/handle/1946/52007</link>
       <description>Leikskólinn Brákarborg : hvað ef? - Vilhjálmur Árni Garðarsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52007</guid>
+    </item>
+    <item>
+      <title>Breytingar á sameiginlegu regluverki ESB um hælisleitendur er varða Dyflinnarreglugerðina : áhrif breytinganna á meðferð hælisumsókna í íslenskum rétti</title>
+      <link>https://skemman.is/handle/1946/52008</link>
+      <description>Breytingar á sameiginlegu regluverki ESB um hælisleitendur er varða Dyflinnarreglugerðina : áhrif breytinganna á meðferð hælisumsókna í íslenskum rétti - Daniela Yolanda Melara Lara 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52008</guid>
+    </item>
+    <item>
+      <title>Sönnunarreglur samkeppnisréttar</title>
+      <link>https://skemman.is/handle/1946/52009</link>
+      <description>Sönnunarreglur samkeppnisréttar - Elísa Sóldís Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52009</guid>
+    </item>
+    <item>
+      <title>Um sönnun í sakamálum : þýðing breyttrar dómstólaskipan á sönnun í sakamálum með hliðsjón af málsmeðferð, mati á sönnunargildi munnlegs framburðar og endurskoðunarheimildum Hæstaréttar</title>
+      <link>https://skemman.is/handle/1946/52010</link>
+      <description>Um sönnun í sakamálum : þýðing breyttrar dómstólaskipan á sönnun í sakamálum með hliðsjón af málsmeðferð, mati á sönnunargildi munnlegs framburðar og endurskoðunarheimildum Hæstaréttar - Ásgeir Erlendsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52010</guid>
     </item>
     <item>
       <title>Brúarsmiðir í leikskólum Reykjavíkur: Hlutverk brúarsmiða í að efla tengsl milli fjöltyngdra barna, foreldra og starfsfólks.</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/51968</link>
       <description>Vallhólmi 2, Kópavogi - Kjartan Long 1972-; Gísli Örn Bjarnhéðinsson 1971-; Bjartmar Sveinbjörnsson 1986-; Sverrir Eiríksson 1972-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51968</guid>
-    </item>
-    <item>
-      <title>Smíðaleiðbeiningar  : MS3028 laxahausari</title>
-      <link>https://skemman.is/handle/1946/51966</link>
-      <description>Smíðaleiðbeiningar  : MS3028 laxahausari - Gunnar Már Þórðarson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51966</guid>
-    </item>
-    <item>
-      <title>Hönnun  á vatnsendurnýtingarkerfi fyrir laxfiska</title>
-      <link>https://skemman.is/handle/1946/51969</link>
-      <description>Hönnun  á vatnsendurnýtingarkerfi fyrir laxfiska - Anton Friðriksson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51969</guid>
-    </item>
-    <item>
-      <title>Öryggi rafvirkja í rafveitu : öryggisverklag í störfum við dreifingu rafmagns</title>
-      <link>https://skemman.is/handle/1946/51971</link>
-      <description>Öryggi rafvirkja í rafveitu : öryggisverklag í störfum við dreifingu rafmagns - Vigfús Ólafsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51971</guid>
     </item>
   </channel>
 </rss>
