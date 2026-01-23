@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 22 Jan 2026 17:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 08:09:44 +0000</lastBuildDate>
+    <item>
+      <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
+      <link>https://skemman.is/handle/1946/52011</link>
+      <description>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland - Torfi Fannar Gunnarsson 1985-; Guðbjörg Tómasdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52011</guid>
+    </item>
+    <item>
+      <title>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto</title>
+      <link>https://skemman.is/handle/1946/52012</link>
+      <description>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto - Elís Mar Guðnýjarson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52012</guid>
+    </item>
     <item>
       <title>Hagkvæmnigreining brunavarna í timbureiningahúsum</title>
       <link>https://skemman.is/handle/1946/52006</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/51967</link>
       <description>Þróun íslenskrar dómaframkvæmdar um sérstakt hæfi dómara : hefur orðið marktæk þróun sem ber með sér að kröfur dómstóla til sérstaks hæfis dómara séu orðnar strangari? - Ingibjörg Björnsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51967</guid>
-    </item>
-    <item>
-      <title>Viðbótareftirlit með fjármálasamsteypum : efni og inntak laga nr. 61/2017 um viðbótareftirlit með fjármálasamsteypum</title>
-      <link>https://skemman.is/handle/1946/51972</link>
-      <description>Viðbótareftirlit með fjármálasamsteypum : efni og inntak laga nr. 61/2017 um viðbótareftirlit með fjármálasamsteypum - Pétur Birgisson 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51972</guid>
-    </item>
-    <item>
-      <title>Vallhólmi 2, Kópavogi</title>
-      <link>https://skemman.is/handle/1946/51968</link>
-      <description>Vallhólmi 2, Kópavogi - Kjartan Long 1972-; Gísli Örn Bjarnhéðinsson 1971-; Bjartmar Sveinbjörnsson 1986-; Sverrir Eiríksson 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51968</guid>
     </item>
   </channel>
 </rss>
