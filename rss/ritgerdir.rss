@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 Jan 2026 13:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 14:09:22 +0000</lastBuildDate>
     <item>
       <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
       <link>https://skemman.is/handle/1946/52011</link>
@@ -55,6 +55,24 @@
       <link>https://skemman.is/handle/1946/52018</link>
       <description>Possible applications of markerless pose estimation and GenAI for gait analysis - Jakob Matthíasson 2002-; Arnar Bjarki Björnsson 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52018</guid>
+    </item>
+    <item>
+      <title>Real-time particle image velocimetry of lava flows</title>
+      <link>https://skemman.is/handle/1946/52019</link>
+      <description>Real-time particle image velocimetry of lava flows - Guðrún Elín Guðmundsdóttir 1986-; Georgia Maltsaki 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52019</guid>
+    </item>
+    <item>
+      <title>Exploring the role of generative AI in inclusive higher education</title>
+      <link>https://skemman.is/handle/1946/52020</link>
+      <description>Exploring the role of generative AI in inclusive higher education - Emilie Victoria Bönström 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52020</guid>
+    </item>
+    <item>
+      <title>Lucinity Access Management System (LAMS)</title>
+      <link>https://skemman.is/handle/1946/52021</link>
+      <description>Lucinity Access Management System (LAMS) - Ragnar Bjarni Stefánsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52021</guid>
     </item>
     <item>
       <title>Sönnunarreglur samkeppnisréttar</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/51990</link>
       <description>Parental experiences of ableism : a comparison between visible and invisible disabilities - Silja Karen Sveinsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51990</guid>
-    </item>
-    <item>
-      <title>ADHD as a determinant of alcohol and substance use among Icelandic university students</title>
-      <link>https://skemman.is/handle/1946/51991</link>
-      <description>ADHD as a determinant of alcohol and substance use among Icelandic university students - Thelma Rut Elíasdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51991</guid>
-    </item>
-    <item>
-      <title>Þjónustustjórnun flugfarþega Icelandair yfir Atlantshafið : greining á þjónustuupplifun um borð meðal tengifarþega</title>
-      <link>https://skemman.is/handle/1946/51997</link>
-      <description>Þjónustustjórnun flugfarþega Icelandair yfir Atlantshafið : greining á þjónustuupplifun um borð meðal tengifarþega - Allan Fernando Helgason 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51997</guid>
-    </item>
-    <item>
-      <title>Public-private partnerships in Iceland : advantages, challenges, and opportunities</title>
-      <link>https://skemman.is/handle/1946/51994</link>
-      <description>Public-private partnerships in Iceland : advantages, challenges, and opportunities - Jón Þór Jóhannsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51994</guid>
     </item>
   </channel>
 </rss>
