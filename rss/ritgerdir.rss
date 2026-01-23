@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 Jan 2026 11:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:12:50 +0000</lastBuildDate>
     <item>
       <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
       <link>https://skemman.is/handle/1946/52011</link>
       <description>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland - Torfi Fannar Gunnarsson 1985-; Guðbjörg Tómasdóttir 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52011</guid>
-    </item>
-    <item>
-      <title>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto</title>
-      <link>https://skemman.is/handle/1946/52012</link>
-      <description>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto - Elís Mar Guðnýjarson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52012</guid>
     </item>
     <item>
       <title>Áhættuhegðun barna og unglinga - Kenningar, úrræði og hlutverk félagsráðgjafa</title>
@@ -27,10 +21,64 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52013</guid>
     </item>
     <item>
+      <title>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto</title>
+      <link>https://skemman.is/handle/1946/52012</link>
+      <description>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto - Elís Mar Guðnýjarson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52012</guid>
+    </item>
+    <item>
       <title>TypeWriter_</title>
       <link>https://skemman.is/handle/1946/52014</link>
       <description>TypeWriter_ - Arnar Þór Björgvinsson 1994-; Arnfinnur Kolbeinsson 1996-; Oliver Másson 1995-; Trausti Guðmundarson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52014</guid>
+    </item>
+    <item>
+      <title>LOVE Synthesizer update and sharing hub</title>
+      <link>https://skemman.is/handle/1946/52015</link>
+      <description>LOVE Synthesizer update and sharing hub - Esja Kristín Siggeirsdóttir 2004-; María Björt Hjálmarsdóttir 2000-; Ómar Bessi Ómarsson 2004-; Haukur Ingi Tómasson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52015</guid>
+    </item>
+    <item>
+      <title>FCA : endurkóðun</title>
+      <link>https://skemman.is/handle/1946/52016</link>
+      <description>FCA : endurkóðun - Heiður Karítas Andersdóttir 1995-; Orri Ársælsson 2001-; Stefán Örn Gíslason 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52016</guid>
+    </item>
+    <item>
+      <title>Gervigreindarráðgjafi fyrir vefsíðu Opna háskólans</title>
+      <link>https://skemman.is/handle/1946/52017</link>
+      <description>Gervigreindarráðgjafi fyrir vefsíðu Opna háskólans - Aron Atli Andrésson 2003-; Davíð Gunnar Ásgeirsson 2002-; Jóhannes Helgi Tómasson 2000-; Maciej Stanislaw Kudla 2003-; Mara Bonet Dall' Arche 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52017</guid>
+    </item>
+    <item>
+      <title>Possible applications of markerless pose estimation and GenAI for gait analysis</title>
+      <link>https://skemman.is/handle/1946/52018</link>
+      <description>Possible applications of markerless pose estimation and GenAI for gait analysis - Jakob Matthíasson 2002-; Arnar Bjarki Björnsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52018</guid>
+    </item>
+    <item>
+      <title>Sönnunarreglur samkeppnisréttar</title>
+      <link>https://skemman.is/handle/1946/52009</link>
+      <description>Sönnunarreglur samkeppnisréttar - Elísa Sóldís Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52009</guid>
+    </item>
+    <item>
+      <title>Breytingar á sameiginlegu regluverki ESB um hælisleitendur er varða Dyflinnarreglugerðina : áhrif breytinganna á meðferð hælisumsókna í íslenskum rétti</title>
+      <link>https://skemman.is/handle/1946/52008</link>
+      <description>Breytingar á sameiginlegu regluverki ESB um hælisleitendur er varða Dyflinnarreglugerðina : áhrif breytinganna á meðferð hælisumsókna í íslenskum rétti - Daniela Yolanda Melara Lara 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52008</guid>
+    </item>
+    <item>
+      <title>Um sönnun í sakamálum : þýðing breyttrar dómstólaskipan á sönnun í sakamálum með hliðsjón af málsmeðferð, mati á sönnunargildi munnlegs framburðar og endurskoðunarheimildum Hæstaréttar</title>
+      <link>https://skemman.is/handle/1946/52010</link>
+      <description>Um sönnun í sakamálum : þýðing breyttrar dómstólaskipan á sönnun í sakamálum með hliðsjón af málsmeðferð, mati á sönnunargildi munnlegs framburðar og endurskoðunarheimildum Hæstaréttar - Ásgeir Erlendsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52010</guid>
+    </item>
+    <item>
+      <title>Leikskólinn Brákarborg : hvað ef?</title>
+      <link>https://skemman.is/handle/1946/52007</link>
+      <description>Leikskólinn Brákarborg : hvað ef? - Vilhjálmur Árni Garðarsson 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52007</guid>
     </item>
     <item>
       <title>Hagkvæmnigreining brunavarna í timbureiningahúsum</title>
@@ -43,30 +91,6 @@
       <link>https://skemman.is/handle/1946/52005</link>
       <description>Stúdentagarðar FÉSTA á Akureyri - Aron Hólm Kristjánsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52005</guid>
-    </item>
-    <item>
-      <title>Leikskólinn Brákarborg : hvað ef?</title>
-      <link>https://skemman.is/handle/1946/52007</link>
-      <description>Leikskólinn Brákarborg : hvað ef? - Vilhjálmur Árni Garðarsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52007</guid>
-    </item>
-    <item>
-      <title>Breytingar á sameiginlegu regluverki ESB um hælisleitendur er varða Dyflinnarreglugerðina : áhrif breytinganna á meðferð hælisumsókna í íslenskum rétti</title>
-      <link>https://skemman.is/handle/1946/52008</link>
-      <description>Breytingar á sameiginlegu regluverki ESB um hælisleitendur er varða Dyflinnarreglugerðina : áhrif breytinganna á meðferð hælisumsókna í íslenskum rétti - Daniela Yolanda Melara Lara 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52008</guid>
-    </item>
-    <item>
-      <title>Sönnunarreglur samkeppnisréttar</title>
-      <link>https://skemman.is/handle/1946/52009</link>
-      <description>Sönnunarreglur samkeppnisréttar - Elísa Sóldís Sigurðardóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52009</guid>
-    </item>
-    <item>
-      <title>Um sönnun í sakamálum : þýðing breyttrar dómstólaskipan á sönnun í sakamálum með hliðsjón af málsmeðferð, mati á sönnunargildi munnlegs framburðar og endurskoðunarheimildum Hæstaréttar</title>
-      <link>https://skemman.is/handle/1946/52010</link>
-      <description>Um sönnun í sakamálum : þýðing breyttrar dómstólaskipan á sönnun í sakamálum með hliðsjón af málsmeðferð, mati á sönnunargildi munnlegs framburðar og endurskoðunarheimildum Hæstaréttar - Ásgeir Erlendsson 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52010</guid>
     </item>
     <item>
       <title>Brúarsmiðir í leikskólum Reykjavíkur: Hlutverk brúarsmiða í að efla tengsl milli fjöltyngdra barna, foreldra og starfsfólks.</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/51994</link>
       <description>Public-private partnerships in Iceland : advantages, challenges, and opportunities - Jón Þór Jóhannsson 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51994</guid>
-    </item>
-    <item>
-      <title>Hvað kostar ókeypis orka? : áhrif vindorku á verðmyndun á íslenskum raforkumarkaði</title>
-      <link>https://skemman.is/handle/1946/51995</link>
-      <description>Hvað kostar ókeypis orka? : áhrif vindorku á verðmyndun á íslenskum raforkumarkaði - Hanna Regína Einarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51995</guid>
-    </item>
-    <item>
-      <title>Comparison of extraction efficiency using ethanol and methanol for the extraction of mycosporin-like amino acids (MAAs) from Palmaria palmata</title>
-      <link>https://skemman.is/handle/1946/51992</link>
-      <description>Comparison of extraction efficiency using ethanol and methanol for the extraction of mycosporin-like amino acids (MAAs) from Palmaria palmata - Muhammad Umar 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51992</guid>
-    </item>
-    <item>
-      <title>Structural design of a concrete building</title>
-      <link>https://skemman.is/handle/1946/51993</link>
-      <description>Structural design of a concrete building - Ahmed Atef Mohamed Sorour 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51993</guid>
-    </item>
-    <item>
-      <title>Þjónustugæði : áhrif þeirra á viðskiptatryggð í apótekum</title>
-      <link>https://skemman.is/handle/1946/51996</link>
-      <description>Þjónustugæði : áhrif þeirra á viðskiptatryggð í apótekum - Sóley Björk Gísladóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51996</guid>
     </item>
   </channel>
 </rss>
