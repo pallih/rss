@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Jan 2026 10:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:07:56 +0000</lastBuildDate>
     <item>
       <title>MambaKit: Next-Generation Drum Synthesis with AI</title>
       <link>https://skemman.is/handle/1946/52022</link>
@@ -37,6 +37,24 @@
       <link>https://skemman.is/handle/1946/52026</link>
       <description>Áhrif COVID-19 á námsframvindu og útskriftarlíkur nemenda við Háskóla Íslands - Hera Thái Ha Nguyen 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52026</guid>
+    </item>
+    <item>
+      <title>„Hún þarf vernd – hann þarf leiðsögn“. Sögur foreldra um ábyrgð og eftirlit í stafrænum heimi barna</title>
+      <link>https://skemman.is/handle/1946/52027</link>
+      <description>„Hún þarf vernd – hann þarf leiðsögn“. Sögur foreldra um ábyrgð og eftirlit í stafrænum heimi barna - Arna Björk Þórsdóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52027</guid>
+    </item>
+    <item>
+      <title>„Við erum enn þá að fóta okkur“ : Hlutverk og verkefni tengiliða við innleiðingu farsældarlaga</title>
+      <link>https://skemman.is/handle/1946/52028</link>
+      <description>„Við erum enn þá að fóta okkur“ : Hlutverk og verkefni tengiliða við innleiðingu farsældarlaga - Díana Ívarsdóttir 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52028</guid>
+    </item>
+    <item>
+      <title>„Það er eins og lífið haldi áfram hjá öllum öðrum og ég sé bara föst heima“ - Upplifun ungra mæðra eftir barnsburð: Félagsleg einangrun, fordómar og bjargráð</title>
+      <link>https://skemman.is/handle/1946/52029</link>
+      <description>„Það er eins og lífið haldi áfram hjá öllum öðrum og ég sé bara föst heima“ - Upplifun ungra mæðra eftir barnsburð: Félagsleg einangrun, fordómar og bjargráð - Snædís Sól Harðardóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52029</guid>
     </item>
     <item>
       <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/52005</link>
       <description>Stúdentagarðar FÉSTA á Akureyri - Aron Hólm Kristjánsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52005</guid>
-    </item>
-    <item>
-      <title>Brúarsmiðir í leikskólum Reykjavíkur: Hlutverk brúarsmiða í að efla tengsl milli fjöltyngdra barna, foreldra og starfsfólks.</title>
-      <link>https://skemman.is/handle/1946/52003</link>
-      <description>Brúarsmiðir í leikskólum Reykjavíkur: Hlutverk brúarsmiða í að efla tengsl milli fjöltyngdra barna, foreldra og starfsfólks. - Magdalena Elísabet Andrésdóttir 1975-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52003</guid>
-    </item>
-    <item>
-      <title>Svefnmynstur íslenskra 12 ára stúlkna og tengsl við getu í knattspyrnu</title>
-      <link>https://skemman.is/handle/1946/52004</link>
-      <description>Svefnmynstur íslenskra 12 ára stúlkna og tengsl við getu í knattspyrnu - Adna Mesetovic 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52004</guid>
-    </item>
-    <item>
-      <title>Effects of Iron Oxide Nanoparticles on Early Development in Atlantic Salmon (Salmo salar)</title>
-      <link>https://skemman.is/handle/1946/52002</link>
-      <description>Effects of Iron Oxide Nanoparticles on Early Development in Atlantic Salmon (Salmo salar) - Guðfinna Dís Sveinsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52002</guid>
     </item>
   </channel>
 </rss>
