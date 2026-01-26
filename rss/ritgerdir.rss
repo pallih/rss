@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 25 Jan 2026 17:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 08:10:51 +0000</lastBuildDate>
+    <item>
+      <title>MambaKit: Next-Generation Drum Synthesis with AI</title>
+      <link>https://skemman.is/handle/1946/52022</link>
+      <description>MambaKit: Next-Generation Drum Synthesis with AI - Ófeigur Atli Steindórsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52022</guid>
+    </item>
     <item>
       <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
       <link>https://skemman.is/handle/1946/52011</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/51999</link>
       <description>Íþróttir og einhverfa : fræðileg samantekt og hagnýtt efni fyrir þjálfara - Valdís Unnur Einarsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/51999</guid>
-    </item>
-    <item>
-      <title>Parental experiences of ableism : a comparison between visible and invisible disabilities</title>
-      <link>https://skemman.is/handle/1946/51990</link>
-      <description>Parental experiences of ableism : a comparison between visible and invisible disabilities - Silja Karen Sveinsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51990</guid>
     </item>
   </channel>
 </rss>
