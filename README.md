@@ -23,6 +23,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 - [gev](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/gev.rss)
 - [heradsdomstolar](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/heradsdomstolar.rss)
 - [heradssaksoknari](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/heradssaksoknari.rss)
+- [hh](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hh.rss)
 - [hljodbokasafn-islands](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hljodbokasafn-islands.rss)
 - [hms](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hms.rss)
 - [hsa](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hsa.rss)

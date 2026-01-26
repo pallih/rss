@@ -7,12 +7,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Jan 2026 08:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 09:14:03 +0000</lastBuildDate>
     <item>
       <title>MambaKit: Next-Generation Drum Synthesis with AI</title>
       <link>https://skemman.is/handle/1946/52022</link>
       <description>MambaKit: Next-Generation Drum Synthesis with AI - Ófeigur Atli Steindórsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52022</guid>
+    </item>
+    <item>
+      <title>Hvaða hug bera ungmenni til lesturs?</title>
+      <link>https://skemman.is/handle/1946/52023</link>
+      <description>Hvaða hug bera ungmenni til lesturs? - Gísli Ölversson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52023</guid>
+    </item>
+    <item>
+      <title>The Impact of Settlement Type on Consumption-Based Carbon Footprints in the Nordic Region</title>
+      <link>https://skemman.is/handle/1946/52024</link>
+      <description>The Impact of Settlement Type on Consumption-Based Carbon Footprints in the Nordic Region - Evanthia Voskou 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52024</guid>
+    </item>
+    <item>
+      <title>Simulation-Based Optimization of Peer-to-Peer Energy Management in Residential Households</title>
+      <link>https://skemman.is/handle/1946/52025</link>
+      <description>Simulation-Based Optimization of Peer-to-Peer Energy Management in Residential Households - Najmeh Khajoei 1982-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52025</guid>
+    </item>
+    <item>
+      <title>Áhrif COVID-19 á námsframvindu og útskriftarlíkur nemenda við Háskóla Íslands</title>
+      <link>https://skemman.is/handle/1946/52026</link>
+      <description>Áhrif COVID-19 á námsframvindu og útskriftarlíkur nemenda við Háskóla Íslands - Hera Thái Ha Nguyen 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52026</guid>
     </item>
     <item>
       <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
@@ -39,30 +63,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52014</guid>
     </item>
     <item>
-      <title>LOVE Synthesizer update and sharing hub</title>
-      <link>https://skemman.is/handle/1946/52015</link>
-      <description>LOVE Synthesizer update and sharing hub - Esja Kristín Siggeirsdóttir 2004-; María Björt Hjálmarsdóttir 2000-; Ómar Bessi Ómarsson 2004-; Haukur Ingi Tómasson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52015</guid>
-    </item>
-    <item>
-      <title>FCA : endurkóðun</title>
-      <link>https://skemman.is/handle/1946/52016</link>
-      <description>FCA : endurkóðun - Heiður Karítas Andersdóttir 1995-; Orri Ársælsson 2001-; Stefán Örn Gíslason 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52016</guid>
-    </item>
-    <item>
-      <title>Gervigreindarráðgjafi fyrir vefsíðu Opna háskólans</title>
-      <link>https://skemman.is/handle/1946/52017</link>
-      <description>Gervigreindarráðgjafi fyrir vefsíðu Opna háskólans - Aron Atli Andrésson 2003-; Davíð Gunnar Ásgeirsson 2002-; Jóhannes Helgi Tómasson 2000-; Maciej Stanislaw Kudla 2003-; Mara Bonet Dall' Arche 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52017</guid>
-    </item>
-    <item>
-      <title>Possible applications of markerless pose estimation and GenAI for gait analysis</title>
-      <link>https://skemman.is/handle/1946/52018</link>
-      <description>Possible applications of markerless pose estimation and GenAI for gait analysis - Jakob Matthíasson 2002-; Arnar Bjarki Björnsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52018</guid>
-    </item>
-    <item>
       <title>Real-time particle image velocimetry of lava flows</title>
       <link>https://skemman.is/handle/1946/52019</link>
       <description>Real-time particle image velocimetry of lava flows - Guðrún Elín Guðmundsdóttir 1986-; Georgia Maltsaki 1995-</description>
@@ -79,6 +79,30 @@
       <link>https://skemman.is/handle/1946/52021</link>
       <description>Lucinity Access Management System (LAMS) - Ragnar Bjarni Stefánsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52021</guid>
+    </item>
+    <item>
+      <title>Possible applications of markerless pose estimation and GenAI for gait analysis</title>
+      <link>https://skemman.is/handle/1946/52018</link>
+      <description>Possible applications of markerless pose estimation and GenAI for gait analysis - Jakob Matthíasson 2002-; Arnar Bjarki Björnsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52018</guid>
+    </item>
+    <item>
+      <title>LOVE Synthesizer update and sharing hub</title>
+      <link>https://skemman.is/handle/1946/52015</link>
+      <description>LOVE Synthesizer update and sharing hub - Esja Kristín Siggeirsdóttir 2004-; María Björt Hjálmarsdóttir 2000-; Ómar Bessi Ómarsson 2004-; Haukur Ingi Tómasson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52015</guid>
+    </item>
+    <item>
+      <title>Gervigreindarráðgjafi fyrir vefsíðu Opna háskólans</title>
+      <link>https://skemman.is/handle/1946/52017</link>
+      <description>Gervigreindarráðgjafi fyrir vefsíðu Opna háskólans - Aron Atli Andrésson 2003-; Davíð Gunnar Ásgeirsson 2002-; Jóhannes Helgi Tómasson 2000-; Maciej Stanislaw Kudla 2003-; Mara Bonet Dall' Arche 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52017</guid>
+    </item>
+    <item>
+      <title>FCA : endurkóðun</title>
+      <link>https://skemman.is/handle/1946/52016</link>
+      <description>FCA : endurkóðun - Heiður Karítas Andersdóttir 1995-; Orri Ársælsson 2001-; Stefán Örn Gíslason 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52016</guid>
     </item>
     <item>
       <title>Sönnunarreglur samkeppnisréttar</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/52002</link>
       <description>Effects of Iron Oxide Nanoparticles on Early Development in Atlantic Salmon (Salmo salar) - Guðfinna Dís Sveinsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52002</guid>
-    </item>
-    <item>
-      <title>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis</title>
-      <link>https://skemman.is/handle/1946/51989</link>
-      <description>Beneath the Surface. Understanding Russian and Chinese Actions in Submarine Cable Context: A Comparative Analysis - Bergur Bjartmarsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51989</guid>
-    </item>
-    <item>
-      <title>Krossbandsslit í knattspyrnu eftir leikstöðum : greining á upplýsingum vefmiðla um krossbandsslit á árunum 2020-2025</title>
-      <link>https://skemman.is/handle/1946/52001</link>
-      <description>Krossbandsslit í knattspyrnu eftir leikstöðum : greining á upplýsingum vefmiðla um krossbandsslit á árunum 2020-2025 - Tristan Freyr Ingólfsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52001</guid>
-    </item>
-    <item>
-      <title>Fasíuþjálfun : sýn fagaðila á framkvæmd og áhrif fasíuþjálfunar á hreyfifærni og frammistöðu í íþróttum</title>
-      <link>https://skemman.is/handle/1946/52000</link>
-      <description>Fasíuþjálfun : sýn fagaðila á framkvæmd og áhrif fasíuþjálfunar á hreyfifærni og frammistöðu í íþróttum - Vanda Jónasardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52000</guid>
-    </item>
-    <item>
-      <title>Íþróttir og einhverfa : fræðileg samantekt og hagnýtt efni fyrir þjálfara</title>
-      <link>https://skemman.is/handle/1946/51999</link>
-      <description>Íþróttir og einhverfa : fræðileg samantekt og hagnýtt efni fyrir þjálfara - Valdís Unnur Einarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/51999</guid>
     </item>
   </channel>
 </rss>
