@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Jan 2026 13:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 14:11:48 +0000</lastBuildDate>
     <item>
       <title>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari</title>
       <link>https://skemman.is/handle/1946/52033</link>
@@ -135,6 +135,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52042</guid>
     </item>
     <item>
+      <title>„Það er svo gaman í tíma þegar við megum tala um dæmin“  Stærðfræði verður sameiginleg hugsun</title>
+      <link>https://skemman.is/handle/1946/52043</link>
+      <description>„Það er svo gaman í tíma þegar við megum tala um dæmin“  Stærðfræði verður sameiginleg hugsun - Bergþóra Guðmundsdóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52043</guid>
+    </item>
+    <item>
       <title>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland</title>
       <link>https://skemman.is/handle/1946/52011</link>
       <description>No One is an Island:  Suicidal Ideation and Interpersonal Correlates  in a Population-Based Sample in Iceland - Torfi Fannar Gunnarsson 1985-; Guðbjörg Tómasdóttir 1986-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52012</link>
       <description>CUDA implementation of the EM algorithm for transcript compatibility counts (TCCs) produced by kallisto - Elís Mar Guðnýjarson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52012</guid>
-    </item>
-    <item>
-      <title>TypeWriter_</title>
-      <link>https://skemman.is/handle/1946/52014</link>
-      <description>TypeWriter_ - Arnar Þór Björgvinsson 1994-; Arnfinnur Kolbeinsson 1996-; Oliver Másson 1995-; Trausti Guðmundarson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52014</guid>
     </item>
   </channel>
 </rss>
