@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 27 Jan 2026 15:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:09:52 +0000</lastBuildDate>
     <item>
       <title>Development of a 3D bioprinted hydrogel model to study Hedgehog signalling in Chondrocytes</title>
       <link>https://skemman.is/handle/1946/52049</link>
@@ -87,6 +87,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52060</guid>
     </item>
     <item>
+      <title>Design of a low-overhead NFC-based mobile receipt system</title>
+      <link>https://skemman.is/handle/1946/52061</link>
+      <description>Design of a low-overhead NFC-based mobile receipt system - Eyþór Mikael Eyþórsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52061</guid>
+    </item>
+    <item>
+      <title>Development and testing of an innovative system for measurement of ultrasound modulation of electrical current in volume conductor</title>
+      <link>https://skemman.is/handle/1946/52062</link>
+      <description>Development and testing of an innovative system for measurement of ultrasound modulation of electrical current in volume conductor - Davíð Arnljótur Karlsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52062</guid>
+    </item>
+    <item>
       <title>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari</title>
       <link>https://skemman.is/handle/1946/52033</link>
       <description>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari - Lukasz Serwatko 1995-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52047</link>
       <description>Applied predictive customer analytics for loyalty and retention - Gyða Björg Sigurðardóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52047</guid>
-    </item>
-    <item>
-      <title>Þróun og endurnýjun starfsmannahandbókar í leikskóla</title>
-      <link>https://skemman.is/handle/1946/52041</link>
-      <description>Þróun og endurnýjun starfsmannahandbókar í leikskóla - Sóley Alexandra Þorsteinsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52041</guid>
-    </item>
-    <item>
-      <title>Leiðsagnarsamtöl í skjóli trausts: Hugmyndafræðileg sýn leiðsagnarkennara og þróun fagvitundar kennaranema</title>
-      <link>https://skemman.is/handle/1946/52042</link>
-      <description>Leiðsagnarsamtöl í skjóli trausts: Hugmyndafræðileg sýn leiðsagnarkennara og þróun fagvitundar kennaranema - Gunnar Björn Melsted 1970-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52042</guid>
     </item>
   </channel>
 </rss>
