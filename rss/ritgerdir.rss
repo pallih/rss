@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 13:21:59 +0000</lastBuildDate>
     <item>
       <title>Development of a 3D bioprinted hydrogel model to study Hedgehog signalling in Chondrocytes</title>
       <link>https://skemman.is/handle/1946/52049</link>
@@ -43,6 +43,24 @@
       <link>https://skemman.is/handle/1946/52053</link>
       <description>Multi-agent reinforcement learning for order dispatching and sequencing in on-demand food delivery platforms - Yuang Yang 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52053</guid>
+    </item>
+    <item>
+      <title>High-resolution spatio-temporal analysis reveals the dynamic evolution of earthquake swarms around Askja–Herðubreið, Northern Volcanic Zone Iceland</title>
+      <link>https://skemman.is/handle/1946/52054</link>
+      <description>High-resolution spatio-temporal analysis reveals the dynamic evolution of earthquake swarms around Askja–Herðubreið, Northern Volcanic Zone Iceland - Hugo Alejandro Arteaga Vivas 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52054</guid>
+    </item>
+    <item>
+      <title>Afgösun hitaveituvatns í gasskiljum : helstu hönnunarforsendur</title>
+      <link>https://skemman.is/handle/1946/52055</link>
+      <description>Afgösun hitaveituvatns í gasskiljum : helstu hönnunarforsendur - Pétur Freyr Sigurjónsson 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52055</guid>
+    </item>
+    <item>
+      <title>„Mér finnst þau bara svo til í hlutina“ Reynsla og viðhorf hönnunar- og smíðakennara til áhugahvatar grunnskólanemenda</title>
+      <link>https://skemman.is/handle/1946/52056</link>
+      <description>„Mér finnst þau bara svo til í hlutina“ Reynsla og viðhorf hönnunar- og smíðakennara til áhugahvatar grunnskólanemenda - Signý Traustadóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52056</guid>
     </item>
     <item>
       <title>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/52044</link>
       <description>Understanding gaps in attendance management : employee perceptions versus HR intentions at Reykjavíkurborg - Björg Kara Elefsen Ólafsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52044</guid>
-    </item>
-    <item>
-      <title>MambaKit: Next-Generation Drum Synthesis with AI</title>
-      <link>https://skemman.is/handle/1946/52022</link>
-      <description>MambaKit: Next-Generation Drum Synthesis with AI - Ófeigur Atli Steindórsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52022</guid>
-    </item>
-    <item>
-      <title>Hvaða hug bera ungmenni til lesturs?</title>
-      <link>https://skemman.is/handle/1946/52023</link>
-      <description>Hvaða hug bera ungmenni til lesturs? - Gísli Ölversson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52023</guid>
-    </item>
-    <item>
-      <title>The Impact of Settlement Type on Consumption-Based Carbon Footprints in the Nordic Region</title>
-      <link>https://skemman.is/handle/1946/52024</link>
-      <description>The Impact of Settlement Type on Consumption-Based Carbon Footprints in the Nordic Region - Evanthia Voskou 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52024</guid>
     </item>
   </channel>
 </rss>
