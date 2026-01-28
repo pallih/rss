@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 28 Jan 2026 11:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:13:42 +0000</lastBuildDate>
     <item>
       <title>Effects of Warming Climate and Land Use Change on Ecosystem Processes in Icelandic Rangelands as Mediated by Plants</title>
       <link>https://skemman.is/handle/1946/52065</link>
@@ -45,6 +45,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52068</guid>
     </item>
     <item>
+      <title>Synthesis of Norbornene-Functionalised Macromonomers for Bottlebrush Polymers via ROMP: Characterisation and ROMP behaviour of polystyrene- and methoxy poly(ethylene glycol)-based macromonomers</title>
+      <link>https://skemman.is/handle/1946/52069</link>
+      <description>Synthesis of Norbornene-Functionalised Macromonomers for Bottlebrush Polymers via ROMP: Characterisation and ROMP behaviour of polystyrene- and methoxy poly(ethylene glycol)-based macromonomers - Katrín Marey Magnúsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52069</guid>
+    </item>
+    <item>
       <title>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum?</title>
       <link>https://skemman.is/handle/1946/52059</link>
       <description>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum? - Sara Gunnarsdóttir 1996-</description>
@@ -67,12 +73,6 @@
       <link>https://skemman.is/handle/1946/52058</link>
       <description>Ferlagreining á AutoStore kerfi: Rannsókn á vöruhúsi Parlogis ehf. á Hólmsheiði í þróunarstigi - Hilmir Jónsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52058</guid>
-    </item>
-    <item>
-      <title>Design of a low-overhead NFC-based mobile receipt system</title>
-      <link>https://skemman.is/handle/1946/52061</link>
-      <description>Design of a low-overhead NFC-based mobile receipt system - Eyþór Mikael Eyþórsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52061</guid>
     </item>
     <item>
       <title>Ástandsgreining spenna</title>
@@ -135,6 +135,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52055</guid>
     </item>
     <item>
+      <title>Design of a low-overhead NFC-based mobile receipt system</title>
+      <link>https://skemman.is/handle/1946/52061</link>
+      <description>Design of a low-overhead NFC-based mobile receipt system - Eyþór Mikael Eyþórsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52061</guid>
+    </item>
+    <item>
       <title>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari</title>
       <link>https://skemman.is/handle/1946/52033</link>
       <description>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari - Lukasz Serwatko 1995-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52032</link>
       <description>Leiðin að jákvæðri vinnustaðamenningu „Að finna jákvæðni og bjartsýni daglega getur ekki annað en verið til góðs“ - Inga Birna Sigurðardóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52032</guid>
-    </item>
-    <item>
-      <title>Detection and Mapping of Cow Parsley from Drone and Satellite Imagery in Greater Reykjavik</title>
-      <link>https://skemman.is/handle/1946/52039</link>
-      <description>Detection and Mapping of Cow Parsley from Drone and Satellite Imagery in Greater Reykjavik - Louise Elizabeth Alma Martin 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52039</guid>
     </item>
   </channel>
 </rss>
