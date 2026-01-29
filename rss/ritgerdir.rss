@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 29 Jan 2026 15:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 16:15:55 +0000</lastBuildDate>
     <item>
       <title>Structural Controls of Holocene Age Volcanism along the Ljósufjöll Lineament, West Iceland</title>
       <link>https://skemman.is/handle/1946/52070</link>
@@ -25,6 +25,42 @@
       <link>https://skemman.is/handle/1946/52072</link>
       <description>Einokun og efnahagur - Davíð Björn Pálsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52072</guid>
+    </item>
+    <item>
+      <title>HYDRO.CORE</title>
+      <link>https://skemman.is/handle/1946/52073</link>
+      <description>HYDRO.CORE - Elise Bergonzi 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52073</guid>
+    </item>
+    <item>
+      <title>Syndlaug og samtal : heimildarmynd um vinnuferli danshöfundar í samstarfi við dansnemendur</title>
+      <link>https://skemman.is/handle/1946/52074</link>
+      <description>Syndlaug og samtal : heimildarmynd um vinnuferli danshöfundar í samstarfi við dansnemendur - Rósa Rún Aðalsteinsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52074</guid>
+    </item>
+    <item>
+      <title>Japanoise : The Sound of Social Discord</title>
+      <link>https://skemman.is/handle/1946/52075</link>
+      <description>Japanoise : The Sound of Social Discord - Konrad Groen 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52075</guid>
+    </item>
+    <item>
+      <title>Er pláss fyrir okkur í klassísku senunni? : hvernig er að vera trans/kynsegin í klassísku senunni</title>
+      <link>https://skemman.is/handle/1946/52076</link>
+      <description>Er pláss fyrir okkur í klassísku senunni? : hvernig er að vera trans/kynsegin í klassísku senunni - Sigur Huldar Ellerup Geirs 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52076</guid>
+    </item>
+    <item>
+      <title>Í hverju felst sköpun á sviði verkgreina? : rannsókn á skapandi áherslum textílkennara og sýn nemenda á skapandi verkgreinanám.</title>
+      <link>https://skemman.is/handle/1946/52077</link>
+      <description>Í hverju felst sköpun á sviði verkgreina? : rannsókn á skapandi áherslum textílkennara og sýn nemenda á skapandi verkgreinanám. - Kristín Áskelsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52077</guid>
+    </item>
+    <item>
+      <title>Heilsueflandi áhrif söngs : hvaða áhrif hefur söngur á velferð samfélags?</title>
+      <link>https://skemman.is/handle/1946/52078</link>
+      <description>Heilsueflandi áhrif söngs : hvaða áhrif hefur söngur á velferð samfélags? - Hrafnhildur Eva Guðmundsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52078</guid>
     </item>
     <item>
       <title>Effects of Warming Climate and Land Use Change on Ecosystem Processes in Icelandic Rangelands as Mediated by Plants</title>
@@ -121,42 +157,6 @@
       <link>https://skemman.is/handle/1946/52054</link>
       <description>High-resolution spatio-temporal analysis reveals the dynamic evolution of earthquake swarms around Askja–Herðubreið, Northern Volcanic Zone Iceland - Hugo Alejandro Arteaga Vivas 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52054</guid>
-    </item>
-    <item>
-      <title>Creating reliable people data : advancing HR through structured quality-management practices</title>
-      <link>https://skemman.is/handle/1946/52052</link>
-      <description>Creating reliable people data : advancing HR through structured quality-management practices - Anna Lotta Michaelsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52052</guid>
-    </item>
-    <item>
-      <title>Multi-agent reinforcement learning for order dispatching and sequencing in on-demand food delivery platforms</title>
-      <link>https://skemman.is/handle/1946/52053</link>
-      <description>Multi-agent reinforcement learning for order dispatching and sequencing in on-demand food delivery platforms - Yuang Yang 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52053</guid>
-    </item>
-    <item>
-      <title>Foreign residents’ awareness and response to volcanic risks from Katla volcano: Insights from Vík in Mýrdal, South Iceland</title>
-      <link>https://skemman.is/handle/1946/52050</link>
-      <description>Foreign residents’ awareness and response to volcanic risks from Katla volcano: Insights from Vík in Mýrdal, South Iceland - Diana Sól Editudóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52050</guid>
-    </item>
-    <item>
-      <title>Afgösun hitaveituvatns í gasskiljum : helstu hönnunarforsendur</title>
-      <link>https://skemman.is/handle/1946/52055</link>
-      <description>Afgösun hitaveituvatns í gasskiljum : helstu hönnunarforsendur - Pétur Freyr Sigurjónsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52055</guid>
-    </item>
-    <item>
-      <title>Design of a low-overhead NFC-based mobile receipt system</title>
-      <link>https://skemman.is/handle/1946/52061</link>
-      <description>Design of a low-overhead NFC-based mobile receipt system - Eyþór Mikael Eyþórsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52061</guid>
-    </item>
-    <item>
-      <title>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum?</title>
-      <link>https://skemman.is/handle/1946/52059</link>
-      <description>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum? - Sara Gunnarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52059</guid>
     </item>
   </channel>
 </rss>
