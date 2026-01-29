@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 28 Jan 2026 17:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 08:15:09 +0000</lastBuildDate>
+    <item>
+      <title>Structural Controls of Holocene Age Volcanism along the Ljósufjöll Lineament, West Iceland</title>
+      <link>https://skemman.is/handle/1946/52070</link>
+      <description>Structural Controls of Holocene Age Volcanism along the Ljósufjöll Lineament, West Iceland - Elijah Raymond Owens 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52070</guid>
+    </item>
+    <item>
+      <title>Ferðamenn í heitu vatni: Hlutverk baðlóna í ímynd og upplifun á Íslandi</title>
+      <link>https://skemman.is/handle/1946/52071</link>
+      <description>Ferðamenn í heitu vatni: Hlutverk baðlóna í ímynd og upplifun á Íslandi - Kristinn Helgason 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52071</guid>
+    </item>
     <item>
       <title>Effects of Warming Climate and Land Use Change on Ecosystem Processes in Icelandic Rangelands as Mediated by Plants</title>
       <link>https://skemman.is/handle/1946/52065</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52033</link>
       <description>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari - Lukasz Serwatko 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52033</guid>
-    </item>
-    <item>
-      <title>Decomposing and Analysing Hot Water Usage in an Icelandic District Heating System Using Hourly Smart Meter Data</title>
-      <link>https://skemman.is/handle/1946/52035</link>
-      <description>Decomposing and Analysing Hot Water Usage in an Icelandic District Heating System Using Hourly Smart Meter Data - Adam John Gerald Ursell 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52035</guid>
-    </item>
-    <item>
-      <title>Leiðin að jákvæðri vinnustaðamenningu „Að finna jákvæðni og bjartsýni daglega getur ekki annað en verið til góðs“</title>
-      <link>https://skemman.is/handle/1946/52032</link>
-      <description>Leiðin að jákvæðri vinnustaðamenningu „Að finna jákvæðni og bjartsýni daglega getur ekki annað en verið til góðs“ - Inga Birna Sigurðardóttir 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52032</guid>
     </item>
   </channel>
 </rss>
