@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 29 Jan 2026 14:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 15:14:32 +0000</lastBuildDate>
     <item>
       <title>Structural Controls of Holocene Age Volcanism along the Ljósufjöll Lineament, West Iceland</title>
       <link>https://skemman.is/handle/1946/52070</link>
@@ -45,22 +45,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52063</guid>
     </item>
     <item>
-      <title>Vistfræði Hypoponera spp. (Hymenoptera: Formicidae) á íslenskum jarðhitasvæðum</title>
-      <link>https://skemman.is/handle/1946/52066</link>
-      <description>Vistfræði Hypoponera spp. (Hymenoptera: Formicidae) á íslenskum jarðhitasvæðum - Andreas Guðmundsson Gähwiller 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52066</guid>
-    </item>
-    <item>
       <title>Ecological Footprint of Reykjavík: Downscaling National Accounts and Informing Municipal Policy</title>
       <link>https://skemman.is/handle/1946/52067</link>
       <description>Ecological Footprint of Reykjavík: Downscaling National Accounts and Informing Municipal Policy - Rakel Bærings Halldórsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52067</guid>
-    </item>
-    <item>
-      <title>The impact of environmental volunteering on nature conservation: The case of Iceland Conservation Volunteers.</title>
-      <link>https://skemman.is/handle/1946/52068</link>
-      <description>The impact of environmental volunteering on nature conservation: The case of Iceland Conservation Volunteers. - Sebastian Diaz Duran 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52068</guid>
     </item>
     <item>
       <title>Synthesis of Norbornene-Functionalised Macromonomers for Bottlebrush Polymers via ROMP: Characterisation and ROMP behaviour of polystyrene- and methoxy poly(ethylene glycol)-based macromonomers</title>
@@ -69,10 +57,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52069</guid>
     </item>
     <item>
-      <title>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum?</title>
-      <link>https://skemman.is/handle/1946/52059</link>
-      <description>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum? - Sara Gunnarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52059</guid>
+      <title>Vistfræði Hypoponera spp. (Hymenoptera: Formicidae) á íslenskum jarðhitasvæðum</title>
+      <link>https://skemman.is/handle/1946/52066</link>
+      <description>Vistfræði Hypoponera spp. (Hymenoptera: Formicidae) á íslenskum jarðhitasvæðum - Andreas Guðmundsson Gähwiller 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52066</guid>
+    </item>
+    <item>
+      <title>The impact of environmental volunteering on nature conservation: The case of Iceland Conservation Volunteers.</title>
+      <link>https://skemman.is/handle/1946/52068</link>
+      <description>The impact of environmental volunteering on nature conservation: The case of Iceland Conservation Volunteers. - Sebastian Diaz Duran 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52068</guid>
     </item>
     <item>
       <title>Development and testing of an innovative system for measurement of ultrasound modulation of electrical current in volume conductor</title>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/52061</link>
       <description>Design of a low-overhead NFC-based mobile receipt system - Eyþór Mikael Eyþórsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52061</guid>
+    </item>
+    <item>
+      <title>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum?</title>
+      <link>https://skemman.is/handle/1946/52059</link>
+      <description>Gul stéttarfélög eru jafnan talin andstæð grundvallarhugmyndum félagafrelsis. Að hvaða marki endurspegla þau, ásamt öðrum atriðum á borð við forgangsréttarákvæði og íhlutun atvinnurekenda, kerfislægar áskoranir við að tryggja sjálfstæði stéttarfélaga samkvæmt alþjóðlegum vinnuréttarviðmiðum? - Sara Gunnarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52059</guid>
     </item>
   </channel>
 </rss>
