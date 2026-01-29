@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 29 Jan 2026 10:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 11:14:00 +0000</lastBuildDate>
     <item>
       <title>Structural Controls of Holocene Age Volcanism along the Ljósufjöll Lineament, West Iceland</title>
       <link>https://skemman.is/handle/1946/52070</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/52071</link>
       <description>Ferðamenn í heitu vatni: Hlutverk baðlóna í ímynd og upplifun á Íslandi - Kristinn Helgason 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52071</guid>
+    </item>
+    <item>
+      <title>Einokun og efnahagur</title>
+      <link>https://skemman.is/handle/1946/52072</link>
+      <description>Einokun og efnahagur - Davíð Björn Pálsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52072</guid>
     </item>
     <item>
       <title>Effects of Warming Climate and Land Use Change on Ecosystem Processes in Icelandic Rangelands as Mediated by Plants</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52061</link>
       <description>Design of a low-overhead NFC-based mobile receipt system - Eyþór Mikael Eyþórsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52061</guid>
-    </item>
-    <item>
-      <title>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari</title>
-      <link>https://skemman.is/handle/1946/52033</link>
-      <description>V–laga, kambrað, ósamhverft, framdrifið vængsegl : loftaflfræðileg greining og stýring á ómönnuðu yfirborðsfari - Lukasz Serwatko 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52033</guid>
     </item>
   </channel>
 </rss>
