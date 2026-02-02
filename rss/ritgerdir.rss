@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 02 Feb 2026 13:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 14:19:46 +0000</lastBuildDate>
     <item>
       <title>TGFβ-miðluð samskipti æðaþels og æxlis í brjóstakrabbameinum: Innsýn í hlutverk TGFβ-örvaðs thrombospondins-1 í sértækum undirgerðum þrívíðra brjóstakrabbameinsæxlinga</title>
       <link>https://skemman.is/handle/1946/52081</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/52083</link>
       <description>Holding On For Dear Life: Entrapment and Unattainable Goals in Relation to Suicidal Ideation among University Students - Helga Signý Sveinsdóttir 2001-; Elsa María Helgadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52083</guid>
+    </item>
+    <item>
+      <title>The Weight of the World on Different Shoulders: Gender Differences in the Association Between Risk Factors and Suicidal Thoughts and Suicide Attempts in Iceland</title>
+      <link>https://skemman.is/handle/1946/52084</link>
+      <description>The Weight of the World on Different Shoulders: Gender Differences in the Association Between Risk Factors and Suicidal Thoughts and Suicide Attempts in Iceland - Björk Orradóttir 2001-; Eir Lilja Daníelsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52084</guid>
+    </item>
+    <item>
+      <title>Mat starfsfólks framhaldsskóla á þörf fyrir foreldrafræðslu</title>
+      <link>https://skemman.is/handle/1946/52085</link>
+      <description>Mat starfsfólks framhaldsskóla á þörf fyrir foreldrafræðslu - Anna Birna Fossberg Óskarsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52085</guid>
     </item>
     <item>
       <title>Simulation of demurrage in Threadneedle</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52060</link>
       <description>Reliability of smartwatches in the management and follow-up of patients with Atrial fibrillation on the waiting list for ablation - Herdís Kristjánsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52060</guid>
-    </item>
-    <item>
-      <title>Ferlagreining á AutoStore kerfi: Rannsókn á vöruhúsi Parlogis ehf. á Hólmsheiði í þróunarstigi</title>
-      <link>https://skemman.is/handle/1946/52058</link>
-      <description>Ferlagreining á AutoStore kerfi: Rannsókn á vöruhúsi Parlogis ehf. á Hólmsheiði í þróunarstigi - Hilmir Jónsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52058</guid>
-    </item>
-    <item>
-      <title>Ástandsgreining spenna</title>
-      <link>https://skemman.is/handle/1946/52057</link>
-      <description>Ástandsgreining spenna - Hilmir Dan Gíslason 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52057</guid>
     </item>
   </channel>
 </rss>
