@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 02 Feb 2026 14:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 15:18:44 +0000</lastBuildDate>
     <item>
       <title>TGFβ-miðluð samskipti æðaþels og æxlis í brjóstakrabbameinum: Innsýn í hlutverk TGFβ-örvaðs thrombospondins-1 í sértækum undirgerðum þrívíðra brjóstakrabbameinsæxlinga</title>
       <link>https://skemman.is/handle/1946/52081</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/52085</link>
       <description>Mat starfsfólks framhaldsskóla á þörf fyrir foreldrafræðslu - Anna Birna Fossberg Óskarsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52085</guid>
+    </item>
+    <item>
+      <title>Valorisation of blue whiting (Micromesistius poutassou) for human consumption: Processing efficiency, yield performance, and quality evaluation</title>
+      <link>https://skemman.is/handle/1946/52086</link>
+      <description>Valorisation of blue whiting (Micromesistius poutassou) for human consumption: Processing efficiency, yield performance, and quality evaluation - Kandarp Manishkumar Rajyaguru 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52086</guid>
     </item>
     <item>
       <title>Simulation of demurrage in Threadneedle</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52062</link>
       <description>Development and testing of an innovative system for measurement of ultrasound modulation of electrical current in volume conductor - Davíð Arnljótur Karlsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52062</guid>
-    </item>
-    <item>
-      <title>Reliability of smartwatches in the management and follow-up of patients with Atrial fibrillation on the waiting list for ablation</title>
-      <link>https://skemman.is/handle/1946/52060</link>
-      <description>Reliability of smartwatches in the management and follow-up of patients with Atrial fibrillation on the waiting list for ablation - Herdís Kristjánsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52060</guid>
     </item>
   </channel>
 </rss>
