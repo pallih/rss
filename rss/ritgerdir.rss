@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 04 Feb 2026 08:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 09:19:06 +0000</lastBuildDate>
     <item>
       <title>Long term effects of Rituximab on the adaptive  immune system in MS patients</title>
       <link>https://skemman.is/handle/1946/52090</link>
@@ -39,12 +39,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52081</guid>
     </item>
     <item>
-      <title>Valorisation of blue whiting (Micromesistius poutassou) for human consumption: Processing efficiency, yield performance, and quality evaluation</title>
-      <link>https://skemman.is/handle/1946/52086</link>
-      <description>Valorisation of blue whiting (Micromesistius poutassou) for human consumption: Processing efficiency, yield performance, and quality evaluation - Kandarp Manishkumar Rajyaguru 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52086</guid>
-    </item>
-    <item>
       <title>Mataræði og líkamssamsetning við upphaf meðferðar með GLP-1 viðtakaörvum</title>
       <link>https://skemman.is/handle/1946/52082</link>
       <description>Mataræði og líkamssamsetning við upphaf meðferðar með GLP-1 viðtakaörvum - Jenný June Tómasdóttir 1991-</description>
@@ -67,6 +61,12 @@
       <link>https://skemman.is/handle/1946/52083</link>
       <description>Holding On For Dear Life: Entrapment and Unattainable Goals in Relation to Suicidal Ideation among University Students - Helga Signý Sveinsdóttir 2001-; Elsa María Helgadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52083</guid>
+    </item>
+    <item>
+      <title>Valorisation of blue whiting (Micromesistius poutassou) for human consumption: Processing efficiency, yield performance, and quality evaluation</title>
+      <link>https://skemman.is/handle/1946/52086</link>
+      <description>Valorisation of blue whiting (Micromesistius poutassou) for human consumption: Processing efficiency, yield performance, and quality evaluation - Kandarp Manishkumar Rajyaguru 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52086</guid>
     </item>
     <item>
       <title>Simulation of demurrage in Threadneedle</title>
