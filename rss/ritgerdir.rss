@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 16 Feb 2026 14:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 15:18:18 +0000</lastBuildDate>
     <item>
       <title>Beyond fragmentation :  a life-value alternative for AI governance</title>
       <link>https://skemman.is/handle/1946/52173</link>
@@ -75,6 +75,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52175</guid>
     </item>
     <item>
+      <title>Grænþvottur í textíliðnaði : rannsóknarverkefni á grænþvotti í textíliðnaði</title>
+      <link>https://skemman.is/handle/1946/52177</link>
+      <description>Grænþvottur í textíliðnaði : rannsóknarverkefni á grænþvotti í textíliðnaði - Sandra Sif Baldursdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52177</guid>
+    </item>
+    <item>
+      <title>Þróun dómaframkvæmdar Félagsdóms vegna verkfalla : með áherslu á opinberan vinnumarkað.</title>
+      <link>https://skemman.is/handle/1946/52178</link>
+      <description>Þróun dómaframkvæmdar Félagsdóms vegna verkfalla : með áherslu á opinberan vinnumarkað. - Sólveig Stefánsdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52178</guid>
+    </item>
+    <item>
+      <title>Byggðakvóti og áskoranir tengdar honum</title>
+      <link>https://skemman.is/handle/1946/52179</link>
+      <description>Byggðakvóti og áskoranir tengdar honum - Eyjólfur Bjarnason 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52179</guid>
+    </item>
+    <item>
       <title>Helgun heilbrigðisstarfsfólks á Íslandi með áherslu á kynslóðamun: Þarf að huga að ólíkum áherslum kynslóðanna þegar kemur að því að helga íslenskt heilbrigðisstarfsfólk?</title>
       <link>https://skemman.is/handle/1946/52095</link>
       <description>Helgun heilbrigðisstarfsfólks á Íslandi með áherslu á kynslóðamun: Þarf að huga að ólíkum áherslum kynslóðanna þegar kemur að því að helga íslenskt heilbrigðisstarfsfólk? - Hulda Guðmundsdóttir 1978-</description>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/52135</link>
       <description>Þvinguð aðild eða raunhæft úrræði ? Innlausnarréttur hluthafa vegna framsalshamla - Íris Hrund Sigurðardóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52135</guid>
-    </item>
-    <item>
-      <title>Samhæfing viðbragðsaðila á Íslandi í bráðum aðstæðum.  Bráðamóttaka Landspítala, Lögreglan á höfuðborgarsvæðinu og Slökkvilið höfuðborgarsvæðisins</title>
-      <link>https://skemman.is/handle/1946/52137</link>
-      <description>Samhæfing viðbragðsaðila á Íslandi í bráðum aðstæðum.  Bráðamóttaka Landspítala, Lögreglan á höfuðborgarsvæðinu og Slökkvilið höfuðborgarsvæðisins - Erla Guðlaug Steingrímsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52137</guid>
-    </item>
-    <item>
-      <title>Uppfylla lög nr. 101/2023 kröfur lögmætisreglunnar um skýra, afmarkaða og fyrirsjáanlega heimild til álagningar og innheimtu?</title>
-      <link>https://skemman.is/handle/1946/52138</link>
-      <description>Uppfylla lög nr. 101/2023 kröfur lögmætisreglunnar um skýra, afmarkaða og fyrirsjáanlega heimild til álagningar og innheimtu? - Sigurður Vignir Óðinsson 1982-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52138</guid>
-    </item>
-    <item>
-      <title>Áskoranir í íslensku lagaumhverfi vegna innleiðingar NIS2 tilskipunarinnar</title>
-      <link>https://skemman.is/handle/1946/52139</link>
-      <description>Áskoranir í íslensku lagaumhverfi vegna innleiðingar NIS2 tilskipunarinnar - Haraldur Óli Gunnarsson 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52139</guid>
     </item>
   </channel>
 </rss>
