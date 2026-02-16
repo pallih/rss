@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 16 Feb 2026 15:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 16:18:06 +0000</lastBuildDate>
     <item>
       <title>Beyond fragmentation :  a life-value alternative for AI governance</title>
       <link>https://skemman.is/handle/1946/52173</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52179</guid>
     </item>
     <item>
+      <title>Að lifa af veturinn : hótel og gististaðir á jaðarsvæðum</title>
+      <link>https://skemman.is/handle/1946/52180</link>
+      <description>Að lifa af veturinn : hótel og gististaðir á jaðarsvæðum - Sóley Huld Árnadóttir 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52180</guid>
+    </item>
+    <item>
       <title>Helgun heilbrigðisstarfsfólks á Íslandi með áherslu á kynslóðamun: Þarf að huga að ólíkum áherslum kynslóðanna þegar kemur að því að helga íslenskt heilbrigðisstarfsfólk?</title>
       <link>https://skemman.is/handle/1946/52095</link>
       <description>Helgun heilbrigðisstarfsfólks á Íslandi með áherslu á kynslóðamun: Þarf að huga að ólíkum áherslum kynslóðanna þegar kemur að því að helga íslenskt heilbrigðisstarfsfólk? - Hulda Guðmundsdóttir 1978-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52136</link>
       <description>Ein Sýn, sameiginleg sýn? Áhrif endurmörkunar á helgun starfsmanna - Karítas Sól Kristjánsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52136</guid>
-    </item>
-    <item>
-      <title>Þvinguð aðild eða raunhæft úrræði ? Innlausnarréttur hluthafa vegna framsalshamla</title>
-      <link>https://skemman.is/handle/1946/52135</link>
-      <description>Þvinguð aðild eða raunhæft úrræði ? Innlausnarréttur hluthafa vegna framsalshamla - Íris Hrund Sigurðardóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52135</guid>
     </item>
   </channel>
 </rss>
