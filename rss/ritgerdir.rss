@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 17 Feb 2026 10:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 11:20:01 +0000</lastBuildDate>
+    <item>
+      <title>Stuðningur næstu yfirmanna við andlega heilsu lögreglumanna</title>
+      <link>https://skemman.is/handle/1946/52181</link>
+      <description>Stuðningur næstu yfirmanna við andlega heilsu lögreglumanna - Sara Lind Frostadóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52181</guid>
+    </item>
     <item>
       <title>Beyond fragmentation :  a life-value alternative for AI governance</title>
       <link>https://skemman.is/handle/1946/52173</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52140</link>
       <description>Hvaða aðferð í verkefnastjórnun er áhrifaríkust við uppbyggingu og viðhald golfvalla á Íslandi? - Heiðrún Anna Hlynsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52140</guid>
-    </item>
-    <item>
-      <title>Ein Sýn, sameiginleg sýn? Áhrif endurmörkunar á helgun starfsmanna</title>
-      <link>https://skemman.is/handle/1946/52136</link>
-      <description>Ein Sýn, sameiginleg sýn? Áhrif endurmörkunar á helgun starfsmanna - Karítas Sól Kristjánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52136</guid>
     </item>
   </channel>
 </rss>
