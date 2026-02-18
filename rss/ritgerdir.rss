@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 18 Feb 2026 09:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 10:20:19 +0000</lastBuildDate>
     <item>
       <title>Stuðningur næstu yfirmanna við andlega heilsu lögreglumanna</title>
       <link>https://skemman.is/handle/1946/52181</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52180</guid>
     </item>
     <item>
+      <title>Raki í húsnæði og tengsl við heilsufar: Kerfisbundin yfirlitsgrein</title>
+      <link>https://skemman.is/handle/1946/52176</link>
+      <description>Raki í húsnæði og tengsl við heilsufar: Kerfisbundin yfirlitsgrein - Sylgja Dögg Sigurjónsdóttir 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52176</guid>
+    </item>
+    <item>
       <title>Helgun heilbrigðisstarfsfólks á Íslandi með áherslu á kynslóðamun: Þarf að huga að ólíkum áherslum kynslóðanna þegar kemur að því að helga íslenskt heilbrigðisstarfsfólk?</title>
       <link>https://skemman.is/handle/1946/52095</link>
       <description>Helgun heilbrigðisstarfsfólks á Íslandi með áherslu á kynslóðamun: Þarf að huga að ólíkum áherslum kynslóðanna þegar kemur að því að helga íslenskt heilbrigðisstarfsfólk? - Hulda Guðmundsdóttir 1978-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52132</link>
       <description>Hver er hugsanlegur ávinningur verkefnastýrðrar söluherferðar? - Birkir Einar Björnsson 1993-; Bjarki Sæþórsson 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52132</guid>
-    </item>
-    <item>
-      <title>Hvaða aðferð í verkefnastjórnun er áhrifaríkust við uppbyggingu og viðhald golfvalla á Íslandi?</title>
-      <link>https://skemman.is/handle/1946/52140</link>
-      <description>Hvaða aðferð í verkefnastjórnun er áhrifaríkust við uppbyggingu og viðhald golfvalla á Íslandi? - Heiðrún Anna Hlynsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52140</guid>
     </item>
   </channel>
 </rss>
