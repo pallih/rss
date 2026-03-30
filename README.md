@@ -52,6 +52,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 - [sjonstodin](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/sjonstodin.rss)
 - [sjukratryggingar](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/sjukratryggingar.rss)
 - [skipulagsstofnun](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/skipulagsstofnun.rss)
+- [stafraen-heilsa](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/stafraen-heilsa.rss)
 - [stafraent-island](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/stafraent-island.rss)
 - [syslumenn](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/syslumenn.rss)
 - [thjodskjalasafn](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/thjodskjalasafn.rss)
