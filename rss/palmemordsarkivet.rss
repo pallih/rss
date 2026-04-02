@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:26:31 +0000</lastBuildDate>
     <item>
       <link>https://drive.google.com/file/d/1CFGJGS1vpv5ZAM9CkfEzOG0yasGNhcZB/view?usp=drive_link</link>
       <description>Lars Eric Nilsson (Löjtnant x) Personakt Vapenlicenser Etc</description>
@@ -252,11 +252,6 @@
       <link>https://drive.google.com/file/d/1dtpuKX79QwP_jz6mRk8UF7vwBcO8YAzY/view?usp=drive_link</link>
       <description>Tips om noteringar med hat mot Olof Palme (kopplat till Alf Enerström)</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1dtpuKX79QwP_jz6mRk8UF7vwBcO8YAzY/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1AgOSoM2-ezIN1UbP24Y-MRXdEKpq2q3A/view?usp=drive_link</link>
-      <description>Samtal med vän till Gio Petré</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1AgOSoM2-ezIN1UbP24Y-MRXdEKpq2q3A/view?usp=drive_link</guid>
     </item>
   </channel>
 </rss>
