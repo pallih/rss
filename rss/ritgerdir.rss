@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 09 Apr 2026 13:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:41:05 +0000</lastBuildDate>
     <item>
       <title>Viðhorf ljósmæðra til ábótagjafa heilbrigðra nýbura. Kerfisbundin fræðileg samantekt á eigindlegum rannsóknum</title>
       <link>https://skemman.is/handle/1946/52189</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/52190</link>
       <description>Formulation and Development of Delayed Release Salicylic Acid Tablets: Optimization of Gastro-Resistant Tablets - Jóhanna Magnea Guðjónsdóttir 2003-; Marín Björt Berndsen 2004-; Ingibjörg Embla Björnsdóttir 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52190</guid>
+    </item>
+    <item>
+      <title>Formulation Development of Acid-Resistant Caffeine Tablets with a Two-Staged Release Profile</title>
+      <link>https://skemman.is/handle/1946/52191</link>
+      <description>Formulation Development of Acid-Resistant Caffeine Tablets with a Two-Staged Release Profile - Klara Lind Þórarinsdóttir 2004-; Salka Sóley Ólafsdóttir 2004-; Thelma Lind Björgvinsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52191</guid>
     </item>
     <item>
       <title>Þegar eitt kerfi dugir ekki til: „Unglingurinn og aðstæðurnar hans eru sósan, áleggið og allt þetta óvænta bragð sem gerir þetta svo frábært"</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52179</link>
       <description>Byggðakvóti og áskoranir tengdar honum - Eyjólfur Bjarnason 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52179</guid>
-    </item>
-    <item>
-      <title>Grænþvottur í textíliðnaði : rannsóknarverkefni á grænþvotti í textíliðnaði</title>
-      <link>https://skemman.is/handle/1946/52177</link>
-      <description>Grænþvottur í textíliðnaði : rannsóknarverkefni á grænþvotti í textíliðnaði - Sandra Sif Baldursdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52177</guid>
     </item>
   </channel>
 </rss>
