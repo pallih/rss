@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 12:29:53 +0000</lastBuildDate>
     <item>
       <title>Viðhorf ljósmæðra til ábótagjafa heilbrigðra nýbura. Kerfisbundin fræðileg samantekt á eigindlegum rannsóknum</title>
       <link>https://skemman.is/handle/1946/52189</link>
       <description>Viðhorf ljósmæðra til ábótagjafa heilbrigðra nýbura. Kerfisbundin fræðileg samantekt á eigindlegum rannsóknum - Ólöf Ýr Ragnarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52189</guid>
+    </item>
+    <item>
+      <title>Formulation and Development of Delayed Release Salicylic Acid Tablets: Optimization of Gastro-Resistant Tablets</title>
+      <link>https://skemman.is/handle/1946/52190</link>
+      <description>Formulation and Development of Delayed Release Salicylic Acid Tablets: Optimization of Gastro-Resistant Tablets - Jóhanna Magnea Guðjónsdóttir 2003-; Marín Björt Berndsen 2004-; Ingibjörg Embla Björnsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52190</guid>
     </item>
     <item>
       <title>Þegar eitt kerfi dugir ekki til: „Unglingurinn og aðstæðurnar hans eru sósan, áleggið og allt þetta óvænta bragð sem gerir þetta svo frábært"</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52177</link>
       <description>Grænþvottur í textíliðnaði : rannsóknarverkefni á grænþvotti í textíliðnaði - Sandra Sif Baldursdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52177</guid>
-    </item>
-    <item>
-      <title>Að lifa af veturinn : hótel og gististaðir á jaðarsvæðum</title>
-      <link>https://skemman.is/handle/1946/52180</link>
-      <description>Að lifa af veturinn : hótel og gististaðir á jaðarsvæðum - Sóley Huld Árnadóttir 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52180</guid>
     </item>
   </channel>
 </rss>
