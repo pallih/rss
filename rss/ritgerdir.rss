@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:37:08 +0000</lastBuildDate>
     <item>
       <title>Foreldraútilokun: afleiðingar fyrir börn og áskoranir í félagsráðgjöf</title>
       <link>https://skemman.is/handle/1946/52202</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52215</guid>
     </item>
     <item>
+      <title>Sibling-focused parentification in the context of child maltreatment: A narrative literature review</title>
+      <link>https://skemman.is/handle/1946/52216</link>
+      <description>Sibling-focused parentification in the context of child maltreatment: A narrative literature review - Lena Inaba Árnadóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52216</guid>
+    </item>
+    <item>
       <title>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search</title>
       <link>https://skemman.is/handle/1946/52193</link>
       <description>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search - Arnaldur Máni Magnússon 2004-; Embla Dís Ásgeirsdóttir 2003-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52196</link>
       <description>"Ég brenn af ást til - mín". Uppeldi í umsjón narsissískra foreldra: sálfélagsleg áhrif á börn - Andrea Björk Rúnarsdóttir 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52196</guid>
-    </item>
-    <item>
-      <title>Formulation and Development of Delayed Release Salicylic Acid Tablets: Optimization of Gastro-Resistant Tablets</title>
-      <link>https://skemman.is/handle/1946/52190</link>
-      <description>Formulation and Development of Delayed Release Salicylic Acid Tablets: Optimization of Gastro-Resistant Tablets - Jóhanna Magnea Guðjónsdóttir 2003-; Marín Björt Berndsen 2004-; Ingibjörg Embla Björnsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52190</guid>
     </item>
   </channel>
 </rss>
