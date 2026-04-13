@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 Apr 2026 13:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:39:22 +0000</lastBuildDate>
     <item>
       <title>Foreldraútilokun: afleiðingar fyrir börn og áskoranir í félagsráðgjöf</title>
       <link>https://skemman.is/handle/1946/52202</link>
@@ -99,6 +99,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52216</guid>
     </item>
     <item>
+      <title>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu. Hversu ríkar kröfur eru gerðar til sönnunar á orsakatengslum þegar sjúklingur verður fyrir tjóni innan heilbrigðiskerfisins?</title>
+      <link>https://skemman.is/handle/1946/52217</link>
+      <description>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu. Hversu ríkar kröfur eru gerðar til sönnunar á orsakatengslum þegar sjúklingur verður fyrir tjóni innan heilbrigðiskerfisins? - Helgi Valur Wedholm Gunnarsson 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52217</guid>
+    </item>
+    <item>
       <title>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search</title>
       <link>https://skemman.is/handle/1946/52193</link>
       <description>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search - Arnaldur Máni Magnússon 2004-; Embla Dís Ásgeirsdóttir 2003-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52195</link>
       <description>Frá áföllum til afbrota. Um tengsl áfalla í æsku, fangelsisvistar og endurhæfingar á Íslandi - Þorbjörg Oddný Kristjánsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52195</guid>
-    </item>
-    <item>
-      <title>"Ég brenn af ást til - mín". Uppeldi í umsjón narsissískra foreldra: sálfélagsleg áhrif á börn</title>
-      <link>https://skemman.is/handle/1946/52196</link>
-      <description>"Ég brenn af ást til - mín". Uppeldi í umsjón narsissískra foreldra: sálfélagsleg áhrif á börn - Andrea Björk Rúnarsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52196</guid>
     </item>
   </channel>
 </rss>
