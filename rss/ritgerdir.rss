@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:37:49 +0000</lastBuildDate>
     <item>
       <title>Foreldraútilokun: afleiðingar fyrir börn og áskoranir í félagsráðgjöf</title>
       <link>https://skemman.is/handle/1946/52202</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/52205</link>
       <description>Meira en þyngdartap: Áhrif efnaskiptaaðgerða á neysluhegðun og sálfélagslega líðan - Eva María Arnarsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52205</guid>
+    </item>
+    <item>
+      <title>„Það hjálpaði mér rosalega að fá einhvern utan frá til að setja hlutina í samhengi“ Námstengd streita, andleg líðan og bjargráð háskólanema</title>
+      <link>https://skemman.is/handle/1946/52206</link>
+      <description>„Það hjálpaði mér rosalega að fá einhvern utan frá til að setja hlutina í samhengi“ Námstengd streita, andleg líðan og bjargráð háskólanema - Ásgerður Sigurðardóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52206</guid>
     </item>
     <item>
       <title>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52182</link>
       <description>Mótstaða gegn E. Coli sýkingum í ærbroddi. Rannsókn á mismunandi fyrirbyggjandi aðgerða á mótefna magn gegn E. Coli sýkingum í ærbroddi - Sesselja Dís Heiðarsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52182</guid>
-    </item>
-    <item>
-      <title>Stuðningur næstu yfirmanna við andlega heilsu lögreglumanna</title>
-      <link>https://skemman.is/handle/1946/52181</link>
-      <description>Stuðningur næstu yfirmanna við andlega heilsu lögreglumanna - Sara Lind Frostadóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52181</guid>
     </item>
   </channel>
 </rss>
