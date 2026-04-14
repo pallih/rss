@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 14 Apr 2026 09:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:33:32 +0000</lastBuildDate>
     <item>
       <title>Sýslumenn Járnsíðu og Jónsbókar. Tilurð sýslumannsembætta á miðöldum og innleiðing þeirra á Íslandi.</title>
       <link>https://skemman.is/handle/1946/52219</link>
@@ -43,6 +43,24 @@
       <link>https://skemman.is/handle/1946/52224</link>
       <description>Að alast upp hjá seinfærum foreldrum: Upplifun barna og áhrif uppeldis, umhverfis og stuðnings - Emilía Björk Jóhannsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52224</guid>
+    </item>
+    <item>
+      <title>Aðgæsluskylda í fasteignakaupum: er aðgæsluskylda kaupanda ríkari en ella þegar seljandinn hefur takmarkaðar upplýsingar um fasteignina?</title>
+      <link>https://skemman.is/handle/1946/52225</link>
+      <description>Aðgæsluskylda í fasteignakaupum: er aðgæsluskylda kaupanda ríkari en ella þegar seljandinn hefur takmarkaðar upplýsingar um fasteignina? - Íris Vilhjálmsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52225</guid>
+    </item>
+    <item>
+      <title>Fjölskyldur afbrotamanna með geðraskanir: Áhrif og stuðningur</title>
+      <link>https://skemman.is/handle/1946/52226</link>
+      <description>Fjölskyldur afbrotamanna með geðraskanir: Áhrif og stuðningur - Fjóla Rún Sölvadóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52226</guid>
+    </item>
+    <item>
+      <title>Þegar gervigreind skapar markaðsefni: Tækifæri, takmarkanir og siðferðileg sjónarmið</title>
+      <link>https://skemman.is/handle/1946/52227</link>
+      <description>Þegar gervigreind skapar markaðsefni: Tækifæri, takmarkanir og siðferðileg sjónarmið - Hafdís Hrönn Kristjánsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52227</guid>
     </item>
     <item>
       <title>„Það er löngu orðið tímabært að nálgast hlutina með öðrum hætti“: Viðhorf fanga á Íslandi til notkunar spjaldtölva í tengslum við menntun og félagsleg tengsl</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/52209</link>
       <description>Upplýsingaréttur almennings. Helstu sjónarmið við mat á takmörkun aðgangs að gögnum samkvæmt 2. málsl. 9. gr. upplýsingalaga - Skúli Björn Ásgeirsson 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52209</guid>
-    </item>
-    <item>
-      <title>Hreyfing ungra barna: Mikilvægi hreyfingar fyrir þroska og nám barna</title>
-      <link>https://skemman.is/handle/1946/52208</link>
-      <description>Hreyfing ungra barna: Mikilvægi hreyfingar fyrir þroska og nám barna - Karen Eir Magnúsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52208</guid>
-    </item>
-    <item>
-      <title>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search</title>
-      <link>https://skemman.is/handle/1946/52193</link>
-      <description>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search - Arnaldur Máni Magnússon 2004-; Embla Dís Ásgeirsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52193</guid>
-    </item>
-    <item>
-      <title>Áfallamiðuð nálgun í grunnskólum - Mætum börnum með skilningi</title>
-      <link>https://skemman.is/handle/1946/52192</link>
-      <description>Áfallamiðuð nálgun í grunnskólum - Mætum börnum með skilningi - Sara Dögg Eysteinsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52192</guid>
     </item>
   </channel>
 </rss>
