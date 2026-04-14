@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:40:08 +0000</lastBuildDate>
     <item>
       <title>Foreldraútilokun: afleiðingar fyrir börn og áskoranir í félagsráðgjöf</title>
       <link>https://skemman.is/handle/1946/52202</link>
@@ -105,6 +105,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52217</guid>
     </item>
     <item>
+      <title>Foreldramissir í bernsku: Áhrif foreldramissis og mikilvægi stuðnings</title>
+      <link>https://skemman.is/handle/1946/52218</link>
+      <description>Foreldramissir í bernsku: Áhrif foreldramissis og mikilvægi stuðnings - Elsa Dögg Stefánsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52218</guid>
+    </item>
+    <item>
       <title>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search</title>
       <link>https://skemman.is/handle/1946/52193</link>
       <description>Can we look for our phone and keys simultaneously? The effects of visual foraging on template search - Arnaldur Máni Magnússon 2004-; Embla Dís Ásgeirsdóttir 2003-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52201</link>
       <description>Dulinn kostnaður óformlegrar umönnunar: Heilsufarsáhrif óformlegrar umönnunar á aðstandendur aldraðra - Anna Kristín L. Hafsteinsdóttir 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52201</guid>
-    </item>
-    <item>
-      <title>Frá áföllum til afbrota. Um tengsl áfalla í æsku, fangelsisvistar og endurhæfingar á Íslandi</title>
-      <link>https://skemman.is/handle/1946/52195</link>
-      <description>Frá áföllum til afbrota. Um tengsl áfalla í æsku, fangelsisvistar og endurhæfingar á Íslandi - Þorbjörg Oddný Kristjánsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52195</guid>
     </item>
   </channel>
 </rss>
