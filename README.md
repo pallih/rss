@@ -15,6 +15,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 
 - [blodbankinn](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/blodbankinn.rss)
 - [bofs](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/bofs.rss)
+- [domstolasyslan](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/domstolasyslan.rss)
 - [endurupptokudomur](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/endurupptokudomur.rss)
 - [faggilding](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/faggilding.rss)
 - [fiskistofa](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/fiskistofa.rss)
