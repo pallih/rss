@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 11:26:04 +0000</lastBuildDate>
     <item>
       <title>Aðgæsluskylda kaupanda í fasteignakaupum: Samspil aðgæsluskyldu kaupanda við upplýsingaskyldu seljanda og áhrif sérfræðiþekkingar kaupanda og aðstoðarmanna hans</title>
       <link>https://skemman.is/handle/1946/52242</link>
@@ -51,22 +51,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52245</guid>
     </item>
     <item>
-      <title>Ágreiningur um forsjá barna: Greining á málsmeðferð og úrlausn forsjármála á stjórnsýslustigi og dómstigi</title>
-      <link>https://skemman.is/handle/1946/52246</link>
-      <description>Ágreiningur um forsjá barna: Greining á málsmeðferð og úrlausn forsjármála á stjórnsýslustigi og dómstigi - Tinna Rakel Jónsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52246</guid>
-    </item>
-    <item>
-      <title>Kynferðislegt ofbeldi gegn börnum: Þróun og hlutverk Barnahúss</title>
-      <link>https://skemman.is/handle/1946/52247</link>
-      <description>Kynferðislegt ofbeldi gegn börnum: Þróun og hlutverk Barnahúss - Högna Hákonardóttir 2002-; María Höskuldsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52247</guid>
-    </item>
-    <item>
-      <title>Upplifun aðstandenda einstaklinga með Alzheimersjúkdóminn: Umönnun, álag og tvíræð sorg</title>
-      <link>https://skemman.is/handle/1946/52249</link>
-      <description>Upplifun aðstandenda einstaklinga með Alzheimersjúkdóminn: Umönnun, álag og tvíræð sorg - Sunna Lind Sigríðardóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52249</guid>
+      <title>Teymisvinna í heilbrigðisþjónustu: Helstu áskoranir og tækifæri</title>
+      <link>https://skemman.is/handle/1946/52252</link>
+      <description>Teymisvinna í heilbrigðisþjónustu: Helstu áskoranir og tækifæri - Hekla Sif Hreggviðsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52252</guid>
     </item>
     <item>
       <title>Kulnun í starfi félagsráðgjafa - Yfirlitssamantekt</title>
@@ -75,10 +63,82 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52250</guid>
     </item>
     <item>
+      <title>Ágreiningur um forsjá barna: Greining á málsmeðferð og úrlausn forsjármála á stjórnsýslustigi og dómstigi</title>
+      <link>https://skemman.is/handle/1946/52246</link>
+      <description>Ágreiningur um forsjá barna: Greining á málsmeðferð og úrlausn forsjármála á stjórnsýslustigi og dómstigi - Tinna Rakel Jónsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52246</guid>
+    </item>
+    <item>
       <title>Foreldraábyrgð í skilnaðarferli með velferð barna að leiðarljósi. Hlutverk félagsráðgjafa í stuðningi við foreldra</title>
       <link>https://skemman.is/handle/1946/52248</link>
       <description>Foreldraábyrgð í skilnaðarferli með velferð barna að leiðarljósi. Hlutverk félagsráðgjafa í stuðningi við foreldra - Þóranna Friðgeirsdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52248</guid>
+    </item>
+    <item>
+      <title>Kynferðislegt ofbeldi gegn börnum: Þróun og hlutverk Barnahúss</title>
+      <link>https://skemman.is/handle/1946/52247</link>
+      <description>Kynferðislegt ofbeldi gegn börnum: Þróun og hlutverk Barnahúss - Högna Hákonardóttir 2002-; María Höskuldsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52247</guid>
+    </item>
+    <item>
+      <title>Þangað og aftur heim: Bilbó sem óhefðbundin hetja í The Hobbit</title>
+      <link>https://skemman.is/handle/1946/52251</link>
+      <description>Þangað og aftur heim: Bilbó sem óhefðbundin hetja í The Hobbit - Margrét Steinunn Jónsdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52251</guid>
+    </item>
+    <item>
+      <title>Upplifun aðstandenda einstaklinga með Alzheimersjúkdóminn: Umönnun, álag og tvíræð sorg</title>
+      <link>https://skemman.is/handle/1946/52249</link>
+      <description>Upplifun aðstandenda einstaklinga með Alzheimersjúkdóminn: Umönnun, álag og tvíræð sorg - Sunna Lind Sigríðardóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52249</guid>
+    </item>
+    <item>
+      <title>Kristinréttur Árna biskups Þorlákssonar. Tilurð og lagasetning kristinréttar Árna biskups Þorlákssonar.</title>
+      <link>https://skemman.is/handle/1946/52253</link>
+      <description>Kristinréttur Árna biskups Þorlákssonar. Tilurð og lagasetning kristinréttar Árna biskups Þorlákssonar. - Eiríkur Hilmar Eiríksson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52253</guid>
+    </item>
+    <item>
+      <title>Hinsegin foreldrar og fjölskyldulíf: Upplifanir, áskoranir og hlutverk fjölskylduráðgjafar</title>
+      <link>https://skemman.is/handle/1946/52254</link>
+      <description>Hinsegin foreldrar og fjölskyldulíf: Upplifanir, áskoranir og hlutverk fjölskylduráðgjafar - Kolfinna Arndísardóttir 1999-; Hildur Bjarnadóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52254</guid>
+    </item>
+    <item>
+      <title>Upplifun félagsráðgjafa á Íslandi á starfi sínu í dreifbýli: „Eigum við ekki bara að leggjast á eitt og gera þetta?"</title>
+      <link>https://skemman.is/handle/1946/52255</link>
+      <description>Upplifun félagsráðgjafa á Íslandi á starfi sínu í dreifbýli: „Eigum við ekki bara að leggjast á eitt og gera þetta?" - Guðrún Brynjólfsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52255</guid>
+    </item>
+    <item>
+      <title>Sjónarmið fjölskyldna af erlendum uppruna á þjónustu barnaverndar</title>
+      <link>https://skemman.is/handle/1946/52256</link>
+      <description>Sjónarmið fjölskyldna af erlendum uppruna á þjónustu barnaverndar - Aleksandra Lis 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52256</guid>
+    </item>
+    <item>
+      <title>Að verða fullorðin of snemma: Reynsla fullorðinna barna foreldra með vímuefnaröskun Áhersla á  tengsl við börn, maka og vini.</title>
+      <link>https://skemman.is/handle/1946/52257</link>
+      <description>Að verða fullorðin of snemma: Reynsla fullorðinna barna foreldra með vímuefnaröskun Áhersla á  tengsl við börn, maka og vini. - Vánía Kristín Leite Lopes 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52257</guid>
+    </item>
+    <item>
+      <title>Hindranir þátttöku barna innan barnaverndarþjónustu: Staða þekkingar</title>
+      <link>https://skemman.is/handle/1946/52258</link>
+      <description>Hindranir þátttöku barna innan barnaverndarþjónustu: Staða þekkingar - Alma Björk Ólafsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52258</guid>
+    </item>
+    <item>
+      <title>Líkamlegt ofbeldi gegn börnum á Íslandi: Viðbrögð og úrræði</title>
+      <link>https://skemman.is/handle/1946/52259</link>
+      <description>Líkamlegt ofbeldi gegn börnum á Íslandi: Viðbrögð og úrræði - Kolbrá Jóhanna Magnadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52259</guid>
+    </item>
+    <item>
+      <title>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu – Hverjar eru sönnunarkröfur sjúklinga samkvæmt 2. gr. laga nr. 47/2024 um sjúklingatryggingu?</title>
+      <link>https://skemman.is/handle/1946/52260</link>
+      <description>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu – Hverjar eru sönnunarkröfur sjúklinga samkvæmt 2. gr. laga nr. 47/2024 um sjúklingatryggingu? - Salka Sigmundsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52260</guid>
     </item>
     <item>
       <title>Sýslumenn Járnsíðu og Jónsbókar. Tilurð sýslumannsembætta á miðöldum og innleiðing þeirra á Íslandi.</title>
@@ -97,66 +157,6 @@
       <link>https://skemman.is/handle/1946/52235</link>
       <description>Bókun 35 við EES-samninginn: Jafngildir innleiðing bókunar 35 við EES-samninginn ólögmætu framsali löggjafarvalds samkvæmt stjórnarskrá lýðveldisins Íslands? - Margrét Birta Björgúlfsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52235</guid>
-    </item>
-    <item>
-      <title>Réttur heilbrigðisstarfsmanna til miskabóta vegna alvarlegra atvika í heilbrigðisþjónustu: Hvenær stofnast slíkur réttur þegar sakamálarannsókn er felld niður eða máli lýkur með sýknu?</title>
-      <link>https://skemman.is/handle/1946/52233</link>
-      <description>Réttur heilbrigðisstarfsmanna til miskabóta vegna alvarlegra atvika í heilbrigðisþjónustu: Hvenær stofnast slíkur réttur þegar sakamálarannsókn er felld niður eða máli lýkur með sýknu? - Salka Sigmarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52233</guid>
-    </item>
-    <item>
-      <title>Bókun 35 við EES-samninginn: Innleiðing bókunar 35 og skýringarregla 3. gr. laga nr. 2/1993 um Evrópska efnahagssvæðið</title>
-      <link>https://skemman.is/handle/1946/52234</link>
-      <description>Bókun 35 við EES-samninginn: Innleiðing bókunar 35 og skýringarregla 3. gr. laga nr. 2/1993 um Evrópska efnahagssvæðið - Þórdís Anna Gunnarsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52234</guid>
-    </item>
-    <item>
-      <title>Þróun bótaábyrgðar í heilbrigðisþjónustu: Áhrif laga um sjúklingatryggingu á bótaábyrgð heilbrigðisstarfsmanna og réttarstöðu sjúklinga</title>
-      <link>https://skemman.is/handle/1946/52229</link>
-      <description>Þróun bótaábyrgðar í heilbrigðisþjónustu: Áhrif laga um sjúklingatryggingu á bótaábyrgð heilbrigðisstarfsmanna og réttarstöðu sjúklinga - Silja Fanney Angantýsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52229</guid>
-    </item>
-    <item>
-      <title>Innleiðing bókunar 35 í íslenskan rétt: Uppfyllir 3. gr. laga nr. 2/1993 um Evrópska efnahagssvæðið kröfur bókunar 35 um forgangsáhrif EES-reglna í íslenskum rétti?</title>
-      <link>https://skemman.is/handle/1946/52230</link>
-      <description>Innleiðing bókunar 35 í íslenskan rétt: Uppfyllir 3. gr. laga nr. 2/1993 um Evrópska efnahagssvæðið kröfur bókunar 35 um forgangsáhrif EES-reglna í íslenskum rétti? - Róberta Lilja Ísólfsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52230</guid>
-    </item>
-    <item>
-      <title>Ofbeldi í nánum samböndum milli menningarheima: Áhersla á vestræna og íslamska menningu</title>
-      <link>https://skemman.is/handle/1946/52232</link>
-      <description>Ofbeldi í nánum samböndum milli menningarheima: Áhersla á vestræna og íslamska menningu - Arna Diljá Guðjónsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52232</guid>
-    </item>
-    <item>
-      <title>Félagslegar afleiðingar barnleysis: Félagslegt samhengi og sjónarhorn félagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/52221</link>
-      <description>Félagslegar afleiðingar barnleysis: Félagslegt samhengi og sjónarhorn félagsráðgjafa - Lilja Katrín Gunnarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52221</guid>
-    </item>
-    <item>
-      <title>Barn greinist með hjartagalla og hvað svo?: Sálfélagslegar áskoranir og hlutverk félagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/52220</link>
-      <description>Barn greinist með hjartagalla og hvað svo?: Sálfélagslegar áskoranir og hlutverk félagsráðgjafa - Hekla Björg Jónsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52220</guid>
-    </item>
-    <item>
-      <title>Þegar gervigreind skapar markaðsefni: Tækifæri, takmarkanir og siðferðileg sjónarmið</title>
-      <link>https://skemman.is/handle/1946/52227</link>
-      <description>Þegar gervigreind skapar markaðsefni: Tækifæri, takmarkanir og siðferðileg sjónarmið - Hafdís Hrönn Kristjánsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52227</guid>
-    </item>
-    <item>
-      <title>Aðgæsluskylda í fasteignakaupum: er aðgæsluskylda kaupanda ríkari en ella þegar seljandinn hefur takmarkaðar upplýsingar um fasteignina?</title>
-      <link>https://skemman.is/handle/1946/52225</link>
-      <description>Aðgæsluskylda í fasteignakaupum: er aðgæsluskylda kaupanda ríkari en ella þegar seljandinn hefur takmarkaðar upplýsingar um fasteignina? - Íris Vilhjálmsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52225</guid>
-    </item>
-    <item>
-      <title>Frá lífshlaupi til lífeyris: Lífeyrisréttindi eldri fullorðinna á Íslandi</title>
-      <link>https://skemman.is/handle/1946/52222</link>
-      <description>Frá lífshlaupi til lífeyris: Lífeyrisréttindi eldri fullorðinna á Íslandi - Benedikt Þór Hjaltason 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52222</guid>
     </item>
   </channel>
 </rss>
