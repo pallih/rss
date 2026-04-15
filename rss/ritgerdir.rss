@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 15 Apr 2026 11:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 12:29:32 +0000</lastBuildDate>
     <item>
       <title>Aðgæsluskylda kaupanda í fasteignakaupum: Samspil aðgæsluskyldu kaupanda við upplýsingaskyldu seljanda og áhrif sérfræðiþekkingar kaupanda og aðstoðarmanna hans</title>
       <link>https://skemman.is/handle/1946/52242</link>
@@ -99,6 +99,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52253</guid>
     </item>
     <item>
+      <title>Hindranir þátttöku barna innan barnaverndarþjónustu: Staða þekkingar</title>
+      <link>https://skemman.is/handle/1946/52258</link>
+      <description>Hindranir þátttöku barna innan barnaverndarþjónustu: Staða þekkingar - Alma Björk Ólafsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52258</guid>
+    </item>
+    <item>
+      <title>Að verða fullorðin of snemma: Reynsla fullorðinna barna foreldra með vímuefnaröskun Áhersla á  tengsl við börn, maka og vini.</title>
+      <link>https://skemman.is/handle/1946/52257</link>
+      <description>Að verða fullorðin of snemma: Reynsla fullorðinna barna foreldra með vímuefnaröskun Áhersla á  tengsl við börn, maka og vini. - Vánía Kristín Leite Lopes 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52257</guid>
+    </item>
+    <item>
       <title>Hinsegin foreldrar og fjölskyldulíf: Upplifanir, áskoranir og hlutverk fjölskylduráðgjafar</title>
       <link>https://skemman.is/handle/1946/52254</link>
       <description>Hinsegin foreldrar og fjölskyldulíf: Upplifanir, áskoranir og hlutverk fjölskylduráðgjafar - Kolfinna Arndísardóttir 1999-; Hildur Bjarnadóttir 1995-</description>
@@ -111,22 +123,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52255</guid>
     </item>
     <item>
+      <title>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu – Hverjar eru sönnunarkröfur sjúklinga samkvæmt 2. gr. laga nr. 47/2024 um sjúklingatryggingu?</title>
+      <link>https://skemman.is/handle/1946/52260</link>
+      <description>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu – Hverjar eru sönnunarkröfur sjúklinga samkvæmt 2. gr. laga nr. 47/2024 um sjúklingatryggingu? - Salka Sigmundsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52260</guid>
+    </item>
+    <item>
+      <title>„Fyrirliggjandi gögn“ eða „krafa um að útbúa ný“: Á almenningur rétt á gögnum úr gagnagrunnum stjórnvalda samkvæmt upplýsingalögum?</title>
+      <link>https://skemman.is/handle/1946/52262</link>
+      <description>„Fyrirliggjandi gögn“ eða „krafa um að útbúa ný“: Á almenningur rétt á gögnum úr gagnagrunnum stjórnvalda samkvæmt upplýsingalögum? - Friðjón Guðjohnsen 1967-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52262</guid>
+    </item>
+    <item>
       <title>Sjónarmið fjölskyldna af erlendum uppruna á þjónustu barnaverndar</title>
       <link>https://skemman.is/handle/1946/52256</link>
       <description>Sjónarmið fjölskyldna af erlendum uppruna á þjónustu barnaverndar - Aleksandra Lis 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52256</guid>
-    </item>
-    <item>
-      <title>Að verða fullorðin of snemma: Reynsla fullorðinna barna foreldra með vímuefnaröskun Áhersla á  tengsl við börn, maka og vini.</title>
-      <link>https://skemman.is/handle/1946/52257</link>
-      <description>Að verða fullorðin of snemma: Reynsla fullorðinna barna foreldra með vímuefnaröskun Áhersla á  tengsl við börn, maka og vini. - Vánía Kristín Leite Lopes 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52257</guid>
-    </item>
-    <item>
-      <title>Hindranir þátttöku barna innan barnaverndarþjónustu: Staða þekkingar</title>
-      <link>https://skemman.is/handle/1946/52258</link>
-      <description>Hindranir þátttöku barna innan barnaverndarþjónustu: Staða þekkingar - Alma Björk Ólafsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52258</guid>
     </item>
     <item>
       <title>Líkamlegt ofbeldi gegn börnum á Íslandi: Viðbrögð og úrræði</title>
@@ -135,28 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52259</guid>
     </item>
     <item>
-      <title>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu – Hverjar eru sönnunarkröfur sjúklinga samkvæmt 2. gr. laga nr. 47/2024 um sjúklingatryggingu?</title>
-      <link>https://skemman.is/handle/1946/52260</link>
-      <description>Skaðabótaábyrgð vegna alvarlegra atvika í heilbrigðisþjónustu – Hverjar eru sönnunarkröfur sjúklinga samkvæmt 2. gr. laga nr. 47/2024 um sjúklingatryggingu? - Salka Sigmundsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52260</guid>
+      <title>Áhættuhegðun ungmenna: fíknivandi ungmenna á Íslandi</title>
+      <link>https://skemman.is/handle/1946/52261</link>
+      <description>Áhættuhegðun ungmenna: fíknivandi ungmenna á Íslandi - Jóhanna Helga Sigurðardóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52261</guid>
     </item>
     <item>
-      <title>Sýslumenn Járnsíðu og Jónsbókar. Tilurð sýslumannsembætta á miðöldum og innleiðing þeirra á Íslandi.</title>
-      <link>https://skemman.is/handle/1946/52219</link>
-      <description>Sýslumenn Járnsíðu og Jónsbókar. Tilurð sýslumannsembætta á miðöldum og innleiðing þeirra á Íslandi. - Sigurður Karl Sverrisson 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52219</guid>
-    </item>
-    <item>
-      <title>Þegar fortíðin mótar framtíðina: Kynslóðatilfærsla áfalla og áhrif á velferð barna og hlutverk félagsráðgjafar</title>
-      <link>https://skemman.is/handle/1946/52231</link>
-      <description>Þegar fortíðin mótar framtíðina: Kynslóðatilfærsla áfalla og áhrif á velferð barna og hlutverk félagsráðgjafar - Helga Rut Guðjónsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52231</guid>
-    </item>
-    <item>
-      <title>Bókun 35 við EES-samninginn: Jafngildir innleiðing bókunar 35 við EES-samninginn ólögmætu framsali löggjafarvalds samkvæmt stjórnarskrá lýðveldisins Íslands?</title>
-      <link>https://skemman.is/handle/1946/52235</link>
-      <description>Bókun 35 við EES-samninginn: Jafngildir innleiðing bókunar 35 við EES-samninginn ólögmætu framsali löggjafarvalds samkvæmt stjórnarskrá lýðveldisins Íslands? - Margrét Birta Björgúlfsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52235</guid>
+      <title>Áfallamiðuð nálgun og skólafélagsráðgjöf: Hvaða áskoranir felast í innleiðingu áfallamiðaðrar nálgunar í skólastarfi og hvaða þættir styðja við árangur hennar?</title>
+      <link>https://skemman.is/handle/1946/52263</link>
+      <description>Áfallamiðuð nálgun og skólafélagsráðgjöf: Hvaða áskoranir felast í innleiðingu áfallamiðaðrar nálgunar í skólastarfi og hvaða þættir styðja við árangur hennar? - Guðrún Björnsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52263</guid>
     </item>
   </channel>
 </rss>
