@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:31:36 +0000</lastBuildDate>
     <item>
       <title>Uppeldisábyrgð í stafrænu nútímasamfélagi: foreldrahlutverk, uppeldishættir og samstarf heimilis og skóla</title>
       <link>https://skemman.is/handle/1946/52318</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/52317</link>
       <description>Eignarréttarvernd velferðarréttinda með hliðsjón af dómum Hæstaréttar 2. nóvember (15-17/2022) - Birkir Snær Brynleifsson 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52317</guid>
+    </item>
+    <item>
+      <title>Lærum í takt: Tónmennt í samþættu námi. Þróun stafræns kennsluefnis fyrir yngsta stig grunnskóla</title>
+      <link>https://skemman.is/handle/1946/52321</link>
+      <description>Lærum í takt: Tónmennt í samþættu námi. Þróun stafræns kennsluefnis fyrir yngsta stig grunnskóla - Heiðbjört Stefánsdóttir 2003-; Hjördís Anna Matthíasdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52321</guid>
     </item>
     <item>
       <title>Félagsleg úrræði fyrir einstaklinga með vímuefnaröskun. Samanburður á skaðaminnkun og bata- og bataauðsmiðuðum nálgunum</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52281</link>
       <description>Milliliðalaus sönnunarfærsla í dómaframkvæmd. Meginreglan um milliliðalausa sönnunarfærslu í sakamálum í dómaframkvæmd með áherslu á svokölluð hrunmál. - Harpa Lóa Einarsdóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52281</guid>
-    </item>
-    <item>
-      <title>Ofbeldi í nánum samböndum: Skilyrði 2. mgr. 218. gr. b hgl., með áherslu á misnotkun á yfirburðastöðu</title>
-      <link>https://skemman.is/handle/1946/52286</link>
-      <description>Ofbeldi í nánum samböndum: Skilyrði 2. mgr. 218. gr. b hgl., með áherslu á misnotkun á yfirburðastöðu - Stefanía Ósk Pálsdóttir Diego 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52286</guid>
     </item>
   </channel>
 </rss>
