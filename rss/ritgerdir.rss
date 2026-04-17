@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:37:09 +0000</lastBuildDate>
-    <item>
-      <title>Eignarréttarvernd velferðarréttinda með hliðsjón af dómum Hæstaréttar 2. nóvember (15-17/2022)</title>
-      <link>https://skemman.is/handle/1946/52317</link>
-      <description>Eignarréttarvernd velferðarréttinda með hliðsjón af dómum Hæstaréttar 2. nóvember (15-17/2022) - Birkir Snær Brynleifsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52317</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 10:30:16 +0000</lastBuildDate>
     <item>
       <title>Uppeldisábyrgð í stafrænu nútímasamfélagi: foreldrahlutverk, uppeldishættir og samstarf heimilis og skóla</title>
       <link>https://skemman.is/handle/1946/52318</link>
@@ -31,6 +25,12 @@
       <link>https://skemman.is/handle/1946/52320</link>
       <description>Heyrðu orðið! : Leikræn nálgun að málörvun og orðaforðaþróun leikskólabarna - Aníta Rós Pétursdóttir 1990-; Inga Sjöfn Arnbergsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52320</guid>
+    </item>
+    <item>
+      <title>Eignarréttarvernd velferðarréttinda með hliðsjón af dómum Hæstaréttar 2. nóvember (15-17/2022)</title>
+      <link>https://skemman.is/handle/1946/52317</link>
+      <description>Eignarréttarvernd velferðarréttinda með hliðsjón af dómum Hæstaréttar 2. nóvember (15-17/2022) - Birkir Snær Brynleifsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52317</guid>
     </item>
     <item>
       <title>Félagsleg úrræði fyrir einstaklinga með vímuefnaröskun. Samanburður á skaðaminnkun og bata- og bataauðsmiðuðum nálgunum</title>
@@ -79,12 +79,6 @@
       <link>https://skemman.is/handle/1946/52291</link>
       <description>Þáttur goða í stjórnskipun þjóðveldsins: Hlutverk goðanna í stjórnskipun íslands á þjóðveldisöld - Jóhannes Kári Sigurjónsson 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52291</guid>
-    </item>
-    <item>
-      <title>Félagsráðgjöf og þverfagleg teymi í kjöldar hamfara á Íslandi. Viðbrögð, samstarf og áskoranir</title>
-      <link>https://skemman.is/handle/1946/52310</link>
-      <description>Félagsráðgjöf og þverfagleg teymi í kjöldar hamfara á Íslandi. Viðbrögð, samstarf og áskoranir - Natalía Dröfn Kristjánsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52310</guid>
     </item>
     <item>
       <title>Ungmenni með fjölþættan vanda og foreldrar með vímuefnaröskun: Er þörfum þeirra mætt innan barnaverndar</title>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/52286</link>
       <description>Ofbeldi í nánum samböndum: Skilyrði 2. mgr. 218. gr. b hgl., með áherslu á misnotkun á yfirburðastöðu - Stefanía Ósk Pálsdóttir Diego 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52286</guid>
+    </item>
+    <item>
+      <title>Aðgæsluskylda kaupanda í fasteignakaupum: Áhrif vanræktrar upplýsingaskyldu seljanda á aðgæsluskyldu sérfróðs kaupanda</title>
+      <link>https://skemman.is/handle/1946/52285</link>
+      <description>Aðgæsluskylda kaupanda í fasteignakaupum: Áhrif vanræktrar upplýsingaskyldu seljanda á aðgæsluskyldu sérfróðs kaupanda - Þórey Eva Marinósdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52285</guid>
     </item>
   </channel>
 </rss>
