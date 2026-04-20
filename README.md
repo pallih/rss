@@ -31,6 +31,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 - [hsn](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hsn.rss)
 - [hsu](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hsu.rss)
 - [hve](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/hve.rss)
+- [jafnrettisstofa](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/jafnrettisstofa.rss)
 - [land-og-skogur](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/land-og-skogur.rss)
 - [landlaeknir](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/landlaeknir.rss)
 - [landskjorstjorn](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/landskjorstjorn.rss)
