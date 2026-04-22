@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:34:34 +0000</lastBuildDate>
     <item>
       <title>Gender Disparities in Access to Basic Education in Ghana and Iceland: A Comparative Analysis of Socioeconomic, Sociopolitical, And Sociocultural Factors</title>
       <link>https://skemman.is/handle/1946/52506</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/52509</link>
       <description>Evaluation of selective culture methods for Campylobacter spp.: Comparison of selective media, enrichment broths, and spike levels - Kolfinna Pola Frantzen Grétarsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52509</guid>
+    </item>
+    <item>
+      <title>Mál, menning og sjálfsmynd: Eigindleg rannsókn á tengslum tungumáls og sjálfsmyndar meðal ungmenna á Íslandi</title>
+      <link>https://skemman.is/handle/1946/52510</link>
+      <description>Mál, menning og sjálfsmynd: Eigindleg rannsókn á tengslum tungumáls og sjálfsmyndar meðal ungmenna á Íslandi - Lena Atkins 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52510</guid>
+    </item>
+    <item>
+      <title>Kveikjum á perunni: Fræðsluhandbók fyrir kennara í grunnskóla um inngildingu, virðingu og margbreytileika</title>
+      <link>https://skemman.is/handle/1946/52511</link>
+      <description>Kveikjum á perunni: Fræðsluhandbók fyrir kennara í grunnskóla um inngildingu, virðingu og margbreytileika - Ivana Yordanova Yordanova 2002-; Salka Hlín Jóhannsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52511</guid>
     </item>
     <item>
       <title>Development of Spray-Dried Novel Inhalable Combi-Therapies for the Management of COPD and other Chronic Pulmonary Diseases</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52386</link>
       <description>„Ég ætla að beita nauðung til að tryggja öryggi þitt!”. Staðalímyndir og framsetning á einhverfu í kvikmyndinni Music - Aþena Íris Þórsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52386</guid>
-    </item>
-    <item>
-      <title>Að teikna nýtt ættartré. Upplifun barna í varanlegu fóstri að tilheyra ekki fósturforeldrum líffræðilega</title>
-      <link>https://skemman.is/handle/1946/52384</link>
-      <description>Að teikna nýtt ættartré. Upplifun barna í varanlegu fóstri að tilheyra ekki fósturforeldrum líffræðilega - Arndís Berndsen 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52384</guid>
-    </item>
-    <item>
-      <title>Notkun tækni til að efla sjálfstæði íbúa í íbúðakjörnum</title>
-      <link>https://skemman.is/handle/1946/52387</link>
-      <description>Notkun tækni til að efla sjálfstæði íbúa í íbúðakjörnum - Gunnar Axel Böðvarsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52387</guid>
     </item>
   </channel>
 </rss>
