@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 22 Apr 2026 08:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:37:53 +0000</lastBuildDate>
     <item>
       <title>Gender Disparities in Access to Basic Education in Ghana and Iceland: A Comparative Analysis of Socioeconomic, Sociopolitical, And Sociocultural Factors</title>
       <link>https://skemman.is/handle/1946/52506</link>
@@ -25,6 +25,18 @@
       <link>https://skemman.is/handle/1946/52507</link>
       <description>Að sjá, tjá og taka þátt: Myndlist, myndlæsi og VTS sem önnur leið til kennslu nemenda með lestrarörðugleika - Matthildur Vigfúsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52507</guid>
+    </item>
+    <item>
+      <title>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland</title>
+      <link>https://skemman.is/handle/1946/52508</link>
+      <description>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland - Sólrún Sigurgeirsdóttir 1981-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52508</guid>
+    </item>
+    <item>
+      <title>Evaluation of selective culture methods for Campylobacter spp.: Comparison of selective media, enrichment broths, and spike levels</title>
+      <link>https://skemman.is/handle/1946/52509</link>
+      <description>Evaluation of selective culture methods for Campylobacter spp.: Comparison of selective media, enrichment broths, and spike levels - Kolfinna Pola Frantzen Grétarsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52509</guid>
     </item>
     <item>
       <title>Development of Spray-Dried Novel Inhalable Combi-Therapies for the Management of COPD and other Chronic Pulmonary Diseases</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52387</link>
       <description>Notkun tækni til að efla sjálfstæði íbúa í íbúðakjörnum - Gunnar Axel Böðvarsson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52387</guid>
-    </item>
-    <item>
-      <title>Vonda stjúpan og fullkomna móðirin: Áhrif orðræðu um stjúpmæður á sjálfsmynd þeirra</title>
-      <link>https://skemman.is/handle/1946/52385</link>
-      <description>Vonda stjúpan og fullkomna móðirin: Áhrif orðræðu um stjúpmæður á sjálfsmynd þeirra - Ágústa Borg Birgisdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52385</guid>
-    </item>
-    <item>
-      <title>Handbók fyrir leiðbeinendur Vinnuskóla Reykjavíkur. Sumarstarf í öruggu starfsumhverfi</title>
-      <link>https://skemman.is/handle/1946/52388</link>
-      <description>Handbók fyrir leiðbeinendur Vinnuskóla Reykjavíkur. Sumarstarf í öruggu starfsumhverfi - Kristín Anna Jónsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52388</guid>
     </item>
   </channel>
 </rss>
