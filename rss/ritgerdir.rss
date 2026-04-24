@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 16:25:26 +0000</lastBuildDate>
     <item>
       <title>Multimodality Comparison of Knee Cartilage Evaluation from Computed Tomography and Magnetic Resonance Imaging Data: A Comparative Study</title>
       <link>https://skemman.is/handle/1946/52518</link>
@@ -117,6 +117,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52533</guid>
     </item>
     <item>
+      <title>„Ég var góður pabbi og er góður pabbi.“</title>
+      <link>https://skemman.is/handle/1946/52534</link>
+      <description>„Ég var góður pabbi og er góður pabbi.“ - Árni Sveinsson 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52534</guid>
+    </item>
+    <item>
+      <title>Jydepotter á Íslandi. Rannsókn á tímasetningu og dreifingu</title>
+      <link>https://skemman.is/handle/1946/52535</link>
+      <description>Jydepotter á Íslandi. Rannsókn á tímasetningu og dreifingu - Helena María Ægisdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52535</guid>
+    </item>
+    <item>
       <title>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland</title>
       <link>https://skemman.is/handle/1946/52508</link>
       <description>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland - Sólrún Sigurgeirsdóttir 1981-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52511</link>
       <description>Kveikjum á perunni: Fræðsluhandbók fyrir kennara í grunnskóla um inngildingu, virðingu og margbreytileika - Ivana Yordanova Yordanova 2002-; Salka Hlín Jóhannsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52511</guid>
-    </item>
-    <item>
-      <title>Áföll í æsku og PCOS: Félagslegar áskoranir og hlutverk félagsráðgjafa</title>
-      <link>https://skemman.is/handle/1946/52512</link>
-      <description>Áföll í æsku og PCOS: Félagslegar áskoranir og hlutverk félagsráðgjafa - Veronika Rós Lúðvíksdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52512</guid>
-    </item>
-    <item>
-      <title>Silfursjóðurinn úr Suður-Múlasýslu</title>
-      <link>https://skemman.is/handle/1946/52513</link>
-      <description>Silfursjóðurinn úr Suður-Múlasýslu - Hugi Hraunfjörð Ómarsson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52513</guid>
     </item>
   </channel>
 </rss>
