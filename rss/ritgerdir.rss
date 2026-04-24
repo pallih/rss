@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:29:17 +0000</lastBuildDate>
     <item>
       <title>Multimodality Comparison of Knee Cartilage Evaluation from Computed Tomography and Magnetic Resonance Imaging Data: A Comparative Study</title>
       <link>https://skemman.is/handle/1946/52518</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52529</guid>
     </item>
     <item>
+      <title>Viðhorf Íslendinga til kynhlutlauss máls</title>
+      <link>https://skemman.is/handle/1946/52530</link>
+      <description>Viðhorf Íslendinga til kynhlutlauss máls - Auður Siemsen 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52530</guid>
+    </item>
+    <item>
       <title>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland</title>
       <link>https://skemman.is/handle/1946/52508</link>
       <description>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland - Sólrún Sigurgeirsdóttir 1981-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52505</link>
       <description>Hlutverk þroskaþjálfa í að efla þátttöku barna í íþróttastarfi: Hvernig geta þroskaþjálfar stuðlað að aukinni þátttöku og jákvæðri upplifun barna með taugatengdar áskoranir í skipulögðu íþróttastarfi? - Edda Eir Ingadóttir 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52505</guid>
-    </item>
-    <item>
-      <title>Að sjá, tjá og taka þátt: Myndlist, myndlæsi og VTS sem önnur leið til kennslu nemenda með lestrarörðugleika</title>
-      <link>https://skemman.is/handle/1946/52507</link>
-      <description>Að sjá, tjá og taka þátt: Myndlist, myndlæsi og VTS sem önnur leið til kennslu nemenda með lestrarörðugleika - Matthildur Vigfúsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52507</guid>
     </item>
   </channel>
 </rss>
