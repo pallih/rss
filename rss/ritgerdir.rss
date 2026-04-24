@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:38:12 +0000</lastBuildDate>
     <item>
       <title>Multimodality Comparison of Knee Cartilage Evaluation from Computed Tomography and Magnetic Resonance Imaging Data: A Comparative Study</title>
       <link>https://skemman.is/handle/1946/52518</link>
@@ -105,6 +105,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52531</guid>
     </item>
     <item>
+      <title>Tommi eldriborgari. Greinargerð um heimildamynd með áherslu á frásagnarhefð AA-samtakanna.</title>
+      <link>https://skemman.is/handle/1946/52532</link>
+      <description>Tommi eldriborgari. Greinargerð um heimildamynd með áherslu á frásagnarhefð AA-samtakanna. - Jóhanna Björk Benediktsdóttir 1975-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52532</guid>
+    </item>
+    <item>
+      <title>Frá Macondo til Dalasýslu: Samanburður á Hundrað ára einsemd og Laxdæla sögu.</title>
+      <link>https://skemman.is/handle/1946/52533</link>
+      <description>Frá Macondo til Dalasýslu: Samanburður á Hundrað ára einsemd og Laxdæla sögu. - Shirlie Patricia Galeano Diaz 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52533</guid>
+    </item>
+    <item>
       <title>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland</title>
       <link>https://skemman.is/handle/1946/52508</link>
       <description>Depth profiles of zooplankton and marine snow in two adjacent basins south of Iceland - Sólrún Sigurgeirsdóttir 1981-</description>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/52513</link>
       <description>Silfursjóðurinn úr Suður-Múlasýslu - Hugi Hraunfjörð Ómarsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52513</guid>
-    </item>
-    <item>
-      <title>Death is Only the Beginning: A Performance Analysis of Two Viking Age Funerals</title>
-      <link>https://skemman.is/handle/1946/52515</link>
-      <description>Death is Only the Beginning: A Performance Analysis of Two Viking Age Funerals - Gerður Halldóra Sigurðardóttir 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52515</guid>
-    </item>
-    <item>
-      <title>Gender Disparities in Access to Basic Education in Ghana and Iceland: A Comparative Analysis of Socioeconomic, Sociopolitical, And Sociocultural Factors</title>
-      <link>https://skemman.is/handle/1946/52506</link>
-      <description>Gender Disparities in Access to Basic Education in Ghana and Iceland: A Comparative Analysis of Socioeconomic, Sociopolitical, And Sociocultural Factors - Theresa Enyonam Ahiagba 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52506</guid>
     </item>
   </channel>
 </rss>
