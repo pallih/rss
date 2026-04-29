@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:47:10 +0000</lastBuildDate>
     <item>
       <title>Að standa vörð um frelsið: Skilyrði réttlætanlegs pólitísks ofbeldis í kenningum Hönnuh Arendt</title>
       <link>https://skemman.is/handle/1946/52676</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/52683</link>
       <description>Development and Optimization of Methods for Extraction and Quantification of Astaxanthin from Haematococcus Pluvialis - Viktor Steinn Sighvatsson Jensen 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52683</guid>
+    </item>
+    <item>
+      <title>The Double Life of Our Friend from Oseberg A Microhistorical Approach to the Older Oseberg Individual</title>
+      <link>https://skemman.is/handle/1946/52684</link>
+      <description>The Double Life of Our Friend from Oseberg A Microhistorical Approach to the Older Oseberg Individual - Eir Önnu Ólafsbur 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52684</guid>
     </item>
     <item>
       <title>Skaðaminnkandi þjónusta fyrir einstaklinga með meðferðarþrátt lystarstol: Fræðileg samantekt með kögunarsniði</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52663</link>
       <description>Kynjajafnrétti og lækkandi fæðingartíðni í Japan. Staða japanskra kvenna á vinnumarkaði - Margrét Kristjánsdóttir Wiium 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52663</guid>
-    </item>
-    <item>
-      <title>Játningabundin evangelísk lúthersk kirkja á Íslandi: Guðfræðilegar og sögulegar forsendur fyrir stofnun játningabundinnar kirkju á Íslandi</title>
-      <link>https://skemman.is/handle/1946/52665</link>
-      <description>Játningabundin evangelísk lúthersk kirkja á Íslandi: Guðfræðilegar og sögulegar forsendur fyrir stofnun játningabundinnar kirkju á Íslandi - Helena Júnía Stefánsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52665</guid>
     </item>
   </channel>
 </rss>
