@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 15:39:29 +0000</lastBuildDate>
     <item>
       <title>Af hverju er afi minn ekki frægur? Sögustund um Sigurð Guðmundsson ljósmyndara</title>
       <link>https://skemman.is/handle/1946/52692</link>
@@ -31,6 +31,24 @@
       <link>https://skemman.is/handle/1946/52695</link>
       <description>Seigla nemenda með lakan félags- og efnahagslegan bakgrunn. Samspil áhættu, verndar og aðlögunar við lok grunnskóla - Hugrún Jónsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52695</guid>
+    </item>
+    <item>
+      <title>Is the “Heart of the School” in the Hallway? Educators’ Perceptions of Hallway Libraries in Icelandic Schools</title>
+      <link>https://skemman.is/handle/1946/52696</link>
+      <description>Is the “Heart of the School” in the Hallway? Educators’ Perceptions of Hallway Libraries in Icelandic Schools - Nína Guðrún Arnardóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52696</guid>
+    </item>
+    <item>
+      <title>Lukkupakkar og tengsl þeirra við spilavanda: Fræðileg umfjöllun um tengsl, skýringar og viðbrögð</title>
+      <link>https://skemman.is/handle/1946/52697</link>
+      <description>Lukkupakkar og tengsl þeirra við spilavanda: Fræðileg umfjöllun um tengsl, skýringar og viðbrögð - Máni Björnsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52697</guid>
+    </item>
+    <item>
+      <title>Predicting Opioid Tapering Outcomes with Machine Learning: Feature Engineering and Model Comparison</title>
+      <link>https://skemman.is/handle/1946/52698</link>
+      <description>Predicting Opioid Tapering Outcomes with Machine Learning: Feature Engineering and Model Comparison - Yevhen Bilyi 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52698</guid>
     </item>
     <item>
       <title>Að standa vörð um frelsið: Skilyrði réttlætanlegs pólitísks ofbeldis í kenningum Hönnuh Arendt</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/52616</link>
       <description>Skaðaminnkandi þjónusta fyrir einstaklinga með meðferðarþrátt lystarstol: Fræðileg samantekt með kögunarsniði - Dagbjört Baldursdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52616</guid>
-    </item>
-    <item>
-      <title>The Unchronicled:  A Multidisciplinary Study of Congenital Disability and Childhood Dependency in Medieval Iceland</title>
-      <link>https://skemman.is/handle/1946/52622</link>
-      <description>The Unchronicled:  A Multidisciplinary Study of Congenital Disability and Childhood Dependency in Medieval Iceland - Devon Rae Barnhill 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52622</guid>
-    </item>
-    <item>
-      <title>La voix de Nathalie Sarraute dans Enfance</title>
-      <link>https://skemman.is/handle/1946/52617</link>
-      <description>La voix de Nathalie Sarraute dans Enfance - Alexander Linev 1967-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52617</guid>
-    </item>
-    <item>
-      <title>Fræðslu- og stuðningsþarfir foreldra barna með STEC HUS: Könnunnarsamantekt</title>
-      <link>https://skemman.is/handle/1946/52615</link>
-      <description>Fræðslu- og stuðningsþarfir foreldra barna með STEC HUS: Könnunnarsamantekt - Erna Margrét Arnardóttir 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52615</guid>
     </item>
   </channel>
 </rss>
