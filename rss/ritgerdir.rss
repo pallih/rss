@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 04 May 2026 10:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:37:55 +0000</lastBuildDate>
     <item>
       <title>Stjórnkerfi upplýsinga hjá opinberri þekkingarstofnun: Náttúrufræðistofnun - Gagnastjórnun, rafræn vörsluskil og föngun þekkingar </title>
       <link>https://skemman.is/handle/1946/52701</link>
@@ -75,10 +75,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52708</guid>
     </item>
     <item>
+      <title>„Í augnablikinu er meira verið að spila vörn en sókn“: Staða réttinda hinsegin fólks innan mannréttindaráðs Sameinuðu þjóðanna og framlag Íslands í þágu þeirra</title>
+      <link>https://skemman.is/handle/1946/52714</link>
+      <description>„Í augnablikinu er meira verið að spila vörn en sókn“: Staða réttinda hinsegin fólks innan mannréttindaráðs Sameinuðu þjóðanna og framlag Íslands í þágu þeirra - Hildur Telma Hauksdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52714</guid>
+    </item>
+    <item>
       <title>„Þetta er ekki bara árás á mig og mína fjölskyldu, heldur er þetta líka árás á lögregluna og ríkið allt“: Upplifun lögreglumanna af ofbeldi við skyldustörf, afleiðingar þess og viðbrögð vinnustaðar og réttarkerfis</title>
       <link>https://skemman.is/handle/1946/52710</link>
       <description>„Þetta er ekki bara árás á mig og mína fjölskyldu, heldur er þetta líka árás á lögregluna og ríkið allt“: Upplifun lögreglumanna af ofbeldi við skyldustörf, afleiðingar þess og viðbrögð vinnustaðar og réttarkerfis - Þórhildur Vala Kjartansdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52710</guid>
+    </item>
+    <item>
+      <title>Kynlífshandritið. Menningarleg mótun hugmynda um kynlíf og upplifun þess</title>
+      <link>https://skemman.is/handle/1946/52712</link>
+      <description>Kynlífshandritið. Menningarleg mótun hugmynda um kynlíf og upplifun þess - Kristlín Dís Ingilínardóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52712</guid>
     </item>
     <item>
       <title>Hvernig á að skrifa kvikmyndahandrit: Aðferðir íslenskra höfunda og viðhorf</title>
@@ -87,76 +99,64 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52711</guid>
     </item>
     <item>
-      <title>Af hverju er afi minn ekki frægur? Sögustund um Sigurð Guðmundsson ljósmyndara</title>
-      <link>https://skemman.is/handle/1946/52692</link>
-      <description>Af hverju er afi minn ekki frægur? Sögustund um Sigurð Guðmundsson ljósmyndara - Harpa Rut Hilmarsdóttir 1970-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52692</guid>
+      <title>Voluntariness as a spectrum. Researching the definition of voluntariness in the AVR program in Iceland</title>
+      <link>https://skemman.is/handle/1946/52713</link>
+      <description>Voluntariness as a spectrum. Researching the definition of voluntariness in the AVR program in Iceland - Alicja Maja Jeneralczyk 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52713</guid>
     </item>
     <item>
-      <title>Seigla nemenda með lakan félags- og efnahagslegan bakgrunn. Samspil áhættu, verndar og aðlögunar við lok grunnskóla</title>
-      <link>https://skemman.is/handle/1946/52695</link>
-      <description>Seigla nemenda með lakan félags- og efnahagslegan bakgrunn. Samspil áhættu, verndar og aðlögunar við lok grunnskóla - Hugrún Jónsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52695</guid>
+      <title>Öryggis- og varnarmál á áratugi skjólsáfalla: Greining á opinberri orðræðu íslenskra stjórnvalda í öryggis- og varnarmálum 2000-2010 frá sjónarhorni smáríkjafræða</title>
+      <link>https://skemman.is/handle/1946/52716</link>
+      <description>Öryggis- og varnarmál á áratugi skjólsáfalla: Greining á opinberri orðræðu íslenskra stjórnvalda í öryggis- og varnarmálum 2000-2010 frá sjónarhorni smáríkjafræða - Stefnir Stefánsson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52716</guid>
     </item>
     <item>
-      <title>Um risana. Eftir Fílon frá Alexandríu</title>
-      <link>https://skemman.is/handle/1946/52694</link>
-      <description>Um risana. Eftir Fílon frá Alexandríu - Pálína Sigríður Sigurðardóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52694</guid>
+      <title>Svefn barna á aldrinum 0-2 ára og líðan foreldra sem leita sér svefnráðgjafar: Megindleg lýsandi rannsókn</title>
+      <link>https://skemman.is/handle/1946/52715</link>
+      <description>Svefn barna á aldrinum 0-2 ára og líðan foreldra sem leita sér svefnráðgjafar: Megindleg lýsandi rannsókn - Tinna Rut Arnarsdóttir 2000-; Vigdís Helga Einarsdóttir 2002-; Sara Jósafatsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52715</guid>
     </item>
     <item>
-      <title>Predicting Opioid Tapering Outcomes with Machine Learning: Feature Engineering and Model Comparison</title>
-      <link>https://skemman.is/handle/1946/52698</link>
-      <description>Predicting Opioid Tapering Outcomes with Machine Learning: Feature Engineering and Model Comparison - Yevhen Bilyi 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52698</guid>
+      <title>Visitation in Permanent Foster Care Planned Arrangements, Actual Practice, and the Lived Experiences of Former Foster Children in Reykjavík</title>
+      <link>https://skemman.is/handle/1946/52717</link>
+      <description>Visitation in Permanent Foster Care Planned Arrangements, Actual Practice, and the Lived Experiences of Former Foster Children in Reykjavík - Beatrice Eriksson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52717</guid>
     </item>
     <item>
-      <title>Lukkupakkar og tengsl þeirra við spilavanda: Fræðileg umfjöllun um tengsl, skýringar og viðbrögð</title>
-      <link>https://skemman.is/handle/1946/52697</link>
-      <description>Lukkupakkar og tengsl þeirra við spilavanda: Fræðileg umfjöllun um tengsl, skýringar og viðbrögð - Máni Björnsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52697</guid>
+      <title>Þeir skrifuðu sig á spjöld sögunnar með hárbeittum vopnum. Gísli Konráðsson sagnaritari og söguþáttur hans um Völund smið.</title>
+      <link>https://skemman.is/handle/1946/52723</link>
+      <description>Þeir skrifuðu sig á spjöld sögunnar með hárbeittum vopnum. Gísli Konráðsson sagnaritari og söguþáttur hans um Völund smið. - Bergrós Kjartansdóttir 1968-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52723</guid>
     </item>
     <item>
-      <title>The Role of U.S Shelter in South Korea’s Early Development: A Shelter Theory Perspective (1953-1965)</title>
-      <link>https://skemman.is/handle/1946/52693</link>
-      <description>The Role of U.S Shelter in South Korea’s Early Development: A Shelter Theory Perspective (1953-1965) - Beste Alpay Jeong 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52693</guid>
+      <title>Hver á síðasta orðið? Greining á orðræðu stjórnmálaflokka og fjölmiðla um framhald aðildarviðræðna Íslands við Evrópusambandið</title>
+      <link>https://skemman.is/handle/1946/52718</link>
+      <description>Hver á síðasta orðið? Greining á orðræðu stjórnmálaflokka og fjölmiðla um framhald aðildarviðræðna Íslands við Evrópusambandið - Jón Arnar Snæbjörnsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52718</guid>
     </item>
     <item>
-      <title>Is the “Heart of the School” in the Hallway? Educators’ Perceptions of Hallway Libraries in Icelandic Schools</title>
-      <link>https://skemman.is/handle/1946/52696</link>
-      <description>Is the “Heart of the School” in the Hallway? Educators’ Perceptions of Hallway Libraries in Icelandic Schools - Nína Guðrún Arnardóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52696</guid>
+      <title>Dauðinn og greftrunarsiðir: Félags- og trúarlegar breytingar</title>
+      <link>https://skemman.is/handle/1946/52721</link>
+      <description>Dauðinn og greftrunarsiðir: Félags- og trúarlegar breytingar - Valgerður Sigurðardóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52721</guid>
     </item>
     <item>
-      <title>Að standa vörð um frelsið: Skilyrði réttlætanlegs pólitísks ofbeldis í kenningum Hönnuh Arendt</title>
-      <link>https://skemman.is/handle/1946/52676</link>
-      <description>Að standa vörð um frelsið: Skilyrði réttlætanlegs pólitísks ofbeldis í kenningum Hönnuh Arendt - Ísleifur Arnórsson 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52676</guid>
+      <title>Endurvakning og nýjar áherslur í bútasaumi</title>
+      <link>https://skemman.is/handle/1946/52720</link>
+      <description>Endurvakning og nýjar áherslur í bútasaumi - Eydís Birta Smáradóttir 2002-; Steinunn Embla Guðmundsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52720</guid>
     </item>
     <item>
-      <title>The role of self-leadership in job satisfaction and overall well-being of an employee.</title>
-      <link>https://skemman.is/handle/1946/52677</link>
-      <description>The role of self-leadership in job satisfaction and overall well-being of an employee. - Syeda Amber Bukhari 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52677</guid>
+      <title>Margt býr í myrkrinu: Birtingamynd þjóðsagnavera í íslenskum hryllingsmyndum</title>
+      <link>https://skemman.is/handle/1946/52719</link>
+      <description>Margt býr í myrkrinu: Birtingamynd þjóðsagnavera í íslenskum hryllingsmyndum - Hugrún Embla Sigurðardóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52719</guid>
     </item>
     <item>
-      <title>Fjölskyldan og heilaskaði. Upplifun og reynsla þeirra sem eiga maka með heilaskaða</title>
-      <link>https://skemman.is/handle/1946/52678</link>
-      <description>Fjölskyldan og heilaskaði. Upplifun og reynsla þeirra sem eiga maka með heilaskaða - Elín María Heiðberg 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52678</guid>
-    </item>
-    <item>
-      <title>Fegurð, dyggð og auðmýkt: Samanburðagreining á ímynd stúlkunnar í sagnagerð ATU 425A og 425C</title>
-      <link>https://skemman.is/handle/1946/52681</link>
-      <description>Fegurð, dyggð og auðmýkt: Samanburðagreining á ímynd stúlkunnar í sagnagerð ATU 425A og 425C - Guðný Elísabet Stefánsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52681</guid>
-    </item>
-    <item>
-      <title>„ Allt í einu gátum við verið með í leiknum“ Þjóðfræðivæðing, nostalgía og sköpun ný norrænnar matargerðar</title>
-      <link>https://skemman.is/handle/1946/52680</link>
-      <description>„ Allt í einu gátum við verið með í leiknum“ Þjóðfræðivæðing, nostalgía og sköpun ný norrænnar matargerðar - Hjalti Þór Grettisson 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52680</guid>
+      <title>Áhrif auðmagns á eigið mat á heilsu:Rannsókn í ljósi kenninga um auðmagn og félagslegan ójöfnuð</title>
+      <link>https://skemman.is/handle/1946/52722</link>
+      <description>Áhrif auðmagns á eigið mat á heilsu:Rannsókn í ljósi kenninga um auðmagn og félagslegan ójöfnuð - Aleksandra Hamely Ósk Kojic 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52722</guid>
     </item>
   </channel>
 </rss>
