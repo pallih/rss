@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 06 May 2026 17:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:00:02 +0000</lastBuildDate>
+    <item>
+      <link>https://drive.google.com/file/d/1lDKy-xVzF7UH66uI4v4IcHAToYH2Q1u4/view?usp=drive_link</link>
+      <description>Övriga aktuella personer</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1lDKy-xVzF7UH66uI4v4IcHAToYH2Q1u4/view?usp=drive_link</guid>
+    </item>
+    <item>
+      <link>https://drive.google.com/file/d/1Gau8iaaocWbk5K98BME0opQt7IqQMFFe/view?usp=drive_link</link>
+      <description>Övriga aktuella personer</description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1Gau8iaaocWbk5K98BME0opQt7IqQMFFe/view?usp=drive_link</guid>
+    </item>
     <item>
       <link>https://drive.google.com/file/d/1NC02_JjMBoV-3qriop-ipM1UiAo7JhC0/view?usp=drive_link</link>
       <description>Spaningstips</description>
@@ -247,11 +257,6 @@
       <link>https://drive.google.com/file/d/1sqFkzT0xKZ_6wE6AwD42xf2ZSnm-dWNo/view?usp=drive_link</link>
       <description>Sammanfattning av intervju som Alf Enerström gör i Radio Gilead</description>
       <guid isPermaLink="false">https://drive.google.com/file/d/1sqFkzT0xKZ_6wE6AwD42xf2ZSnm-dWNo/view?usp=drive_link</guid>
-    </item>
-    <item>
-      <link>https://drive.google.com/file/d/1Bv-6l5srDfQSTLgHzfroHR78QaYoThPA/view?usp=drive_link</link>
-      <description>Förfrågan om anteckningsböcker, dödsbo</description>
-      <guid isPermaLink="false">https://drive.google.com/file/d/1Bv-6l5srDfQSTLgHzfroHR78QaYoThPA/view?usp=drive_link</guid>
     </item>
   </channel>
 </rss>
