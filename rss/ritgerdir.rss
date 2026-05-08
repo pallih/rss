@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 08 May 2026 08:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:38:52 +0000</lastBuildDate>
     <item>
       <title>Stafræn umbreyting í framkvæmd  Samþætting notendamiðaðrar hönnunar, þjónustuhugsunar og  leiðtogafærni</title>
       <link>https://skemman.is/handle/1946/52903</link>
@@ -21,10 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52904</guid>
     </item>
     <item>
-      <title>Er atvinnuleysi innflytjenda næmara fyrir hagsveiflum? Samanburður á innflytjendum og einstaklingum með íslenskan bakgrunn</title>
-      <link>https://skemman.is/handle/1946/52905</link>
-      <description>Er atvinnuleysi innflytjenda næmara fyrir hagsveiflum? Samanburður á innflytjendum og einstaklingum með íslenskan bakgrunn - Sonja Oliversdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52905</guid>
+      <title>Drífur ferðaþjónusta hagvöxt? Samanburður á löndum þar sem hún vegur þyngst: Íslandi og Portúgal</title>
+      <link>https://skemman.is/handle/1946/52910</link>
+      <description>Drífur ferðaþjónusta hagvöxt? Samanburður á löndum þar sem hún vegur þyngst: Íslandi og Portúgal - Aðalbjörg Helga Einarsdóttir 2005-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52910</guid>
     </item>
     <item>
       <title>Persónuleiki og traust til fataverslana á netinu: Áhrif samviskusemi og taugaveiklunar á traust og traustmótandi þætti</title>
@@ -33,16 +33,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52906</guid>
     </item>
     <item>
-      <title>Hafið eða fjöllin? Kostnaðar- og ábatagreining flutninga í fiskeldi</title>
-      <link>https://skemman.is/handle/1946/52907</link>
-      <description>Hafið eða fjöllin? Kostnaðar- og ábatagreining flutninga í fiskeldi - Konráð Elí Kjartansson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52907</guid>
-    </item>
-    <item>
-      <title>Er hægt að lækka fasteignaverð á Íslandi með breytingum á kostnaðarliðum í uppbyggingu íbúðarhúsnæðis?</title>
-      <link>https://skemman.is/handle/1946/52908</link>
-      <description>Er hægt að lækka fasteignaverð á Íslandi með breytingum á kostnaðarliðum í uppbyggingu íbúðarhúsnæðis? - Björn Viktor Viktorsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52908</guid>
+      <title>Nowcasting Icelandic GDP Growth. Can Mixed-Frequency Bayesian VARs Improve Real-Time Nowcasts?</title>
+      <link>https://skemman.is/handle/1946/52912</link>
+      <description>Nowcasting Icelandic GDP Growth. Can Mixed-Frequency Bayesian VARs Improve Real-Time Nowcasts? - Melkorka Ýr Bustos 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52912</guid>
     </item>
     <item>
       <title>Verðteygni eftirspurnar eftir almenningssamgöngum á höfuðborgarsvæðinu</title>
@@ -51,10 +45,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52909</guid>
     </item>
     <item>
-      <title>Drífur ferðaþjónusta hagvöxt? Samanburður á löndum þar sem hún vegur þyngst: Íslandi og Portúgal</title>
-      <link>https://skemman.is/handle/1946/52910</link>
-      <description>Drífur ferðaþjónusta hagvöxt? Samanburður á löndum þar sem hún vegur þyngst: Íslandi og Portúgal - Aðalbjörg Helga Einarsdóttir 2005-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52910</guid>
+      <title>Er hægt að lækka fasteignaverð á Íslandi með breytingum á kostnaðarliðum í uppbyggingu íbúðarhúsnæðis?</title>
+      <link>https://skemman.is/handle/1946/52908</link>
+      <description>Er hægt að lækka fasteignaverð á Íslandi með breytingum á kostnaðarliðum í uppbyggingu íbúðarhúsnæðis? - Björn Viktor Viktorsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52908</guid>
+    </item>
+    <item>
+      <title>Er atvinnuleysi innflytjenda næmara fyrir hagsveiflum? Samanburður á innflytjendum og einstaklingum með íslenskan bakgrunn</title>
+      <link>https://skemman.is/handle/1946/52905</link>
+      <description>Er atvinnuleysi innflytjenda næmara fyrir hagsveiflum? Samanburður á innflytjendum og einstaklingum með íslenskan bakgrunn - Sonja Oliversdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52905</guid>
+    </item>
+    <item>
+      <title>Hafið eða fjöllin? Kostnaðar- og ábatagreining flutninga í fiskeldi</title>
+      <link>https://skemman.is/handle/1946/52907</link>
+      <description>Hafið eða fjöllin? Kostnaðar- og ábatagreining flutninga í fiskeldi - Konráð Elí Kjartansson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52907</guid>
+    </item>
+    <item>
+      <title>Útflutningsskellir í ný-keynesísku DSGE líkani fyrir Ísland</title>
+      <link>https://skemman.is/handle/1946/52911</link>
+      <description>Útflutningsskellir í ný-keynesísku DSGE líkani fyrir Ísland - Finnur Breki Bjarnason 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52911</guid>
+    </item>
+    <item>
+      <title>Fasteignamat og markaðsverð á Íslandi</title>
+      <link>https://skemman.is/handle/1946/52913</link>
+      <description>Fasteignamat og markaðsverð á Íslandi - Kári Kvaran 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52913</guid>
+    </item>
+    <item>
+      <title>Trusting the Numbers or Proceeding with Caution?: Evaluation of initial GDP estimates in Iceland, 2003-2025</title>
+      <link>https://skemman.is/handle/1946/52914</link>
+      <description>Trusting the Numbers or Proceeding with Caution?: Evaluation of initial GDP estimates in Iceland, 2003-2025 - Ingimar Ólafsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52914</guid>
     </item>
     <item>
       <title>Refsiábyrgð vegna undirbúningsathafna. Standa rök til breytinga á tilraunarábyrgð skv. 1. mgr. 20. gr. hgl.?</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/52899</link>
       <description>Skipting fæðingarorlofs á Íslandi. Áhrif óframseljanleika á hegðun foreldra og samfélagslegan kostnað - Sigurður Bjartur Egilsson 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52899</guid>
-    </item>
-    <item>
-      <title>Verðteygni raforkueftirspurnar heimila á Íslandi: Panelgreining með áherslu á mun milli þéttbýlis og dreifbýlis</title>
-      <link>https://skemman.is/handle/1946/52900</link>
-      <description>Verðteygni raforkueftirspurnar heimila á Íslandi: Panelgreining með áherslu á mun milli þéttbýlis og dreifbýlis - Elva Dögg Jónsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52900</guid>
-    </item>
-    <item>
-      <title>Hvaða efnahagslegu þættir skýra breytingar á fjölda ungs fólks í sveitarfélögum á Íslandi?</title>
-      <link>https://skemman.is/handle/1946/52902</link>
-      <description>Hvaða efnahagslegu þættir skýra breytingar á fjölda ungs fólks í sveitarfélögum á Íslandi? - Valdís Ósk Árnadóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52902</guid>
-    </item>
-    <item>
-      <title>Áhrif hámarks veðsetningarhlutfalls á lánahegðun og efnahagsreikninga fyrstu kaupenda á Íslandi</title>
-      <link>https://skemman.is/handle/1946/52901</link>
-      <description>Áhrif hámarks veðsetningarhlutfalls á lánahegðun og efnahagsreikninga fyrstu kaupenda á Íslandi - Alex Þór Júlíusson 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52901</guid>
-    </item>
-    <item>
-      <title>Efnahagsleg áhrif evruupptöku á íslensk fyrirtæki: Kostir og gallar í litlu og opnu hagkerfi</title>
-      <link>https://skemman.is/handle/1946/52896</link>
-      <description>Efnahagsleg áhrif evruupptöku á íslensk fyrirtæki: Kostir og gallar í litlu og opnu hagkerfi - Dóróthea Guðmundsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52896</guid>
     </item>
   </channel>
 </rss>
