@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 08 May 2026 10:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:35:07 +0000</lastBuildDate>
     <item>
       <title>Stafræn umbreyting í framkvæmd  Samþætting notendamiðaðrar hönnunar, þjónustuhugsunar og  leiðtogafærni</title>
       <link>https://skemman.is/handle/1946/52903</link>
@@ -81,6 +81,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52914</guid>
     </item>
     <item>
+      <title>Miðlun stofnanna og fyrirtækja á íslenskri sögu til ferðamanna. Sagan í opinberu rými</title>
+      <link>https://skemman.is/handle/1946/52915</link>
+      <description>Miðlun stofnanna og fyrirtækja á íslenskri sögu til ferðamanna. Sagan í opinberu rými - Andrea Örvarsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52915</guid>
+    </item>
+    <item>
       <title>Refsiábyrgð vegna undirbúningsathafna. Standa rök til breytinga á tilraunarábyrgð skv. 1. mgr. 20. gr. hgl.?</title>
       <link>https://skemman.is/handle/1946/52884</link>
       <description>Refsiábyrgð vegna undirbúningsathafna. Standa rök til breytinga á tilraunarábyrgð skv. 1. mgr. 20. gr. hgl.? - Máni Geir Th. Einarsson 1998-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52898</link>
       <description>Fasteignalán á Íslandi: Greiðslubyrði og hagkvæmni við mismunandi efnahagsleg umhverfi: Sviðsmyndagreining á áhrifum verðbólgu, vaxta og tekna á greiðslubyrði fasteignalána - Agnes Erla Blomsterberg 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52898</guid>
-    </item>
-    <item>
-      <title>Skipting fæðingarorlofs á Íslandi. Áhrif óframseljanleika á hegðun foreldra og samfélagslegan kostnað</title>
-      <link>https://skemman.is/handle/1946/52899</link>
-      <description>Skipting fæðingarorlofs á Íslandi. Áhrif óframseljanleika á hegðun foreldra og samfélagslegan kostnað - Sigurður Bjartur Egilsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52899</guid>
     </item>
   </channel>
 </rss>
