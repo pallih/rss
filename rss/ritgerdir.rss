@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 11 May 2026 09:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 11:09:06 +0000</lastBuildDate>
     <item>
       <title>Börn í sviðsljósinu. „Bara að leika sér?“ Börn, samfélagsmiðlar og markaðsvæðing barnæsku</title>
       <link>https://skemman.is/handle/1946/52928</link>
@@ -25,6 +25,60 @@
       <link>https://skemman.is/handle/1946/52930</link>
       <description>Innleiðing IFRS 18: Samanburður við IAS 1 og lög um ársreikninga - Bergrún Halldórsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52930</guid>
+    </item>
+    <item>
+      <title>Reynsla af notkun smáforrita til að fylgjast með frjósemi og sem getnaðarvörn: Fræðileg samantekt</title>
+      <link>https://skemman.is/handle/1946/52946</link>
+      <description>Reynsla af notkun smáforrita til að fylgjast með frjósemi og sem getnaðarvörn: Fræðileg samantekt - Ásta María Jónsdóttir 2002-; Katla Tjörvadóttir 2002-; Sigríður Erla Mathiesen 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52946</guid>
+    </item>
+    <item>
+      <title>Fjármagnsskipan Landsbankans í ljósi herts regluverks um varúðarkröfur og skilameðferð: Tilviksrannsókn á eiginfjárgrunni, MREL-fjármagni og fjárstýringu eftir fjármálahrunið 2008</title>
+      <link>https://skemman.is/handle/1946/52948</link>
+      <description>Fjármagnsskipan Landsbankans í ljósi herts regluverks um varúðarkröfur og skilameðferð: Tilviksrannsókn á eiginfjárgrunni, MREL-fjármagni og fjárstýringu eftir fjármálahrunið 2008 - Einir Orri Brynjólfsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52948</guid>
+    </item>
+    <item>
+      <title>Einkynhneigð viðmið: Upplifun fjölkynhneigðra kvenna og kvára af fordómum á íslenskum vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/52949</link>
+      <description>Einkynhneigð viðmið: Upplifun fjölkynhneigðra kvenna og kvára af fordómum á íslenskum vinnumarkaði - Ása Kara Smáradóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52949</guid>
+    </item>
+    <item>
+      <title>Áhrifavaldar og samfélagsleg ábyrgð. Siðferðisleg ábyrgð fyrirtækja í áhrifavaldamarkaðssetningu gagnvart  ungmennum</title>
+      <link>https://skemman.is/handle/1946/52947</link>
+      <description>Áhrifavaldar og samfélagsleg ábyrgð. Siðferðisleg ábyrgð fyrirtækja í áhrifavaldamarkaðssetningu gagnvart  ungmennum - Lilja Rós Thomasdóttir Viderö 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52947</guid>
+    </item>
+    <item>
+      <title>Áhrif samfélagsmiðla á sjálfsmynd og kauphegðun  ungmenna: Hefur TikTok áhrif á sjálfsmynd og kauphegðun hjá ungu fólki?</title>
+      <link>https://skemman.is/handle/1946/52952</link>
+      <description>Áhrif samfélagsmiðla á sjálfsmynd og kauphegðun  ungmenna: Hefur TikTok áhrif á sjálfsmynd og kauphegðun hjá ungu fólki? - Diljá Ægisdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52952</guid>
+    </item>
+    <item>
+      <title>Ábati eða tap? Áhrif rammaðra skilaboða á viðhorf karlmanna til þess að leita sér faghjálpar</title>
+      <link>https://skemman.is/handle/1946/52951</link>
+      <description>Ábati eða tap? Áhrif rammaðra skilaboða á viðhorf karlmanna til þess að leita sér faghjálpar - Katrín Þórhallsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52951</guid>
+    </item>
+    <item>
+      <title>Dreifstýrð fjármál: Markaðsinnleiðing og stöðugleiki innan dreifstýrðra fjármála</title>
+      <link>https://skemman.is/handle/1946/52950</link>
+      <description>Dreifstýrð fjármál: Markaðsinnleiðing og stöðugleiki innan dreifstýrðra fjármála - Ágúst Máni Aðalsteinsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52950</guid>
+    </item>
+    <item>
+      <title>Óefnislegar eignir í sjávarútvegi</title>
+      <link>https://skemman.is/handle/1946/52945</link>
+      <description>Óefnislegar eignir í sjávarútvegi - Sigurjón Kristinsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52945</guid>
+    </item>
+    <item>
+      <title>Kjarninn: Undirstaða félagslífs</title>
+      <link>https://skemman.is/handle/1946/52944</link>
+      <description>Kjarninn: Undirstaða félagslífs - Patryk Lukasz Edel 2004-; Leó Már Jónsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52944</guid>
     </item>
     <item>
       <title>„Á netinu fær nándin aðra mynd“ Samþætt fræðileg samantekt um kynhegðun unglinga og ungmenna í samhengi samfélagsmiðlanotkunar</title>
@@ -57,28 +111,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52935</guid>
     </item>
     <item>
-      <title>"Hvað ætlar þú að gera fyrir mig?" Upplifun stjórnenda af ungu kynslóðunum á vinnumarkaði</title>
-      <link>https://skemman.is/handle/1946/52936</link>
-      <description>"Hvað ætlar þú að gera fyrir mig?" Upplifun stjórnenda af ungu kynslóðunum á vinnumarkaði - Anna Jónsdóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52936</guid>
-    </item>
-    <item>
-      <title>IFRS 18  Hvaða áhrif hefur IFRS 18 á reikningsskil fyrirtækja</title>
-      <link>https://skemman.is/handle/1946/52937</link>
-      <description>IFRS 18  Hvaða áhrif hefur IFRS 18 á reikningsskil fyrirtækja - Mikael Jónsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52937</guid>
-    </item>
-    <item>
       <title>Áhrif húmors í markaðsskilaboðum: Hvernig hefur húmor í markaðsskilaboðum á samfélagsmiðlum áhrif á viðhorf neytenda til auglýsinga, skynjun á vörumerkjaímynd og þátttöku neytenda?</title>
       <link>https://skemman.is/handle/1946/52938</link>
       <description>Áhrif húmors í markaðsskilaboðum: Hvernig hefur húmor í markaðsskilaboðum á samfélagsmiðlum áhrif á viðhorf neytenda til auglýsinga, skynjun á vörumerkjaímynd og þátttöku neytenda? - Fríða Sylvía Kjartansdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52938</guid>
     </item>
     <item>
-      <title>Áhrif framsetningar skilaboða á áform kvenna um að mæta í brjóstaskimun: Ávinningur, tap og tilfinningar – skiptir framsetning máli?</title>
-      <link>https://skemman.is/handle/1946/52939</link>
-      <description>Áhrif framsetningar skilaboða á áform kvenna um að mæta í brjóstaskimun: Ávinningur, tap og tilfinningar – skiptir framsetning máli? - Þórunn María Kærnested 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52939</guid>
+      <title>Unintended Pregnancy Among Women in Central Mozambique: Prevalence and Associated Sociodemographic and Contraceptive Factors</title>
+      <link>https://skemman.is/handle/1946/52943</link>
+      <description>Unintended Pregnancy Among Women in Central Mozambique: Prevalence and Associated Sociodemographic and Contraceptive Factors - Ásrún Björk Hauksdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52943</guid>
     </item>
     <item>
       <title>Frá áhugamáli til iðnaðar: Greining á viðskiptalíkönum og verðmætasköpun íslenskra hlaðvarpa</title>
@@ -87,76 +129,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/52940</guid>
     </item>
     <item>
+      <title>"Hvað ætlar þú að gera fyrir mig?" Upplifun stjórnenda af ungu kynslóðunum á vinnumarkaði</title>
+      <link>https://skemman.is/handle/1946/52936</link>
+      <description>"Hvað ætlar þú að gera fyrir mig?" Upplifun stjórnenda af ungu kynslóðunum á vinnumarkaði - Anna Jónsdóttir 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52936</guid>
+    </item>
+    <item>
       <title>Markaðsnálgun og neytendahegðun: Hvernig ætti markaðsnálgunin að vera í Bretlandi, Frakklandi, Kína og Japan?</title>
       <link>https://skemman.is/handle/1946/52941</link>
       <description>Markaðsnálgun og neytendahegðun: Hvernig ætti markaðsnálgunin að vera í Bretlandi, Frakklandi, Kína og Japan? - Ólafur Hálfdan Pálsson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52941</guid>
     </item>
     <item>
-      <title>Stafræn umbreyting í framkvæmd  Samþætting notendamiðaðrar hönnunar, þjónustuhugsunar og  leiðtogafærni</title>
-      <link>https://skemman.is/handle/1946/52903</link>
-      <description>Stafræn umbreyting í framkvæmd  Samþætting notendamiðaðrar hönnunar, þjónustuhugsunar og  leiðtogafærni - Arna Gunnur Ingólfsdóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52903</guid>
+      <title>Áhrif framsetningar skilaboða á áform kvenna um að mæta í brjóstaskimun: Ávinningur, tap og tilfinningar – skiptir framsetning máli?</title>
+      <link>https://skemman.is/handle/1946/52939</link>
+      <description>Áhrif framsetningar skilaboða á áform kvenna um að mæta í brjóstaskimun: Ávinningur, tap og tilfinningar – skiptir framsetning máli? - Þórunn María Kærnested 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52939</guid>
     </item>
     <item>
-      <title>Áhrif stýrivaxtahækkana Seðlabanka Íslands á rekstrarhæfi íslenskra heimila með fasteignalán: Hvernig hafa stýrivaxtahækkanir Seðlabanka Íslands á tímabilinu 2021–2025 haft áhrif á greiðslubyrði, skuldsetningu og greiðsluvanda íslenskra heimila með fasteignalán?</title>
-      <link>https://skemman.is/handle/1946/52922</link>
-      <description>Áhrif stýrivaxtahækkana Seðlabanka Íslands á rekstrarhæfi íslenskra heimila með fasteignalán: Hvernig hafa stýrivaxtahækkanir Seðlabanka Íslands á tímabilinu 2021–2025 haft áhrif á greiðslubyrði, skuldsetningu og greiðsluvanda íslenskra heimila með fasteignalán? - Leonóra Sóley Hjaltadóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52922</guid>
+      <title>Kennitölugreining ársreikninga. Samanburður þriggja íslenskra sjávarútvegsfélaga við Mowi Group út frá kennitölugreiningu</title>
+      <link>https://skemman.is/handle/1946/52942</link>
+      <description>Kennitölugreining ársreikninga. Samanburður þriggja íslenskra sjávarútvegsfélaga við Mowi Group út frá kennitölugreiningu - Finnur Björnsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52942</guid>
     </item>
     <item>
-      <title>Between Rules and Reality: A Lean Study of an Import Authorization Process</title>
-      <link>https://skemman.is/handle/1946/52925</link>
-      <description>Between Rules and Reality: A Lean Study of an Import Authorization Process - Þorkell Einarsson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52925</guid>
-    </item>
-    <item>
-      <title>„Mér líður eins og ég sé alltaf að græða þegar ég kaupi á tilboði“: Söluhvatar á íslenskum matvörumarkaði</title>
-      <link>https://skemman.is/handle/1946/52924</link>
-      <description>„Mér líður eins og ég sé alltaf að græða þegar ég kaupi á tilboði“: Söluhvatar á íslenskum matvörumarkaði - Aðalheiður Hekla Valsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52924</guid>
-    </item>
-    <item>
-      <title>„Starfsánægja er lykillinn af því að þetta gangi upp“ Kostnaður vegna veikinda og aðgerðir til að draga úr fjarvistum starfsmanna</title>
-      <link>https://skemman.is/handle/1946/52927</link>
-      <description>„Starfsánægja er lykillinn af því að þetta gangi upp“ Kostnaður vegna veikinda og aðgerðir til að draga úr fjarvistum starfsmanna - Rebekka Sif Ómarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52927</guid>
-    </item>
-    <item>
-      <title>Breytt hlutverk neytenda í virðissköpun og markaðssetningu</title>
-      <link>https://skemman.is/handle/1946/52926</link>
-      <description>Breytt hlutverk neytenda í virðissköpun og markaðssetningu - Sylvía Mist Þorleifsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52926</guid>
-    </item>
-    <item>
-      <title>Afnám bjórbannsins. Leiddi afnám bjórbannsins á Íslandi til aukinnar áfengisneyslu?</title>
-      <link>https://skemman.is/handle/1946/52923</link>
-      <description>Afnám bjórbannsins. Leiddi afnám bjórbannsins á Íslandi til aukinnar áfengisneyslu? - Elmar Einarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52923</guid>
-    </item>
-    <item>
-      <title>Áhrif nálastungna á stoðkerfisverki í hnjám af völdum slitgigtar</title>
-      <link>https://skemman.is/handle/1946/52917</link>
-      <description>Áhrif nálastungna á stoðkerfisverki í hnjám af völdum slitgigtar - Karen Ósk Eyþórsdóttir 2003-; Rebekka Tinna Jónsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52917</guid>
-    </item>
-    <item>
-      <title>Trusting the Numbers or Proceeding with Caution?: Evaluation of initial GDP estimates in Iceland, 2003-2025</title>
-      <link>https://skemman.is/handle/1946/52914</link>
-      <description>Trusting the Numbers or Proceeding with Caution?: Evaluation of initial GDP estimates in Iceland, 2003-2025 - Ingimar Ólafsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52914</guid>
-    </item>
-    <item>
-      <title>Miðlun stofnanna og fyrirtækja á íslenskri sögu til ferðamanna. Sagan í opinberu rými</title>
-      <link>https://skemman.is/handle/1946/52915</link>
-      <description>Miðlun stofnanna og fyrirtækja á íslenskri sögu til ferðamanna. Sagan í opinberu rými - Andrea Örvarsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52915</guid>
-    </item>
-    <item>
-      <title>Aðkoma erlendra fjárfesta að íslenskum ríkisskuldabréfamarkaði: Hlutverk gjaldeyrismarkaðarins</title>
-      <link>https://skemman.is/handle/1946/52918</link>
-      <description>Aðkoma erlendra fjárfesta að íslenskum ríkisskuldabréfamarkaði: Hlutverk gjaldeyrismarkaðarins - Vilborg Ólafía Jóhannsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/52918</guid>
+      <title>IFRS 18  Hvaða áhrif hefur IFRS 18 á reikningsskil fyrirtækja</title>
+      <link>https://skemman.is/handle/1946/52937</link>
+      <description>IFRS 18  Hvaða áhrif hefur IFRS 18 á reikningsskil fyrirtækja - Mikael Jónsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52937</guid>
     </item>
   </channel>
 </rss>
