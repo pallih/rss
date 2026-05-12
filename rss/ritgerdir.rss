@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 12 May 2026 13:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 15:01:35 +0000</lastBuildDate>
     <item>
       <title>Aflamarkskerfið, eignfærsla og eiginfjárstaða: Hvaða áhrif hefur eignfærsla aflahlutdeilda innan aflamarkskerfisins á eiginfjárstöðu sjávarútvegsfyrirtækja?</title>
       <link>https://skemman.is/handle/1946/53028</link>
@@ -61,12 +61,6 @@
       <link>https://skemman.is/handle/1946/53031</link>
       <description>Verðmat Reita hf.: Samanburður á DCF og EP verðmatsaðferðum - Bjarki Freyr Ólafsson 2002-; Luc Anthony Hilmarsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53031</guid>
-    </item>
-    <item>
-      <title>Dressing in Denial - The role of fast fashion brands in driving overconsumption and sustaining exploitation in the Global South</title>
-      <link>https://skemman.is/handle/1946/53038</link>
-      <description>Dressing in Denial - The role of fast fashion brands in driving overconsumption and sustaining exploitation in the Global South - Grace Achieng Odhiambo 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53038</guid>
     </item>
     <item>
       <title>Þegar einhver sér þig: Aðlögun barna með fjölbreyttan tungumála- og menningarbakgrunn</title>
@@ -157,6 +151,12 @@
       <link>https://skemman.is/handle/1946/53002</link>
       <description>Viðskiptalengd í bankaþjónustu: Hvers vegna skiptir fólk ekki um banka? - Jón Þór Sveinsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53002</guid>
+    </item>
+    <item>
+      <title>Vörumerkjatryggð meðal íslenskra neytenda á orkudrykkjamarkaði: Rannsókn á viðhorfstryggð og hegðunartryggð</title>
+      <link>https://skemman.is/handle/1946/52996</link>
+      <description>Vörumerkjatryggð meðal íslenskra neytenda á orkudrykkjamarkaði: Rannsókn á viðhorfstryggð og hegðunartryggð - Ingunn Hlín Friðriksdóttir 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/52996</guid>
     </item>
   </channel>
 </rss>
