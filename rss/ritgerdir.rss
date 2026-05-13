@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 13 May 2026 10:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:46:10 +0000</lastBuildDate>
     <item>
       <title>Er skortur á þekkingu á endómetríósu? Andleg og félagsleg áhrif á konur. Fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/53049</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/53054</link>
       <description>Að efla samkennd: Handbók fyrir starfsfólk félagsmiðstöðva - Melkorka Ýr Magnúsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53054</guid>
+    </item>
+    <item>
+      <title>Streita foreldra barna með mótþróaþrjóskuröskun: Neikvæð tengsl foreldra og barna með tilliti til meðferðarárangurs</title>
+      <link>https://skemman.is/handle/1946/53055</link>
+      <description>Streita foreldra barna með mótþróaþrjóskuröskun: Neikvæð tengsl foreldra og barna með tilliti til meðferðarárangurs - Erna Mýrdal Gunnarsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53055</guid>
     </item>
     <item>
       <title>Þegar einhver sér þig: Aðlögun barna með fjölbreyttan tungumála- og menningarbakgrunn</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/52998</link>
       <description>Fyrstu kaup á fasteignum á Íslandi samanborið við helstu nágrannalönd Íslands: Greining á húsnæðislánum, greiðslumati og lánaskilyrðum - Stefán Ingi Þorsteinsson 2004-; Karvel Geirsson 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/52998</guid>
-    </item>
-    <item>
-      <title>Uppgjör og slit ÍL-sjóðs: Hvaða áhætta skapaðist fyrir ríkissjóð vegna starfsemi ÍL-sjóðs og hvernig var henni mætt í uppgjörinu?</title>
-      <link>https://skemman.is/handle/1946/53001</link>
-      <description>Uppgjör og slit ÍL-sjóðs: Hvaða áhætta skapaðist fyrir ríkissjóð vegna starfsemi ÍL-sjóðs og hvernig var henni mætt í uppgjörinu? - Edda Kristín Óttarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53001</guid>
     </item>
   </channel>
 </rss>
