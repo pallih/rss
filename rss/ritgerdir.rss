@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 19 May 2026 17:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:15:30 +0000</lastBuildDate>
+    <item>
+      <title>I Have No Eyes But I Can See: Investigating the Localization of People Using RSSI Wi-Fi Signal Strength</title>
+      <link>https://skemman.is/handle/1946/53218</link>
+      <description>I Have No Eyes But I Can See: Investigating the Localization of People Using RSSI Wi-Fi Signal Strength - Ariel Alexis Duschanek Myers 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53218</guid>
+    </item>
+    <item>
+      <title>SkuggaNet</title>
+      <link>https://skemman.is/handle/1946/53219</link>
+      <description>SkuggaNet - Kjartan Óli Ágústsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53219</guid>
+    </item>
+    <item>
+      <title>Tengsl sýklalyfjanotkunar og Rauðalos-þvageitrunarheilkennis (HUS): Greining á faraldri í Reykjavík 2024</title>
+      <link>https://skemman.is/handle/1946/53220</link>
+      <description>Tengsl sýklalyfjanotkunar og Rauðalos-þvageitrunarheilkennis (HUS): Greining á faraldri í Reykjavík 2024 - Einar Ernir Magnússon 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53220</guid>
+    </item>
     <item>
       <title>Configuring Urban Identity: Spatial Structure, Perception and Public Life in Reykjavík, Iceland</title>
       <link>https://skemman.is/handle/1946/53210</link>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/53200</link>
       <description>Tíðni og þróun sjálfsvígshegðunar hjá einstaklingum í inniliggjandi fráhvarfsmeðferð á sjúkrahúsinu Vogi - Birta Dís Lárusdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53200</guid>
-    </item>
-    <item>
-      <title>A Modular Household Assistant as a Web App</title>
-      <link>https://skemman.is/handle/1946/53201</link>
-      <description>A Modular Household Assistant as a Web App - Abel Haukur Guðmundsson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53201</guid>
-    </item>
-    <item>
-      <title>The Impact of Iron Deficiency on Outcomes in Heart Failure</title>
-      <link>https://skemman.is/handle/1946/53203</link>
-      <description>The Impact of Iron Deficiency on Outcomes in Heart Failure - Tómas Helgi Snorrason 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53203</guid>
-    </item>
-    <item>
-      <title>Body condition and diet analysis of juvenile (0-age) cod and haddock in Northern Iceland</title>
-      <link>https://skemman.is/handle/1946/53206</link>
-      <description>Body condition and diet analysis of juvenile (0-age) cod and haddock in Northern Iceland - Zaw Myo Win 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53206</guid>
     </item>
   </channel>
 </rss>
