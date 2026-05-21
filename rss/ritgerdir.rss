@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 21 May 2026 13:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:12:09 +0000</lastBuildDate>
     <item>
       <title>Möguleg tengsl sníkjudýra við ofnæmi í mönnum: Könnun á byggingarlegri samsvörun milli próteina úr sníkjuormum og ofnæmisvökum</title>
       <link>https://skemman.is/handle/1946/53260</link>
@@ -111,16 +111,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53273</guid>
     </item>
     <item>
-      <title>Entrapment in Motor Vehicle Collisions: Occupant Characteristics and Associated Injury Patterns</title>
-      <link>https://skemman.is/handle/1946/53274</link>
-      <description>Entrapment in Motor Vehicle Collisions: Occupant Characteristics and Associated Injury Patterns - Ísabella Sól Gunnarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53274</guid>
-    </item>
-    <item>
       <title>Upplifuð stjórn sem mögulegur næmisþáttur í tengslum harðræðis í æsku og þunglyndis síðar á ævinni: Samanburður á CTES og ACE spurningalistunum</title>
       <link>https://skemman.is/handle/1946/53275</link>
       <description>Upplifuð stjórn sem mögulegur næmisþáttur í tengslum harðræðis í æsku og þunglyndis síðar á ævinni: Samanburður á CTES og ACE spurningalistunum - Elísa Þórhildur Kristgeirsdóttir 2003-; Inna Hallik 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53275</guid>
+    </item>
+    <item>
+      <title>Candida blóðsýkingar á gjörgæsludeildum Landspítala 2021-2025: Nýgengi, meingerð, meðferð og afdrif</title>
+      <link>https://skemman.is/handle/1946/53284</link>
+      <description>Candida blóðsýkingar á gjörgæsludeildum Landspítala 2021-2025: Nýgengi, meingerð, meðferð og afdrif - Hekla Hákonardóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53284</guid>
     </item>
     <item>
       <title>Establishment of Ovarian Cancer Organoids using Three-Dimensional culture methods</title>
@@ -129,10 +129,22 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53276</guid>
     </item>
     <item>
+      <title>Entrapment in Motor Vehicle Collisions: Occupant Characteristics and Associated Injury Patterns</title>
+      <link>https://skemman.is/handle/1946/53274</link>
+      <description>Entrapment in Motor Vehicle Collisions: Occupant Characteristics and Associated Injury Patterns - Ísabella Sól Gunnarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53274</guid>
+    </item>
+    <item>
       <title>Hlutverk MITF í svipgerð mast frumna og grunntjáningu interferónörvaðra gena</title>
       <link>https://skemman.is/handle/1946/53280</link>
       <description>Hlutverk MITF í svipgerð mast frumna og grunntjáningu interferónörvaðra gena - Ófeigur Geir Barðdal 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53280</guid>
+    </item>
+    <item>
+      <title>Executive Functioning and Behavioral Activation for Depression: Is Executive Functioning Associated with Outcome at Post-treatment and Follow-up?</title>
+      <link>https://skemman.is/handle/1946/53285</link>
+      <description>Executive Functioning and Behavioral Activation for Depression: Is Executive Functioning Associated with Outcome at Post-treatment and Follow-up? - Hlynur Þór Gunnarsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53285</guid>
     </item>
     <item>
       <title>Áhrif þrýstingsálags á lungnaþekju: Möguleg verndandi áhrif sýklalyfsins azithromycin</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53282</link>
       <description>Fjarhúðlækningar á Íslandi. Aðgengi að sérfræðiþjónustu í stafrænu heilbrigðiskerfi. - Ingibjörg Ragna Pálmadóttir 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53282</guid>
-    </item>
-    <item>
-      <title>Detection of Oxidative Damage in mtDNA Using the Northern Lights Assay</title>
-      <link>https://skemman.is/handle/1946/53283</link>
-      <description>Detection of Oxidative Damage in mtDNA Using the Northern Lights Assay - Maksymilian Kolasinski 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53283</guid>
-    </item>
-    <item>
-      <title>Candida blóðsýkingar á gjörgæsludeildum Landspítala 2021-2025: Nýgengi, meingerð, meðferð og afdrif</title>
-      <link>https://skemman.is/handle/1946/53284</link>
-      <description>Candida blóðsýkingar á gjörgæsludeildum Landspítala 2021-2025: Nýgengi, meingerð, meðferð og afdrif - Hekla Hákonardóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53284</guid>
     </item>
   </channel>
 </rss>
