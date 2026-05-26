@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 26 May 2026 13:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:07:27 +0000</lastBuildDate>
+    <item>
+      <title>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus)</title>
+      <link>https://skemman.is/handle/1946/53362</link>
+      <description>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus) - Kelsey Stansberry 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53362</guid>
+    </item>
+    <item>
+      <title>The Effect of Split Nitrogen Fertilization on Yield, Quality, and Nitrogen Use Efficiency of Spring Barley Grown on Two Different Soil Types in Iceland</title>
+      <link>https://skemman.is/handle/1946/53363</link>
+      <description>The Effect of Split Nitrogen Fertilization on Yield, Quality, and Nitrogen Use Efficiency of Spring Barley Grown on Two Different Soil Types in Iceland - Sunna Skeggjadóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53363</guid>
+    </item>
+    <item>
+      <title>Hlutverk Pontin og Reptin í viðhaldi hreinsunarferla í taugafrumum</title>
+      <link>https://skemman.is/handle/1946/53364</link>
+      <description>Hlutverk Pontin og Reptin í viðhaldi hreinsunarferla í taugafrumum - Klaudia Brzozowska 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53364</guid>
+    </item>
+    <item>
+      <title>Áreiðanleiki íslenskrar þýðingar á ICU Mobility Scale</title>
+      <link>https://skemman.is/handle/1946/53360</link>
+      <description>Áreiðanleiki íslenskrar þýðingar á ICU Mobility Scale - Hjörtur Jón Gylfason 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53360</guid>
+    </item>
+    <item>
+      <title>Ímynd Hvolsvallar sem áfangastaðar: Áhrif á aðdráttarafl og dvöl ferðamanna</title>
+      <link>https://skemman.is/handle/1946/53361</link>
+      <description>Ímynd Hvolsvallar sem áfangastaðar: Áhrif á aðdráttarafl og dvöl ferðamanna - Ólöf Sara Garðarsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53361</guid>
+    </item>
     <item>
       <title>Þvagleki kvenna í fimleikum á Íslandi: Þversniðsrannsókn á algengi og einkennum þvagleka hjá íslenskum fimleikakonum</title>
       <link>https://skemman.is/handle/1946/53338</link>
@@ -127,36 +157,6 @@
       <link>https://skemman.is/handle/1946/53352</link>
       <description>Epigenetic Machinery Deficiency Disrupts Neural Progenitor Cell Fate in Neurodevelopment - Stefán Pétursson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53352</guid>
-    </item>
-    <item>
-      <title>Exploring the effect of ATG7 on metabolism using Drosophila melanogaster</title>
-      <link>https://skemman.is/handle/1946/53358</link>
-      <description>Exploring the effect of ATG7 on metabolism using Drosophila melanogaster - Katrín Anna Lárusdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53358</guid>
-    </item>
-    <item>
-      <title>Greining alvarlegra meðfæddra hjartagalla á Íslandi 2018-2025</title>
-      <link>https://skemman.is/handle/1946/53353</link>
-      <description>Greining alvarlegra meðfæddra hjartagalla á Íslandi 2018-2025 - Embla Sif Pálmadóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53353</guid>
-    </item>
-    <item>
-      <title>Lokun patent foramen ovale/PFO á Íslandi</title>
-      <link>https://skemman.is/handle/1946/53356</link>
-      <description>Lokun patent foramen ovale/PFO á Íslandi - Sigrún Meng Ólafardóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53356</guid>
-    </item>
-    <item>
-      <title>Feasibility and Acoustic Validity of Telehealth-Based Speech Assessment for Early Alzheimer's Disease Detection</title>
-      <link>https://skemman.is/handle/1946/53357</link>
-      <description>Feasibility and Acoustic Validity of Telehealth-Based Speech Assessment for Early Alzheimer's Disease Detection - Klara Margrét Ívarsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53357</guid>
-    </item>
-    <item>
-      <title>Geislaálag í blóðsegabrottnámi í heilaslagæðum á Landspítalanum í Fossvogi</title>
-      <link>https://skemman.is/handle/1946/53355</link>
-      <description>Geislaálag í blóðsegabrottnámi í heilaslagæðum á Landspítalanum í Fossvogi - Laufey Lóa Brynjarsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53355</guid>
     </item>
   </channel>
 </rss>
