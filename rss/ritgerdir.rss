@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 25 May 2026 17:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:18:59 +0000</lastBuildDate>
+    <item>
+      <title>Að fylla inn í eyðurnar: Óþol fyrir óvissu og traust sem forspárþættir samsærisviðhorfa og hjátrúar</title>
+      <link>https://skemman.is/handle/1946/53335</link>
+      <description>Að fylla inn í eyðurnar: Óþol fyrir óvissu og traust sem forspárþættir samsærisviðhorfa og hjátrúar - Eva María Baldursdóttir Ísberg 2003-; Anna Birna Kjartansdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53335</guid>
+    </item>
     <item>
       <title>Hlutverk GRAMD1B í stjórnun efnaskipta og aðlögun hvatbera í æðaþelsfrumum undir adrenergísku áreiti</title>
       <link>https://skemman.is/handle/1946/53317</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53312</link>
       <description>Hreyfifærni barna með meðfædda hjartagalla: Forrannsókn - Vigdís Ayesha Elísabetardóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53312</guid>
-    </item>
-    <item>
-      <title>Strúktúrjarðfræði Hríseyjar: GIS-greining, þróun stafræns gagnagrunns og undirbúningur vettvangskortlagningar</title>
-      <link>https://skemman.is/handle/1946/53308</link>
-      <description>Strúktúrjarðfræði Hríseyjar: GIS-greining, þróun stafræns gagnagrunns og undirbúningur vettvangskortlagningar - Alma Lind Ágústsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53308</guid>
     </item>
   </channel>
 </rss>
