@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 27 May 2026 13:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 15:11:37 +0000</lastBuildDate>
     <item>
       <title>Comparison of adjuvants and vaccination methods for insect bite hypersensitivity in horses</title>
       <link>https://skemman.is/handle/1946/53370</link>
@@ -33,10 +33,40 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53369</guid>
     </item>
     <item>
+      <title>Detection of Carbapenemase producing Gram-negative bacteria in wastewater from the Reykjavík Capital area</title>
+      <link>https://skemman.is/handle/1946/53380</link>
+      <description>Detection of Carbapenemase producing Gram-negative bacteria in wastewater from the Reykjavík Capital area - Marcin Kazimierz Zaborski 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53380</guid>
+    </item>
+    <item>
+      <title>„Eins og að fá vinkonu í heimsókn “: Reynsla sængurkvenna af heimaþjónustu ljósmæðra á Íslandi og áhrif hennar á líðan og aðlögun að móðurhlutverkinu</title>
+      <link>https://skemman.is/handle/1946/53377</link>
+      <description>„Eins og að fá vinkonu í heimsókn “: Reynsla sængurkvenna af heimaþjónustu ljósmæðra á Íslandi og áhrif hennar á líðan og aðlögun að móðurhlutverkinu - Laufey Karlsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53377</guid>
+    </item>
+    <item>
+      <title>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum</title>
+      <link>https://skemman.is/handle/1946/53376</link>
+      <description>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum - Tinna Lind Hallsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53376</guid>
+    </item>
+    <item>
+      <title>Heilahimnubólga af völdum baktería hjá fullorðnum á Íslandi 2011-2025</title>
+      <link>https://skemman.is/handle/1946/53379</link>
+      <description>Heilahimnubólga af völdum baktería hjá fullorðnum á Íslandi 2011-2025 - Sara Antonía Magneudóttir Wittebrood 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53379</guid>
+    </item>
+    <item>
       <title>Fjarsjúkraþjálfun á Íslandi. Könnun meðal sjúkraþjálfara.</title>
       <link>https://skemman.is/handle/1946/53372</link>
       <description>Fjarsjúkraþjálfun á Íslandi. Könnun meðal sjúkraþjálfara. - Sólrún Sæmundsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53372</guid>
+    </item>
+    <item>
+      <title>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study</title>
+      <link>https://skemman.is/handle/1946/53378</link>
+      <description>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study - Lára Róbertsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53378</guid>
     </item>
     <item>
       <title>Háþrýstingur á meðgöngu og þróun nýrnabilunar síðar á ævinni</title>
@@ -51,22 +81,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53374</guid>
     </item>
     <item>
-      <title>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum</title>
-      <link>https://skemman.is/handle/1946/53376</link>
-      <description>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum - Tinna Lind Hallsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53376</guid>
-    </item>
-    <item>
-      <title>„Eins og að fá vinkonu í heimsókn “: Reynsla sængurkvenna af heimaþjónustu ljósmæðra á Íslandi og áhrif hennar á líðan og aðlögun að móðurhlutverkinu</title>
-      <link>https://skemman.is/handle/1946/53377</link>
-      <description>„Eins og að fá vinkonu í heimsókn “: Reynsla sængurkvenna af heimaþjónustu ljósmæðra á Íslandi og áhrif hennar á líðan og aðlögun að móðurhlutverkinu - Laufey Karlsdóttir 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53377</guid>
-    </item>
-    <item>
-      <title>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study</title>
-      <link>https://skemman.is/handle/1946/53378</link>
-      <description>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study - Lára Róbertsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53378</guid>
+      <title>Lifrarskaði af völdum lyfja við fíknisjúkdómum, geðrofs-, þunglyndis- og jafnvægislyfja á Íslandi: Á árunum 2015-2024</title>
+      <link>https://skemman.is/handle/1946/53381</link>
+      <description>Lifrarskaði af völdum lyfja við fíknisjúkdómum, geðrofs-, þunglyndis- og jafnvægislyfja á Íslandi: Á árunum 2015-2024 - Ína Guðrún Gísladóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53381</guid>
     </item>
     <item>
       <title>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus)</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/53337</link>
       <description>Söfnunarhegðun, einmanaleiki og félagslegur stuðningur: Mat á tengslum með notkun snjallsímakönnunar - Sigurdís Bjarney Guðbrandsdóttir 2004-; Hildigunnur Ingadóttir 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53337</guid>
-    </item>
-    <item>
-      <title>Hefur styrkur fráfærsluvöðva mjaðmar áhrif á kiðvægi fyrstu 50 ms eftir fyrstu snertingu við stefnubreytingar: Hjá ungum konum í stefnubreytingaríþróttum með tilliti til hreyfiverkefnis og stöðufasa</title>
-      <link>https://skemman.is/handle/1946/53365</link>
-      <description>Hefur styrkur fráfærsluvöðva mjaðmar áhrif á kiðvægi fyrstu 50 ms eftir fyrstu snertingu við stefnubreytingar: Hjá ungum konum í stefnubreytingaríþróttum með tilliti til hreyfiverkefnis og stöðufasa - Magnús Sævar Þórðarson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53365</guid>
-    </item>
-    <item>
-      <title>Próffræðilegir eiginleikar athafnahluta íslenskrar þýðingar mælitækisins Efri árin, mat á færni og fötlun</title>
-      <link>https://skemman.is/handle/1946/53367</link>
-      <description>Próffræðilegir eiginleikar athafnahluta íslenskrar þýðingar mælitækisins Efri árin, mat á færni og fötlun - Arndís Hafþórsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53367</guid>
-    </item>
-    <item>
-      <title>Impact of facility and social support on adherence to digital home-based neck exercises: A mixed methods research</title>
-      <link>https://skemman.is/handle/1946/53366</link>
-      <description>Impact of facility and social support on adherence to digital home-based neck exercises: A mixed methods research - Daníel Valur Jónsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53366</guid>
     </item>
   </channel>
 </rss>
