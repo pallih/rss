@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 27 May 2026 09:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:18:20 +0000</lastBuildDate>
     <item>
       <title>Comparison of adjuvants and vaccination methods for insect bite hypersensitivity in horses</title>
       <link>https://skemman.is/handle/1946/53370</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/53373</link>
       <description>Háþrýstingur á meðgöngu og þróun nýrnabilunar síðar á ævinni - Auðbjörg Erla Karlsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53373</guid>
+    </item>
+    <item>
+      <title>Spermidine extraction from algal residue</title>
+      <link>https://skemman.is/handle/1946/53374</link>
+      <description>Spermidine extraction from algal residue - Sara Stefánsdóttir 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53374</guid>
+    </item>
+    <item>
+      <title>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum</title>
+      <link>https://skemman.is/handle/1946/53376</link>
+      <description>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum - Tinna Lind Hallsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53376</guid>
     </item>
     <item>
       <title>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus)</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53342</link>
       <description>The Social License to Operate – Measurement and  Dimensionality. An Analysis of Industry Data from an Icelandic Energy Company - Judith Lucia Bischof 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53342</guid>
-    </item>
-    <item>
-      <title>Þýðing og staðfærsla PediEAT spurningalistans. Mat á aðgreiningarréttmæti og notagildi íslensku útgáfunnar</title>
-      <link>https://skemman.is/handle/1946/53347</link>
-      <description>Þýðing og staðfærsla PediEAT spurningalistans. Mat á aðgreiningarréttmæti og notagildi íslensku útgáfunnar - Svanfríður Guðmundsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53347</guid>
-    </item>
-    <item>
-      <title>Predicting search patterns in the visual environment: The influence of statistical learning on human foraging behaviour</title>
-      <link>https://skemman.is/handle/1946/53344</link>
-      <description>Predicting search patterns in the visual environment: The influence of statistical learning on human foraging behaviour - Guðmundur Páll Sigurþórsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53344</guid>
     </item>
   </channel>
 </rss>
