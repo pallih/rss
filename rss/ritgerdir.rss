@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 27 May 2026 11:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:20:30 +0000</lastBuildDate>
     <item>
       <title>Comparison of adjuvants and vaccination methods for insect bite hypersensitivity in horses</title>
       <link>https://skemman.is/handle/1946/53370</link>
@@ -55,6 +55,18 @@
       <link>https://skemman.is/handle/1946/53376</link>
       <description>Reynsla mæðra af brjóstagjöf fram yfir ungbarnatímabilið: Fræðileg samantekt á eigindlegum rannsóknum - Tinna Lind Hallsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53376</guid>
+    </item>
+    <item>
+      <title>„Eins og að fá vinkonu í heimsókn “: Reynsla sængurkvenna af heimaþjónustu ljósmæðra á Íslandi og áhrif hennar á líðan og aðlögun að móðurhlutverkinu</title>
+      <link>https://skemman.is/handle/1946/53377</link>
+      <description>„Eins og að fá vinkonu í heimsókn “: Reynsla sængurkvenna af heimaþjónustu ljósmæðra á Íslandi og áhrif hennar á líðan og aðlögun að móðurhlutverkinu - Laufey Karlsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53377</guid>
+    </item>
+    <item>
+      <title>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study</title>
+      <link>https://skemman.is/handle/1946/53378</link>
+      <description>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study - Lára Róbertsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53378</guid>
     </item>
     <item>
       <title>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus)</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53366</link>
       <description>Impact of facility and social support on adherence to digital home-based neck exercises: A mixed methods research - Daníel Valur Jónsson 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53366</guid>
-    </item>
-    <item>
-      <title>Réttmætisathugun á Málfærni íslenskumælandi grunnskólabarna (MÍSL-G): Samanburður við  TOLD-2P málþroskapróf</title>
-      <link>https://skemman.is/handle/1946/53351</link>
-      <description>Réttmætisathugun á Málfærni íslenskumælandi grunnskólabarna (MÍSL-G): Samanburður við  TOLD-2P málþroskapróf - Fanney Lára Guðmundsdóttir 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53351</guid>
-    </item>
-    <item>
-      <title>The Social License to Operate – Measurement and  Dimensionality. An Analysis of Industry Data from an Icelandic Energy Company</title>
-      <link>https://skemman.is/handle/1946/53342</link>
-      <description>The Social License to Operate – Measurement and  Dimensionality. An Analysis of Industry Data from an Icelandic Energy Company - Judith Lucia Bischof 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53342</guid>
     </item>
   </channel>
 </rss>
