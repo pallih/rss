@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 28 May 2026 15:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:21:32 +0000</lastBuildDate>
     <item>
       <title>Parents’ and preschool educators’ knowledge and identification of early childhood stuttering</title>
       <link>https://skemman.is/handle/1946/53385</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/53387</link>
       <description>Ultrasound-based assessment of thigh muscle thickness in transfemoral amputees: Inter-limb differences during rest and contraction - Bryndís Bolladóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53387</guid>
+    </item>
+    <item>
+      <title>Lykillinn að lestri: Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni sjö ára stúlku með málþroskaröskun</title>
+      <link>https://skemman.is/handle/1946/53388</link>
+      <description>Lykillinn að lestri: Áhrif stýrðrar kennslu Engelmanns og fimiþjálfunar á lestrarfærni sjö ára stúlku með málþroskaröskun - Eva Hjálmarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53388</guid>
     </item>
     <item>
       <title>Lifrarskaði af völdum lyfja við fíknisjúkdómum, geðrofs-, þunglyndis- og jafnvægislyfja á Íslandi: Á árunum 2015-2024</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53361</link>
       <description>Ímynd Hvolsvallar sem áfangastaðar: Áhrif á aðdráttarafl og dvöl ferðamanna - Ólöf Sara Garðarsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53361</guid>
-    </item>
-    <item>
-      <title>Culturally Responsive Methods of  Assessing and Diagnosing Speech-Sound Disorder in Lithuanian–Icelandic Multilingual Children: A converging evidence approach</title>
-      <link>https://skemman.is/handle/1946/53349</link>
-      <description>Culturally Responsive Methods of  Assessing and Diagnosing Speech-Sound Disorder in Lithuanian–Icelandic Multilingual Children: A converging evidence approach - Zivilé Vaisyté 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53349</guid>
     </item>
   </channel>
 </rss>
