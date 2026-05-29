@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 29 May 2026 09:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:11:27 +0000</lastBuildDate>
+    <item>
+      <title>Klínísk þýðing Staphylococcus aureus bakteríumigu hjá börnum</title>
+      <link>https://skemman.is/handle/1946/53392</link>
+      <description>Klínísk þýðing Staphylococcus aureus bakteríumigu hjá börnum - Anna Sigríður Arnarsdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53392</guid>
+    </item>
+    <item>
+      <title>Crustacea Zooplankton Communities in Icelandic Lakes Comparison Over Time</title>
+      <link>https://skemman.is/handle/1946/53393</link>
+      <description>Crustacea Zooplankton Communities in Icelandic Lakes Comparison Over Time - Þóra Atladóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53393</guid>
+    </item>
     <item>
       <title>HoLEP: gæði og árangur aðgerðar við blöðruhálskirtilsstækkun. Fyrsta klíníska reynsla á Landspítala</title>
       <link>https://skemman.is/handle/1946/53389</link>
@@ -25,6 +37,12 @@
       <link>https://skemman.is/handle/1946/53391</link>
       <description>Litið til framtíðar - Guðbjartur Örn Gunnarsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53391</guid>
+    </item>
+    <item>
+      <title>Fæðingarupplifun og stuðningsþarfir einstaklinga  með sögu um kynferðisofbeldi. Kerfisbundin fræðileg samantekt á eigindlegum rannsóknum</title>
+      <link>https://skemman.is/handle/1946/53394</link>
+      <description>Fæðingarupplifun og stuðningsþarfir einstaklinga  með sögu um kynferðisofbeldi. Kerfisbundin fræðileg samantekt á eigindlegum rannsóknum - Rakel Ástrós Heiðarsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53394</guid>
     </item>
     <item>
       <title>Parents’ and preschool educators’ knowledge and identification of early childhood stuttering</title>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/53373</link>
       <description>Háþrýstingur á meðgöngu og þróun nýrnabilunar síðar á ævinni - Auðbjörg Erla Karlsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53373</guid>
-    </item>
-    <item>
-      <title>Spermidine extraction from algal residue</title>
-      <link>https://skemman.is/handle/1946/53374</link>
-      <description>Spermidine extraction from algal residue - Sara Stefánsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53374</guid>
-    </item>
-    <item>
-      <title>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus)</title>
-      <link>https://skemman.is/handle/1946/53362</link>
-      <description>Effects of prey distribution on resource defense, foraging behavior, and growth in stream-dwelling Arctic char (Salvelinus alpinus) - Kelsey Stansberry 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53362</guid>
-    </item>
-    <item>
-      <title>The Effect of Split Nitrogen Fertilization on Yield, Quality, and Nitrogen Use Efficiency of Spring Barley Grown on Two Different Soil Types in Iceland</title>
-      <link>https://skemman.is/handle/1946/53363</link>
-      <description>The Effect of Split Nitrogen Fertilization on Yield, Quality, and Nitrogen Use Efficiency of Spring Barley Grown on Two Different Soil Types in Iceland - Sunna Skeggjadóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53363</guid>
     </item>
   </channel>
 </rss>
