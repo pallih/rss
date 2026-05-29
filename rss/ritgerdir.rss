@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 29 May 2026 13:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:12:08 +0000</lastBuildDate>
     <item>
       <title>Klínísk þýðing Staphylococcus aureus bakteríumigu hjá börnum</title>
       <link>https://skemman.is/handle/1946/53392</link>
@@ -49,6 +49,12 @@
       <link>https://skemman.is/handle/1946/53395</link>
       <description>Assessing Lupine Pollen Deposition in Native Plants and Bumblebees in Iceland: A study on pollen transfer to native flowers and bees in the lupine-invaded landscape of Heiðmörk - Tómas Ögri Guðnason 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53395</guid>
+    </item>
+    <item>
+      <title>Verðbólga í Argentínu: Áhrif verðbólgu á verðlagningarstefnu fyrirtækja í Argentínu</title>
+      <link>https://skemman.is/handle/1946/53396</link>
+      <description>Verðbólga í Argentínu: Áhrif verðbólgu á verðlagningarstefnu fyrirtækja í Argentínu - Mikael Már Marteinsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53396</guid>
     </item>
     <item>
       <title>Parents’ and preschool educators’ knowledge and identification of early childhood stuttering</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53372</link>
       <description>Fjarsjúkraþjálfun á Íslandi. Könnun meðal sjúkraþjálfara. - Sólrún Sæmundsdóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53372</guid>
-    </item>
-    <item>
-      <title>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study</title>
-      <link>https://skemman.is/handle/1946/53378</link>
-      <description>Evaluating the user-reported clinical benefits of using a ventilating lower limb suspension system: A qualitative study - Lára Róbertsdóttir 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53378</guid>
     </item>
   </channel>
 </rss>
