@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 Jun 2026 11:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 13:15:46 +0000</lastBuildDate>
     <item>
       <title>Cystatin C mýlildi og sjúkdómsferlar í húðsýnum arfbera með arfgenga heilablæðingu</title>
       <link>https://skemman.is/handle/1946/53514</link>
@@ -87,6 +87,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53525</guid>
     </item>
     <item>
+      <title>ShadowWatch</title>
+      <link>https://skemman.is/handle/1946/53526</link>
+      <description>ShadowWatch - Sölvi Sveinbjörnsson 2004-; Bjartur Guðmundsson 2004-; Magni Huginn Leifsson 2004-; Máni Sverrisson 2003-; Viktor Wardum 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53526</guid>
+    </item>
+    <item>
       <title>Breytingar í meðferð glærhimnuskjúkdóms með lungnablöðruseyti á Íslandi</title>
       <link>https://skemman.is/handle/1946/53469</link>
       <description>Breytingar í meðferð glærhimnuskjúkdóms með lungnablöðruseyti á Íslandi - Freyja Stefánsdóttir 2003-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53479</link>
       <description>Stýrihús í Hvammi : hönnun á stýrishúsi fyrir hitaveitu Hvammsvirkjunar - Ólafur Árni Sveinbjarnarson 1990-; Hjalti Snær Helgason 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53479</guid>
-    </item>
-    <item>
-      <title>Hönnun : liðskipt öryggishurð</title>
-      <link>https://skemman.is/handle/1946/53485</link>
-      <description>Hönnun : liðskipt öryggishurð - Jóhann Sindri Sveinsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53485</guid>
     </item>
   </channel>
 </rss>
