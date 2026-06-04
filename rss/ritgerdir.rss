@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 04 Jun 2026 15:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 17:08:43 +0000</lastBuildDate>
     <item>
       <title>Cystatin C mýlildi og sjúkdómsferlar í húðsýnum arfbera með arfgenga heilablæðingu</title>
       <link>https://skemman.is/handle/1946/53514</link>
@@ -93,6 +93,12 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53526</guid>
     </item>
     <item>
+      <title>Pelvic Floor Dysfunction in Icelandic Women with Systemic Lupus Erythematosus: A Matched Comparison Study</title>
+      <link>https://skemman.is/handle/1946/53527</link>
+      <description>Pelvic Floor Dysfunction in Icelandic Women with Systemic Lupus Erythematosus: A Matched Comparison Study - Elva Dröfn Adolfsdóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53527</guid>
+    </item>
+    <item>
       <title>Breytingar í meðferð glærhimnuskjúkdóms með lungnablöðruseyti á Íslandi</title>
       <link>https://skemman.is/handle/1946/53469</link>
       <description>Breytingar í meðferð glærhimnuskjúkdóms með lungnablöðruseyti á Íslandi - Freyja Stefánsdóttir 2003-</description>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53486</link>
       <description>Áhættugreining þaka : veikleikar og mögulegir hönnunargallar - Agnar Ási Ægisson Levy 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53486</guid>
-    </item>
-    <item>
-      <title>Stýrihús í Hvammi : hönnun á stýrishúsi fyrir hitaveitu Hvammsvirkjunar</title>
-      <link>https://skemman.is/handle/1946/53479</link>
-      <description>Stýrihús í Hvammi : hönnun á stýrishúsi fyrir hitaveitu Hvammsvirkjunar - Ólafur Árni Sveinbjarnarson 1990-; Hjalti Snær Helgason 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53479</guid>
     </item>
   </channel>
 </rss>
