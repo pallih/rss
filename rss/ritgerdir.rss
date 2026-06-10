@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 10 Jun 2026 11:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 13:19:55 +0000</lastBuildDate>
     <item>
       <title>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum</title>
       <link>https://skemman.is/handle/1946/53720</link>
       <description>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum - Stefán Óli Hallgrímsson 2002-; Arnór Gauti Ragnarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53720</guid>
+    </item>
+    <item>
+      <title>Menningarhús í Skagafirði</title>
+      <link>https://skemman.is/handle/1946/53722</link>
+      <description>Menningarhús í Skagafirði - Kári Ingvarsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53722</guid>
     </item>
     <item>
       <title>From invoices to insights : feature engineering strategies for multilingual product classification in medical device procurement</title>
@@ -21,10 +27,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53721</guid>
     </item>
     <item>
-      <title>Menningarhús í Skagafirði</title>
-      <link>https://skemman.is/handle/1946/53722</link>
-      <description>Menningarhús í Skagafirði - Kári Ingvarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53722</guid>
+      <title>The usual suspects : what bug bounty data reveals about software vulnerability</title>
+      <link>https://skemman.is/handle/1946/53723</link>
+      <description>The usual suspects : what bug bounty data reveals about software vulnerability - Aró Berg Jónasar 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53723</guid>
+    </item>
+    <item>
+      <title>Progressive browsing-state delivery for interactive multimedia exploration</title>
+      <link>https://skemman.is/handle/1946/53724</link>
+      <description>Progressive browsing-state delivery for interactive multimedia exploration - Sigurður Þórarinsson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53724</guid>
     </item>
     <item>
       <title>Hvaða þátta þurfa opinberar skipulagsheildir að taka tillit til við innleiðingu gervigreindarlausna og hvernig er undirbúningi slíkrar innleiðingar háttað : „Tækni er mjög einföld en fólk er mjög flókið“</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53634</link>
       <description>Kulnun meðal ungs starfsfólks - Emil Ísar Hermannsson 2004-; Húgó Máni Ólafsson 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53634</guid>
-    </item>
-    <item>
-      <title>Þróun keppniseiginleika hjá íslenskum hrossum: Erfðaframfarir og áhrif sköpulags á keppnisárangur íslenskra hrossa</title>
-      <link>https://skemman.is/handle/1946/53675</link>
-      <description>Þróun keppniseiginleika hjá íslenskum hrossum: Erfðaframfarir og áhrif sköpulags á keppnisárangur íslenskra hrossa - Magnús Þór Guðmundsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53675</guid>
-    </item>
-    <item>
-      <title>Forecast Accuracy in Modern Prediction Markets : An Empirical Analysis of Polymarket</title>
-      <link>https://skemman.is/handle/1946/53683</link>
-      <description>Forecast Accuracy in Modern Prediction Markets : An Empirical Analysis of Polymarket - Hugi Svörfuður Heimisson 2004-; Kristófer Alexander F. Jakobsen 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53683</guid>
     </item>
   </channel>
 </rss>
