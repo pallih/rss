@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 10 Jun 2026 15:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:11:33 +0000</lastBuildDate>
     <item>
       <title>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum</title>
       <link>https://skemman.is/handle/1946/53720</link>
@@ -45,16 +45,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53724</guid>
     </item>
     <item>
-      <title>Menningarhús í Skagafirði</title>
-      <link>https://skemman.is/handle/1946/53722</link>
-      <description>Menningarhús í Skagafirði - Kári Ingvarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53722</guid>
-    </item>
-    <item>
-      <title>Efficacy and mechanism of change in transdiagnostic Cognitive Behaviour Therapy for major depressive disorder measured using Ecological Momentary Assessment</title>
-      <link>https://skemman.is/handle/1946/53727</link>
-      <description>Efficacy and mechanism of change in transdiagnostic Cognitive Behaviour Therapy for major depressive disorder measured using Ecological Momentary Assessment - Gestur Vagn Baldursson 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53727</guid>
+      <title>Nýting gróðurs til kolefnisbindingar á veghelgunarsvæðum. Tilviksrannsókn á veghelgunarsvæði við Arnarnesveg í Kópavogi</title>
+      <link>https://skemman.is/handle/1946/53729</link>
+      <description>Nýting gróðurs til kolefnisbindingar á veghelgunarsvæðum. Tilviksrannsókn á veghelgunarsvæði við Arnarnesveg í Kópavogi - Magdalena Maria Mokrzan 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53729</guid>
     </item>
     <item>
       <title>Screening for bipolar disorder : a psychometric evaluation of the Icelandic version of the mood disorder questionnaire (MDQ) and the Hypomania Checklist (HCL-32) in a clinical and non-clinical sample</title>
@@ -63,10 +57,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53728</guid>
     </item>
     <item>
-      <title>Nýting gróðurs til kolefnisbindingar á veghelgunarsvæðum. Tilviksrannsókn á veghelgunarsvæði við Arnarnesveg í Kópavogi</title>
-      <link>https://skemman.is/handle/1946/53729</link>
-      <description>Nýting gróðurs til kolefnisbindingar á veghelgunarsvæðum. Tilviksrannsókn á veghelgunarsvæði við Arnarnesveg í Kópavogi - Magdalena Maria Mokrzan 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53729</guid>
+      <title>Efficacy and mechanism of change in transdiagnostic Cognitive Behaviour Therapy for major depressive disorder measured using Ecological Momentary Assessment</title>
+      <link>https://skemman.is/handle/1946/53727</link>
+      <description>Efficacy and mechanism of change in transdiagnostic Cognitive Behaviour Therapy for major depressive disorder measured using Ecological Momentary Assessment - Gestur Vagn Baldursson 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53727</guid>
     </item>
     <item>
       <title>Treatment dropout from cognitive processing therapy for PTSD in a public health care setting : a retrospective observational study</title>
@@ -75,10 +69,28 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53730</guid>
     </item>
     <item>
+      <title>Measuring the Subjective : A Psychometric Evaluation of the SCD-Q in a clinical and non-clinical sample</title>
+      <link>https://skemman.is/handle/1946/53732</link>
+      <description>Measuring the Subjective : A Psychometric Evaluation of the SCD-Q in a clinical and non-clinical sample - Ísak Örn Ívarsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53732</guid>
+    </item>
+    <item>
+      <title>Zero coin : A Blockchain-First Bug Bounty Reward System with Gas-Optimized Smart Contracts</title>
+      <link>https://skemman.is/handle/1946/53733</link>
+      <description>Zero coin : A Blockchain-First Bug Bounty Reward System with Gas-Optimized Smart Contracts - Ermir Pellumbi 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53733</guid>
+    </item>
+    <item>
       <title>Psychometric properties of the Icelandic version of the Borderline Symptom List (BSL-23)</title>
       <link>https://skemman.is/handle/1946/53731</link>
       <description>Psychometric properties of the Icelandic version of the Borderline Symptom List (BSL-23) - Ástrós Sigurjónsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53731</guid>
+    </item>
+    <item>
+      <title>Menningarhús í Skagafirði</title>
+      <link>https://skemman.is/handle/1946/53722</link>
+      <description>Menningarhús í Skagafirði - Kári Ingvarsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53722</guid>
     </item>
     <item>
       <title>Hvaða þátta þurfa opinberar skipulagsheildir að taka tillit til við innleiðingu gervigreindarlausna og hvernig er undirbúningi slíkrar innleiðingar háttað : „Tækni er mjög einföld en fólk er mjög flókið“</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53616</link>
       <description>Áhrif auglýsinga á notkun salta og steinefnavara á íslenskum markaði - Daníel Örn Guðmundsson 2004-; Elmar Fossberg Rúnarsson 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53616</guid>
-    </item>
-    <item>
-      <title>Takmörkun á friðhelgi fjarskipta í þágu öryggis barna : hvernig samrýmist undanþága frá friðhelgi í fjarskiptum samkvæmt reglugerð (ESB) 2021/1232 rétti til friðhelgi einkalífs og persónuverndar?</title>
-      <link>https://skemman.is/handle/1946/53632</link>
-      <description>Takmörkun á friðhelgi fjarskipta í þágu öryggis barna : hvernig samrýmist undanþága frá friðhelgi í fjarskiptum samkvæmt reglugerð (ESB) 2021/1232 rétti til friðhelgi einkalífs og persónuverndar? - Brynja Kristinsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53632</guid>
-    </item>
-    <item>
-      <title>Sjálfvirk ákvarðanataka og rétturinn til upplýsinga : veitir lagaregluverk ESB fullnægjandi vernd gegn hlutdrægum ákvörðunum gervigreindarkerfa?</title>
-      <link>https://skemman.is/handle/1946/53638</link>
-      <description>Sjálfvirk ákvarðanataka og rétturinn til upplýsinga : veitir lagaregluverk ESB fullnægjandi vernd gegn hlutdrægum ákvörðunum gervigreindarkerfa? - Tiana Ósk Whitworth 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53638</guid>
     </item>
   </channel>
 </rss>
