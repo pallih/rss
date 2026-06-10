@@ -7,12 +7,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 10 Jun 2026 09:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:20:14 +0000</lastBuildDate>
     <item>
       <title>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum</title>
       <link>https://skemman.is/handle/1946/53720</link>
       <description>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum - Stefán Óli Hallgrímsson 2002-; Arnór Gauti Ragnarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53720</guid>
+    </item>
+    <item>
+      <title>From invoices to insights : feature engineering strategies for multilingual product classification in medical device procurement</title>
+      <link>https://skemman.is/handle/1946/53721</link>
+      <description>From invoices to insights : feature engineering strategies for multilingual product classification in medical device procurement - Rakel Jóhannsdóttir 1977-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53721</guid>
+    </item>
+    <item>
+      <title>Menningarhús í Skagafirði</title>
+      <link>https://skemman.is/handle/1946/53722</link>
+      <description>Menningarhús í Skagafirði - Kári Ingvarsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53722</guid>
     </item>
     <item>
       <title>Hvaða þátta þurfa opinberar skipulagsheildir að taka tillit til við innleiðingu gervigreindarlausna og hvernig er undirbúningi slíkrar innleiðingar háttað : „Tækni er mjög einföld en fólk er mjög flókið“</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53683</link>
       <description>Forecast Accuracy in Modern Prediction Markets : An Empirical Analysis of Polymarket - Hugi Svörfuður Heimisson 2004-; Kristófer Alexander F. Jakobsen 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53683</guid>
-    </item>
-    <item>
-      <title>Þróun sæðinga í íslenskri hrossarækt</title>
-      <link>https://skemman.is/handle/1946/53678</link>
-      <description>Þróun sæðinga í íslenskri hrossarækt - Saga Björk Jónsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53678</guid>
-    </item>
-    <item>
-      <title>Innra eftirlit í uppgjörsferli : greining á innra eftirliti í uppgjörsferli og umbætur á daglegri framkvæmd þess í því skyni að auka skilvirkni og gæði</title>
-      <link>https://skemman.is/handle/1946/53676</link>
-      <description>Innra eftirlit í uppgjörsferli : greining á innra eftirliti í uppgjörsferli og umbætur á daglegri framkvæmd þess í því skyni að auka skilvirkni og gæði - Einar Már Gíslason 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53676</guid>
     </item>
   </channel>
 </rss>
