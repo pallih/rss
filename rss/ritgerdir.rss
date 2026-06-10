@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:21:55 +0000</lastBuildDate>
+    <item>
+      <title>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum</title>
+      <link>https://skemman.is/handle/1946/53720</link>
+      <description>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum - Stefán Óli Hallgrímsson 2002-; Arnór Gauti Ragnarsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53720</guid>
+    </item>
     <item>
       <title>Hvaða þátta þurfa opinberar skipulagsheildir að taka tillit til við innleiðingu gervigreindarlausna og hvernig er undirbúningi slíkrar innleiðingar háttað : „Tækni er mjög einföld en fólk er mjög flókið“</title>
       <link>https://skemman.is/handle/1946/53602</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53676</link>
       <description>Innra eftirlit í uppgjörsferli : greining á innra eftirliti í uppgjörsferli og umbætur á daglegri framkvæmd þess í því skyni að auka skilvirkni og gæði - Einar Már Gíslason 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53676</guid>
-    </item>
-    <item>
-      <title>Hestahald í þéttbýli: Samspil aðbúnaðar og velferðar hrossa í hesthúsahverfum á höfuðborgarsvæðinu</title>
-      <link>https://skemman.is/handle/1946/53677</link>
-      <description>Hestahald í þéttbýli: Samspil aðbúnaðar og velferðar hrossa í hesthúsahverfum á höfuðborgarsvæðinu - Lilja María Pálmarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53677</guid>
     </item>
   </channel>
 </rss>
