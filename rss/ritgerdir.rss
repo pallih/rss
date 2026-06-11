@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 13:29:47 +0000</lastBuildDate>
     <item>
       <title>The Effects of Interdisciplinary Rehabilitation on Mental Health and Health-Related Outcomes in Individuals with Long-COVID</title>
       <link>https://skemman.is/handle/1946/53740</link>
@@ -49,6 +49,48 @@
       <link>https://skemman.is/handle/1946/53738</link>
       <description>Healthcare avoidance and mental health help-seeking among Icelandic pilots - Jóhann Pétur Wium Magnússon 1980-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53738</guid>
+    </item>
+    <item>
+      <title>Everyday social media use and response inhibition in adolescents : A Pilot Study</title>
+      <link>https://skemman.is/handle/1946/53741</link>
+      <description>Everyday social media use and response inhibition in adolescents : A Pilot Study - Eva Margrét Kristjánsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53741</guid>
+    </item>
+    <item>
+      <title>Adverse childhood experiences and obesity treatment outcomes</title>
+      <link>https://skemman.is/handle/1946/53742</link>
+      <description>Adverse childhood experiences and obesity treatment outcomes - Anna Linnéa Stierna 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53742</guid>
+    </item>
+    <item>
+      <title>When presence matters more than words : bereaved family members’ experiences of informal social support following suicide and drug-related loss</title>
+      <link>https://skemman.is/handle/1946/53743</link>
+      <description>When presence matters more than words : bereaved family members’ experiences of informal social support following suicide and drug-related loss - Halla Margrét Sigurðardóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53743</guid>
+    </item>
+    <item>
+      <title>Cognitive and behavioural processes in symptoms of generalised anxiety disorder in a non-clinical sample</title>
+      <link>https://skemman.is/handle/1946/53744</link>
+      <description>Cognitive and behavioural processes in symptoms of generalised anxiety disorder in a non-clinical sample - Sólveig Einarsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53744</guid>
+    </item>
+    <item>
+      <title>Incidence rates of psychostimulant and non-stimulant medications among children and adolescents in Iceland : before, during, and after the COVID-19 pandemic</title>
+      <link>https://skemman.is/handle/1946/53745</link>
+      <description>Incidence rates of psychostimulant and non-stimulant medications among children and adolescents in Iceland : before, during, and after the COVID-19 pandemic - Bryndís Lára Bjarnadóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53745</guid>
+    </item>
+    <item>
+      <title>Training Staff in a Secure Psychiatric Unit to Set Boundaries and Communicate Empathically with Patients</title>
+      <link>https://skemman.is/handle/1946/53746</link>
+      <description>Training Staff in a Secure Psychiatric Unit to Set Boundaries and Communicate Empathically with Patients - Helga Hafdís Gunnarsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53746</guid>
+    </item>
+    <item>
+      <title>Virtual Reality Courtroom Exposure and Post Traumatic Stress Symptoms in Survivors of Sexual Violence</title>
+      <link>https://skemman.is/handle/1946/53747</link>
+      <description>Virtual Reality Courtroom Exposure and Post Traumatic Stress Symptoms in Survivors of Sexual Violence - Telma Bergmann Jónsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53747</guid>
     </item>
     <item>
       <title>Fylgni milli VALD styrk- og kraftmælinga og frammistöðu í vettvangsprófum hjá ungum knattspyrnumönnum</title>
@@ -115,48 +157,6 @@
       <link>https://skemman.is/handle/1946/53732</link>
       <description>Measuring the Subjective : A Psychometric Evaluation of the SCD-Q in a clinical and non-clinical sample - Ísak Örn Ívarsson 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53732</guid>
-    </item>
-    <item>
-      <title>Zero coin : A Blockchain-First Bug Bounty Reward System with Gas-Optimized Smart Contracts</title>
-      <link>https://skemman.is/handle/1946/53733</link>
-      <description>Zero coin : A Blockchain-First Bug Bounty Reward System with Gas-Optimized Smart Contracts - Ermir Pellumbi 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53733</guid>
-    </item>
-    <item>
-      <title>Psychometric properties of the Icelandic version of the Borderline Symptom List (BSL-23)</title>
-      <link>https://skemman.is/handle/1946/53731</link>
-      <description>Psychometric properties of the Icelandic version of the Borderline Symptom List (BSL-23) - Ástrós Sigurjónsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53731</guid>
-    </item>
-    <item>
-      <title>Menningarhús í Skagafirði</title>
-      <link>https://skemman.is/handle/1946/53722</link>
-      <description>Menningarhús í Skagafirði - Kári Ingvarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53722</guid>
-    </item>
-    <item>
-      <title>Hvaða þátta þurfa opinberar skipulagsheildir að taka tillit til við innleiðingu gervigreindarlausna og hvernig er undirbúningi slíkrar innleiðingar háttað : „Tækni er mjög einföld en fólk er mjög flókið“</title>
-      <link>https://skemman.is/handle/1946/53602</link>
-      <description>Hvaða þátta þurfa opinberar skipulagsheildir að taka tillit til við innleiðingu gervigreindarlausna og hvernig er undirbúningi slíkrar innleiðingar háttað : „Tækni er mjög einföld en fólk er mjög flókið“ - Elfa Sif Hlynsdóttir 2004-; Matthildur María Jónsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53602</guid>
-    </item>
-    <item>
-      <title>Bólumyndanir á fjármálamörkuðum : Söguleg samanburðargreining</title>
-      <link>https://skemman.is/handle/1946/53603</link>
-      <description>Bólumyndanir á fjármálamörkuðum : Söguleg samanburðargreining - Einar Örn Reykdal Steindórsson 2003-; Guðmundur Kári Jónsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53603</guid>
-    </item>
-    <item>
-      <title>Félagafrelsi launafólks á íslenskum vinnumarkaði : brýtur lögbundin greiðsluskylda ,,samningsréttargjalds“ í bága við 2. mgr. 74. gr. stjórnarskrár lýðveldisins Íslands nr. 33/1944 um að engan megi skylda til aðildar að félagi?</title>
-      <link>https://skemman.is/handle/1946/53615</link>
-      <description>Félagafrelsi launafólks á íslenskum vinnumarkaði : brýtur lögbundin greiðsluskylda ,,samningsréttargjalds“ í bága við 2. mgr. 74. gr. stjórnarskrár lýðveldisins Íslands nr. 33/1944 um að engan megi skylda til aðildar að félagi? - Alexandra Kristín Johnsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53615</guid>
-    </item>
-    <item>
-      <title>Bókun 35 við EES-samninginn : er skuldbinding á grundvelli bókunar 35 fullnægjandi til að tryggja samræmda beitingu aðildarríkja EES-samningsins?</title>
-      <link>https://skemman.is/handle/1946/53618</link>
-      <description>Bókun 35 við EES-samninginn : er skuldbinding á grundvelli bókunar 35 fullnægjandi til að tryggja samræmda beitingu aðildarríkja EES-samningsins? - Þórunn Jenný Q. Guðmundsdóttir 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53618</guid>
     </item>
   </channel>
 </rss>
