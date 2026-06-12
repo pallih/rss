@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 12 Jun 2026 13:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 15:08:59 +0000</lastBuildDate>
     <item>
       <title>Natural state modelling of a vapor dominated system : case study Darajat, Indonesia</title>
       <link>https://skemman.is/handle/1946/53773</link>
@@ -81,6 +81,24 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53763</guid>
     </item>
     <item>
+      <title>Amlodipine use and ADHD-related psychiatric outcomes in adult women : a population-based cohort study</title>
+      <link>https://skemman.is/handle/1946/53774</link>
+      <description>Amlodipine use and ADHD-related psychiatric outcomes in adult women : a population-based cohort study - Arnar Sveinn Guðmundsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53774</guid>
+    </item>
+    <item>
+      <title>Managing repair-induced variability in a medical device supply chain : a mixed-methods case study</title>
+      <link>https://skemman.is/handle/1946/53775</link>
+      <description>Managing repair-induced variability in a medical device supply chain : a mixed-methods case study - Davíð Örn Svavarsson 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53775</guid>
+    </item>
+    <item>
+      <title>Estimating the effective tax burden of households in Iceland : income and consumption taxes</title>
+      <link>https://skemman.is/handle/1946/53776</link>
+      <description>Estimating the effective tax burden of households in Iceland : income and consumption taxes - Nökkvi Norðfjörð 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53776</guid>
+    </item>
+    <item>
       <title>The Effects of Interdisciplinary Rehabilitation on Mental Health and Health-Related Outcomes in Individuals with Long-COVID</title>
       <link>https://skemman.is/handle/1946/53740</link>
       <description>The Effects of Interdisciplinary Rehabilitation on Mental Health and Health-Related Outcomes in Individuals with Long-COVID - Kristín Margrét Norðfjörð 1996-</description>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/53746</link>
       <description>Training Staff in a Secure Psychiatric Unit to Set Boundaries and Communicate Empathically with Patients - Helga Hafdís Gunnarsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53746</guid>
-    </item>
-    <item>
-      <title>Incidence rates of psychostimulant and non-stimulant medications among children and adolescents in Iceland : before, during, and after the COVID-19 pandemic</title>
-      <link>https://skemman.is/handle/1946/53745</link>
-      <description>Incidence rates of psychostimulant and non-stimulant medications among children and adolescents in Iceland : before, during, and after the COVID-19 pandemic - Bryndís Lára Bjarnadóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53745</guid>
-    </item>
-    <item>
-      <title>Virtual Reality Courtroom Exposure and Post Traumatic Stress Symptoms in Survivors of Sexual Violence</title>
-      <link>https://skemman.is/handle/1946/53747</link>
-      <description>Virtual Reality Courtroom Exposure and Post Traumatic Stress Symptoms in Survivors of Sexual Violence - Telma Bergmann Jónsdóttir 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53747</guid>
-    </item>
-    <item>
-      <title>Cognitive and behavioural processes in symptoms of generalised anxiety disorder in a non-clinical sample</title>
-      <link>https://skemman.is/handle/1946/53744</link>
-      <description>Cognitive and behavioural processes in symptoms of generalised anxiety disorder in a non-clinical sample - Sólveig Einarsdóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53744</guid>
     </item>
   </channel>
 </rss>
