@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 11 Jun 2026 17:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:32:02 +0000</lastBuildDate>
+    <item>
+      <title>Grid Integration of Wind Power Plants in Northeast Iceland</title>
+      <link>https://skemman.is/handle/1946/53762</link>
+      <description>Grid Integration of Wind Power Plants in Northeast Iceland - Guðjón Ingi Rúnarsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53762</guid>
+    </item>
+    <item>
+      <title>The EU Taxonomy in Practice : Transparency, Comparability, and Challenges in the Icelandic Energy Sector</title>
+      <link>https://skemman.is/handle/1946/53763</link>
+      <description>The EU Taxonomy in Practice : Transparency, Comparability, and Challenges in the Icelandic Energy Sector - Sólrún Fríða Friðriksdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53763</guid>
+    </item>
     <item>
       <title>The Effects of Interdisciplinary Rehabilitation on Mental Health and Health-Related Outcomes in Individuals with Long-COVID</title>
       <link>https://skemman.is/handle/1946/53740</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53749</link>
       <description>Jump-landing movement quality in Icelandic youth natiopnal team basketball players - Páll Arnar Kandeh 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53749</guid>
-    </item>
-    <item>
-      <title>The Effects of Motivational Climate, Goal Orientation, and Perfectionism on Athlete Burnout</title>
-      <link>https://skemman.is/handle/1946/53753</link>
-      <description>The Effects of Motivational Climate, Goal Orientation, and Perfectionism on Athlete Burnout - Fannar Máni Fjalarsson 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53753</guid>
-    </item>
-    <item>
-      <title>Áhrif litakóðaðrar endurgjafar á skilning, áhuga og þátttöku nemenda í íþróttakennslu : sjónræn endurgjöf í rauntíma tengd hæfniviðmiðum</title>
-      <link>https://skemman.is/handle/1946/53758</link>
-      <description>Áhrif litakóðaðrar endurgjafar á skilning, áhuga og þátttöku nemenda í íþróttakennslu : sjónræn endurgjöf í rauntíma tengd hæfniviðmiðum - Kjartan Stefánsson 1972-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53758</guid>
     </item>
   </channel>
 </rss>
