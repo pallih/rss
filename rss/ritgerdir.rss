@@ -7,24 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:06:14 +0000</lastBuildDate>
     <item>
       <title>Hellunesgata 20</title>
       <link>https://skemman.is/handle/1946/53851</link>
       <description>Hellunesgata 20 - Aron Örn Óskarsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53851</guid>
-    </item>
-    <item>
-      <title>Einkaklúbburinn endurhugsaður : Arion banki</title>
-      <link>https://skemman.is/handle/1946/53852</link>
-      <description>Einkaklúbburinn endurhugsaður : Arion banki - Benjamín Ragnarsson 2004-; Jason Hagalín Jónasson 2004-; Númi Jökull Skúlason 2004-; Oliver Emil Kjaran 2004-; Sindri Rafn Bjarkason 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53852</guid>
-    </item>
-    <item>
-      <title>Coordinated Reactive Power Control : Analysis and Case Study</title>
-      <link>https://skemman.is/handle/1946/53853</link>
-      <description>Coordinated Reactive Power Control : Analysis and Case Study - Sindri Sigvaldason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53853</guid>
     </item>
     <item>
       <title>Reactive Power Management in the South Iceland 11 kV Distribution Network with Embedded Generation</title>
@@ -33,64 +21,88 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53854</guid>
     </item>
     <item>
+      <title>Coordinated Reactive Power Control : Analysis and Case Study</title>
+      <link>https://skemman.is/handle/1946/53853</link>
+      <description>Coordinated Reactive Power Control : Analysis and Case Study - Sindri Sigvaldason 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53853</guid>
+    </item>
+    <item>
       <title>Meðferð votra lungna hjá fullburum á Vökudeild 2016-2025</title>
       <link>https://skemman.is/handle/1946/53855</link>
       <description>Meðferð votra lungna hjá fullburum á Vökudeild 2016-2025 - Auður Valdimarsdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53855</guid>
     </item>
     <item>
-      <title>Orðræða um innflytjendur í íslenskum fjölmiðlum</title>
-      <link>https://skemman.is/handle/1946/53833</link>
-      <description>Orðræða um innflytjendur í íslenskum fjölmiðlum - Neval Rakel Kamilsdóttir 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53833</guid>
+      <title>Understanding and Predicting Flight Delays Using Weather-Aware Machine Learning Models</title>
+      <link>https://skemman.is/handle/1946/53856</link>
+      <description>Understanding and Predicting Flight Delays Using Weather-Aware Machine Learning Models - Helgi Freyr Sigurgeirsson 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53856</guid>
     </item>
     <item>
-      <title>Hvernig ná viðvaranir um netsvik til viðskiptavina? Greining á miðlun íslenskra banka</title>
-      <link>https://skemman.is/handle/1946/53837</link>
-      <description>Hvernig ná viðvaranir um netsvik til viðskiptavina? Greining á miðlun íslenskra banka - Thelma Dögg Pedersen 1991-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53837</guid>
+      <title>Einkaklúbburinn endurhugsaður : Arion banki</title>
+      <link>https://skemman.is/handle/1946/53852</link>
+      <description>Einkaklúbburinn endurhugsaður : Arion banki - Benjamín Ragnarsson 2004-; Jason Hagalín Jónasson 2004-; Númi Jökull Skúlason 2004-; Oliver Emil Kjaran 2004-; Sindri Rafn Bjarkason 2004-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53852</guid>
     </item>
     <item>
-      <title>Er markaðslegur grundvöllur fyrir Padelvöllum á Akureyri?</title>
-      <link>https://skemman.is/handle/1946/53836</link>
-      <description>Er markaðslegur grundvöllur fyrir Padelvöllum á Akureyri? - Elvar Goði Yngvason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53836</guid>
+      <title>Reactive Power and Voltage Control for Northern Iceland : Assessment of Network Reinforcements</title>
+      <link>https://skemman.is/handle/1946/53857</link>
+      <description>Reactive Power and Voltage Control for Northern Iceland : Assessment of Network Reinforcements - Laufey Elísa Hlynsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53857</guid>
     </item>
     <item>
-      <title>Mannleg dómgreind eða gervigreind? Hver eru viðhorf nemanda í íslenskum háskólum til notkunar gervigreindar í ákvarðanatöku fyrirtækja?</title>
-      <link>https://skemman.is/handle/1946/53838</link>
-      <description>Mannleg dómgreind eða gervigreind? Hver eru viðhorf nemanda í íslenskum háskólum til notkunar gervigreindar í ákvarðanatöku fyrirtækja? - Gígja Karitas Thorarensen 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53838</guid>
+      <title>Effect of Nozzle Exit Position on the Performance of Geothermal Ejectors Using a Parametric CFD Model</title>
+      <link>https://skemman.is/handle/1946/53858</link>
+      <description>Effect of Nozzle Exit Position on the Performance of Geothermal Ejectors Using a Parametric CFD Model - Ragnar Björgvin Tómasson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53858</guid>
     </item>
     <item>
-      <title>When Elections Become Crises: Crisis Management, Institutional Architecture, and Democratic Resilience in the United States and France</title>
-      <link>https://skemman.is/handle/1946/53840</link>
-      <description>When Elections Become Crises: Crisis Management, Institutional Architecture, and Democratic Resilience in the United States and France - Jóhanna María Þórdísardóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53840</guid>
+      <title>Surface alteration in Reykjakot, Ölfus</title>
+      <link>https://skemman.is/handle/1946/53859</link>
+      <description>Surface alteration in Reykjakot, Ölfus - Kári Valgeirsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53859</guid>
     </item>
     <item>
-      <title>Tónlistarmenn sem vörumerki</title>
-      <link>https://skemman.is/handle/1946/53835</link>
-      <description>Tónlistarmenn sem vörumerki - Aníta Daðadóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53835</guid>
+      <title>Comparison of seismic methods used in the Nesjavellir geothermal field</title>
+      <link>https://skemman.is/handle/1946/53860</link>
+      <description>Comparison of seismic methods used in the Nesjavellir geothermal field - Lukas Drexler 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53860</guid>
     </item>
     <item>
-      <title>Heilindi vörumerkja í gervigreindarvæddu markaðsefni</title>
-      <link>https://skemman.is/handle/1946/53839</link>
-      <description>Heilindi vörumerkja í gervigreindarvæddu markaðsefni - Vignir Snær Norðdahl 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53839</guid>
+      <title>Design of the Subtransmission System connecting Vík í Mýrdal</title>
+      <link>https://skemman.is/handle/1946/53861</link>
+      <description>Design of the Subtransmission System connecting Vík í Mýrdal - Stefanía Sif Stefánsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53861</guid>
     </item>
     <item>
-      <title>Misnotkunarvarnir í alþjóðlegum skattarétti: Samanburður á PPT-reglu OECD, 57. gr. tsl. og BEPS aðgerðaráætlun 6</title>
-      <link>https://skemman.is/handle/1946/53841</link>
-      <description>Misnotkunarvarnir í alþjóðlegum skattarétti: Samanburður á PPT-reglu OECD, 57. gr. tsl. og BEPS aðgerðaráætlun 6 - Brynjar Arnarson 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53841</guid>
+      <title>CFD modeling of a laboratory-scale supersonic ejector</title>
+      <link>https://skemman.is/handle/1946/53862</link>
+      <description>CFD modeling of a laboratory-scale supersonic ejector - Gunnar Ólafsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53862</guid>
     </item>
     <item>
-      <title>Barninu fyrir bestu: Staðgöngumæðrun og réttur til barneigna</title>
-      <link>https://skemman.is/handle/1946/53834</link>
-      <description>Barninu fyrir bestu: Staðgöngumæðrun og réttur til barneigna - Kristín Ósk Wium Hjartardóttir 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53834</guid>
+      <title>Stafrænt tvíburakerfi (digital twin) til vöktunar á orkunotkun bygginga : samanburður á IDA ICE hermun og raunmældum gögnum</title>
+      <link>https://skemman.is/handle/1946/53863</link>
+      <description>Stafrænt tvíburakerfi (digital twin) til vöktunar á orkunotkun bygginga : samanburður á IDA ICE hermun og raunmældum gögnum - Thelma Líf Olsen 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53863</guid>
+    </item>
+    <item>
+      <title>Adapting the Katla Carbon Microsimulation Model to estimate the climate impact of girls' education in India</title>
+      <link>https://skemman.is/handle/1946/53864</link>
+      <description>Adapting the Katla Carbon Microsimulation Model to estimate the climate impact of girls' education in India - Helena Lilja Torfadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53864</guid>
+    </item>
+    <item>
+      <title>Excess Heat Reuse in Icelandic Data Centers</title>
+      <link>https://skemman.is/handle/1946/53865</link>
+      <description>Excess Heat Reuse in Icelandic Data Centers - Hjörleifur Hafstað Arnórsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53865</guid>
+    </item>
+    <item>
+      <title>Design, analysis, and testing of the vibrational properties of a model structure using a shake table</title>
+      <link>https://skemman.is/handle/1946/53866</link>
+      <description>Design, analysis, and testing of the vibrational properties of a model structure using a shake table - Ólafur Orri Másson 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53866</guid>
     </item>
     <item>
       <title>Innleiðing ferðaþjónustunnar í almannavarnir á Íslandi</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53848</link>
       <description>Viðbrögð íslenskra viðbragðsaðila við fjarskiptabilunum:  Vitund, viðbragðsáætlanir og raunveruleg reynsla - Grétar Stefánsson 1987-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53848</guid>
-    </item>
-    <item>
-      <title>Skyldur bílaumboða samkvæmt lögum nr. 140/2018 - Skyldur bílaumboða til framkvæmdar áreiðanleikakannana sbr. lögum nr. 140/2018 um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka</title>
-      <link>https://skemman.is/handle/1946/53781</link>
-      <description>Skyldur bílaumboða samkvæmt lögum nr. 140/2018 - Skyldur bílaumboða til framkvæmdar áreiðanleikakannana sbr. lögum nr. 140/2018 um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka - Helgi Ragnar Gunnarsson 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53781</guid>
-    </item>
-    <item>
-      <title>Hver er ábyrgð og hlutverk innri endurskoðunar og regluvarðar í íslenskum fjármálafyrirtækjum, og hvernig er þessum hlutverkum háttað í framkvæmd?</title>
-      <link>https://skemman.is/handle/1946/53780</link>
-      <description>Hver er ábyrgð og hlutverk innri endurskoðunar og regluvarðar í íslenskum fjármálafyrirtækjum, og hvernig er þessum hlutverkum háttað í framkvæmd? - Haukur Daði Guðmarsson 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53780</guid>
     </item>
   </channel>
 </rss>
