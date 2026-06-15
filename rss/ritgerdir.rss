@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:01:27 +0000</lastBuildDate>
     <item>
       <title>Hellunesgata 20</title>
       <link>https://skemman.is/handle/1946/53851</link>
@@ -45,52 +45,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53852</guid>
     </item>
     <item>
-      <title>Reactive Power and Voltage Control for Northern Iceland : Assessment of Network Reinforcements</title>
-      <link>https://skemman.is/handle/1946/53857</link>
-      <description>Reactive Power and Voltage Control for Northern Iceland : Assessment of Network Reinforcements - Laufey Elísa Hlynsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53857</guid>
-    </item>
-    <item>
-      <title>Effect of Nozzle Exit Position on the Performance of Geothermal Ejectors Using a Parametric CFD Model</title>
-      <link>https://skemman.is/handle/1946/53858</link>
-      <description>Effect of Nozzle Exit Position on the Performance of Geothermal Ejectors Using a Parametric CFD Model - Ragnar Björgvin Tómasson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53858</guid>
-    </item>
-    <item>
-      <title>Surface alteration in Reykjakot, Ölfus</title>
-      <link>https://skemman.is/handle/1946/53859</link>
-      <description>Surface alteration in Reykjakot, Ölfus - Kári Valgeirsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53859</guid>
-    </item>
-    <item>
-      <title>Comparison of seismic methods used in the Nesjavellir geothermal field</title>
-      <link>https://skemman.is/handle/1946/53860</link>
-      <description>Comparison of seismic methods used in the Nesjavellir geothermal field - Lukas Drexler 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53860</guid>
-    </item>
-    <item>
-      <title>Design of the Subtransmission System connecting Vík í Mýrdal</title>
-      <link>https://skemman.is/handle/1946/53861</link>
-      <description>Design of the Subtransmission System connecting Vík í Mýrdal - Stefanía Sif Stefánsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53861</guid>
-    </item>
-    <item>
-      <title>CFD modeling of a laboratory-scale supersonic ejector</title>
-      <link>https://skemman.is/handle/1946/53862</link>
-      <description>CFD modeling of a laboratory-scale supersonic ejector - Gunnar Ólafsson 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53862</guid>
-    </item>
-    <item>
-      <title>Stafrænt tvíburakerfi (digital twin) til vöktunar á orkunotkun bygginga : samanburður á IDA ICE hermun og raunmældum gögnum</title>
-      <link>https://skemman.is/handle/1946/53863</link>
-      <description>Stafrænt tvíburakerfi (digital twin) til vöktunar á orkunotkun bygginga : samanburður á IDA ICE hermun og raunmældum gögnum - Thelma Líf Olsen 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53863</guid>
-    </item>
-    <item>
-      <title>Adapting the Katla Carbon Microsimulation Model to estimate the climate impact of girls' education in India</title>
-      <link>https://skemman.is/handle/1946/53864</link>
-      <description>Adapting the Katla Carbon Microsimulation Model to estimate the climate impact of girls' education in India - Helena Lilja Torfadóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53864</guid>
+      <title>Monocular Event-Based Perception for Static and Dynamic Obstacle Avoidance on a Walking Quadruped Robot</title>
+      <link>https://skemman.is/handle/1946/53870</link>
+      <description>Monocular Event-Based Perception for Static and Dynamic Obstacle Avoidance on a Walking Quadruped Robot - Tumi Oddsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53870</guid>
     </item>
     <item>
       <title>Excess Heat Reuse in Icelandic Data Centers</title>
@@ -99,64 +57,106 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/53865</guid>
     </item>
     <item>
+      <title>Surface alteration in Reykjakot, Ölfus</title>
+      <link>https://skemman.is/handle/1946/53859</link>
+      <description>Surface alteration in Reykjakot, Ölfus - Kári Valgeirsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53859</guid>
+    </item>
+    <item>
+      <title>CFD modeling of a laboratory-scale supersonic ejector</title>
+      <link>https://skemman.is/handle/1946/53862</link>
+      <description>CFD modeling of a laboratory-scale supersonic ejector - Gunnar Ólafsson 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53862</guid>
+    </item>
+    <item>
+      <title>Effect of Nozzle Exit Position on the Performance of Geothermal Ejectors Using a Parametric CFD Model</title>
+      <link>https://skemman.is/handle/1946/53858</link>
+      <description>Effect of Nozzle Exit Position on the Performance of Geothermal Ejectors Using a Parametric CFD Model - Ragnar Björgvin Tómasson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53858</guid>
+    </item>
+    <item>
+      <title>Reactive Power and Voltage Control for Northern Iceland : Assessment of Network Reinforcements</title>
+      <link>https://skemman.is/handle/1946/53857</link>
+      <description>Reactive Power and Voltage Control for Northern Iceland : Assessment of Network Reinforcements - Laufey Elísa Hlynsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53857</guid>
+    </item>
+    <item>
+      <title>Adapting the Katla Carbon Microsimulation Model to estimate the climate impact of girls' education in India</title>
+      <link>https://skemman.is/handle/1946/53864</link>
+      <description>Adapting the Katla Carbon Microsimulation Model to estimate the climate impact of girls' education in India - Helena Lilja Torfadóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53864</guid>
+    </item>
+    <item>
       <title>Design, analysis, and testing of the vibrational properties of a model structure using a shake table</title>
       <link>https://skemman.is/handle/1946/53866</link>
       <description>Design, analysis, and testing of the vibrational properties of a model structure using a shake table - Ólafur Orri Másson 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53866</guid>
     </item>
     <item>
-      <title>Innleiðing ferðaþjónustunnar í almannavarnir á Íslandi</title>
-      <link>https://skemman.is/handle/1946/53844</link>
-      <description>Innleiðing ferðaþjónustunnar í almannavarnir á Íslandi - Dagbjartur Kristinn Brynjarsson 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53844</guid>
+      <title>Audience segmentation and lineup influence at Iceland Airwaves</title>
+      <link>https://skemman.is/handle/1946/53871</link>
+      <description>Audience segmentation and lineup influence at Iceland Airwaves - Ástríður Magnúsdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53871</guid>
     </item>
     <item>
-      <title>Frá NPM til post-NPM? Ábyrgð og stjórnsýsluumbætur í íslenskri lögreglu 2014-2024</title>
-      <link>https://skemman.is/handle/1946/53845</link>
-      <description>Frá NPM til post-NPM? Ábyrgð og stjórnsýsluumbætur í íslenskri lögreglu 2014-2024 - Kolbrún Ösp Guðrúnardóttir 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53845</guid>
+      <title>Integration and operation of distributed wind farms to enhance energy reliability in Iceland</title>
+      <link>https://skemman.is/handle/1946/53873</link>
+      <description>Integration and operation of distributed wind farms to enhance energy reliability in Iceland - Ólafur Þórsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53873</guid>
     </item>
     <item>
-      <title>Íslenskir skapandi frumkvöðlar á samfélagsmiðlamarkaði. Notkun íslenskra skapandi frumkvöðla á samfélagsmiðlum; uppbygging vörumerkis og tekjuöflun.</title>
-      <link>https://skemman.is/handle/1946/53843</link>
-      <description>Íslenskir skapandi frumkvöðlar á samfélagsmiðlamarkaði. Notkun íslenskra skapandi frumkvöðla á samfélagsmiðlum; uppbygging vörumerkis og tekjuöflun. - Elma Rún Sigurbjörnsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53843</guid>
+      <title>Accounting frameworks, uncertainty, and compliance pathways in Iceland’s LULUCF sector : a System Dynamics approach</title>
+      <link>https://skemman.is/handle/1946/53869</link>
+      <description>Accounting frameworks, uncertainty, and compliance pathways in Iceland’s LULUCF sector : a System Dynamics approach - Arna Ýr Emilsdóttir 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53869</guid>
     </item>
     <item>
-      <title>Rými fyrir sköpun og þroska: Hlutverk skapandi frístunda í lífi barna á Íslandi</title>
-      <link>https://skemman.is/handle/1946/53846</link>
-      <description>Rými fyrir sköpun og þroska: Hlutverk skapandi frístunda í lífi barna á Íslandi - Aþena Arna Ágústsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53846</guid>
+      <title>Design of the Subtransmission System connecting Vík í Mýrdal</title>
+      <link>https://skemman.is/handle/1946/53861</link>
+      <description>Design of the Subtransmission System connecting Vík í Mýrdal - Stefanía Sif Stefánsdóttir 1990-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53861</guid>
     </item>
     <item>
-      <title>Kílómetragjald: Er kílómetragjaldið réttmæt leið til að fjármagna vegakerfið á Íslandi?</title>
-      <link>https://skemman.is/handle/1946/53850</link>
-      <description>Kílómetragjald: Er kílómetragjaldið réttmæt leið til að fjármagna vegakerfið á Íslandi? - Anna Kristín Agnarsdóttir 1993-; Unnur Þóra Sigurðardóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53850</guid>
+      <title>Design and optimisation of an internal wave energy harvester for a self-powered monitoring buoy</title>
+      <link>https://skemman.is/handle/1946/53868</link>
+      <description>Design and optimisation of an internal wave energy harvester for a self-powered monitoring buoy - Hafþór Árni Hermannsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53868</guid>
     </item>
     <item>
-      <title>Drepur skólakerfið sköpunargleðina?</title>
-      <link>https://skemman.is/handle/1946/53849</link>
-      <description>Drepur skólakerfið sköpunargleðina? - Ester Sara Ólafsdóttir Cummings 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53849</guid>
+      <title>Comparison of seismic methods used in the Nesjavellir geothermal field</title>
+      <link>https://skemman.is/handle/1946/53860</link>
+      <description>Comparison of seismic methods used in the Nesjavellir geothermal field - Lukas Drexler 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53860</guid>
     </item>
     <item>
-      <title>„Ég færi bara í úlpuna og út…“: Áhrif leiðtogastíls stjórnenda á sálfræðilegt öryggi og starfsánægju ríkisstarfsmanna</title>
-      <link>https://skemman.is/handle/1946/53847</link>
-      <description>„Ég færi bara í úlpuna og út…“: Áhrif leiðtogastíls stjórnenda á sálfræðilegt öryggi og starfsánægju ríkisstarfsmanna - Erna Guðmundsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53847</guid>
+      <title>Exploring the Impact of Virtual Reality and Avatars on Social Engagement in Older Adults at a Day Service Program</title>
+      <link>https://skemman.is/handle/1946/53876</link>
+      <description>Exploring the Impact of Virtual Reality and Avatars on Social Engagement in Older Adults at a Day Service Program - Jóhannes Hrafn Guðmundsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53876</guid>
     </item>
     <item>
-      <title>Notkun mállíkana og valdra grunngagna við gerð áhættumats vatnsveitna</title>
-      <link>https://skemman.is/handle/1946/53842</link>
-      <description>Notkun mállíkana og valdra grunngagna við gerð áhættumats vatnsveitna - Pálmi Sigurðsson 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53842</guid>
+      <title>A Comparison of an Experimental Analysis that Includes the Interaction Between Activities to a Standard Functional Analysis</title>
+      <link>https://skemman.is/handle/1946/53875</link>
+      <description>A Comparison of an Experimental Analysis that Includes the Interaction Between Activities to a Standard Functional Analysis - Stefanía Ýr Hannesdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53875</guid>
     </item>
     <item>
-      <title>Viðbrögð íslenskra viðbragðsaðila við fjarskiptabilunum:  Vitund, viðbragðsáætlanir og raunveruleg reynsla</title>
-      <link>https://skemman.is/handle/1946/53848</link>
-      <description>Viðbrögð íslenskra viðbragðsaðila við fjarskiptabilunum:  Vitund, viðbragðsáætlanir og raunveruleg reynsla - Grétar Stefánsson 1987-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53848</guid>
+      <title>Hefur endurmörkun Heima hf. reynst árangursrík?</title>
+      <link>https://skemman.is/handle/1946/53880</link>
+      <description>Hefur endurmörkun Heima hf. reynst árangursrík? - Halla Margrét Baldursdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53880</guid>
+    </item>
+    <item>
+      <title>Evaluating the effectiveness of telehealth education for parents on children‘s sleep problems</title>
+      <link>https://skemman.is/handle/1946/53874</link>
+      <description>Evaluating the effectiveness of telehealth education for parents on children‘s sleep problems - Margrét Auður Óðinsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53874</guid>
+    </item>
+    <item>
+      <title>Business plan for a clothing rental app and website</title>
+      <link>https://skemman.is/handle/1946/53872</link>
+      <description>Business plan for a clothing rental app and website - Diljá Líf Ragnarsdóttir Thorarensen 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53872</guid>
     </item>
   </channel>
 </rss>
