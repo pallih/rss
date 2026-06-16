@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 15 Jun 2026 18:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:52:51 +0000</lastBuildDate>
+    <item>
+      <title>Vefjameinafræði skjaldkirtilsins í sjálfsvígum</title>
+      <link>https://skemman.is/handle/1946/53890</link>
+      <description>Vefjameinafræði skjaldkirtilsins í sjálfsvígum - Karólína Mist Stefánsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53890</guid>
+    </item>
+    <item>
+      <title>Frá frístundabyggð til íbúðarbyggðar</title>
+      <link>https://skemman.is/handle/1946/53891</link>
+      <description>Frá frístundabyggð til íbúðarbyggðar - Karitas Ottesen Ásmundsdóttir 1989-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53891</guid>
+    </item>
     <item>
       <title>Hellunesgata 20</title>
       <link>https://skemman.is/handle/1946/53851</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53880</link>
       <description>Hefur endurmörkun Heima hf. reynst árangursrík? - Halla Margrét Baldursdóttir 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53880</guid>
-    </item>
-    <item>
-      <title>Evaluating the effectiveness of telehealth education for parents on children‘s sleep problems</title>
-      <link>https://skemman.is/handle/1946/53874</link>
-      <description>Evaluating the effectiveness of telehealth education for parents on children‘s sleep problems - Margrét Auður Óðinsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53874</guid>
-    </item>
-    <item>
-      <title>Business plan for a clothing rental app and website</title>
-      <link>https://skemman.is/handle/1946/53872</link>
-      <description>Business plan for a clothing rental app and website - Diljá Líf Ragnarsdóttir Thorarensen 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53872</guid>
     </item>
   </channel>
 </rss>
