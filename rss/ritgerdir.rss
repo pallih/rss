@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 18 Jun 2026 09:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:27:49 +0000</lastBuildDate>
     <item>
       <title>Áhrif mikillar og hraðrar fólksfjölgunar á Íslandi á innviði landsins. Er hægt að standa betur vörð um innviðina og auka viðnámsþol þeirra?</title>
       <link>https://skemman.is/handle/1946/53894</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/53895</link>
       <description>A Global Pre-Feasibility Assessment of In-situ Carbon Mineralization at  Geothermal Power Plants - Lára Sif Þórisdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53895</guid>
+    </item>
+    <item>
+      <title>Áhrif rafrænna markaðsstaða á samkeppnishæfni fataverslana á Íslandi : tilviksrannsókn og neytendakönnun um stafræna umbreytingu íslenskra fataverslana</title>
+      <link>https://skemman.is/handle/1946/53896</link>
+      <description>Áhrif rafrænna markaðsstaða á samkeppnishæfni fataverslana á Íslandi : tilviksrannsókn og neytendakönnun um stafræna umbreytingu íslenskra fataverslana - Breki Freyr Gíslason 2003-; Eiður Orri Kristjánsson 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/53896</guid>
     </item>
     <item>
       <title>Vefjameinafræði skjaldkirtilsins í sjálfsvígum</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53860</link>
       <description>Comparison of seismic methods used in the Nesjavellir geothermal field - Lukas Drexler 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53860</guid>
-    </item>
-    <item>
-      <title>Exploring the Impact of Virtual Reality and Avatars on Social Engagement in Older Adults at a Day Service Program</title>
-      <link>https://skemman.is/handle/1946/53876</link>
-      <description>Exploring the Impact of Virtual Reality and Avatars on Social Engagement in Older Adults at a Day Service Program - Jóhannes Hrafn Guðmundsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53876</guid>
     </item>
   </channel>
 </rss>
