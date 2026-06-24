@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Jun 2026 15:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:49:19 +0000</lastBuildDate>
     <item>
       <title>The association between prescribed opioids and suicidal behavior among people with chronic pain : a scoping review</title>
       <link>https://skemman.is/handle/1946/54334</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/54338</link>
       <description>Lestrarnám yngri barna : miklvægi lestrar og lestrarkennslu - Jóhanna Maj Júlíusd. Lundberg 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54338</guid>
+    </item>
+    <item>
+      <title>Eldgos, jarðskjálftar og ferðaþjónusta á Íslandi : hvernig samfélagsmiðlar móta viðhorf ferðamanna í kjölfar náttúruhamfara</title>
+      <link>https://skemman.is/handle/1946/54339</link>
+      <description>Eldgos, jarðskjálftar og ferðaþjónusta á Íslandi : hvernig samfélagsmiðlar móta viðhorf ferðamanna í kjölfar náttúruhamfara - Kolbrún Ýr Bragadóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54339</guid>
+    </item>
+    <item>
+      <title>Stjórnmálakonur eða kvenkyns stjórnmálamenn? : birtingarmyndir kvenna í forsetaframboði á íslenskum fréttavefmiðlum</title>
+      <link>https://skemman.is/handle/1946/54340</link>
+      <description>Stjórnmálakonur eða kvenkyns stjórnmálamenn? : birtingarmyndir kvenna í forsetaframboði á íslenskum fréttavefmiðlum - Sif Embla Hreinsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54340</guid>
     </item>
     <item>
       <title>RBBRTOY2000</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53898</link>
       <description>Waterfront Living : Climate Change, Makoko and New Directions - Lakshmi Björt Þuríðardóttir Jacob 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53898</guid>
-    </item>
-    <item>
-      <title>Hvernig „við gegn þeim“ hugarfar mótar samskipti lögreglu og jaðarsettra hópa : þróun, áhrif og viðbrögð á „við gegn þeim“ hugarfari í þremur löndum</title>
-      <link>https://skemman.is/handle/1946/54005</link>
-      <description>Hvernig „við gegn þeim“ hugarfar mótar samskipti lögreglu og jaðarsettra hópa : þróun, áhrif og viðbrögð á „við gegn þeim“ hugarfari í þremur löndum - Helga Guðrún Gunnarsdóttir 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54005</guid>
-    </item>
-    <item>
-      <title>„Ég vil þetta svo mikið og ég reyni á hverjum degi“ : vinnustaðurinn sem vettvangur inngildingar : upplifun erlendra kvenna af starfi í grunnskólum</title>
-      <link>https://skemman.is/handle/1946/54006</link>
-      <description>„Ég vil þetta svo mikið og ég reyni á hverjum degi“ : vinnustaðurinn sem vettvangur inngildingar : upplifun erlendra kvenna af starfi í grunnskólum - Karen Mist Brynjarsdóttir 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54006</guid>
     </item>
   </channel>
 </rss>
