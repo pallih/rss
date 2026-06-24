@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:05:35 +0000</lastBuildDate>
+    <item>
+      <title>The association between prescribed opioids and suicidal behavior among people with chronic pain : a scoping review</title>
+      <link>https://skemman.is/handle/1946/54334</link>
+      <description>The association between prescribed opioids and suicidal behavior among people with chronic pain : a scoping review - Liljana Milenkoska 1978-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54334</guid>
+    </item>
+    <item>
+      <title>Sustaining the rural : assessing socio-ecological resilience through farming in Iceland</title>
+      <link>https://skemman.is/handle/1946/54335</link>
+      <description>Sustaining the rural : assessing socio-ecological resilience through farming in Iceland - Aymonod, Martina, 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54335</guid>
+    </item>
     <item>
       <title>RBBRTOY2000</title>
       <link>https://skemman.is/handle/1946/54245</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54000</link>
       <description>Húsavík sem Hvalahöfuðborg Íslands : samfélagsleg áhrif markaðssetningar staðar á daglegt líf og staðarsjálfsmynd íbúa - Sólveig Ása Arnarsdóttir 1991-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54000</guid>
-    </item>
-    <item>
-      <title>NEON</title>
-      <link>https://skemman.is/handle/1946/54002</link>
-      <description>NEON - Michael Richardt Petersen 1980-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54002</guid>
-    </item>
-    <item>
-      <title>„Hvað er verið að segja okkur?“ :  siðfár og umfjöllun RÚV og Vísis um manndráp á Íslandi.</title>
-      <link>https://skemman.is/handle/1946/54003</link>
-      <description>„Hvað er verið að segja okkur?“ :  siðfár og umfjöllun RÚV og Vísis um manndráp á Íslandi. - Dagný Lilja Jónsdóttir 1991-; Ruth Kjærnested Jóhannsdóttir 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54003</guid>
     </item>
   </channel>
 </rss>
