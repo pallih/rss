@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 07 Aug 2026 08:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:24:00 +0000</lastBuildDate>
+    <item>
+      <title>Linguistic Landscapes im DaF-Unterricht: Didaktische Aufbereitung authentischer Sprachdaten am Beispiel der Stadt Rosenheim für den isländischen Kontext</title>
+      <link>https://skemman.is/handle/1946/54345</link>
+      <description>Linguistic Landscapes im DaF-Unterricht: Didaktische Aufbereitung authentischer Sprachdaten am Beispiel der Stadt Rosenheim für den isländischen Kontext - Elisabeth Martina Grosch 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54345</guid>
+    </item>
+    <item>
+      <title>Að búa sig undir það besta: Innsýn í arftakastjórnun</title>
+      <link>https://skemman.is/handle/1946/54346</link>
+      <description>Að búa sig undir það besta: Innsýn í arftakastjórnun - Natalía Lind Jóhannsdóttir 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54346</guid>
+    </item>
     <item>
       <title>„Dansinn höfum við danskinum frá“: Birtingarmynd þjóðdansa á Íslandi</title>
       <link>https://skemman.is/handle/1946/54343</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/53995</link>
       <description>„Ég er bara jafn mikill aðdáandi þessa klúbbs og hver annar“ : eigindleg rannsókn á Íslendingum sem styðja ensk knattspyrnulið - Ásdís Theodóra Jónsdóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53995</guid>
-    </item>
-    <item>
-      <title>Stefnumótun og samfélagsleg verðmætasköpun : tilfellarannsókn á Friðheimum í Reykjanesbæ</title>
-      <link>https://skemman.is/handle/1946/53990</link>
-      <description>Stefnumótun og samfélagsleg verðmætasköpun : tilfellarannsókn á Friðheimum í Reykjanesbæ - Kristján Þór Smárason 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53990</guid>
-    </item>
-    <item>
-      <title>Umfjöllun um badminton í miðlum : hvað er hægt að gera til að auka sýnileika badminton á Íslandi</title>
-      <link>https://skemman.is/handle/1946/53997</link>
-      <description>Umfjöllun um badminton í miðlum : hvað er hægt að gera til að auka sýnileika badminton á Íslandi - Andri Broddason 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53997</guid>
     </item>
   </channel>
 </rss>
