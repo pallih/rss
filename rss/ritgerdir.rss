@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:17:43 +0000</lastBuildDate>
+    <item>
+      <title>Áföll í æsku og áhættuhegðun á fullorðinsárum: Áhrif áfalla á þroska, tilfinningastjórnun og félagslega aðlögun</title>
+      <link>https://skemman.is/handle/1946/54347</link>
+      <description>Áföll í æsku og áhættuhegðun á fullorðinsárum: Áhrif áfalla á þroska, tilfinningastjórnun og félagslega aðlögun - Auður Margrét Guðmundsdóttir 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54347</guid>
+    </item>
     <item>
       <title>Að búa sig undir það besta: Innsýn í arftakastjórnun</title>
       <link>https://skemman.is/handle/1946/54346</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53989</link>
       <description>Fjármögnun vaxtar fyrirtækja : innri og ytri fjármögnun í ljósi stjórnunar og ákvörðunartöku - Hrafn Marcher Helgason 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53989</guid>
-    </item>
-    <item>
-      <title>„Ég er bara jafn mikill aðdáandi þessa klúbbs og hver annar“ : eigindleg rannsókn á Íslendingum sem styðja ensk knattspyrnulið</title>
-      <link>https://skemman.is/handle/1946/53995</link>
-      <description>„Ég er bara jafn mikill aðdáandi þessa klúbbs og hver annar“ : eigindleg rannsókn á Íslendingum sem styðja ensk knattspyrnulið - Ásdís Theodóra Jónsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53995</guid>
     </item>
   </channel>
 </rss>
