@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:12:20 +0000</lastBuildDate>
     <item>
       <title>Í skugga ásakana: Bráðabirgðaákvarðanir í forsjár- og lögheimilisdeilum. Áhrif ásakana um ofbeldi, vímuefnaneyslu og vanrækslu á bráðabirgðaúrskurði samkvæmt 35. gr. barnalaga nr. 76/2003</title>
       <link>https://skemman.is/handle/1946/54352</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/54354</link>
       <description>Réttur til skaðabóta vegna alvarlegra atvika í heilbrigðisþjónustu: Hvenær stofnast skaðabótaskylda þegar lyf veldur tjóni? - Bríet Magnúsdóttir 2005-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54354</guid>
+    </item>
+    <item>
+      <title>Tíðni contralateral ACL aðgerða í Orkuhúsinu 2015-2020</title>
+      <link>https://skemman.is/handle/1946/54355</link>
+      <description>Tíðni contralateral ACL aðgerða í Orkuhúsinu 2015-2020 - Andri Már Valdimarsson 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54355</guid>
     </item>
     <item>
       <title>Eltir fjárflæðið ávöxtunina? Tengsl á milli ávöxtunar hlutabréfa- og skuldabréfamarkaða og fjárflæðis í verðbréfasjóðum á tímum COVID-19 á Íslandi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53940</link>
       <description>Shigeru Ban og íslenskt samhengi : hvernig getur Ísland innleitt hugmyndir Shigeru Ban tengt byggingum handa flóttafólki? - Ellert Sigurðarson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53940</guid>
-    </item>
-    <item>
-      <title>Handan tungumálsins : frásagnarvirkni dansatriða í kvikmyndum</title>
-      <link>https://skemman.is/handle/1946/53936</link>
-      <description>Handan tungumálsins : frásagnarvirkni dansatriða í kvikmyndum - Hanna Hulda Hafþórsdóttir 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53936</guid>
     </item>
   </channel>
 </rss>
