@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 17 Aug 2026 15:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:07:17 +0000</lastBuildDate>
     <item>
       <title>Í skugga ásakana: Bráðabirgðaákvarðanir í forsjár- og lögheimilisdeilum. Áhrif ásakana um ofbeldi, vímuefnaneyslu og vanrækslu á bráðabirgðaúrskurði samkvæmt 35. gr. barnalaga nr. 76/2003</title>
       <link>https://skemman.is/handle/1946/54352</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/54355</link>
       <description>Tíðni contralateral ACL aðgerða í Orkuhúsinu 2015-2020 - Andri Már Valdimarsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54355</guid>
+    </item>
+    <item>
+      <title>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa</title>
+      <link>https://skemman.is/handle/1946/54356</link>
+      <description>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa - Anna Arnbjarnardóttir 2005-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54356</guid>
     </item>
     <item>
       <title>Eltir fjárflæðið ávöxtunina? Tengsl á milli ávöxtunar hlutabréfa- og skuldabréfamarkaða og fjárflæðis í verðbréfasjóðum á tímum COVID-19 á Íslandi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/53943</link>
       <description>Arkitektúr og brúarhönnun á Íslandi : á hvaða hátt hefur aukin aðkoma arkitekta breytt áherslum í brúarhönnun á Íslandi? - Helena Ósk Kristjánsdóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/53943</guid>
-    </item>
-    <item>
-      <title>Shigeru Ban og íslenskt samhengi : hvernig getur Ísland innleitt hugmyndir Shigeru Ban tengt byggingum handa flóttafólki?</title>
-      <link>https://skemman.is/handle/1946/53940</link>
-      <description>Shigeru Ban og íslenskt samhengi : hvernig getur Ísland innleitt hugmyndir Shigeru Ban tengt byggingum handa flóttafólki? - Ellert Sigurðarson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/53940</guid>
     </item>
   </channel>
 </rss>
