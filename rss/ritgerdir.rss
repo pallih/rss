@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:08:55 +0000</lastBuildDate>
     <item>
       <title>Fræðsla og þjálfun hjúkrunarfræðinga á gjörgæslu í lífslokameðferð. Samþætt fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/54361</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/54362</link>
       <description>Skýr kennsla og hnitmiðuð færniþjálfun : viðhald, úthald, stöðugleiki og alhæfing á námi nemenda með þroskafrávik - Hafrún Tryggvadóttir 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54362</guid>
+    </item>
+    <item>
+      <title>Stuðningur, speglun og stjórnendahlutverkið: Eigindleg rannsókn á eftirfylgni fyrirtækis við stjórnendur teyma með lakar Gallup Q12 niðurstöður</title>
+      <link>https://skemman.is/handle/1946/54363</link>
+      <description>Stuðningur, speglun og stjórnendahlutverkið: Eigindleg rannsókn á eftirfylgni fyrirtækis við stjórnendur teyma með lakar Gallup Q12 niðurstöður - Rakel Ýr Jóhannsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54363</guid>
     </item>
     <item>
       <title>Tíðni contralateral ACL aðgerða í Orkuhúsinu 2015-2020</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54340</link>
       <description>Stjórnmálakonur eða kvenkyns stjórnmálamenn? : birtingarmyndir kvenna í forsetaframboði á íslenskum fréttavefmiðlum - Sif Embla Hreinsdóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54340</guid>
-    </item>
-    <item>
-      <title>Lestrarnám yngri barna : miklvægi lestrar og lestrarkennslu</title>
-      <link>https://skemman.is/handle/1946/54338</link>
-      <description>Lestrarnám yngri barna : miklvægi lestrar og lestrarkennslu - Jóhanna Maj Júlíusd. Lundberg 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54338</guid>
     </item>
   </channel>
 </rss>
