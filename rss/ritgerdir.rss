@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:12:56 +0000</lastBuildDate>
+    <item>
+      <title>Steering the Tale of the Front-line Healer</title>
+      <link>https://skemman.is/handle/1946/54364</link>
+      <description>Steering the Tale of the Front-line Healer - Javier Hualde 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54364</guid>
+    </item>
     <item>
       <title>Fræðsla og þjálfun hjúkrunarfræðinga á gjörgæslu í lífslokameðferð. Samþætt fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/54361</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54339</link>
       <description>Eldgos, jarðskjálftar og ferðaþjónusta á Íslandi : hvernig samfélagsmiðlar móta viðhorf ferðamanna í kjölfar náttúruhamfara - Kolbrún Ýr Bragadóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54339</guid>
-    </item>
-    <item>
-      <title>Stjórnmálakonur eða kvenkyns stjórnmálamenn? : birtingarmyndir kvenna í forsetaframboði á íslenskum fréttavefmiðlum</title>
-      <link>https://skemman.is/handle/1946/54340</link>
-      <description>Stjórnmálakonur eða kvenkyns stjórnmálamenn? : birtingarmyndir kvenna í forsetaframboði á íslenskum fréttavefmiðlum - Sif Embla Hreinsdóttir 1995-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54340</guid>
     </item>
   </channel>
 </rss>
