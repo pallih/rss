@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:20:03 +0000</lastBuildDate>
     <item>
       <title>Steering the Tale of the Front-line Healer</title>
       <link>https://skemman.is/handle/1946/54364</link>
@@ -69,12 +69,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54354</guid>
     </item>
     <item>
-      <title>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa</title>
-      <link>https://skemman.is/handle/1946/54356</link>
-      <description>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa - Anna Arnbjarnardóttir 2005-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54356</guid>
-    </item>
-    <item>
       <title>Í skugga ásakana: Bráðabirgðaákvarðanir í forsjár- og lögheimilisdeilum. Áhrif ásakana um ofbeldi, vímuefnaneyslu og vanrækslu á bráðabirgðaúrskurði samkvæmt 35. gr. barnalaga nr. 76/2003</title>
       <link>https://skemman.is/handle/1946/54352</link>
       <description>Í skugga ásakana: Bráðabirgðaákvarðanir í forsjár- og lögheimilisdeilum. Áhrif ásakana um ofbeldi, vímuefnaneyslu og vanrækslu á bráðabirgðaúrskurði samkvæmt 35. gr. barnalaga nr. 76/2003 - Rakel Karítas Árnadóttir Elfar 2004-</description>
@@ -85,6 +79,12 @@
       <link>https://skemman.is/handle/1946/54353</link>
       <description>Þegar tveir mælikvarðar stangast á. Um vægi matsgerða og vilja barns við ákvörðun forsjár samkvæmt 34. gr. barnalaga nr. 76/2003. - Theodóra Hugrún Ólafsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54353</guid>
+    </item>
+    <item>
+      <title>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa</title>
+      <link>https://skemman.is/handle/1946/54356</link>
+      <description>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa - Anna Arnbjarnardóttir 2005-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54356</guid>
     </item>
     <item>
       <title>Eltir fjárflæðið ávöxtunina? Tengsl á milli ávöxtunar hlutabréfa- og skuldabréfamarkaða og fjárflæðis í verðbréfasjóðum á tímum COVID-19 á Íslandi</title>
