@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:15:04 +0000</lastBuildDate>
     <item>
       <title>Scribal variation in AM 194 8vo: An analysis of six orthographic and palaeographic features</title>
       <link>https://skemman.is/handle/1946/54375</link>
@@ -45,18 +45,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54378</guid>
     </item>
     <item>
-      <title>„Nú á dögum er raunveruleikinn frekar ömurlegur, allir leita sér leiða til að flýja hann“: Íslensk þýðing á hluta úr Ready Player One eftir Ernest Cline ásamt greinargerð</title>
-      <link>https://skemman.is/handle/1946/54379</link>
-      <description>„Nú á dögum er raunveruleikinn frekar ömurlegur, allir leita sér leiða til að flýja hann“: Íslensk þýðing á hluta úr Ready Player One eftir Ernest Cline ásamt greinargerð - Erna Kristín Birkisdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54379</guid>
-    </item>
-    <item>
-      <title>"Kennitala á blaði": Upplifun kvenna í ferðaþjónustu af hópuppsögn í faraldri</title>
-      <link>https://skemman.is/handle/1946/54380</link>
-      <description>"Kennitala á blaði": Upplifun kvenna í ferðaþjónustu af hópuppsögn í faraldri - María Sif Bergþórsdóttir 1979-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54380</guid>
-    </item>
-    <item>
       <title>Áhrif hjúkrunarstýrðra, lyfjalausra íhlutana á svefn fyrirbura á nýburagjörgæslu: Regnhlífarsamantekt</title>
       <link>https://skemman.is/handle/1946/54381</link>
       <description>Áhrif hjúkrunarstýrðra, lyfjalausra íhlutana á svefn fyrirbura á nýburagjörgæslu: Regnhlífarsamantekt - Andrea Lísa Kjartansdóttir 1984-</description>
@@ -69,16 +57,34 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54382</guid>
     </item>
     <item>
-      <title>Félagsvist - nóvella</title>
-      <link>https://skemman.is/handle/1946/54383</link>
-      <description>Félagsvist - nóvella - Vala Hauksdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54383</guid>
+      <title>„Nú á dögum er raunveruleikinn frekar ömurlegur, allir leita sér leiða til að flýja hann“: Íslensk þýðing á hluta úr Ready Player One eftir Ernest Cline ásamt greinargerð</title>
+      <link>https://skemman.is/handle/1946/54379</link>
+      <description>„Nú á dögum er raunveruleikinn frekar ömurlegur, allir leita sér leiða til að flýja hann“: Íslensk þýðing á hluta úr Ready Player One eftir Ernest Cline ásamt greinargerð - Erna Kristín Birkisdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54379</guid>
     </item>
     <item>
       <title>Galdramaður fyrir slysni. Þýðing barnabókarinnar Mago por casualidad ásamt fræðilegri greinargerð um þýðingar barnabókmennta</title>
       <link>https://skemman.is/handle/1946/54384</link>
       <description>Galdramaður fyrir slysni. Þýðing barnabókarinnar Mago por casualidad ásamt fræðilegri greinargerð um þýðingar barnabókmennta - Svanhildur Jung Helgadóttir 1971-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54384</guid>
+    </item>
+    <item>
+      <title>Leikur barna : áhrif leiks á þroska og nám</title>
+      <link>https://skemman.is/handle/1946/54385</link>
+      <description>Leikur barna : áhrif leiks á þroska og nám - Unnur Dögg Ómarsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54385</guid>
+    </item>
+    <item>
+      <title>Félagsvist - nóvella</title>
+      <link>https://skemman.is/handle/1946/54383</link>
+      <description>Félagsvist - nóvella - Vala Hauksdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54383</guid>
+    </item>
+    <item>
+      <title>"Kennitala á blaði": Upplifun kvenna í ferðaþjónustu af hópuppsögn í faraldri</title>
+      <link>https://skemman.is/handle/1946/54380</link>
+      <description>"Kennitala á blaði": Upplifun kvenna í ferðaþjónustu af hópuppsögn í faraldri - María Sif Bergþórsdóttir 1979-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54380</guid>
     </item>
     <item>
       <title>Judicial Protection of Individual Rights and Constitutional Responsibility in EEA Law: A Study of Protocol 35 of the EEA Agreement and the Principles of Quasi-Primacy and State Liability in Icelandic EEA Law.</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54361</link>
       <description>Fræðsla og þjálfun hjúkrunarfræðinga á gjörgæslu í lífslokameðferð. Samþætt fræðileg samantekt - Inga Lára Jónsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54361</guid>
-    </item>
-    <item>
-      <title>Hvernig hefur túlkun Hæstaréttar á 3. gr. laga nr. 2/1993 um Evrópska efnahagssvæðið haft áhrif á efndir skuldbindinga Íslands samkvæmt bókun 35? Um dómaframkvæmd Hæstaréttar um beitingu 3. gr. laganna og greining á afleiðingum hennar</title>
-      <link>https://skemman.is/handle/1946/54359</link>
-      <description>Hvernig hefur túlkun Hæstaréttar á 3. gr. laga nr. 2/1993 um Evrópska efnahagssvæðið haft áhrif á efndir skuldbindinga Íslands samkvæmt bókun 35? Um dómaframkvæmd Hæstaréttar um beitingu 3. gr. laganna og greining á afleiðingum hennar - Kjartan Henri Birgisson Lelarge 2004-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54359</guid>
     </item>
   </channel>
 </rss>
