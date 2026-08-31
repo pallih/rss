@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:23:41 +0000</lastBuildDate>
     <item>
       <title>Scribal variation in AM 194 8vo: An analysis of six orthographic and palaeographic features</title>
       <link>https://skemman.is/handle/1946/54375</link>
@@ -55,6 +55,18 @@
       <link>https://skemman.is/handle/1946/54380</link>
       <description>"Kennitala á blaði": Upplifun kvenna í ferðaþjónustu af hópuppsögn í faraldri - María Sif Bergþórsdóttir 1979-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54380</guid>
+    </item>
+    <item>
+      <title>Áhrif hjúkrunarstýrðra, lyfjalausra íhlutana á svefn fyrirbura á nýburagjörgæslu: Regnhlífarsamantekt</title>
+      <link>https://skemman.is/handle/1946/54381</link>
+      <description>Áhrif hjúkrunarstýrðra, lyfjalausra íhlutana á svefn fyrirbura á nýburagjörgæslu: Regnhlífarsamantekt - Andrea Lísa Kjartansdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54381</guid>
+    </item>
+    <item>
+      <title>Ableism in Nordic Higher Education: A Qualitative Interview Study with Disabled Students at the University of Iceland</title>
+      <link>https://skemman.is/handle/1946/54382</link>
+      <description>Ableism in Nordic Higher Education: A Qualitative Interview Study with Disabled Students at the University of Iceland - Xizhen Wang 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54382</guid>
     </item>
     <item>
       <title>Judicial Protection of Individual Rights and Constitutional Responsibility in EEA Law: A Study of Protocol 35 of the EEA Agreement and the Principles of Quasi-Primacy and State Liability in Icelandic EEA Law.</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54358</link>
       <description>Ofbeldi í nánu sambandi. Hvenær telst líkams- eða heilsutjón stórfellt? : Greining á 2. mgr. 218. gr. b. almennra hegningarlaga nr.19/1940 - Margrét Júlía Skúladóttir Hjörvar 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54358</guid>
-    </item>
-    <item>
-      <title>Vægi umgengnistálmana við ákvörðun forsjár. Heildarmat samkvæmt 2. mgr. 34. gr. barnalaga nr. 76/2003</title>
-      <link>https://skemman.is/handle/1946/54360</link>
-      <description>Vægi umgengnistálmana við ákvörðun forsjár. Heildarmat samkvæmt 2. mgr. 34. gr. barnalaga nr. 76/2003 - Einar Bragi Aðalsteinsson 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54360</guid>
-    </item>
-    <item>
-      <title>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa</title>
-      <link>https://skemman.is/handle/1946/54356</link>
-      <description>Re-integra reglan í 90 ár: Þróun 2. málsl. 38. gr. samningalaga í ljósi úrskurða kærunefndar vöru- og þjónustukaupa - Anna Arnbjarnardóttir 2005-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54356</guid>
     </item>
   </channel>
 </rss>
