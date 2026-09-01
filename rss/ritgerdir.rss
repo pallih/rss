@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:15:24 +0000</lastBuildDate>
     <item>
       <title>Violence, agentivité féminine et moralisation dans trois contes de fées français du XVIIe siècle. Étude comparée de L’Adroite Princesse ou les Aventures de Finette de Mlle Lhéritier, Cendrillon ou la petite pantoufle de verre de Charles Perrault et Finette Cendron de Mme d’Aulnoy.</title>
       <link>https://skemman.is/handle/1946/54387</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/54393</link>
       <description>Art as a medium of protest: Reportage Painting and Performance Art in Postwar Japan - Heiðrún Gréta Viktorsdóttir 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54393</guid>
+    </item>
+    <item>
+      <title>Úr heimi í heim: inngilding úkraínsks döff flóttafólks í íslenskt samfélag</title>
+      <link>https://skemman.is/handle/1946/54394</link>
+      <description>Úr heimi í heim: inngilding úkraínsks döff flóttafólks í íslenskt samfélag - Sunna Benjaminsdóttir Bohn 2005-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54394</guid>
     </item>
     <item>
       <title>Scribal variation in AM 194 8vo: An analysis of six orthographic and palaeographic features</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54369</link>
       <description>Anderson &amp; Anderson: Andstæður og hliðstæður bandarískrar samtímakvikmyndagerðar. - Aron Páll Gylfason 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54369</guid>
-    </item>
-    <item>
-      <title>Arfleifð sársaukans: Áfallafræðilegur lestur á leikgerð Benedicts Andrews á Óresteiu Æskylosar</title>
-      <link>https://skemman.is/handle/1946/54370</link>
-      <description>Arfleifð sársaukans: Áfallafræðilegur lestur á leikgerð Benedicts Andrews á Óresteiu Æskylosar - Aðalheiður Halldórsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54370</guid>
     </item>
   </channel>
 </rss>
