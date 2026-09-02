@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:14:58 +0000</lastBuildDate>
     <item>
       <title>Vinnuumhverfi á sjúkrahúsum og tengsl þess við áform hjúkrunarfræðinga um að hætta eða vera áfram í starfi: Kerfisbundin fræðileg samantekt</title>
       <link>https://skemman.is/handle/1946/54400</link>
@@ -31,6 +31,30 @@
       <link>https://skemman.is/handle/1946/54401</link>
       <description>Á hrakhólum: Húsnæðiskreppa í borginni í spegli fortíðar - Sæunn Valdís Kristinsdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54401</guid>
+    </item>
+    <item>
+      <title>Af hvalbátum og hirðum hafsins: Hvalamálið, Sea Shepherd og skemmdarverkin 1986</title>
+      <link>https://skemman.is/handle/1946/54403</link>
+      <description>Af hvalbátum og hirðum hafsins: Hvalamálið, Sea Shepherd og skemmdarverkin 1986 - Jóhann Gísli Ólafsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54403</guid>
+    </item>
+    <item>
+      <title>Fjarstæðan: Hvernig birtist fjarstæðuhyggja Alberts Camus í kvikmyndunum: L‘Étranger og A Serious Man?</title>
+      <link>https://skemman.is/handle/1946/54404</link>
+      <description>Fjarstæðan: Hvernig birtist fjarstæðuhyggja Alberts Camus í kvikmyndunum: L‘Étranger og A Serious Man? - Bjarni Már Jónsson 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54404</guid>
+    </item>
+    <item>
+      <title>Óeirðamyndin hin nýja: Heimildarmynd um óeirðirnar 30. mars 1949</title>
+      <link>https://skemman.is/handle/1946/54405</link>
+      <description>Óeirðamyndin hin nýja: Heimildarmynd um óeirðirnar 30. mars 1949 - Guðmundur Atli Hlynsson 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54405</guid>
+    </item>
+    <item>
+      <title>Spurningin um merkingu: Myndakenning Ludwigs Wittgenstein vegin með hliðsjón af fyrirbærafræði Maurice Merleau-Ponty</title>
+      <link>https://skemman.is/handle/1946/54406</link>
+      <description>Spurningin um merkingu: Myndakenning Ludwigs Wittgenstein vegin með hliðsjón af fyrirbærafræði Maurice Merleau-Ponty - Sigurjón Pétursson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54406</guid>
     </item>
     <item>
       <title>Violence, agentivité féminine et moralisation dans trois contes de fées français du XVIIe siècle. Étude comparée de L’Adroite Princesse ou les Aventures de Finette de Mlle Lhéritier, Cendrillon ou la petite pantoufle de verre de Charles Perrault et Finette Cendron de Mme d’Aulnoy.</title>
@@ -133,30 +157,6 @@
       <link>https://skemman.is/handle/1946/54374</link>
       <description>CML á Íslandi 2006-2025. Faraldsfræði og meðferð. Samanburður við Svíþjóð - Sólveig Rósa Hugadóttir 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54374</guid>
-    </item>
-    <item>
-      <title>Assessment of process intensification in bispecific antibody production</title>
-      <link>https://skemman.is/handle/1946/54376</link>
-      <description>Assessment of process intensification in bispecific antibody production - Axel Ágústsson 1986-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54376</guid>
-    </item>
-    <item>
-      <title>Environmental Tragedy: Ecocritical Analysis of Medea and Other Plays in Icelandic Theatre</title>
-      <link>https://skemman.is/handle/1946/54378</link>
-      <description>Environmental Tragedy: Ecocritical Analysis of Medea and Other Plays in Icelandic Theatre - Elís Aldan Guðnason 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54378</guid>
-    </item>
-    <item>
-      <title>Áhrif hjúkrunarstýrðra, lyfjalausra íhlutana á svefn fyrirbura á nýburagjörgæslu: Regnhlífarsamantekt</title>
-      <link>https://skemman.is/handle/1946/54381</link>
-      <description>Áhrif hjúkrunarstýrðra, lyfjalausra íhlutana á svefn fyrirbura á nýburagjörgæslu: Regnhlífarsamantekt - Andrea Lísa Kjartansdóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54381</guid>
-    </item>
-    <item>
-      <title>Ableism in Nordic Higher Education: A Qualitative Interview Study with Disabled Students at the University of Iceland</title>
-      <link>https://skemman.is/handle/1946/54382</link>
-      <description>Ableism in Nordic Higher Education: A Qualitative Interview Study with Disabled Students at the University of Iceland - Xizhen Wang 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54382</guid>
     </item>
   </channel>
 </rss>
