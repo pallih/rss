@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:23:20 +0000</lastBuildDate>
     <item>
       <title>Challenge of Caesarean Section Deliveries: Case Study in Bono Region, Ghana</title>
       <link>https://skemman.is/handle/1946/54399</link>
@@ -19,6 +19,18 @@
       <link>https://skemman.is/handle/1946/54400</link>
       <description>Vinnuumhverfi á sjúkrahúsum og tengsl þess við áform hjúkrunarfræðinga um að hætta eða vera áfram í starfi: Kerfisbundin fræðileg samantekt - Rut Sigurjónsdóttir 1986-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54400</guid>
+    </item>
+    <item>
+      <title>Á hrakhólum: Húsnæðiskreppa í borginni í spegli fortíðar</title>
+      <link>https://skemman.is/handle/1946/54401</link>
+      <description>Á hrakhólum: Húsnæðiskreppa í borginni í spegli fortíðar - Sæunn Valdís Kristinsdóttir 1984-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54401</guid>
+    </item>
+    <item>
+      <title>Þetta reddast ... eða hvað? Áhættustjórnun sem stjórntæki í starfsemi ráðuneyta</title>
+      <link>https://skemman.is/handle/1946/54402</link>
+      <description>Þetta reddast ... eða hvað? Áhættustjórnun sem stjórntæki í starfsemi ráðuneyta - Andrés Nielsen 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54402</guid>
     </item>
     <item>
       <title>Violence, agentivité féminine et moralisation dans trois contes de fées français du XVIIe siècle. Étude comparée de L’Adroite Princesse ou les Aventures de Finette de Mlle Lhéritier, Cendrillon ou la petite pantoufle de verre de Charles Perrault et Finette Cendron de Mme d’Aulnoy.</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54382</link>
       <description>Ableism in Nordic Higher Education: A Qualitative Interview Study with Disabled Students at the University of Iceland - Xizhen Wang 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54382</guid>
-    </item>
-    <item>
-      <title>„Nú á dögum er raunveruleikinn frekar ömurlegur, allir leita sér leiða til að flýja hann“: Íslensk þýðing á hluta úr Ready Player One eftir Ernest Cline ásamt greinargerð</title>
-      <link>https://skemman.is/handle/1946/54379</link>
-      <description>„Nú á dögum er raunveruleikinn frekar ömurlegur, allir leita sér leiða til að flýja hann“: Íslensk þýðing á hluta úr Ready Player One eftir Ernest Cline ásamt greinargerð - Erna Kristín Birkisdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54379</guid>
-    </item>
-    <item>
-      <title>Galdramaður fyrir slysni. Þýðing barnabókarinnar Mago por casualidad ásamt fræðilegri greinargerð um þýðingar barnabókmennta</title>
-      <link>https://skemman.is/handle/1946/54384</link>
-      <description>Galdramaður fyrir slysni. Þýðing barnabókarinnar Mago por casualidad ásamt fræðilegri greinargerð um þýðingar barnabókmennta - Svanhildur Jung Helgadóttir 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54384</guid>
     </item>
   </channel>
 </rss>
