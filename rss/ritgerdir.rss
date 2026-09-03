@@ -7,18 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:23:26 +0000</lastBuildDate>
     <item>
       <title>“Hrædiligum rauddum ok grimligum ásionum”: Plural modes of Othering in Kirialax saga</title>
       <link>https://skemman.is/handle/1946/54409</link>
       <description>“Hrædiligum rauddum ok grimligum ásionum”: Plural modes of Othering in Kirialax saga - Christopher Hesk 2004-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54409</guid>
-    </item>
-    <item>
-      <title>Bílamenning í Reykjavík. Bílamenning Reykjavíkur og miðlun hennar í hlaðvarpi.</title>
-      <link>https://skemman.is/handle/1946/54410</link>
-      <description>Bílamenning í Reykjavík. Bílamenning Reykjavíkur og miðlun hennar í hlaðvarpi. - Una Gíslrún Kristinsdóttir Schram 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54410</guid>
     </item>
     <item>
       <title>Breytingar í beinni: Upplifun starfsfólks íslenskra fréttastofa af stafrænum umbreytingum fréttastarfs</title>
@@ -55,6 +49,18 @@
       <link>https://skemman.is/handle/1946/54416</link>
       <description>Samþætting kynja- og jafnréttissjónarmiða í stefnumótun og áætlanagerð hjá Reykjavíkurborg: Frá stefnu til framkvæmdar - Aníta Hafrúnardóttir 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54416</guid>
+    </item>
+    <item>
+      <title>Bílamenning í Reykjavík. Bílamenning Reykjavíkur og miðlun hennar í hlaðvarpi.</title>
+      <link>https://skemman.is/handle/1946/54410</link>
+      <description>Bílamenning í Reykjavík. Bílamenning Reykjavíkur og miðlun hennar í hlaðvarpi. - Una Gíslrún Kristinsdóttir Schram 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54410</guid>
+    </item>
+    <item>
+      <title>Að varðveita samtímann: Hlutverk og áskoranir staðbundinna fjölmiðla á Íslandi</title>
+      <link>https://skemman.is/handle/1946/54417</link>
+      <description>Að varðveita samtímann: Hlutverk og áskoranir staðbundinna fjölmiðla á Íslandi - Anna Rósa Guðmundsdóttir 1987-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54417</guid>
     </item>
     <item>
       <title>Vinnuumhverfi á sjúkrahúsum og tengsl þess við áform hjúkrunarfræðinga um að hætta eða vera áfram í starfi: Kerfisbundin fræðileg samantekt</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54386</link>
       <description>Stefnumótun í fjármálaáætlun: Tækifæri til betri árangurs - Anna María Urbancic 1965-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54386</guid>
-    </item>
-    <item>
-      <title>Valgerður Jónsdóttir (1863-1913). Líf, starf og arfleifð á tímum samfélagsbreytinga   í ljósi fræða díakoníu og sálgæslu</title>
-      <link>https://skemman.is/handle/1946/54396</link>
-      <description>Valgerður Jónsdóttir (1863-1913). Líf, starf og arfleifð á tímum samfélagsbreytinga   í ljósi fræða díakoníu og sálgæslu - Helga Björg Gunnarsdóttir 1970-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54396</guid>
     </item>
   </channel>
 </rss>
