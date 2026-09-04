@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:13:52 +0000</lastBuildDate>
     <item>
       <title>"Að vera fangi sögunnar": Reynsla og upplifun foreldris með geðröskun af stuðningsúrræðum og málsmeðferð innan barnaverndar</title>
       <link>https://skemman.is/handle/1946/54423</link>
@@ -67,6 +67,12 @@
       <link>https://skemman.is/handle/1946/54428</link>
       <description>Austria and Ireland’s interpretation of neutrality since the Russian invasion of Ukraine - Ari Kárason 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54428</guid>
+    </item>
+    <item>
+      <title>Meðferðarúrræði innan íslenskra fangelsa fyrir gerendur ofbeldis í nánum samböndum "það eru menn að fara hér í gegn með alveg hræðileg ofbeldisbrot bara óáreittir"</title>
+      <link>https://skemman.is/handle/1946/54429</link>
+      <description>Meðferðarúrræði innan íslenskra fangelsa fyrir gerendur ofbeldis í nánum samböndum "það eru menn að fara hér í gegn með alveg hræðileg ofbeldisbrot bara óáreittir" - Thelma Karen Ottósdóttir 1991-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54429</guid>
     </item>
     <item>
       <title>Merkingarferðalag hundgamalla myndana: Um samastað, skilgreiningar og sögu áhersluforliða í íslensku</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54401</link>
       <description>Á hrakhólum: Húsnæðiskreppa í borginni í spegli fortíðar - Sæunn Valdís Kristinsdóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54401</guid>
-    </item>
-    <item>
-      <title>Fjarstæðan: Hvernig birtist fjarstæðuhyggja Alberts Camus í kvikmyndunum: L‘Étranger og A Serious Man?</title>
-      <link>https://skemman.is/handle/1946/54404</link>
-      <description>Fjarstæðan: Hvernig birtist fjarstæðuhyggja Alberts Camus í kvikmyndunum: L‘Étranger og A Serious Man? - Bjarni Már Jónsson 1998-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54404</guid>
     </item>
   </channel>
 </rss>
