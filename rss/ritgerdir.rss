@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:22:38 +0000</lastBuildDate>
     <item>
       <title>Tilveruréttur tónlistarsena: Greining á starfi tónleikahaldara í grasrótarsenu Íslands</title>
       <link>https://skemman.is/handle/1946/54430</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/54432</link>
       <description>Offshore Wind Energy Development in the Exclusive Economic Zone under UNCLOS:  The Rights and Obligations of Coastal States and Other States, Conflicts of Use and a Regional Focus on the EU and the North-East Atlantic - Ari Fannar Stefánsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54432</guid>
+    </item>
+    <item>
+      <title>Identification and Evaluation of Process Parameters for Enhanced Productivity and Quality in Cell Culture Bioprocesses</title>
+      <link>https://skemman.is/handle/1946/54433</link>
+      <description>Identification and Evaluation of Process Parameters for Enhanced Productivity and Quality in Cell Culture Bioprocesses - Kasirami Reddy Mula 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54433</guid>
     </item>
     <item>
       <title>"Að vera fangi sögunnar": Reynsla og upplifun foreldris með geðröskun af stuðningsúrræðum og málsmeðferð innan barnaverndar</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54410</link>
       <description>Bílamenning í Reykjavík. Bílamenning Reykjavíkur og miðlun hennar í hlaðvarpi. - Una Gíslrún Kristinsdóttir Schram 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54410</guid>
-    </item>
-    <item>
-      <title>Challenge of Caesarean Section Deliveries: Case Study in Bono Region, Ghana</title>
-      <link>https://skemman.is/handle/1946/54399</link>
-      <description>Challenge of Caesarean Section Deliveries: Case Study in Bono Region, Ghana - Prince Ofori Agyemang 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54399</guid>
     </item>
   </channel>
 </rss>
