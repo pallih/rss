@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:15:17 +0000</lastBuildDate>
     <item>
       <title>Undirbúningur leikskólabarna fyrir nám í hönnun og smíði í grunnskóla: Námsefni fyrir kennara</title>
       <link>https://skemman.is/handle/1946/54439</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/54438</link>
       <description>Hver eru tengsl banka og tryggingafélaga séð frá sjónarhóli neytenda á  Íslandi? - Guðfinna Helgadóttir 1976-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54438</guid>
+    </item>
+    <item>
+      <title>National Security Screening in International Investment Law: A Comparative Legal Study of the United States, the European Union, China, and Iceland</title>
+      <link>https://skemman.is/handle/1946/54443</link>
+      <description>National Security Screening in International Investment Law: A Comparative Legal Study of the United States, the European Union, China, and Iceland - Xue Meng 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54443</guid>
     </item>
     <item>
       <title>Offshore Wind Energy Development in the Exclusive Economic Zone under UNCLOS:  The Rights and Obligations of Coastal States and Other States, Conflicts of Use and a Regional Focus on the EU and the North-East Atlantic</title>
@@ -141,22 +147,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54427</guid>
     </item>
     <item>
-      <title>"Að vera fangi sögunnar": Reynsla og upplifun foreldris með geðröskun af stuðningsúrræðum og málsmeðferð innan barnaverndar</title>
-      <link>https://skemman.is/handle/1946/54423</link>
-      <description>"Að vera fangi sögunnar": Reynsla og upplifun foreldris með geðröskun af stuðningsúrræðum og málsmeðferð innan barnaverndar - Martha Elena Laxdal 1974-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54423</guid>
-    </item>
-    <item>
       <title>Faculty Perspectives on AI  Use Among College Students in the Pacific Northwest</title>
       <link>https://skemman.is/handle/1946/54424</link>
       <description>Faculty Perspectives on AI  Use Among College Students in the Pacific Northwest - Jeremy William Archer 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54424</guid>
     </item>
     <item>
-      <title>Merkingarferðalag hundgamalla myndana: Um samastað, skilgreiningar og sögu áhersluforliða í íslensku</title>
-      <link>https://skemman.is/handle/1946/54415</link>
-      <description>Merkingarferðalag hundgamalla myndana: Um samastað, skilgreiningar og sögu áhersluforliða í íslensku - Ragnheiður María Benediktsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54415</guid>
+      <title>"Að vera fangi sögunnar": Reynsla og upplifun foreldris með geðröskun af stuðningsúrræðum og málsmeðferð innan barnaverndar</title>
+      <link>https://skemman.is/handle/1946/54423</link>
+      <description>"Að vera fangi sögunnar": Reynsla og upplifun foreldris með geðröskun af stuðningsúrræðum og málsmeðferð innan barnaverndar - Martha Elena Laxdal 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54423</guid>
     </item>
   </channel>
 </rss>
