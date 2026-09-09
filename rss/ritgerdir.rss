@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:14:54 +0000</lastBuildDate>
+    <item>
+      <title>Yfirfærsla rekstrartaps við samruna, skiptingu og breytingu á rekstrarformi félaga</title>
+      <link>https://skemman.is/handle/1946/54445</link>
+      <description>Yfirfærsla rekstrartaps við samruna, skiptingu og breytingu á rekstrarformi félaga - Ólöf Þórunn Hafliðadóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54445</guid>
+    </item>
     <item>
       <title>Undirbúningur leikskólabarna fyrir nám í hönnun og smíði í grunnskóla: Námsefni fyrir kennara</title>
       <link>https://skemman.is/handle/1946/54439</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54427</link>
       <description>Factors Associated with Severity of Traffic Accidents in Iceland (2019-2023) - Elía Jelena Milansdóttir Kospenda 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54427</guid>
-    </item>
-    <item>
-      <title>Faculty Perspectives on AI  Use Among College Students in the Pacific Northwest</title>
-      <link>https://skemman.is/handle/1946/54424</link>
-      <description>Faculty Perspectives on AI  Use Among College Students in the Pacific Northwest - Jeremy William Archer 1990-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54424</guid>
     </item>
   </channel>
 </rss>
