@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:13:16 +0000</lastBuildDate>
     <item>
       <title>Frá krísu til stefnumótunar: Þróun markaðssetningar Íslands sem áfangastaðar</title>
       <link>https://skemman.is/handle/1946/54454</link>
@@ -31,6 +31,18 @@
       <link>https://skemman.is/handle/1946/54456</link>
       <description>Gjaldmiðlavalkostir Íslands: Króna eða Evra? - Bjarki Hall 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54456</guid>
+    </item>
+    <item>
+      <title>Frá Búrfelli til Hvamms: Samanburður á Búrfellsvirkjun, Kárahnjúkavirkjun og Hvammsvirkjun</title>
+      <link>https://skemman.is/handle/1946/54457</link>
+      <description>Frá Búrfelli til Hvamms: Samanburður á Búrfellsvirkjun, Kárahnjúkavirkjun og Hvammsvirkjun - Vala Sigríður Ingólfsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54457</guid>
+    </item>
+    <item>
+      <title>Verðmat á íslensku húsbílaleigunni Cozy Campers ehf.: Samanburður tveggja tilfella út frá núvirtu fjárstreymi</title>
+      <link>https://skemman.is/handle/1946/54458</link>
+      <description>Verðmat á íslensku húsbílaleigunni Cozy Campers ehf.: Samanburður tveggja tilfella út frá núvirtu fjárstreymi - Þorsteinn Wilhelm Sigurjónsson 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54458</guid>
     </item>
     <item>
       <title>Hvað er bókasafn? Tölfræðirannsókn á almenningsbókasöfnum á Íslandi 2025</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54430</link>
       <description>Tilveruréttur tónlistarsena: Greining á starfi tónleikahaldara í grasrótarsenu Íslands - Sævar Andri Sigurðarson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54430</guid>
-    </item>
-    <item>
-      <title>The EU Water Framework Directive and its Implications for Hydropower as a Renewable Energy Source, An Assessment of Legal Enforceability and Member State Compliance amidst the Clean Energy Transition</title>
-      <link>https://skemman.is/handle/1946/54436</link>
-      <description>The EU Water Framework Directive and its Implications for Hydropower as a Renewable Energy Source, An Assessment of Legal Enforceability and Member State Compliance amidst the Clean Energy Transition - Julia Krenn 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54436</guid>
-    </item>
-    <item>
-      <title>Representing and assessing sustainability transformations: paradigms, models, and sustainability indicators</title>
-      <link>https://skemman.is/handle/1946/54435</link>
-      <description>Representing and assessing sustainability transformations: paradigms, models, and sustainability indicators - Clara Barbara Stephan Klinkenberg 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54435</guid>
     </item>
   </channel>
 </rss>
