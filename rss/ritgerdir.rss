@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:20:21 +0000</lastBuildDate>
+    <item>
+      <title>Integrating direct air carbon capture and storage into carbon markets: Governance, accounting and certification under Article 6 of the Paris Agreement and the EU ETS</title>
+      <link>https://skemman.is/handle/1946/54453</link>
+      <description>Integrating direct air carbon capture and storage into carbon markets: Governance, accounting and certification under Article 6 of the Paris Agreement and the EU ETS - Hannah Siewert 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54453</guid>
+    </item>
     <item>
       <title>Hvað er bókasafn? Tölfræðirannsókn á almenningsbókasöfnum á Íslandi 2025</title>
       <link>https://skemman.is/handle/1946/54446</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54419</link>
       <description>Áskoranir og bjargráð nýútskrifaðra náms- og starfsráðgjafa í grunnskóla - Kári Alexander Þórðarson 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54419</guid>
-    </item>
-    <item>
-      <title>Navigating Linguistic and Cultural Diversity Library Staff Perceptions in the Northeastern Region of Iceland</title>
-      <link>https://skemman.is/handle/1946/54420</link>
-      <description>Navigating Linguistic and Cultural Diversity Library Staff Perceptions in the Northeastern Region of Iceland - Katrin Þóra Jonsson 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54420</guid>
     </item>
   </channel>
 </rss>
