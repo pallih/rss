@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:13:37 +0000</lastBuildDate>
     <item>
       <title>Frá krísu til stefnumótunar: Þróun markaðssetningar Íslands sem áfangastaðar</title>
       <link>https://skemman.is/handle/1946/54454</link>
@@ -43,6 +43,18 @@
       <link>https://skemman.is/handle/1946/54458</link>
       <description>Verðmat á íslensku húsbílaleigunni Cozy Campers ehf.: Samanburður tveggja tilfella út frá núvirtu fjárstreymi - Þorsteinn Wilhelm Sigurjónsson 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54458</guid>
+    </item>
+    <item>
+      <title>Biocrust facilitation of birch and willow seedling establishment under different moisture conditions</title>
+      <link>https://skemman.is/handle/1946/54459</link>
+      <description>Biocrust facilitation of birch and willow seedling establishment under different moisture conditions - Eleanor Greer 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54459</guid>
+    </item>
+    <item>
+      <title>Developing Critical Nuclear Literacy: Critical Peace Education for Public lower secondary schools in Denmark</title>
+      <link>https://skemman.is/handle/1946/54460</link>
+      <description>Developing Critical Nuclear Literacy: Critical Peace Education for Public lower secondary schools in Denmark - Benjamin Bacht 1976-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54460</guid>
     </item>
     <item>
       <title>Hvað er bókasafn? Tölfræðirannsókn á almenningsbókasöfnum á Íslandi 2025</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54433</link>
       <description>Identification and Evaluation of Process Parameters for Enhanced Productivity and Quality in Cell Culture Bioprocesses - Kasirami Reddy Mula 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54433</guid>
-    </item>
-    <item>
-      <title>Inngilding á íslenskum vinnumarkaði: Tengsl inngildingar og inngildandi forystu við aðlögun innflytjenda</title>
-      <link>https://skemman.is/handle/1946/54431</link>
-      <description>Inngilding á íslenskum vinnumarkaði: Tengsl inngildingar og inngildandi forystu við aðlögun innflytjenda - Friðrik Sigurðarson 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54431</guid>
-    </item>
-    <item>
-      <title>Tilveruréttur tónlistarsena: Greining á starfi tónleikahaldara í grasrótarsenu Íslands</title>
-      <link>https://skemman.is/handle/1946/54430</link>
-      <description>Tilveruréttur tónlistarsena: Greining á starfi tónleikahaldara í grasrótarsenu Íslands - Sævar Andri Sigurðarson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54430</guid>
     </item>
   </channel>
 </rss>
