@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:15:24 +0000</lastBuildDate>
     <item>
       <title>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg</title>
       <link>https://skemman.is/handle/1946/54461</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/54466</link>
       <description>Jafnvægi í tvítyngi hjá börnum:  Stuðningur við málþroska, sjálfsmyndarmótun og menningarleg tengsl - Nejira Zahirovic 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54466</guid>
+    </item>
+    <item>
+      <title>The Jōmon people and the dogū phenomenon: Tracing Japan’s first inhabitants</title>
+      <link>https://skemman.is/handle/1946/54467</link>
+      <description>The Jōmon people and the dogū phenomenon: Tracing Japan’s first inhabitants - Berglind Aya Iura 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54467</guid>
     </item>
     <item>
       <title>Biocrust facilitation of birch and willow seedling establishment under different moisture conditions</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54440</link>
       <description>Regulating High-Risk AI in the EU: Evaluating the EU Artificial Intelligence Act as a Policy Framework - Vitaliia Svintkovskaia 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54440</guid>
-    </item>
-    <item>
-      <title>Hver eru tengsl banka og tryggingafélaga séð frá sjónarhóli neytenda á  Íslandi?</title>
-      <link>https://skemman.is/handle/1946/54438</link>
-      <description>Hver eru tengsl banka og tryggingafélaga séð frá sjónarhóli neytenda á  Íslandi? - Guðfinna Helgadóttir 1976-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54438</guid>
     </item>
   </channel>
 </rss>
