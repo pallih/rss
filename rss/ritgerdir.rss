@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:14:45 +0000</lastBuildDate>
     <item>
       <title>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg</title>
       <link>https://skemman.is/handle/1946/54461</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/54464</link>
       <description>Þjónandi forysta í ferðaþjónustu: Áhrif á starfsánægju og þjónustugæði - Arna Hrund Jónsdóttir 1989-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54464</guid>
+    </item>
+    <item>
+      <title>Húmor í markaðssamskiptum: Við hvaða skilyrði hefur notkun húmors í markaðssamskiptum jákvæð eða neikvæð áhrif á viðhorf neytenda til vörumerkja?</title>
+      <link>https://skemman.is/handle/1946/54465</link>
+      <description>Húmor í markaðssamskiptum: Við hvaða skilyrði hefur notkun húmors í markaðssamskiptum jákvæð eða neikvæð áhrif á viðhorf neytenda til vörumerkja? - Tómas Nielsen 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54465</guid>
     </item>
     <item>
       <title>Biocrust facilitation of birch and willow seedling establishment under different moisture conditions</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54443</link>
       <description>National Security Screening in International Investment Law: A Comparative Legal Study of the United States, the European Union, China, and Iceland - Xue Meng 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54443</guid>
-    </item>
-    <item>
-      <title>„Verkefnið fór bara einhvern veginn af stað“: Verkefna- og breytingastjórnun í upphafsfasa innleiðingar gervigreindar</title>
-      <link>https://skemman.is/handle/1946/54441</link>
-      <description>„Verkefnið fór bara einhvern veginn af stað“: Verkefna- og breytingastjórnun í upphafsfasa innleiðingar gervigreindar - Sólveig Nielsen 1981-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54441</guid>
     </item>
   </channel>
 </rss>
