@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:22:28 +0000</lastBuildDate>
     <item>
       <title>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg</title>
       <link>https://skemman.is/handle/1946/54461</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/54465</link>
       <description>Húmor í markaðssamskiptum: Við hvaða skilyrði hefur notkun húmors í markaðssamskiptum jákvæð eða neikvæð áhrif á viðhorf neytenda til vörumerkja? - Tómas Nielsen 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54465</guid>
+    </item>
+    <item>
+      <title>Jafnvægi í tvítyngi hjá börnum:  Stuðningur við málþroska, sjálfsmyndarmótun og menningarleg tengsl</title>
+      <link>https://skemman.is/handle/1946/54466</link>
+      <description>Jafnvægi í tvítyngi hjá börnum:  Stuðningur við málþroska, sjálfsmyndarmótun og menningarleg tengsl - Nejira Zahirovic 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54466</guid>
     </item>
     <item>
       <title>Biocrust facilitation of birch and willow seedling establishment under different moisture conditions</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54438</link>
       <description>Hver eru tengsl banka og tryggingafélaga séð frá sjónarhóli neytenda á  Íslandi? - Guðfinna Helgadóttir 1976-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54438</guid>
-    </item>
-    <item>
-      <title>National Security Screening in International Investment Law: A Comparative Legal Study of the United States, the European Union, China, and Iceland</title>
-      <link>https://skemman.is/handle/1946/54443</link>
-      <description>National Security Screening in International Investment Law: A Comparative Legal Study of the United States, the European Union, China, and Iceland - Xue Meng 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54443</guid>
     </item>
   </channel>
 </rss>
