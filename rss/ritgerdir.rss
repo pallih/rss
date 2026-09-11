@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:20:09 +0000</lastBuildDate>
+    <item>
+      <title>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg</title>
+      <link>https://skemman.is/handle/1946/54461</link>
+      <description>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg - Gylfi Geir Albertsson 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54461</guid>
+    </item>
     <item>
       <title>Frá krísu til stefnumótunar: Þróun markaðssetningar Íslands sem áfangastaðar</title>
       <link>https://skemman.is/handle/1946/54454</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54432</link>
       <description>Offshore Wind Energy Development in the Exclusive Economic Zone under UNCLOS:  The Rights and Obligations of Coastal States and Other States, Conflicts of Use and a Regional Focus on the EU and the North-East Atlantic - Ari Fannar Stefánsson 1990-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54432</guid>
-    </item>
-    <item>
-      <title>Identification and Evaluation of Process Parameters for Enhanced Productivity and Quality in Cell Culture Bioprocesses</title>
-      <link>https://skemman.is/handle/1946/54433</link>
-      <description>Identification and Evaluation of Process Parameters for Enhanced Productivity and Quality in Cell Culture Bioprocesses - Kasirami Reddy Mula 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54433</guid>
     </item>
   </channel>
 </rss>
