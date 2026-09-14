@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:16:51 +0000</lastBuildDate>
     <item>
       <title>Icelandic Speech-Language Pathologists’ Practices with Multilingual and Linguistically Diverse Clients: A survey of practicing speech-language pathologists</title>
       <link>https://skemman.is/handle/1946/54468</link>
       <description>Icelandic Speech-Language Pathologists’ Practices with Multilingual and Linguistically Diverse Clients: A survey of practicing speech-language pathologists - Katla Einarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54468</guid>
+    </item>
+    <item>
+      <title>Gæði stærðfræðikennslu á unglingastigi með tilliti til hópavinnu og jafningjaaðstoðar</title>
+      <link>https://skemman.is/handle/1946/54469</link>
+      <description>Gæði stærðfræðikennslu á unglingastigi með tilliti til hópavinnu og jafningjaaðstoðar - Sylvía Ruth Jónsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54469</guid>
     </item>
     <item>
       <title>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54451</link>
       <description>Það er gott að vita: Fræðileg samantekt á þörfum foreldra fatlaðra barna fyrir upplýsingar og stuðning - Ragnheiður Sveinsdóttir 1977-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54451</guid>
-    </item>
-    <item>
-      <title>Undirbúningur leikskólabarna fyrir nám í hönnun og smíði í grunnskóla: Námsefni fyrir kennara</title>
-      <link>https://skemman.is/handle/1946/54439</link>
-      <description>Undirbúningur leikskólabarna fyrir nám í hönnun og smíði í grunnskóla: Námsefni fyrir kennara - Stefanía Sóley Steinarsdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54439</guid>
     </item>
   </channel>
 </rss>
