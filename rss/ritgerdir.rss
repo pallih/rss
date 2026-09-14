@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:15:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:15:22 +0000</lastBuildDate>
     <item>
       <title>Icelandic Speech-Language Pathologists’ Practices with Multilingual and Linguistically Diverse Clients: A survey of practicing speech-language pathologists</title>
       <link>https://skemman.is/handle/1946/54468</link>
@@ -31,6 +31,12 @@
       <link>https://skemman.is/handle/1946/54471</link>
       <description>Réttur til húsnæðis samkvæmt alþjóðlegum mannréttindasáttmálum: Efnisinntak, skyldur ríkja og íslenskar reglur um útburð í ljósi alþjóðlegra skuldbindinga - Rebekka Karlsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54471</guid>
+    </item>
+    <item>
+      <title>Aðgerðir til að draga úr markaðssetningu óhollra matvæla sem beinist að börnum og mat á árangri: Kerfisbundið yfirlit á rannsóknum útgefnum 2020-2026</title>
+      <link>https://skemman.is/handle/1946/54472</link>
+      <description>Aðgerðir til að draga úr markaðssetningu óhollra matvæla sem beinist að börnum og mat á árangri: Kerfisbundið yfirlit á rannsóknum útgefnum 2020-2026 - Helga Ómarsdóttir 1988-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54472</guid>
     </item>
     <item>
       <title>Áhrifaþættir á starfshvatningu og starfsánægju sérfræðinga hjá hinu opinbera</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54449</link>
       <description>Konur og ADHD: Greiningarferli, áskoranir og afleiðingar - Stefán Björn Karlsson 1991-; Ingibjörg Hrönn Guðmundsdóttir 1971-; Bjarni Þorgeir Bjarnason 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54449</guid>
-    </item>
-    <item>
-      <title>A Decade of the Optional Protocol to the ICESCR: Assessing the Practice of the UN Committee on Economic, Social and Cultural Rights</title>
-      <link>https://skemman.is/handle/1946/54448</link>
-      <description>A Decade of the Optional Protocol to the ICESCR: Assessing the Practice of the UN Committee on Economic, Social and Cultural Rights - Oghogho Omoregie 1983-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54448</guid>
     </item>
   </channel>
 </rss>
