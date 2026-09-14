@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Sun, 13 Sep 2026 17:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:23:26 +0000</lastBuildDate>
+    <item>
+      <title>Icelandic Speech-Language Pathologists’ Practices with Multilingual and Linguistically Diverse Clients: A survey of practicing speech-language pathologists</title>
+      <link>https://skemman.is/handle/1946/54468</link>
+      <description>Icelandic Speech-Language Pathologists’ Practices with Multilingual and Linguistically Diverse Clients: A survey of practicing speech-language pathologists - Katla Einarsdóttir 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54468</guid>
+    </item>
     <item>
       <title>Áhrif tækniframfara á atvinnu á Íslandi: Greining á heildarþáttarframleiðni með samanburði við Noreg</title>
       <link>https://skemman.is/handle/1946/54461</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54439</link>
       <description>Undirbúningur leikskólabarna fyrir nám í hönnun og smíði í grunnskóla: Námsefni fyrir kennara - Stefanía Sóley Steinarsdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54439</guid>
-    </item>
-    <item>
-      <title>Regulating High-Risk AI in the EU: Evaluating the EU Artificial Intelligence Act as a Policy Framework</title>
-      <link>https://skemman.is/handle/1946/54440</link>
-      <description>Regulating High-Risk AI in the EU: Evaluating the EU Artificial Intelligence Act as a Policy Framework - Vitaliia Svintkovskaia 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54440</guid>
     </item>
   </channel>
 </rss>
