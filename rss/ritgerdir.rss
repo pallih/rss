@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:16:36 +0000</lastBuildDate>
+    <item>
+      <title>Q-hlutfall Tobins á íslenskum húsnæðismarkaði. Svæðisbundinn munur og samband við uppbyggingu íbúðarhúsnæðis</title>
+      <link>https://skemman.is/handle/1946/54473</link>
+      <description>Q-hlutfall Tobins á íslenskum húsnæðismarkaði. Svæðisbundinn munur og samband við uppbyggingu íbúðarhúsnæðis - Kristján Ari Jóhannsson 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54473</guid>
+    </item>
     <item>
       <title>Icelandic Speech-Language Pathologists’ Practices with Multilingual and Linguistically Diverse Clients: A survey of practicing speech-language pathologists</title>
       <link>https://skemman.is/handle/1946/54468</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54452</link>
       <description>Ferlið að koma íslenskri vöru á erlendan markað: Áskoranir og lykilþættir góðs árangurs - Dagur Sævarsson 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54452</guid>
-    </item>
-    <item>
-      <title>Konur og ADHD: Greiningarferli, áskoranir og afleiðingar</title>
-      <link>https://skemman.is/handle/1946/54449</link>
-      <description>Konur og ADHD: Greiningarferli, áskoranir og afleiðingar - Stefán Björn Karlsson 1991-; Ingibjörg Hrönn Guðmundsdóttir 1971-; Bjarni Þorgeir Bjarnason 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54449</guid>
     </item>
   </channel>
 </rss>
