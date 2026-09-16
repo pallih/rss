@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Perceived Financial Stress, Mental Health and Academic Outcomes among University Students in Iceland: Evidence from EUROSTUDENT 8. The Mediating Role of Mental Health</title>
+      <link>https://skemman.is/handle/1946/54474</link>
+      <description>Perceived Financial Stress, Mental Health and Academic Outcomes among University Students in Iceland: Evidence from EUROSTUDENT 8. The Mediating Role of Mental Health - Kangjing Shi 1986-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54474</guid>
+    </item>
     <item>
       <title>Q-hlutfall Tobins á íslenskum húsnæðismarkaði. Svæðisbundinn munur og samband við uppbyggingu íbúðarhúsnæðis</title>
       <link>https://skemman.is/handle/1946/54473</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54445</link>
       <description>Yfirfærsla rekstrartaps við samruna, skiptingu og breytingu á rekstrarformi félaga - Ólöf Þórunn Hafliðadóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54445</guid>
-    </item>
-    <item>
-      <title>Ferlið að koma íslenskri vöru á erlendan markað: Áskoranir og lykilþættir góðs árangurs</title>
-      <link>https://skemman.is/handle/1946/54452</link>
-      <description>Ferlið að koma íslenskri vöru á erlendan markað: Áskoranir og lykilþættir góðs árangurs - Dagur Sævarsson 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54452</guid>
     </item>
   </channel>
 </rss>
