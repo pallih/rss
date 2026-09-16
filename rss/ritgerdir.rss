@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:15:50 +0000</lastBuildDate>
+    <item>
+      <title>Stjórnskipulag skrifstofu Alþingis: Boðleiðir og ábyrgð í opinberri skipulagsheild</title>
+      <link>https://skemman.is/handle/1946/54478</link>
+      <description>Stjórnskipulag skrifstofu Alþingis: Boðleiðir og ábyrgð í opinberri skipulagsheild - Arna Gerður Bang 1973-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54478</guid>
+    </item>
     <item>
       <title>Perceived Financial Stress, Mental Health and Academic Outcomes among University Students in Iceland: Evidence from EUROSTUDENT 8. The Mediating Role of Mental Health</title>
       <link>https://skemman.is/handle/1946/54474</link>
@@ -15,10 +21,10 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54474</guid>
     </item>
     <item>
-      <title>Bancassurance. Þróun samþættingar banka- og tryggingarþjónustu</title>
-      <link>https://skemman.is/handle/1946/54475</link>
-      <description>Bancassurance. Þróun samþættingar banka- og tryggingarþjónustu - Egill Fannar Andrésson 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54475</guid>
+      <title>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis</title>
+      <link>https://skemman.is/handle/1946/54477</link>
+      <description>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis - Tarika Silveira C. De Oliveira 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54477</guid>
     </item>
     <item>
       <title>A Critical Analysis of Educational Policies at the University of Iceland: Inclusion, Disability, and International Students’ Experiences</title>
@@ -27,10 +33,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54476</guid>
     </item>
     <item>
-      <title>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis</title>
-      <link>https://skemman.is/handle/1946/54477</link>
-      <description>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis - Tarika Silveira C. De Oliveira 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54477</guid>
+      <title>Bancassurance. Þróun samþættingar banka- og tryggingarþjónustu</title>
+      <link>https://skemman.is/handle/1946/54475</link>
+      <description>Bancassurance. Þróun samþættingar banka- og tryggingarþjónustu - Egill Fannar Andrésson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54475</guid>
+    </item>
+    <item>
+      <title>Leading Digital Transformation Project: A Case of NADRA</title>
+      <link>https://skemman.is/handle/1946/54479</link>
+      <description>Leading Digital Transformation Project: A Case of NADRA - Muhammad Ali 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54479</guid>
     </item>
     <item>
       <title>Q-hlutfall Tobins á íslenskum húsnæðismarkaði. Svæðisbundinn munur og samband við uppbyggingu íbúðarhúsnæðis</title>
@@ -57,16 +69,16 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54469</guid>
     </item>
     <item>
-      <title>Réttur til húsnæðis samkvæmt alþjóðlegum mannréttindasáttmálum: Efnisinntak, skyldur ríkja og íslenskar reglur um útburð í ljósi alþjóðlegra skuldbindinga</title>
-      <link>https://skemman.is/handle/1946/54471</link>
-      <description>Réttur til húsnæðis samkvæmt alþjóðlegum mannréttindasáttmálum: Efnisinntak, skyldur ríkja og íslenskar reglur um útburð í ljósi alþjóðlegra skuldbindinga - Rebekka Karlsdóttir 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54471</guid>
-    </item>
-    <item>
       <title>Aðgerðir til að draga úr markaðssetningu óhollra matvæla sem beinist að börnum og mat á árangri: Kerfisbundið yfirlit á rannsóknum útgefnum 2020-2026</title>
       <link>https://skemman.is/handle/1946/54472</link>
       <description>Aðgerðir til að draga úr markaðssetningu óhollra matvæla sem beinist að börnum og mat á árangri: Kerfisbundið yfirlit á rannsóknum útgefnum 2020-2026 - Helga Ómarsdóttir 1988-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54472</guid>
+    </item>
+    <item>
+      <title>Réttur til húsnæðis samkvæmt alþjóðlegum mannréttindasáttmálum: Efnisinntak, skyldur ríkja og íslenskar reglur um útburð í ljósi alþjóðlegra skuldbindinga</title>
+      <link>https://skemman.is/handle/1946/54471</link>
+      <description>Réttur til húsnæðis samkvæmt alþjóðlegum mannréttindasáttmálum: Efnisinntak, skyldur ríkja og íslenskar reglur um útburð í ljósi alþjóðlegra skuldbindinga - Rebekka Karlsdóttir 1997-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54471</guid>
     </item>
     <item>
       <title>Áhrifaþættir á starfshvatningu og starfsánægju sérfræðinga hjá hinu opinbera</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54458</link>
       <description>Verðmat á íslensku húsbílaleigunni Cozy Campers ehf.: Samanburður tveggja tilfella út frá núvirtu fjárstreymi - Þorsteinn Wilhelm Sigurjónsson 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54458</guid>
-    </item>
-    <item>
-      <title>Frá krísu til stefnumótunar: Þróun markaðssetningar Íslands sem áfangastaðar</title>
-      <link>https://skemman.is/handle/1946/54454</link>
-      <description>Frá krísu til stefnumótunar: Þróun markaðssetningar Íslands sem áfangastaðar - Helga Vala Helgadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54454</guid>
-    </item>
-    <item>
-      <title>Integrating direct air carbon capture and storage into carbon markets: Governance, accounting and certification under Article 6 of the Paris Agreement and the EU ETS</title>
-      <link>https://skemman.is/handle/1946/54453</link>
-      <description>Integrating direct air carbon capture and storage into carbon markets: Governance, accounting and certification under Article 6 of the Paris Agreement and the EU ETS - Hannah Siewert 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54453</guid>
     </item>
   </channel>
 </rss>
