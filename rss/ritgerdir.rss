@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:15:23 +0000</lastBuildDate>
     <item>
       <title>Perceived Financial Stress, Mental Health and Academic Outcomes among University Students in Iceland: Evidence from EUROSTUDENT 8. The Mediating Role of Mental Health</title>
       <link>https://skemman.is/handle/1946/54474</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/54476</link>
       <description>A Critical Analysis of Educational Policies at the University of Iceland: Inclusion, Disability, and International Students’ Experiences - Evans Annor 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54476</guid>
+    </item>
+    <item>
+      <title>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis</title>
+      <link>https://skemman.is/handle/1946/54477</link>
+      <description>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis - Tarika Silveira C. De Oliveira 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54477</guid>
     </item>
     <item>
       <title>Q-hlutfall Tobins á íslenskum húsnæðismarkaði. Svæðisbundinn munur og samband við uppbyggingu íbúðarhúsnæðis</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54453</link>
       <description>Integrating direct air carbon capture and storage into carbon markets: Governance, accounting and certification under Article 6 of the Paris Agreement and the EU ETS - Hannah Siewert 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54453</guid>
-    </item>
-    <item>
-      <title>Hvað er bókasafn? Tölfræðirannsókn á almenningsbókasöfnum á Íslandi 2025</title>
-      <link>https://skemman.is/handle/1946/54446</link>
-      <description>Hvað er bókasafn? Tölfræðirannsókn á almenningsbókasöfnum á Íslandi 2025 - Elísa Elíasdóttir 1971-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54446</guid>
     </item>
   </channel>
 </rss>
