@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:14:56 +0000</lastBuildDate>
     <item>
       <title>Implementation of a Continuous Auditing Dashboard as an early-warning indicator in the Internal Audit at Kaufland</title>
       <link>https://skemman.is/handle/1946/54480</link>
@@ -75,12 +75,6 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54468</guid>
     </item>
     <item>
-      <title>„Ef þú hugsar um fjárfesti  þá er það yfirleitt bankakarl í jakkafötum“ Hlutverk sjálfstrausts í fjárfestingahegðun kvenna í leiðtogastöðum á Íslandi</title>
-      <link>https://skemman.is/handle/1946/54470</link>
-      <description>„Ef þú hugsar um fjárfesti  þá er það yfirleitt bankakarl í jakkafötum“ Hlutverk sjálfstrausts í fjárfestingahegðun kvenna í leiðtogastöðum á Íslandi - Guðrún Jóna H. Hilmarsdóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54470</guid>
-    </item>
-    <item>
       <title>Gæði stærðfræðikennslu á unglingastigi með tilliti til hópavinnu og jafningjaaðstoðar</title>
       <link>https://skemman.is/handle/1946/54469</link>
       <description>Gæði stærðfræðikennslu á unglingastigi með tilliti til hópavinnu og jafningjaaðstoðar - Sylvía Ruth Jónsdóttir 2002-</description>
@@ -97,6 +91,12 @@
       <link>https://skemman.is/handle/1946/54471</link>
       <description>Réttur til húsnæðis samkvæmt alþjóðlegum mannréttindasáttmálum: Efnisinntak, skyldur ríkja og íslenskar reglur um útburð í ljósi alþjóðlegra skuldbindinga - Rebekka Karlsdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54471</guid>
+    </item>
+    <item>
+      <title>„Ef þú hugsar um fjárfesti  þá er það yfirleitt bankakarl í jakkafötum“ Hlutverk sjálfstrausts í fjárfestingahegðun kvenna í leiðtogastöðum á Íslandi</title>
+      <link>https://skemman.is/handle/1946/54470</link>
+      <description>„Ef þú hugsar um fjárfesti  þá er það yfirleitt bankakarl í jakkafötum“ Hlutverk sjálfstrausts í fjárfestingahegðun kvenna í leiðtogastöðum á Íslandi - Guðrún Jóna H. Hilmarsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54470</guid>
     </item>
     <item>
       <title>Áhrifaþættir á starfshvatningu og starfsánægju sérfræðinga hjá hinu opinbera</title>
