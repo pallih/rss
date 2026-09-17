@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:15:03 +0000</lastBuildDate>
+    <item>
+      <title>Implementation of a Continuous Auditing Dashboard as an early-warning indicator in the Internal Audit at Kaufland</title>
+      <link>https://skemman.is/handle/1946/54480</link>
+      <description>Implementation of a Continuous Auditing Dashboard as an early-warning indicator in the Internal Audit at Kaufland - Joy Kimberly Schneider 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54480</guid>
+    </item>
     <item>
       <title>Stjórnskipulag skrifstofu Alþingis: Boðleiðir og ábyrgð í opinberri skipulagsheild</title>
       <link>https://skemman.is/handle/1946/54478</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54456</link>
       <description>Gjaldmiðlavalkostir Íslands: Króna eða Evra? - Bjarki Hall 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54456</guid>
-    </item>
-    <item>
-      <title>Verðmat á íslensku húsbílaleigunni Cozy Campers ehf.: Samanburður tveggja tilfella út frá núvirtu fjárstreymi</title>
-      <link>https://skemman.is/handle/1946/54458</link>
-      <description>Verðmat á íslensku húsbílaleigunni Cozy Campers ehf.: Samanburður tveggja tilfella út frá núvirtu fjárstreymi - Þorsteinn Wilhelm Sigurjónsson 2003-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54458</guid>
     </item>
   </channel>
 </rss>
