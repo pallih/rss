@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:16:22 +0000</lastBuildDate>
     <item>
       <title>Glacier guides’ perceptions, emotions, and climate communication in Southeast Iceland: A qualitative study</title>
       <link>https://skemman.is/handle/1946/54484</link>
@@ -43,6 +43,12 @@
       <link>https://skemman.is/handle/1946/54489</link>
       <description>Breastfeeding and later ADHD medication dispensing: Icelandic Maternal and Child Health Study (ICE-MCH) - Elísa Björk Einarsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54489</guid>
+    </item>
+    <item>
+      <title>Skalanleg lausn og reikniverkferlar til uppgötvunar á efnahvötum fyrir umbreytingu koltvísýrings</title>
+      <link>https://skemman.is/handle/1946/54490</link>
+      <description>Skalanleg lausn og reikniverkferlar til uppgötvunar á efnahvötum fyrir umbreytingu koltvísýrings - Muhammad Ahmad Ul Haq 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54490</guid>
     </item>
     <item>
       <title>Sjálfsáning sitkagrenis (Picea sitchensis (Bong.) Carr.) á Suður- og Vesturlandi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54465</link>
       <description>Húmor í markaðssamskiptum: Við hvaða skilyrði hefur notkun húmors í markaðssamskiptum jákvæð eða neikvæð áhrif á viðhorf neytenda til vörumerkja? - Tómas Nielsen 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54465</guid>
-    </item>
-    <item>
-      <title>Jafnvægi í tvítyngi hjá börnum:  Stuðningur við málþroska, sjálfsmyndarmótun og menningarleg tengsl</title>
-      <link>https://skemman.is/handle/1946/54466</link>
-      <description>Jafnvægi í tvítyngi hjá börnum:  Stuðningur við málþroska, sjálfsmyndarmótun og menningarleg tengsl - Nejira Zahirovic 2002-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54466</guid>
     </item>
   </channel>
 </rss>
