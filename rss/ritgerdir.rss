@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:15:03 +0000</lastBuildDate>
     <item>
       <title>Glacier guides’ perceptions, emotions, and climate communication in Southeast Iceland: A qualitative study</title>
       <link>https://skemman.is/handle/1946/54484</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/54488</link>
       <description>Quality and Processing Potential of Blue Whiting (Micromesistius poutassou) for Human Consumption - Anas Abdullah 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54488</guid>
+    </item>
+    <item>
+      <title>Breastfeeding and later ADHD medication dispensing: Icelandic Maternal and Child Health Study (ICE-MCH)</title>
+      <link>https://skemman.is/handle/1946/54489</link>
+      <description>Breastfeeding and later ADHD medication dispensing: Icelandic Maternal and Child Health Study (ICE-MCH) - Elísa Björk Einarsdóttir 1993-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54489</guid>
     </item>
     <item>
       <title>Sjálfsáning sitkagrenis (Picea sitchensis (Bong.) Carr.) á Suður- og Vesturlandi</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54466</link>
       <description>Jafnvægi í tvítyngi hjá börnum:  Stuðningur við málþroska, sjálfsmyndarmótun og menningarleg tengsl - Nejira Zahirovic 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54466</guid>
-    </item>
-    <item>
-      <title>Endurgreiðsla virðisaukaskatts til opinberra aðila: Tilgangur og álitamál</title>
-      <link>https://skemman.is/handle/1946/54463</link>
-      <description>Endurgreiðsla virðisaukaskatts til opinberra aðila: Tilgangur og álitamál - Anna Sólveig Bjarnadóttir 1993-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54463</guid>
     </item>
   </channel>
 </rss>
