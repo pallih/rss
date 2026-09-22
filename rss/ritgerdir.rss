@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:15:15 +0000</lastBuildDate>
     <item>
       <title>Landowner Experiences of Private Marine Protected Area Establishment in Finland 2000–2025</title>
       <link>https://skemman.is/handle/1946/54493</link>
@@ -55,6 +55,12 @@
       <link>https://skemman.is/handle/1946/54498</link>
       <description>Frá stefnu til framkvæmdar: Upplifun kennara af hlutverki skólaþjónustu sveitarfélags í daglegu skólastarfi - Hildur Edda Grétarsdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54498</guid>
+    </item>
+    <item>
+      <title>Malnutrition risk among hospitalized children: Association with previous admissions, length of stay, readmission, and referral to dietitians</title>
+      <link>https://skemman.is/handle/1946/54499</link>
+      <description>Malnutrition risk among hospitalized children: Association with previous admissions, length of stay, readmission, and referral to dietitians - Anna Líney Ívarsdóttir 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54499</guid>
     </item>
     <item>
       <title>Breastfeeding and later ADHD medication dispensing: Icelandic Maternal and Child Health Study (ICE-MCH)</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54479</link>
       <description>Leading Digital Transformation Project: A Case of NADRA - Muhammad Ali 1998-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54479</guid>
-    </item>
-    <item>
-      <title>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis</title>
-      <link>https://skemman.is/handle/1946/54477</link>
-      <description>The Paradox of Resilience: When Crop Potential Does Not Become Food System Integration: An International Case-based Evidence Synthesis - Tarika Silveira Cintra de Oliveira 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54477</guid>
     </item>
   </channel>
 </rss>
