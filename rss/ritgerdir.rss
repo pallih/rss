@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:22:30 +0000</lastBuildDate>
     <item>
       <title>Magma dynamics and mantle sources of the 1975-84 Krafla Fires: Insights from high-resolution stable and radiogenic isotopes (O-Sr-Nd-Hf-Pb)</title>
       <link>https://skemman.is/handle/1946/54503</link>
@@ -25,6 +25,12 @@
       <link>https://skemman.is/handle/1946/54501</link>
       <description>The Performance of the Community-Based Ungulate Trophy Hunting Governance Systems in Gilgit-Baltistan, N-Pakistan: Opportunities and Constraints - Asif Ali 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54501</guid>
+    </item>
+    <item>
+      <title>Multilingual Practices and Immigrant Children’s Social Participation in an Icelandic Preschool</title>
+      <link>https://skemman.is/handle/1946/54504</link>
+      <description>Multilingual Practices and Immigrant Children’s Social Participation in an Icelandic Preschool - Samar Bardaei 1983-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54504</guid>
     </item>
     <item>
       <title>Landowner Experiences of Private Marine Protected Area Establishment in Finland 2000–2025</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54480</link>
       <description>Implementation of a Continuous Auditing Dashboard as an early-warning indicator in the Internal Audit at Kaufland - Joy Kimberly Schneider 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54480</guid>
-    </item>
-    <item>
-      <title>Stjórnskipulag skrifstofu Alþingis: Boðleiðir og ábyrgð í opinberri skipulagsheild</title>
-      <link>https://skemman.is/handle/1946/54478</link>
-      <description>Stjórnskipulag skrifstofu Alþingis: Boðleiðir og ábyrgð í opinberri skipulagsheild - Arna Gerður Bang 1973-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54478</guid>
     </item>
   </channel>
 </rss>
