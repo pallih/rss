@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:15:41 +0000</lastBuildDate>
     <item>
       <title>Magma dynamics and mantle sources of the 1975-84 Krafla Fires: Insights from high-resolution stable and radiogenic isotopes (O-Sr-Nd-Hf-Pb)</title>
       <link>https://skemman.is/handle/1946/54503</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/54505</link>
       <description>Hásinaslit meðal fimleikafólks á Íslandi og mögulegir áhættuþættir - Hrafnhildur Magney Gunnarsdóttir 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54505</guid>
+    </item>
+    <item>
+      <title>Þörf á uppeldisfræðslu fyrir foreldra 0–2 ára barna: Sýn hjúkrunarfræðinga í ung- og smábarnavernd</title>
+      <link>https://skemman.is/handle/1946/54506</link>
+      <description>Þörf á uppeldisfræðslu fyrir foreldra 0–2 ára barna: Sýn hjúkrunarfræðinga í ung- og smábarnavernd - Þórunn Lúðvíksdóttir 2001-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54506</guid>
+    </item>
+    <item>
+      <title>Frá stefnu til framkvæmdar:  SAMFÓ: Ég, þú og við öll sem mögulegur farvegur fyrir félags-, tilfinninga- og siðferðisnám í íslensku skólakerfi.</title>
+      <link>https://skemman.is/handle/1946/54507</link>
+      <description>Frá stefnu til framkvæmdar:  SAMFÓ: Ég, þú og við öll sem mögulegur farvegur fyrir félags-, tilfinninga- og siðferðisnám í íslensku skólakerfi. - Thelma Lind Waage 1992-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54507</guid>
     </item>
     <item>
       <title>Landowner Experiences of Private Marine Protected Area Establishment in Finland 2000–2025</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54483</link>
       <description>Sjálfsáning sitkagrenis (Picea sitchensis (Bong.) Carr.) á Suður- og Vesturlandi - Ingvar Andrésson 1996-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54483</guid>
-    </item>
-    <item>
-      <title>Governance Across National Boundaries: Formal and Informal Governance Responses to Regulatory and Cultural Differences in International Projects</title>
-      <link>https://skemman.is/handle/1946/54482</link>
-      <description>Governance Across National Boundaries: Formal and Informal Governance Responses to Regulatory and Cultural Differences in International Projects - Cindy Alejandra Idárraga Calderón 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54482</guid>
-    </item>
-    <item>
-      <title>Development and testing of a split-treadmill slip methodology for individuals with transfemoral amputation</title>
-      <link>https://skemman.is/handle/1946/54481</link>
-      <description>Development and testing of a split-treadmill slip methodology for individuals with transfemoral amputation - Ásdís Magnúsdóttir 1989-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54481</guid>
     </item>
   </channel>
 </rss>
