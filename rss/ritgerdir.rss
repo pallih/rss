@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:13:25 +0000</lastBuildDate>
     <item>
       <title>MPGV Monitor: Dynamic Visualization of Seismic Data for Iceland</title>
       <link>https://skemman.is/handle/1946/54511</link>
@@ -37,6 +37,12 @@
       <link>https://skemman.is/handle/1946/54515</link>
       <description>Joint optimization of the layout, sizing, and operation of small hydropower plants - Gunnar Jarl Ívarsson 2001-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54515</guid>
+    </item>
+    <item>
+      <title>The Role of GRAMD1B in Endothelial Lipid Response to Catecholamines:  A Lipidomics Study of EA.hy926 Cells</title>
+      <link>https://skemman.is/handle/1946/54516</link>
+      <description>The Role of GRAMD1B in Endothelial Lipid Response to Catecholamines:  A Lipidomics Study of EA.hy926 Cells - Arnar Már Halldórsson 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54516</guid>
     </item>
     <item>
       <title>Magma dynamics and mantle sources of the 1975-84 Krafla Fires: Insights from high-resolution stable and radiogenic isotopes (O-Sr-Nd-Hf-Pb)</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54492</link>
       <description>Strain-Based Dynamic Identification and Numerical Model Comparison of the Steinavötn Bridge - Jayant Paudel 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54492</guid>
-    </item>
-    <item>
-      <title>Malnutrition risk among hospitalized children: Association with previous admissions, length of stay, readmission, and referral to dietitians</title>
-      <link>https://skemman.is/handle/1946/54499</link>
-      <description>Malnutrition risk among hospitalized children: Association with previous admissions, length of stay, readmission, and referral to dietitians - Anna Líney Ívarsdóttir 1992-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54499</guid>
     </item>
   </channel>
 </rss>
