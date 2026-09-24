@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:14:09 +0000</lastBuildDate>
     <item>
       <title>Lærdómssamfélag í leikskólum og lýðræðisleg þátttaka starfsfólks: Sjónarhorn leikskólastjóra á áhrif almennrar þátttöku leikskólastarfsfólks í ígrundun og endurmati á faglegan áhuga þeirra og þróun í starfi.</title>
       <link>https://skemman.is/handle/1946/54512</link>
@@ -61,6 +61,12 @@
       <link>https://skemman.is/handle/1946/54511</link>
       <description>MPGV Monitor: Dynamic Visualization of Seismic Data for Iceland - Muhammad Faheem Sajjad 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54511</guid>
+    </item>
+    <item>
+      <title>Modeling BMI-SDS Trajectories with Mixed-Effects Models in Childhood Obesity Treatment: Investigating Sociodemographic and Psychiatric Predictors</title>
+      <link>https://skemman.is/handle/1946/54520</link>
+      <description>Modeling BMI-SDS Trajectories with Mixed-Effects Models in Childhood Obesity Treatment: Investigating Sociodemographic and Psychiatric Predictors - Ingibjörg Patricia Magnúsdóttir 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54520</guid>
     </item>
     <item>
       <title>Magma dynamics and mantle sources of the 1975-84 Krafla Fires: Insights from high-resolution stable and radiogenic isotopes (O-Sr-Nd-Hf-Pb)</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54500</link>
       <description>Wind, Temperature, and Rural Injury Accidents in Iceland - Ásgeir Snær Magnússon 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54500</guid>
-    </item>
-    <item>
-      <title>Frá stefnu til framkvæmdar: Upplifun kennara af hlutverki skólaþjónustu sveitarfélags í daglegu skólastarfi</title>
-      <link>https://skemman.is/handle/1946/54498</link>
-      <description>Frá stefnu til framkvæmdar: Upplifun kennara af hlutverki skólaþjónustu sveitarfélags í daglegu skólastarfi - Hildur Edda Grétarsdóttir 1985-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54498</guid>
     </item>
   </channel>
 </rss>
