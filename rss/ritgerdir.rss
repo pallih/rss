@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:14:29 +0000</lastBuildDate>
     <item>
       <title>Jökulframrásir í Leirársveit á síðjökultíma</title>
       <link>https://skemman.is/handle/1946/54521</link>
@@ -19,6 +19,12 @@
       <link>https://skemman.is/handle/1946/54522</link>
       <description>Measuring Riser Rotation and Arrow Speed of a Recurve bow - Guðbjörg Reynisdóttir 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54522</guid>
+    </item>
+    <item>
+      <title>Með hug og hjarta í forystu: tilfinningagreind og leiðtogafærni innan menntastofnana</title>
+      <link>https://skemman.is/handle/1946/54523</link>
+      <description>Með hug og hjarta í forystu: tilfinningagreind og leiðtogafærni innan menntastofnana - Oddný Helga Sigurðardóttir 1974-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54523</guid>
     </item>
     <item>
       <title>Lærdómssamfélag í leikskólum og lýðræðisleg þátttaka starfsfólks: Sjónarhorn leikskólastjóra á áhrif almennrar þátttöku leikskólastarfsfólks í ígrundun og endurmati á faglegan áhuga þeirra og þróun í starfi.</title>
@@ -43,12 +49,6 @@
       <link>https://skemman.is/handle/1946/54514</link>
       <description>"Við erum meiri foreldrar en makar": Reynsla foreldra af áhrifum foreldrahlutverksins á parsambandið - Kolbrún Helga Gustavsdóttir 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54514</guid>
-    </item>
-    <item>
-      <title>Mentoring Relationships and Female Leadership Identity Among Preschool Principals in Reykjavík, Iceland</title>
-      <link>https://skemman.is/handle/1946/54519</link>
-      <description>Mentoring Relationships and Female Leadership Identity Among Preschool Principals in Reykjavík, Iceland - Zehra Gamli 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54519</guid>
     </item>
     <item>
       <title>Áhrif stuðningsáætlunar með hvatningarkerfi í Beanfee á skólasókn og líðan nemenda í 6. og 7.bekk með skólaforðun</title>
@@ -79,6 +79,12 @@
       <link>https://skemman.is/handle/1946/54520</link>
       <description>Modeling BMI-SDS Trajectories with Mixed-Effects Models in Childhood Obesity Treatment: Investigating Sociodemographic and Psychiatric Predictors - Ingibjörg Patricia Magnúsdóttir 1999-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54520</guid>
+    </item>
+    <item>
+      <title>Mentoring Relationships and Female Leadership Identity Among Preschool Principals in Reykjavík, Iceland</title>
+      <link>https://skemman.is/handle/1946/54519</link>
+      <description>Mentoring Relationships and Female Leadership Identity Among Preschool Principals in Reykjavík, Iceland - Zehra Gamli 1999-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54519</guid>
     </item>
     <item>
       <title>Magma dynamics and mantle sources of the 1975-84 Krafla Fires: Insights from high-resolution stable and radiogenic isotopes (O-Sr-Nd-Hf-Pb)</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54494</link>
       <description>Paleothermometry and field characterization as methods to derive the paleoenvironment from a volcaniclastic deposit in Þórsmörk, Iceland - Anastacia Katherine Eggleston 2003-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54494</guid>
-    </item>
-    <item>
-      <title>Play-based pedagogy and language development in Icelandic Preschool: An ethnographic Study</title>
-      <link>https://skemman.is/handle/1946/54495</link>
-      <description>Play-based pedagogy and language development in Icelandic Preschool: An ethnographic Study - Emmanuel Akpen Ayuboya 1988-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54495</guid>
     </item>
   </channel>
 </rss>
