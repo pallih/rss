@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:18:03 +0000</lastBuildDate>
     <item>
       <title>Áhrif azithromycin og barríólíða á húðfrumur í rækt</title>
       <link>https://skemman.is/handle/1946/54525</link>
       <description>Áhrif azithromycin og barríólíða á húðfrumur í rækt - Þórhildur Alda Reynisdóttir 1997-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54525</guid>
+    </item>
+    <item>
+      <title>Virknigreining á slitgigtartengda afbrigðinu SMO R173C í sebrafiskum</title>
+      <link>https://skemman.is/handle/1946/54526</link>
+      <description>Virknigreining á slitgigtartengda afbrigðinu SMO R173C í sebrafiskum - Sara Rut Huldudóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54526</guid>
     </item>
     <item>
       <title>Með hug og hjarta í forystu: tilfinningagreind og leiðtogafærni innan menntastofnana</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54509</link>
       <description>AI-Assisted Usability Feedback Analysis. A Case Study on Semantic Grouping and Expert Workflow - Anuj Shrestha 1992-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54509</guid>
-    </item>
-    <item>
-      <title>Development of dry powdered cod liver oil</title>
-      <link>https://skemman.is/handle/1946/54510</link>
-      <description>Development of dry powdered cod liver oil - Zarqa Chaudhary 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54510</guid>
     </item>
   </channel>
 </rss>
