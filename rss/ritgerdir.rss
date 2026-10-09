@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:17:02 +0000</lastBuildDate>
+    <item>
+      <title>Flókin samskipti í heimaþjónustu: Frá sjónarhóli notenda, aðstandenda og starfsfólks.</title>
+      <link>https://skemman.is/handle/1946/54537</link>
+      <description>Flókin samskipti í heimaþjónustu: Frá sjónarhóli notenda, aðstandenda og starfsfólks. - Vilhelmína Þ. Einarsdóttir 1960-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54537</guid>
+    </item>
     <item>
       <title>Gatna- og veituhönnun í Hjallahrauni, Hafnarfirði</title>
       <link>https://skemman.is/handle/1946/54536</link>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54512</link>
       <description>Lærdómssamfélag í leikskólum og lýðræðisleg þátttaka starfsfólks: Sjónarhorn leikskólastjóra á áhrif almennrar þátttöku leikskólastarfsfólks í ígrundun og endurmati á faglegan áhuga þeirra og þróun í starfi. - Sólrún Bragadóttir 1984-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54512</guid>
-    </item>
-    <item>
-      <title>Modeling BMI-SDS Trajectories with Mixed-Effects Models in Childhood Obesity Treatment: Investigating Sociodemographic and Psychiatric Predictors</title>
-      <link>https://skemman.is/handle/1946/54520</link>
-      <description>Modeling BMI-SDS Trajectories with Mixed-Effects Models in Childhood Obesity Treatment: Investigating Sociodemographic and Psychiatric Predictors - Ingibjörg Patricia Magnúsdóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54520</guid>
     </item>
   </channel>
 </rss>
