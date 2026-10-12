@@ -7,7 +7,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:36:27 +0000</lastBuildDate>
+    <item>
+      <title>Sannleikur eða glans</title>
+      <link>https://skemman.is/handle/1946/54538</link>
+      <description>Sannleikur eða glans - Petra Reykjalín Helgadóttir 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54538</guid>
+    </item>
+    <item>
+      <title>Kerfi á krossgötum</title>
+      <link>https://skemman.is/handle/1946/54539</link>
+      <description>Kerfi á krossgötum - Guðrún Vala Bílddal Jónsdóttir 1980-; Guðrún Björk Freysteinsdóttir 1980-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54539</guid>
+    </item>
+    <item>
+      <title>Frá sumarstarfi til starfsframa: Áhrif þátttöku í skapandi sumarstörfum á andlega líðan, sjálfsálit  og framtíðarsýn ungs skapandi fólks á Íslandi</title>
+      <link>https://skemman.is/handle/1946/54540</link>
+      <description>Frá sumarstarfi til starfsframa: Áhrif þátttöku í skapandi sumarstörfum á andlega líðan, sjálfsálit  og framtíðarsýn ungs skapandi fólks á Íslandi - Klara Ósk Elíasdóttir 1985-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54540</guid>
+    </item>
     <item>
       <title>Flókin samskipti í heimaþjónustu: Frá sjónarhóli notenda, aðstandenda og starfsfólks.</title>
       <link>https://skemman.is/handle/1946/54537</link>
@@ -139,24 +157,6 @@
       <link>https://skemman.is/handle/1946/54517</link>
       <description>Starfslok sérfræði- og skrifstofufólks hjá Reykjavíkurborg - Gréta Mar Jósepsdóttir 1985-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54517</guid>
-    </item>
-    <item>
-      <title>Joint optimization of the layout, sizing, and operation of small hydropower plants</title>
-      <link>https://skemman.is/handle/1946/54515</link>
-      <description>Joint optimization of the layout, sizing, and operation of small hydropower plants - Gunnar Jarl Ívarsson 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54515</guid>
-    </item>
-    <item>
-      <title>MPGV Monitor: Dynamic Visualization of Seismic Data for Iceland</title>
-      <link>https://skemman.is/handle/1946/54511</link>
-      <description>MPGV Monitor: Dynamic Visualization of Seismic Data for Iceland - Muhammad Faheem Sajjad 1997-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54511</guid>
-    </item>
-    <item>
-      <title>Lærdómssamfélag í leikskólum og lýðræðisleg þátttaka starfsfólks: Sjónarhorn leikskólastjóra á áhrif almennrar þátttöku leikskólastarfsfólks í ígrundun og endurmati á faglegan áhuga þeirra og þróun í starfi.</title>
-      <link>https://skemman.is/handle/1946/54512</link>
-      <description>Lærdómssamfélag í leikskólum og lýðræðisleg þátttaka starfsfólks: Sjónarhorn leikskólastjóra á áhrif almennrar þátttöku leikskólastarfsfólks í ígrundun og endurmati á faglegan áhuga þeirra og þróun í starfi. - Sólrún Bragadóttir 1984-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54512</guid>
     </item>
   </channel>
 </rss>
