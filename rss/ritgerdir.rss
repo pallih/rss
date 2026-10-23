@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:13:50 +0000</lastBuildDate>
     <item>
       <title>Can climate change the menu? : space-for-time comparison of prey availability and dietary composition of an estuarine fish along a rainfall gradient</title>
       <link>https://skemman.is/handle/1946/54589</link>
@@ -37,6 +37,18 @@
       <link>https://skemman.is/handle/1946/54590</link>
       <description>Understanding how restoration design steers long-term eco-geomorphic evolution of salt marshes : a numerical modelling case study in the St-Lawrence Estuary, Quebec, Canada - Lafond, Emily Hannah, 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54590</guid>
+    </item>
+    <item>
+      <title>How Arctic marine protected areas reflect the doughnut economy framework : dos and doughnuts in the Arctic</title>
+      <link>https://skemman.is/handle/1946/54591</link>
+      <description>How Arctic marine protected areas reflect the doughnut economy framework : dos and doughnuts in the Arctic - Antonisse, Jessica, 1995-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54591</guid>
+    </item>
+    <item>
+      <title>Eutrophication in Southeast Ireland : an assessment of water quality in the Waterford Estuary</title>
+      <link>https://skemman.is/handle/1946/54592</link>
+      <description>Eutrophication in Southeast Ireland : an assessment of water quality in the Waterford Estuary - Gruca, Jonathan Alexander, 1994-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54592</guid>
     </item>
     <item>
       <title>Rural change and post-capitalist possibilities : a case study of St Mabyn, Cornwall</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54558</link>
       <description>Digital Health in Practice : Design and Implementation of a Digital Health Platform for Diabetes Care - María Bragadóttir 1974-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54558</guid>
-    </item>
-    <item>
-      <title>Psychological Safety, Employee Engagement, and Employee Outcomes : A Longitudinal Study in a Knowledge-Intensive Icelandic Organization</title>
-      <link>https://skemman.is/handle/1946/54562</link>
-      <description>Psychological Safety, Employee Engagement, and Employee Outcomes : A Longitudinal Study in a Knowledge-Intensive Icelandic Organization - Karítas Rún Grétudóttir 1999-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54562</guid>
-    </item>
-    <item>
-      <title>The Personal Fit of Remote Work : The Moderating Role of Personality in the Relationship Between Remote Work and Burnout</title>
-      <link>https://skemman.is/handle/1946/54561</link>
-      <description>The Personal Fit of Remote Work : The Moderating Role of Personality in the Relationship Between Remote Work and Burnout - María Björg Fjölnisdóttir 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54561</guid>
     </item>
   </channel>
 </rss>
