@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:02:30 +0000</lastBuildDate>
     <item>
       <title>Integrating Coastal Climate Risk Assessments into Digital Twin Frameworks: A Case Study of the Cabrera Marine Protected Area</title>
       <link>https://skemman.is/handle/1946/54596</link>
@@ -49,6 +49,18 @@
       <link>https://skemman.is/handle/1946/54601</link>
       <description>Thatched With Sheer Silver : Digital Dust and the Ghost of the Author - Þórður Ingi Jónsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54601</guid>
+    </item>
+    <item>
+      <title>Gefandi og lærdómsríkt starf en jafnframt krefjandi : reynsla ófaglærðs starfsfólks af umönnun aldraðra á hjúkrunarheimilum og áhrif starfsins á sálfélagslega og líkamlega líðan</title>
+      <link>https://skemman.is/handle/1946/54602</link>
+      <description>Gefandi og lærdómsríkt starf en jafnframt krefjandi : reynsla ófaglærðs starfsfólks af umönnun aldraðra á hjúkrunarheimilum og áhrif starfsins á sálfélagslega og líkamlega líðan - Sigríður Barbara Garðarsdóttir 1969-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54602</guid>
+    </item>
+    <item>
+      <title>Harbour ecology and bioindicator potential of the Atlantic rock crab (Cancer irroratus) in the Westfjords, Iceland : distribution, shell disease, and contamination</title>
+      <link>https://skemman.is/handle/1946/54603</link>
+      <description>Harbour ecology and bioindicator potential of the Atlantic rock crab (Cancer irroratus) in the Westfjords, Iceland : distribution, shell disease, and contamination - Bateman, Sydney, 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54603</guid>
     </item>
     <item>
       <title>Can climate change the menu? : space-for-time comparison of prey availability and dietary composition of an estuarine fish along a rainfall gradient</title>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54582</link>
       <description>Árangur lyfjalausra meðferða við svefnleysi hjá fullorðnum samanborið við lyfjameðferð : yfirlitssamantekt - Karen Eva Sigurðardóttir 1995-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54582</guid>
-    </item>
-    <item>
-      <title>Frontline Employee Experiences of Meaningful Work and  Emotional Strain in After-School Services For Children with  Disabilities in Iceland</title>
-      <link>https://skemman.is/handle/1946/54580</link>
-      <description>Frontline Employee Experiences of Meaningful Work and  Emotional Strain in After-School Services For Children with  Disabilities in Iceland - Snorri Steinn Gíslason 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54580</guid>
-    </item>
-    <item>
-      <title>Frá þjóðsögu til barnabókar : endursköpun íslenskra þjóðsagna í þremur barnabókum</title>
-      <link>https://skemman.is/handle/1946/54581</link>
-      <description>Frá þjóðsögu til barnabókar : endursköpun íslenskra þjóðsagna í þremur barnabókum - María Rún Árnadóttir 1996-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54581</guid>
     </item>
   </channel>
 </rss>
