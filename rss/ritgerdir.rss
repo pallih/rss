@@ -7,12 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:14:19 +0000</lastBuildDate>
     <item>
       <title>Is climate change in the Nordics shifting cloudberry’s preferred habitat distribution? : a transmedia guide to species distribution modelling with MaxEnt</title>
       <link>https://skemman.is/handle/1946/54595</link>
       <description>Is climate change in the Nordics shifting cloudberry’s preferred habitat distribution? : a transmedia guide to species distribution modelling with MaxEnt - Drewitz, Nicole K. J., 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54595</guid>
+    </item>
+    <item>
+      <title>Integrating Coastal Climate Risk Assessments into Digital Twin Frameworks: A Case Study of the Cabrera Marine Protected Area</title>
+      <link>https://skemman.is/handle/1946/54596</link>
+      <description>Integrating Coastal Climate Risk Assessments into Digital Twin Frameworks: A Case Study of the Cabrera Marine Protected Area - Paula Cano Marí 1998-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54596</guid>
     </item>
     <item>
       <title>Can climate change the menu? : space-for-time comparison of prey availability and dietary composition of an estuarine fish along a rainfall gradient</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54570</link>
       <description>Household Mortgage Choice in Iceland : Evidence from an Economy with Indexed and Non-Indexed Mortgages. - Alexander Leon Kristjánsson 2002-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54570</guid>
-    </item>
-    <item>
-      <title>Too Big to Fail Quietly : Crisis Communication and Reliability Maturity in Hyperscale Cloud Outages</title>
-      <link>https://skemman.is/handle/1946/54565</link>
-      <description>Too Big to Fail Quietly : Crisis Communication and Reliability Maturity in Hyperscale Cloud Outages - Sandra Rós Davíðsdóttir 2001-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54565</guid>
     </item>
   </channel>
 </rss>
