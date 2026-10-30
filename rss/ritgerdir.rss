@@ -7,7 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:11:16 +0000</lastBuildDate>
+    <item>
+      <title>The Role of Organizational Values in Shaping Employee Motivation : A Case Study of Blue Lagoon Iceland</title>
+      <link>https://skemman.is/handle/1946/54608</link>
+      <description>The Role of Organizational Values in Shaping Employee Motivation : A Case Study of Blue Lagoon Iceland - Fjóla Lea Eiríksdóttir 2003-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54608</guid>
+    </item>
     <item>
       <title>Samveran og vellíðan maka verður miðpunktur tilverunnar : fyrirbærafræðileg rannsókn á reynslu aldraðra sem eiga maka með heilabilun á hjúkrunarheimili</title>
       <link>https://skemman.is/handle/1946/54605</link>
@@ -57,6 +63,18 @@
       <guid isPermaLink="false">https://skemman.is/handle/1946/54598</guid>
     </item>
     <item>
+      <title>Harbour ecology and bioindicator potential of the Atlantic rock crab (Cancer irroratus) in the Westfjords, Iceland : distribution, shell disease, and contamination</title>
+      <link>https://skemman.is/handle/1946/54603</link>
+      <description>Harbour ecology and bioindicator potential of the Atlantic rock crab (Cancer irroratus) in the Westfjords, Iceland : distribution, shell disease, and contamination - Bateman, Sydney, 2000-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54603</guid>
+    </item>
+    <item>
+      <title>Gefandi og lærdómsríkt starf en jafnframt krefjandi : reynsla ófaglærðs starfsfólks af umönnun aldraðra á hjúkrunarheimilum og áhrif starfsins á sálfélagslega og líkamlega líðan</title>
+      <link>https://skemman.is/handle/1946/54602</link>
+      <description>Gefandi og lærdómsríkt starf en jafnframt krefjandi : reynsla ófaglærðs starfsfólks af umönnun aldraðra á hjúkrunarheimilum og áhrif starfsins á sálfélagslega og líkamlega líðan - Sigríður Barbara Garðarsdóttir 1969-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54602</guid>
+    </item>
+    <item>
       <title>Skapandi heilsa : listaseðlar sem leið til heilsueflingar á Íslandi</title>
       <link>https://skemman.is/handle/1946/54599</link>
       <description>Skapandi heilsa : listaseðlar sem leið til heilsueflingar á Íslandi - Silja Þórðardóttir 1982-</description>
@@ -73,18 +91,6 @@
       <link>https://skemman.is/handle/1946/54601</link>
       <description>Thatched With Sheer Silver : Digital Dust and the Ghost of the Author - Þórður Ingi Jónsson 1993-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54601</guid>
-    </item>
-    <item>
-      <title>Gefandi og lærdómsríkt starf en jafnframt krefjandi : reynsla ófaglærðs starfsfólks af umönnun aldraðra á hjúkrunarheimilum og áhrif starfsins á sálfélagslega og líkamlega líðan</title>
-      <link>https://skemman.is/handle/1946/54602</link>
-      <description>Gefandi og lærdómsríkt starf en jafnframt krefjandi : reynsla ófaglærðs starfsfólks af umönnun aldraðra á hjúkrunarheimilum og áhrif starfsins á sálfélagslega og líkamlega líðan - Sigríður Barbara Garðarsdóttir 1969-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54602</guid>
-    </item>
-    <item>
-      <title>Harbour ecology and bioindicator potential of the Atlantic rock crab (Cancer irroratus) in the Westfjords, Iceland : distribution, shell disease, and contamination</title>
-      <link>https://skemman.is/handle/1946/54603</link>
-      <description>Harbour ecology and bioindicator potential of the Atlantic rock crab (Cancer irroratus) in the Westfjords, Iceland : distribution, shell disease, and contamination - Bateman, Sydney, 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54603</guid>
     </item>
     <item>
       <title>Can climate change the menu? : space-for-time comparison of prey availability and dietary composition of an estuarine fish along a rainfall gradient</title>
@@ -151,12 +157,6 @@
       <link>https://skemman.is/handle/1946/54585</link>
       <description>Community eyes in the sky : drone monitoring of estuary crabs - Ayers, Aija Mari, 1994-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54585</guid>
-    </item>
-    <item>
-      <title>„...það er ekki bara kulnun af vinnu heldur kulnun af lífinu“ : upplifun stjórnenda á heilsugæslu af kulnun starfsfólks og viðbrögðum við henni</title>
-      <link>https://skemman.is/handle/1946/54583</link>
-      <description>„...það er ekki bara kulnun af vinnu heldur kulnun af lífinu“ : upplifun stjórnenda á heilsugæslu af kulnun starfsfólks og viðbrögðum við henni - Sigríður Líf Einarsdóttir 1977-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54583</guid>
     </item>
   </channel>
 </rss>
