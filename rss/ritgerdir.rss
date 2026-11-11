@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:56:26 +0000</lastBuildDate>
+    <item>
+      <title>Reynsla aðstandenda af geðþjónustu Landspítala: Upplifun af stuðningi, samskiptum og aðgengi að þjónustu</title>
+      <link>https://skemman.is/handle/1946/54610</link>
+      <description>Reynsla aðstandenda af geðþjónustu Landspítala: Upplifun af stuðningi, samskiptum og aðgengi að þjónustu - Arna Ösp Elfu Ómarsdóttir 2002-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54610</guid>
+    </item>
+    <item>
+      <title>„Að ég sé hluti af hópnum“: Reynsla starfsfólks af jafnrétti, fjölbreytileika og inngildingu í verkefnateymum</title>
+      <link>https://skemman.is/handle/1946/54611</link>
+      <description>„Að ég sé hluti af hópnum“: Reynsla starfsfólks af jafnrétti, fjölbreytileika og inngildingu í verkefnateymum - Margrjet Davíðsdóttir 1996-</description>
+      <guid isPermaLink="false">https://skemman.is/handle/1946/54611</guid>
+    </item>
     <item>
       <title>External forcings upon lithalsa mires in the Icelandic highlands: a long-term perspective</title>
       <link>https://skemman.is/handle/1946/54609</link>
@@ -145,18 +157,6 @@
       <link>https://skemman.is/handle/1946/54593</link>
       <description>Genetic structure of the seabird tick Ixodes uriae in Atlantic puffin colonies around Iceland - Parisse, Nathan Thomas, 2000-</description>
       <guid isPermaLink="false">https://skemman.is/handle/1946/54593</guid>
-    </item>
-    <item>
-      <title>Understanding how restoration design steers long-term eco-geomorphic evolution of salt marshes : a numerical modelling case study in the St-Lawrence Estuary, Quebec, Canada</title>
-      <link>https://skemman.is/handle/1946/54590</link>
-      <description>Understanding how restoration design steers long-term eco-geomorphic evolution of salt marshes : a numerical modelling case study in the St-Lawrence Estuary, Quebec, Canada - Lafond, Emily Hannah, 2000-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54590</guid>
-    </item>
-    <item>
-      <title>Rural change and post-capitalist possibilities : a case study of St Mabyn, Cornwall</title>
-      <link>https://skemman.is/handle/1946/54584</link>
-      <description>Rural change and post-capitalist possibilities : a case study of St Mabyn, Cornwall - Jones, Alexander 1994-</description>
-      <guid isPermaLink="false">https://skemman.is/handle/1946/54584</guid>
     </item>
   </channel>
 </rss>
