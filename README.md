@@ -45,6 +45,7 @@ Hægri smelltu á tengilinn á .rss skrána, afritaðu tengilinn og notaðu í �
 - [nti](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/nti.rss)
 - [palmemordsarkivet](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/palmemordsarkivet.rss)
 - [personuvernd](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/personuvernd.rss)
+- [radgjafar-og-greiningarstod](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/radgjafar-og-greiningarstod.rss)
 - [rannis](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/rannis.rss)
 - [rettindagaesla-fatlads-folks](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/rettindagaesla-fatlads-folks.rss)
 - [rikiskaup](https://raw.githubusercontent.com/pallih/rss/refs/heads/main/rss/island_is/rikiskaup.rss)
